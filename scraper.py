@@ -38,9 +38,9 @@ def clear_jsons() -> None:
     with Path("builds.json").open("w") as f:
         json.dump([], f)
 
-    # delete the contents of the stat_priorities.json file
-    with Path("stat_priorities.json").open("w") as f:
-        json.dump([], f)
+    # Delete all files in the builds directory
+    for file in Path("builds").glob("*"):
+        file.unlink()
 
 
 def get_build_paths(path: str) -> list[str]:
@@ -118,14 +118,12 @@ def get_stat_priorities(path: str) -> list[list[str]]:
         )
         # get the rows
         rows = table.find_elements(By.TAG_NAME, "tr")
-        stat_priorities = [
-            [
-                # get the text from each row
-                item.text
-                for item in row.find_elements(By.TAG_NAME, "td")
-            ]
-            for row in rows
-        ]
+        for row in rows:
+            # get the text from the entire row
+            row_text = row.text
+            # split the row text into cells
+            cells = row_text.split("\n")
+            stat_priorities.append(cells)
         driver.quit()
         logging.info("Retrieved stat priorities from %s", path)
     except Exception:
@@ -135,11 +133,15 @@ def get_stat_priorities(path: str) -> list[list[str]]:
         return stat_priorities
 
 
-def clean_stat_priorities(stat_priorities: list[list[str]]) -> list[list[str]]:
+
+def clean_stat_priorities(
+    stat_priorities: list[list[str]],
+    build_path: str,
+) -> list[list[str]]:
     cleaned_stat_priorities = [
         [
-            # remove the unicode characters and new lines
-            re.sub("\u200d", " ", re.sub("\n", " ", item)).strip()
+            # remove the unicode characters
+            re.sub("\u200d", " ", item).strip()
             for item in sublist
             if item.strip()
         ]
@@ -149,13 +151,19 @@ def clean_stat_priorities(stat_priorities: list[list[str]]) -> list[list[str]]:
     ]
 
     # write the cleaned stat priorities
-    try:
-        with Path("stat_priorities.json").open("r") as f:
+    if not Path("builds").exists():
+        Path("builds").mkdir(parents=True)
+    build_name = build_path.split("/")[-1].split("-guide")[0]
+    file_path = Path("builds") / f"{build_name}.json"
+
+    if file_path.exists():
+        with file_path.open("r") as f:
             existing_data = json.load(f)
-    except json.decoder.JSONDecodeError:
+    else:
         existing_data = []
+
     existing_data += cleaned_stat_priorities
-    with Path("stat_priorities.json").open("w") as f:
+    with Path(file_path).open("w") as f:
         json.dump(existing_data, f)
 
     return cleaned_stat_priorities
@@ -178,5 +186,10 @@ if __name__ == "__main__":
         ]
 
     logging.info("Cleaning stat priorities...")
-    cleaned_stat_priorities = clean_stat_priorities(stat_priorities)
+    with ThreadPoolExecutor() as executor:
+        cleaned_stat_priorities = executor.map(
+            clean_stat_priorities,
+            stat_priorities,
+            build_paths,
+        )
     logging.info("Done!")
