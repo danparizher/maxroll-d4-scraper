@@ -129,13 +129,13 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
 
 def build_jsons() -> None:
     # Delete all files in the builds directory
-    for file in Path("builds").glob("*"):
+    for file in Path("data\\builds").glob("*"):
         file.unlink()
 
     build_paths = get_all_build_paths()
     build_json = []
 
-    Path("builds").mkdir(exist_ok=True)
+    Path("data\\builds").mkdir(exist_ok=True)
 
     with ThreadPoolExecutor() as executor:
         future_to_path = {
