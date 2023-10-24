@@ -48,6 +48,7 @@ def init_driver() -> webdriver.Chrome:
     return webdriver.Chrome(options=options)
 
 
+# This function has to use Selenium because BS4 cannot find the build paths in the HTML
 def get_build_paths_for_class(path: str) -> list[str]:
     build_paths = []
     logging.info("Retrieving build paths from %s", path)
