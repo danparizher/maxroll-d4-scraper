@@ -1,3 +1,11 @@
+"""
+The process of retrieving the stat priorities from the website is as follows:
+1. Generate a list of class paths (barbarian, druid, necromancer, rogue, sorcerer)
+2. For each class path, retrieve the build paths for that class
+3. For each build path, retrieve the stat priorities
+4. Write the stat priorities to a JSON file in the builds directory
+"""
+
 from __future__ import annotations
 
 import concurrent.futures
@@ -25,7 +33,7 @@ def get_soup(url: str) -> BeautifulSoup:
     return BeautifulSoup(r.text, "html.parser")
 
 
-def get_class_paths() -> list[str]:
+def generate_class_paths() -> list[str]:
     root = "https://maxroll.gg/d4/build-guides?filter[metas][taxonomy]=taxonomies.metas&filter[metas][value]=d4-endgame&filter[classes][taxonomy]=taxonomies.classes&filter[classes][value]=d4-"
     classes = ["barbarian", "druid", "necromancer", "rogue", "sorcerer"]
     return [root + c for c in classes]
@@ -64,9 +72,9 @@ def get_build_paths_for_class(path: str) -> list[str]:
     return build_paths
 
 
-def get_build_paths() -> list[str]:
+def get_all_build_paths() -> list[str]:
     all_build_paths = []
-    class_paths = get_class_paths()
+    class_paths = generate_class_paths()
     with ThreadPoolExecutor() as executor:
         future_to_path = {
             executor.submit(get_build_paths_for_class, path): path
@@ -102,7 +110,7 @@ def build_jsons() -> None:
     for file in Path("builds").glob("*"):
         file.unlink()
 
-    build_paths = get_build_paths()
+    build_paths = get_all_build_paths()
     build_json = []
 
     Path("builds").mkdir(exist_ok=True)
