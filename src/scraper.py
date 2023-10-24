@@ -12,6 +12,7 @@ import concurrent.futures
 import json
 import logging
 from concurrent.futures import ThreadPoolExecutor
+from itertools import chain
 from pathlib import Path
 
 import requests
@@ -124,7 +125,7 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
                         for stat_priority in tbody.find_all("tr")
                     ],
                 )
-    return [item for sublist in build_jsons for item in sublist]
+    return list(chain.from_iterable(build_jsons))
 
 
 def build_jsons() -> None:
@@ -161,3 +162,7 @@ def build_jsons() -> None:
 
 def run() -> None:
     build_jsons()
+
+
+if __name__ == "__main__":
+    run()
