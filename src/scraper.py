@@ -111,7 +111,7 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
             "is-style-stripes",
             "aligncenter",
         ]
-        # Find the table that contains the most matching class names
+        # Find the table that contains the most matching class names. We do this because there may multiple tables on the page.
         table = max(
             soup.find_all("table"),
             key=lambda tag: sum(
