@@ -2,6 +2,7 @@
 
 import json
 import logging
+import re
 from pathlib import Path
 
 logging.basicConfig(
@@ -23,8 +24,7 @@ def remove_constant_items() -> None:
                 for row in data
                 if (
                     "unique" not in row[0].lower()
-                    and "best in slot" not in row[0].lower()
-                    and "best-in-slot" not in row[0].lower()
+                    and not re.search(r"best[-\s]in[-\s]slot", row[0].lower())
                 )
             ]
             with file.open("w") as f:
