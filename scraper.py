@@ -83,13 +83,18 @@ def get_build_paths() -> list[str]:
     return all_build_paths
 
 
-def get_stat_priorities(path: str) -> list[list[str]]:
-    soup = get_soup(path)
-    logging.info("Retrieving stat priorities from %s", path)
-    return [
-        [stat.text for stat in stat_priority.find_all("td") if stat.text]
-        for stat_priority in soup.find_all("tbody")[0].find_all("tr")
-    ]
+def get_stat_priorities(paths: list[str]) -> list[list[str]]:
+    build_jsons = []
+    for path in paths:
+        soup = get_soup(path)
+        logging.info("Retrieving stat priorities from %s", path)
+        build_jsons.append(
+            [
+                [stat.text for stat in stat_priority.find_all("td") if stat.text]
+                for stat_priority in soup.find_all("tbody")[0].find_all("tr")
+            ]
+        )
+    return build_jsons
 
 
 def build_jsons() -> None:
@@ -102,13 +107,22 @@ def build_jsons() -> None:
 
     Path("builds").mkdir(exist_ok=True)
 
-    for path in build_paths:
-        title = path.split("/")[-1].split("-guide")[0]
-        build_json.append({title: path})
-
-        priorities = get_stat_priorities(path)
-        with (Path("builds") / f"{title}.json").open("w") as f:
-            json.dump(priorities, f, indent=2)
+    with ThreadPoolExecutor() as executor:
+        future_to_path = {
+            executor.submit(get_stat_priorities, [path]): path for path in build_paths
+        }
+        for future in concurrent.futures.as_completed(future_to_path):
+            path = future_to_path[future]
+            try:
+                data = future.result()
+            except Exception:
+                logging.exception("%s generated an exception", path)
+            else:
+                priorities = data[0]  # Assuming there's only one path in the list
+                title = path.split("/")[-1].split("-guide")[0]
+                build_json.append({title: path})
+                with (Path("builds") / f"{title}.json").open("w") as f:
+                    json.dump(priorities, f, indent=2)
 
     with Path("builds.json").open("w") as f:
         json.dump(build_json, f, indent=2, sort_keys=True)
