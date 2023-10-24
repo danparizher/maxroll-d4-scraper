@@ -1,9 +1,9 @@
-"""
-The process of retrieving the stat priorities from the website is as follows:
-1. Generate a list of class paths (barbarian, druid, necromancer, rogue, sorcerer)
-2. For each class path, retrieve the build paths for that class
-3. For each build path, retrieve the stat priorities
-4. Write the stat priorities to a JSON file in the builds directory
+"""Retrieves the stat priorities from the website using the following process.
+
+1. Generate a list of class paths (barbarian, druid, necromancer, rogue, sorcerer).
+2. For each class path, retrieve the build paths for that class.
+3. For each build path, retrieve the stat priorities.
+4. Write the stat priorities to a JSON file in the builds directory.
 """
 
 from __future__ import annotations
@@ -30,17 +30,20 @@ logging.basicConfig(
 
 
 def get_soup(url: str) -> BeautifulSoup:
+    """Return a BeautifulSoup object from the given URL."""
     r = requests.get(url, timeout=5)
     return BeautifulSoup(r.text, "html.parser")
 
 
 def generate_class_paths() -> list[str]:
+    """Return a list of class paths."""
     root = "https://maxroll.gg/d4/build-guides?filter[metas][taxonomy]=taxonomies.metas&filter[metas][value]=d4-endgame&filter[classes][taxonomy]=taxonomies.classes&filter[classes][value]=d4-"
     classes = ["barbarian", "druid", "necromancer", "rogue", "sorcerer"]
     return [root + c for c in classes]
 
 
 def init_driver() -> webdriver.Chrome:
+    """Return a Chrome webdriver with the required options."""
     options = webdriver.ChromeOptions()
     options.add_argument("headless")
     options.add_argument("--log-level=3")
@@ -51,6 +54,7 @@ def init_driver() -> webdriver.Chrome:
 
 # This function has to use Selenium because BS4 cannot find the build paths in the HTML
 def get_build_paths_for_class(path: str) -> list[str]:
+    """Return a list of build paths for the given class path."""
     build_paths = []
     logging.info("Retrieving build paths from %s", path)
     driver = init_driver()
@@ -75,6 +79,7 @@ def get_build_paths_for_class(path: str) -> list[str]:
 
 
 def get_all_build_paths() -> list[str]:
+    """Return a list of all build paths."""
     all_build_paths = []
     class_paths = generate_class_paths()
     with ThreadPoolExecutor() as executor:
@@ -94,6 +99,7 @@ def get_all_build_paths() -> list[str]:
 
 
 def get_stat_priorities(paths: list[str]) -> list[list[str]]:
+    """Return a list of stat priorities for the given build paths."""
     build_jsons = []
     for path in paths:
         soup = get_soup(path)
@@ -129,6 +135,7 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
 
 
 def build_jsons() -> None:
+    """Create JSON files for each build path and a master JSON file that contains information about all the builds."""
     # Delete all files in the builds directory
     for file in Path("data\\builds").glob("*"):
         file.unlink()
@@ -161,6 +168,7 @@ def build_jsons() -> None:
 
 
 def run() -> None:
+    """Run the scraper."""
     build_jsons()
 
 
