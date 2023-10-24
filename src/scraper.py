@@ -1,8 +1,8 @@
 """Retrieves the stat priorities from the website using the following process.
 
 1. Generate a list of class paths (barbarian, druid, necromancer, rogue, sorcerer).
-2. For each class path, retrieve the build paths for that class.
-3. For each build path, retrieve the stat priorities.
+2. For each class path, retrieve the build paths for that class (whirlwind-barbarian, twisting-blades-rogue, etc.)
+3. For each build path, retrieve the stat priorities (strength, critical hit chance, etc.)
 4. Write the stat priorities to a JSON file in the builds directory.
 """
 
