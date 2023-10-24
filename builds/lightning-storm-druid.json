@@ -1,0 +1,62 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon(1-Handed-Axe)",
+    "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
+    "Weapon Type: Axe1. High Damage per Second2. Damage To Distant Enemies3. Damage To Close Enemies4. Willpower5. All Stats6. Core Skill Damage7. Critical Strike Damage8. Critical Strike Damage with Werewolf Skills"
+  ],
+  [
+    "Off-Hand",
+    "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
+    "1. Cooldown Reduction2. Critical Strike Chance3. Damage Reduction From Poisoned4. Damage Reduction While Fortified5. Lucky Hit Chance6. Willpower"
+  ],
+  [
+    "Helm",
+    "Tempest Roar",
+    "1. Damage while Shapeshifted2. Critical Strike Damage3. Maximum Spirit4. Poison Resistance"
+  ],
+  [
+    "Helm (optional)",
+    "Mending Stone",
+    "1. Cooldown Reduction2. Maximum Life3. Willpower4. Single Resistance5. Total Armor6. Basic Attack Speed"
+  ],
+  [
+    "Chest",
+    "VigorousorDisobedience",
+    "1. Damage Reduction From Poisoned2. Damage Reduction While Fortified3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction6. % Total Armor7. Maximum Life8. Willpower"
+  ],
+  [
+    "Gloves",
+    "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
+    "1. Ranks to Lightning Storm2. Critical Strike Chance3. Lucky Hit Chance4. Willpower5. Critical Strike Damage with Werewolf Skills6. Lightning Critical Strike Damage"
+  ],
+  [
+    "Pants",
+    "DisobedienceorVigorous",
+    "Implicit: Potion Grants Barrier1. Damage Reduction From Poisoned2. Damage Reduction While Fortified3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction6. % Total Armor7. Maximum Life8. Willpower"
+  ],
+  [
+    "Boots",
+    "Stormshifter'sorGhostwalker",
+    "Implicit: Attacks Reduce Evade's CD1. Movement Speed2/3. Two of: Fire, Cold, Shadow, Poison Resistance 4. Total Armor while in Werewolf Form5. Fortify Generation6. Dodge Chance From Distant Enemeis7. Dodge Chance6. Willpower"
+  ],
+  [
+    "Amulet",
+    "Dire Wolf's",
+    "1. Cooldown Reduction2. Movement Speed3. Ranks to Envenom4. Damage Reduction From Poisoned5. Damage Reduction While Fortified6. Damage Reduction from Close Enemies7. Damage Reduction from Distant EnemiesSocket Single Resistance"
+  ],
+  [
+    "Ring 1",
+    "Umbral",
+    "1. Damage to Distant Enemies2. Damage to Close Enemies3. Critical Strike Chance4. Lucky Hit Chance5. Maximum Life6. Critical Strike Damage With Werewolf Skills7. Lightning Critical Strike DamageSocket Single Resistance"
+  ],
+  [
+    "Ring 2",
+    "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
+    "1. Damage to Distant Enemies2. Damage to Close Enemies3. Critical Strike Chance4. Lucky Hit Chance5. Maximum Life6. Critical Strike Damage With Werewolf Skills7. Lightning Critical Strike DamageSocket Single Resistance"
+  ]
+]

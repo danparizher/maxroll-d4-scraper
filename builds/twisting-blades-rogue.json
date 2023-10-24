@@ -1,0 +1,70 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Ranged",
+    "Edgemaster\u2019s",
+    "Weapon Type: CrossbowDamage doesn't matter1. Damage to Crowd Controlled Enemies2. Damage to Close Enemies3. All Stats4. Dexterity5. Core Skill DamageSockets Royal Skull"
+  ],
+  [
+    "Melee 1",
+    "One of: BladedancerCorruption",
+    "Weapon Type: Dagger1. High Damage per Second2. Damage to Crowd Controlled Enemies2. Damage to Close Enemies3. All Stats4. Dexterity5. Core Skill DamageSocket Royal Skull"
+  ],
+  [
+    "Melee 2",
+    "One of: BladedancerCorruption",
+    "Weapon Type: Dagger1. High Damage per Second2. Damage to Crowd Controlled Enemies2. Damage to Close Enemies3. All Stats4. Dexterity5. Core Skill DamageSocket Royal Skull"
+  ],
+  [
+    "Helm",
+    "One of: MightDisobedience",
+    "1. Any Resistance2. Cooldown Reduction3. Ranks to Shadow Imbuement4. Ranks to Poison Imbuement5. % Total Armor6. Maximum LifeSocket Royal Ruby"
+  ],
+  [
+    "Chest",
+    "One of:MightDisobedience",
+    "1. % Total Armor 2. Damage Reduction2. Damage Reduction from Close4. Damage Reduction from Distant5. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Gloves",
+    "Shared Misery",
+    "1. Ranks to Twisting Blades2. Attack Speed3. Lucky Hit: Slow4. Critical Strike Chance5. Lucky Hit Chance"
+  ],
+  [
+    "Pants(Best in Slot)",
+    "Tibault's Will",
+    "Implicit: Potion Grants Resource1. Damage Reduction from Close2. Maximum Resource3. Damage4. Potion CapacitySockets Royal Ruby"
+  ],
+  [
+    "Pants(Regular)",
+    "Cheat's",
+    "Implicit: Potion Grants Barrier1. % Total Armor 2. Damage Reduction2. Damage Reduction from Close4. Damage Reduction from Distant5. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Boots",
+    "Ravager",
+    "Implicit: Max Evade Charges1. Movement Speed2. Any Resistance3. Any Resistance4. Any Resistance5. Movement Speed on Elite Kill6. Energy Cost Reduction"
+  ],
+  [
+    "Amulet",
+    "Ghostwalker",
+    "1. Energy Cost Reduction2. Ranks to Weapon Mastery*3. Movement Speed 4. Cooldown Reduction5. Ranks to Exploit*6. Ranks to Malice*7. Damage Reduction8. Damage Reduction from Close EnemiesSocket any Gem to cap Resistances or Royal Skull if capped"
+  ],
+  [
+    "* These affixes cannot appear on the same item together. "
+  ],
+  [
+    "Ring 1",
+    "Ravenous",
+    "1. Resource Generation2. Damage to Crowd Controlled Enemies2. Critical Strike Chance4. Maximum Life5. Damage to Close Enemies6. Lucky Hit ChanceSocket any Gem to cap Resistances or Royal Skull if capped"
+  ],
+  [
+    "Ring 2",
+    "The Umbral",
+    "1. Resource Generation2. Damage to Crowd Controlled Enemies2. Critical Strike Chance4. Maximum Life5. Damage to Close Enemies6. Lucky Hit ChanceSocket any Gem to cap Resistances or Royal Skull if capped"
+  ]
+]

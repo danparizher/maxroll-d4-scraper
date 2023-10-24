@@ -1,0 +1,57 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon(Wand)",
+    "Offensive Aspect of Ultimate Shadow",
+    "1. High Damage per Second2. Damage to Close Enemies3. Intelligence4. All Stats5. Damage to Affected by Shadow Damage Over Time Enemies6. Damage over Time"
+  ],
+  [
+    "Off-Hand(Focus)",
+    "Blood-soaked Offensive Aspect",
+    "1. High Damage per Second2. Lucky Hit Chance3. Lucky Hit Chance while You Have a Barrier4. Cooldown Reduction5. Critical Strike Chance6. Intelligence7. All Stats"
+  ],
+  [
+    "Helm",
+    "Utility Aspect of Explosive Mist",
+    "1. Total Armor2. Maximum Life3. Lucky Hit Chance while You Have a Barrier4. Cooldown Reduction5. Intelligence6. All Stats"
+  ],
+  [
+    "Chest",
+    "Aspect of Disobedience",
+    "1. Maximum Life2. % Total Armor3. Damage Reduction from Affected byShadow Damage Over Time Enemies4. Damage Reduction against Close Enemies6. Damage Reduction"
+  ],
+  [
+    "Gloves",
+    "Aspect of Shared MiseryORHowl from Below (BIS)",
+    "1. Lucky Hit Chance2. Critical Strike Chance3. Shadow Damage over Time5. Intelligence6. Attack Speed"
+  ],
+  [
+    "Pants",
+    "Defensive Aspect of Shielding Storm",
+    "Implicit: Potion Grants Barrier1. Maximum Life2. +xx Ranks to Corpse Explosion3. Damage Reduction from Affected by Shadow Damage Over Time Enemies4. Damage Reduction from Close Enemies5. +xx Ranks to Blood Mist6. Intelligence"
+  ],
+  [
+    "Boots",
+    "Ghostwalker Mobility AspectORGreaves of the Empty Tomb(Extra Lucky Hit Option)",
+    "Implicit: + to Max Evade Charges1. Movement Speed2. +xx Ranks to Corpse Tendrils3. Intelligence4. All Stats"
+  ],
+  [
+    "Amulet",
+    "Blighted Offensive Aspect",
+    "1. Movement Speed2. Cooldown Reduction3. +xx Ranks to Gloom Passive4. +xx Ranks to Corpse Skills5. Damage Reduction from Affected by Shadow Damage Over Time Enemie6. Shadow Damage Over Time"
+  ],
+  [
+    "Ring 1",
+    "Aspect of Grasping Veins",
+    "1. Lucky Hit Chance2. Critical Strike Chance3. Damage to Close Enmies4. Maximum Life5. Shadow Damage"
+  ],
+  [
+    "Ring 2",
+    "Offensive Aspect of Decay",
+    "1. Lucky Hit Chance2. Critical Strike Chance3. Damage to Close Enmies4. Maximum Life5. Shadow Damage"
+  ]
+]

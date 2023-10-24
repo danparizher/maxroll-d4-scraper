@@ -1,0 +1,52 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon(2-Handed-Staff)",
+    "Greatstaff of the Crone",
+    "Implicit: Damage To Crowd Controlled1. Damage To Close2. Damage To Crowd Controlled3. Non-Physical Damage4. Ranks of ClawSockets Royal Topaz"
+  ],
+  [
+    "Helm(Best in Slot)",
+    "Vigorous",
+    "1. One of Fire, Cold, Shadow, Poison Resistance2. Cooldown Reduction3. Maximum Life4. Basic Skill Attack SpeedSocket Royal Ruby"
+  ],
+  [
+    "Chest",
+    "Might or Disobedience",
+    "1. Damage Reduction From Poisoned2.Damage Reduction From Close3. Damage Reduction From Distant4. Damage Reduction While Fortified5. Damage Reduction6. Willpower7. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Gloves",
+    "Mighty Storm's AspectorOverchargedor Edgemaster\u2019s",
+    "1. Lucky Hit2. Critical Strike Chance3. Attack Speed4. Willpower5. Storm Skill Cooldown Reduction6. All Stats"
+  ],
+  [
+    "Pants",
+    "Might or Disobedience",
+    "1. Damage Reduction From Poisoned2. Damage Reduction From Close3. Damage Reduction From Distant4. Damage Reduction While Fortified5. Damage Reduction While Injured6. Damage Reduction7. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Boots",
+    "Wind Striker Aspect",
+    "Implicit: Max Evade Charges1. Movement Speed2/3: Two of: Fire, Cold, Shadow, Poison Resistance 4. Total Armor while in Werewolf Form5. Damage Reduction While Injured6. Willpower7. Dodge Chance"
+  ],
+  [
+    "Amulet",
+    "Rapid",
+    "1.Movement Speed2. Ranks of the Envenom Passive3. Cooldown Reduction4. Damage Reduction From Poisoned5.  Damage Reduction From Close7. Armor in Werewolf Form8. Damage Reduction from Distant9. Damage Reduction while FortifiedSocket Single Resistance"
+  ],
+  [
+    "Ring 1",
+    "Mighty Storm's AspectorOverchargedor Edgemaster\u2019s",
+    "1. Damage To Close Enemies2. Lucky Hit Chance3. Maximum Life4. Critical Strike Chance5. Damage To Distant Enemies6. Critical Strike Damage7. Damage to Poisoned EnemiesSocket Single Resistance"
+  ],
+  [
+    "Ring 2",
+    "Mighty Storm's AspectorOverchargedor Edgemaster\u2019s",
+    "1. Damage To Close Enemies2. Lucky Hit Chance3. Maximum Life4. Critical Strike Chance5. Damage To Distant Enemies6. Critical Strike Damage7. Damage to Poisoned EnemiesSocket Single Resistance"
+  ]
+]

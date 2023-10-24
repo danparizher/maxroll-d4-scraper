@@ -1,0 +1,67 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon(Best-in-Slot)",
+    "Fleshrender",
+    "Weapon Type: Mace1. Damage While Shapeshifted2. Damage to Poisoned Enemies3. Damage While Healthy4. +Ranks to Defensive Skills"
+  ],
+  [
+    "Weapon(Alternate)",
+    "One of:RapidNighthowler'sSmiting AspectRetribution",
+    "Weapon Type: Any 1-H1. Willpower2. All Stats3. Lucky Hit: Chance to Execute Injured Non-Elites4. Any"
+  ],
+  [
+    "Off-Hand",
+    "One of:RapidNighthowler'sSmiting Aspect",
+    "1. Cooldown Reduction2. Crowd Control Duration3. Damage Reduction While Fortified4. Lucky Hit Chance 5. Damage Reduction from Enemies That Are Poisoned6. All Stats7. Basic Skill Attack Speed8. Barrier Generation"
+  ],
+  [
+    "Helm",
+    "One of:MightMending StoneCyclonic Force",
+    "1. Cooldown Reduction2. Crowd Control Duration3. Maximum Life4. % Total Armor5. Willpower6. All Stats7. Basic Skill Attack Speed8. Barrier Generation"
+  ],
+  [
+    "Helm (Injured)",
+    "Tempest Roar",
+    "1. Damage while Shapeshifted2. Critical Strike Damage3. Maximum Spirit4. Poison Resistance"
+  ],
+  [
+    "Chest",
+    "One of:MightMending StoneCyclonic Force",
+    "1. +Ranks to Debilitating Roar2. Damage Reduction from Close Enemies3. Damage Reduction from Distant Enemies4. Damage Reduction While Fortified5. Damage Reduction from Enemies That Are Poisoned6. % Total Armor7. Damage Reduction8. Maximum Life9. +Ranks to Cyclone Armor"
+  ],
+  [
+    "Gloves",
+    "One of:AudacityExploiter's",
+    "1. Attack Speed2. Lucky Hit Chance3. Willpower 4. All Stats5. Critical Strike Chance6. Strength"
+  ],
+  [
+    "Pants",
+    "One of:MightMending StoneCyclonic Force",
+    "Implicit: Potion Grants Barrier1.Damage Reduction from Close Enemies2. Damage Reduction from Distant Enemies3. Damage Reduction While Fortified4. % Total Armor5. Damage Reduction from Enemies That Are Poisoned6. Damage Reduction While Injured7. Damage Reduction8. Maximum Life9. Dodge Chance"
+  ],
+  [
+    "Boots",
+    "One of:AudacityExploiter'sorGhostwalker (Speedfarming)",
+    "Implicit: Max Evade Charges1. Movement Speed2. Willpower3. All Stats4. % Dodge Chance5. % Dodge Chance Against Distant Enemies6. Damage Reduction While Injured7. Total Armor while in Werewolf Form"
+  ],
+  [
+    "Amulet",
+    "Symbiotic",
+    "1. +Ranks to All Defensive Skills2. Cooldown Reduction3.Damage Reduction from Close Enemies 4. Damage Reduction While Fortified5. Damage Reduction from Enemies That Are Poisoned6. Damage Reduction While Injured7. Crowd Control Duration8. % Total Armor"
+  ],
+  [
+    "Ring 1",
+    "One of:RapidNighthowler'sSmiting Aspect",
+    "1. Maximum Life2. Barrier Generation3. Lucky Hit Chance4. Critical Strike Chance5. Fortify Generation"
+  ],
+  [
+    "Ring 2",
+    "One of:RapidNighthowler'sSmiting Aspect",
+    "1. Maximum Life2. Barrier Generation3. Lucky Hit Chance4. Critical Strike Chance5. Fortify Generation"
+  ]
+]

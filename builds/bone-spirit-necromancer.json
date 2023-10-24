@@ -1,0 +1,52 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon(2-Handed-Sword",
+    "Offensive Aspect of Grasping Veins",
+    "1. High Damage per Second2. Intelligence3. Damage to Close4. Critical Strike Damage5. All Stats6. Critical Strike Damage with Bone"
+  ],
+  [
+    "Helm ",
+    "Aspect of Might",
+    "1. Maximum Essence2. Maximum Life3. Cooldown Reduction4. Total Armor5. All Stats"
+  ],
+  [
+    "Chest",
+    "Defensive Aspect of Disobedience",
+    "1. Damage Reduction against Close Enemies2. Damage Reduction3. Maximum Life4. Total Armor"
+  ],
+  [
+    "Gloves",
+    "Edgemaster\u2019s Aspect",
+    "1. Critical Strike Chance2. Critical Strike Damage with Bone Skills3. Attack Speed4. Intelligence5. All Stats6. Lucky Hit Restore Primary Resource"
+  ],
+  [
+    "Pants",
+    "Defensive Aspect of Shielding Storm",
+    "Implicit: Potion Restores Grants Barrier1. Maximum Life2. Damage Reduction from Close Enemies3. Damage Reduction4. Total Armor5. +xx Ranks to Blood Mist"
+  ],
+  [
+    "Boots",
+    "Ghostwalker Aspect",
+    "Implicit: Bonus Evade Charges1. Movement Speed2. +xx Ranks to Bone Spirit3. +xx Ranks to Corpse Tendrils4. Intelligence5. All Stats6. (Elemental) Resistance "
+  ],
+  [
+    "Amulet",
+    "Offensive Aspect of Serration",
+    "1. Movement Speed2. Cooldown Reduction3. +xx Ranks to Macabre Skills4. +xx Ranks to Evulsion5. Damage Reduction from Close Enemies"
+  ],
+  [
+    "Ring 1",
+    "Resource Aspect of the Umbral",
+    "1. Critical Strike Chance2. Maximum Essence3. Maximum Life4. Damage to Close Enemies5. Lucky Hit Chance"
+  ],
+  [
+    "Ring 2",
+    "Aspect of Torment",
+    "1. Critical Strike Chance2. Maximum Essence3. Maximum Life4. Damage to Close Enemies5. Lucky Hit Chance"
+  ]
+]

@@ -1,1 +1,119 @@
-[{"double-swing-barbarian": "https://maxroll.gg/d4/build-guides/double-swing-barbarian-guide"}, {"walking-arsenal-barbarian": "https://maxroll.gg/d4/build-guides/walking-arsenal-barbarian-guide"}, {"whirlwind-barbarian": "https://maxroll.gg/d4/build-guides/whirlwind-barbarian-guide"}, {"thorns-barbarian": "https://maxroll.gg/d4/build-guides/thorns-barbarian-guide"}, {"hammer-of-the-ancients-barbarian": "https://maxroll.gg/d4/build-guides/hammer-of-the-ancients-barbarian-guide"}, {"penetrating-shot-rogue": "https://maxroll.gg/d4/build-guides/penetrating-shot-rogue-guide"}, {"flurry-rogue": "https://maxroll.gg/d4/build-guides/flurry-rogue-guide"}, {"barrage-rogue": "https://maxroll.gg/d4/build-guides/barrage-rogue-guide"}, {"rapid-fire-rogue": "https://maxroll.gg/d4/build-guides/rapid-fire-rogue-guide"}, {"death-trap-rogue": "https://maxroll.gg/d4/build-guides/death-trap-rogue-guide"}, {"flurry-rapid-fire-rogue": "https://maxroll.gg/d4/build-guides/flurry-rapid-fire-rogue-guide"}, {"rain-of-arrows-rogue-build": "https://maxroll.gg/d4/build-guides/rain-of-arrows-rogue-build-guide"}, {"twisting-blades-rogue": "https://maxroll.gg/d4/build-guides/twisting-blades-rogue-guide"}, {"bone-spear-necromancer": "https://maxroll.gg/d4/build-guides/bone-spear-necromancer-guide"}, {"blight-corpse-explosion-necromancer": "https://maxroll.gg/d4/build-guides/blight-corpse-explosion-necromancer-guide"}, {"blood-surge-necromancer": "https://maxroll.gg/d4/build-guides/blood-surge-necromancer-guide"}, {"shadow-summoner-necromancer": "https://maxroll.gg/d4/build-guides/shadow-summoner-necromancer-guide"}, {"sever-necromancer-endgame": "https://maxroll.gg/d4/build-guides/sever-necromancer-endgame-guide"}, {"bone-spirit-necromancer": "https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide"}, {"infinimist-necromancer": "https://maxroll.gg/d4/build-guides/infinimist-necromancer-guide"}, {"summoner-necromancer": "https://maxroll.gg/d4/build-guides/summoner-necromancer-guide"}, {"blood-lance-necromancer": "https://maxroll.gg/d4/build-guides/blood-lance-necromancer-guide"}, {"chain-lightning-sorcerer": "https://maxroll.gg/d4/build-guides/chain-lightning-sorcerer-guide"}, {"frozen-orb-sorcerer": "https://maxroll.gg/d4/build-guides/frozen-orb-sorcerer-guide"}, {"fireball-sorcerer": "https://maxroll.gg/d4/build-guides/fireball-sorcerer-guide"}, {"ice-shards-sorcerer": "https://maxroll.gg/d4/build-guides/ice-shards-sorcerer-guide"}, {"blizzard-sorcerer": "https://maxroll.gg/d4/build-guides/blizzard-sorcerer-guide"}, {"firewall-sorcerer": "https://maxroll.gg/d4/build-guides/firewall-sorcerer-guide"}, {"meteor-sorcerer": "https://maxroll.gg/d4/build-guides/meteor-sorcerer-guide"}, {"ball-lightning-sorcerer": "https://maxroll.gg/d4/build-guides/ball-lightning-sorcerer-guide"}, {"arc-lash-sorcerer": "https://maxroll.gg/d4/build-guides/arc-lash-sorcerer-guide"}, {"shred-druid": "https://maxroll.gg/d4/build-guides/shred-druid-guide"}, {"tornado-druid": "https://maxroll.gg/d4/build-guides/tornado-druid-guide"}, {"trampleslide-druid": "https://maxroll.gg/d4/build-guides/trampleslide-druid-guide"}, {"lightning-storm-druid": "https://maxroll.gg/d4/build-guides/lightning-storm-druid-guide"}, {"support-druid": "https://maxroll.gg/d4/build-guides/support-druid-guide"}, {"lightning-shred-druid": "https://maxroll.gg/d4/build-guides/lightning-shred-druid-guide"}, {"pulverize-druid": "https://maxroll.gg/d4/build-guides/pulverize-druid-guide"}, {"stormclaw-druid": "https://maxroll.gg/d4/build-guides/stormclaw-druid-guide"}]
+[
+  {
+    "pulverize-druid": "https://maxroll.gg/d4/build-guides/pulverize-druid-guide"
+  },
+  {
+    "shred-druid": "https://maxroll.gg/d4/build-guides/shred-druid-guide"
+  },
+  {
+    "tornado-druid": "https://maxroll.gg/d4/build-guides/tornado-druid-guide"
+  },
+  {
+    "trampleslide-druid": "https://maxroll.gg/d4/build-guides/trampleslide-druid-guide"
+  },
+  {
+    "stormclaw-druid": "https://maxroll.gg/d4/build-guides/stormclaw-druid-guide"
+  },
+  {
+    "lightning-storm-druid": "https://maxroll.gg/d4/build-guides/lightning-storm-druid-guide"
+  },
+  {
+    "support-druid": "https://maxroll.gg/d4/build-guides/support-druid-guide"
+  },
+  {
+    "lightning-shred-druid": "https://maxroll.gg/d4/build-guides/lightning-shred-druid-guide"
+  },
+  {
+    "arc-lash-sorcerer": "https://maxroll.gg/d4/build-guides/arc-lash-sorcerer-guide"
+  },
+  {
+    "ice-shards-sorcerer": "https://maxroll.gg/d4/build-guides/ice-shards-sorcerer-guide"
+  },
+  {
+    "firewall-sorcerer": "https://maxroll.gg/d4/build-guides/firewall-sorcerer-guide"
+  },
+  {
+    "blizzard-sorcerer": "https://maxroll.gg/d4/build-guides/blizzard-sorcerer-guide"
+  },
+  {
+    "meteor-sorcerer": "https://maxroll.gg/d4/build-guides/meteor-sorcerer-guide"
+  },
+  {
+    "ball-lightning-sorcerer": "https://maxroll.gg/d4/build-guides/ball-lightning-sorcerer-guide"
+  },
+  {
+    "chain-lightning-sorcerer": "https://maxroll.gg/d4/build-guides/chain-lightning-sorcerer-guide"
+  },
+  {
+    "frozen-orb-sorcerer": "https://maxroll.gg/d4/build-guides/frozen-orb-sorcerer-guide"
+  },
+  {
+    "fireball-sorcerer": "https://maxroll.gg/d4/build-guides/fireball-sorcerer-guide"
+  },
+  {
+    "bone-spirit-necromancer": "https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide"
+  },
+  {
+    "bone-spear-necromancer": "https://maxroll.gg/d4/build-guides/bone-spear-necromancer-guide"
+  },
+  {
+    "sever-necromancer-endgame": "https://maxroll.gg/d4/build-guides/sever-necromancer-endgame-guide"
+  },
+  {
+    "infinimist-necromancer": "https://maxroll.gg/d4/build-guides/infinimist-necromancer-guide"
+  },
+  {
+    "blight-corpse-explosion-necromancer": "https://maxroll.gg/d4/build-guides/blight-corpse-explosion-necromancer-guide"
+  },
+  {
+    "shadow-summoner-necromancer": "https://maxroll.gg/d4/build-guides/shadow-summoner-necromancer-guide"
+  },
+  {
+    "blood-lance-necromancer": "https://maxroll.gg/d4/build-guides/blood-lance-necromancer-guide"
+  },
+  {
+    "blood-surge-necromancer": "https://maxroll.gg/d4/build-guides/blood-surge-necromancer-guide"
+  },
+  {
+    "summoner-necromancer": "https://maxroll.gg/d4/build-guides/summoner-necromancer-guide"
+  },
+  {
+    "penetrating-shot-rogue": "https://maxroll.gg/d4/build-guides/penetrating-shot-rogue-guide"
+  },
+  {
+    "twisting-blades-rogue": "https://maxroll.gg/d4/build-guides/twisting-blades-rogue-guide"
+  },
+  {
+    "flurry-rogue": "https://maxroll.gg/d4/build-guides/flurry-rogue-guide"
+  },
+  {
+    "death-trap-rogue": "https://maxroll.gg/d4/build-guides/death-trap-rogue-guide"
+  },
+  {
+    "barrage-rogue": "https://maxroll.gg/d4/build-guides/barrage-rogue-guide"
+  },
+  {
+    "rapid-fire-rogue": "https://maxroll.gg/d4/build-guides/rapid-fire-rogue-guide"
+  },
+  {
+    "flurry-rapid-fire-rogue": "https://maxroll.gg/d4/build-guides/flurry-rapid-fire-rogue-guide"
+  },
+  {
+    "rain-of-arrows-rogue-build": "https://maxroll.gg/d4/build-guides/rain-of-arrows-rogue-build-guide"
+  },
+  {
+    "hammer-of-the-ancients-barbarian": "https://maxroll.gg/d4/build-guides/hammer-of-the-ancients-barbarian-guide"
+  },
+  {
+    "whirlwind-barbarian": "https://maxroll.gg/d4/build-guides/whirlwind-barbarian-guide"
+  },
+  {
+    "thorns-barbarian": "https://maxroll.gg/d4/build-guides/thorns-barbarian-guide"
+  },
+  {
+    "walking-arsenal-barbarian": "https://maxroll.gg/d4/build-guides/walking-arsenal-barbarian-guide"
+  },
+  {
+    "double-swing-barbarian": "https://maxroll.gg/d4/build-guides/double-swing-barbarian-guide"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Two-HandedBludgeoning Weapon(Best in Slot)",
+    "Overkill",
+    "1. High Damage per Second2. High % Unique Power3. Ranks to Death Blow4. Damage to Injured Enemies5. Physical Damage6. Overpower DamageSockets Royal Skull"
+  ],
+  [
+    "Two-HandedBludgeoning Weapon(Regular)",
+    "Accelerating",
+    "1. High Damage per Second2. Damage while Berserking3. Damage to Close Enemies4. All Stats5. Strength6. Vulnerable Damage7. Critical Strike DamageSockets Royal Skull"
+  ],
+  [
+    "Dual WieldWeapon 1(Axe)",
+    "One of:Accelerating (with Overkill)Conceited (without Overkill) Edgemaster\u2019sBerserk Ripping",
+    "1. Damage while Berserking2. Damage to Close Enemies3. All Stats4. Strength5. Vulnerable Damage6. Critical Strike DamageSocket Royal Skull"
+  ],
+  [
+    "Dual WieldWeapon 2(Axe)",
+    "One of:Accelerating (with Overkill)Conceited (without Overkill) Edgemaster\u2019sBerserk Ripping",
+    "1. Damage while Berserking2. Damage to Close Enemies3. All Stats4. Strength5. Vulnerable Damage6. Critical Strike DamageSocket Royal Skull"
+  ],
+  [
+    "Two-HandedSlashing Weapon(Axe)",
+    "Encroaching Wrath",
+    "1. High Damage per Second2. Damage while Berserking3. Damage to Close Enemies4. All Stats5. Strength6. Vulnerable Damage7. Critical Strike DamageSockets Royal Skull"
+  ],
+  [
+    "Helm",
+    "One of:DisobedienceIron WarriorAspect of Might",
+    "1. + Ranks of Death Blow2. Any Resistance3. Cooldown Reduction4. % Total Armor5. Maximum LifeSocket Royal Ruby"
+  ],
+  [
+    "Chest",
+    "One of:DisobedienceIron WarriorAspect of Might",
+    "1. % Total Armor2. Damage Reduction 2. Damage Reduction from Close Enemies3. Damage Reduction 4. Damage Reduction while Fortified6. Damage Reduction from Distant Enemies5. Damage Reduction from Enemies That Are Bleeding6. % Total Armor7. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Gloves",
+    "Weapon Master's",
+    "1. + Ranks of Upheaval2. Critical Strike Chance3. Attack Speed4. Lucky Hit Chance5. Strength6. All Stats"
+  ],
+  [
+    "Pants(Best in Slot)",
+    "Tibault's Will",
+    "Implicit: Potion Grants Resource1. Damage Reduction from Close2. Maximum Resource3. Damage4. Potion CapacitySockets Royal Ruby"
+  ],
+  [
+    "Pants(Regular)",
+    "One of:DisobedienceIron WarriorAspect of Might",
+    "1. % Total Armor2. Damage Reduction 2. Damage Reduction from Close Enemies3. Damage Reduction 4. Damage Reduction while Fortified6. Damage Reduction from Distant Enemies5. Damage Reduction from Enemies That Are Bleeding6. % Total Armor7. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Boots ",
+    "Ghostwalker",
+    "Implicit: Maximum Evade Charges1. Movement Speed2. Any Resistance3. Any Resistance4. Any Resistance5. Movement Speed on Elite Kill6. Berserking Duration7. Fortify Generation"
+  ],
+  [
+    "Amulet",
+    "Steadfast Berserker's",
+    "1. + Ranks of the Heavy Handed Passive*2. Movement Speed3. Cooldown Reduction4. + Ranks of All Weapon Mastery Skills5. + Ranks of the Counteroffensive Passive*6. Damage ReductionSocket any Gem to cap Resistances or Royal Skull if capped* Can't appear on the same item together"
+  ],
+  [
+    "Ring 1",
+    "One of:Accelerating (with Overkill)Conceited (without Overkill) Edgemaster\u2019sBerserk Ripping",
+    "1. Damage while Berserking2. Fortify Generation3. Critical Strike Chance4. Maximum Life5. Damage to Close Enemies6. Vulnerable DamageSocket any Gem to cap Resistances or Royal Skull if capped"
+  ],
+  [
+    "Ring 1",
+    "One of:Accelerating (with Overkill)Conceited (without Overkill) Edgemaster\u2019sBerserk Ripping",
+    "1. Damage while Berserking2. Fortify Generation3. Critical Strike Chance4. Maximum Life5. Damage to Close Enemies6. Vulnerable DamageSocket any Gem to cap Resistances or Royal Skull if capped"
+  ]
+]

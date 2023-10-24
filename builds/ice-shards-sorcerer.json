@@ -1,0 +1,72 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon",
+    "one of:Piercing ColdStorm SwellConceitedControlFrozen Memories",
+    "Weapon Type: Wand1. High Damage per Second2. Intelligence3. All Stats4. Core Skill Damage5. Critical Strike Damage6. Damage to Close Enemies"
+  ],
+  [
+    "Off-Hand",
+    "one of:Piercing ColdStorm SwellConceitedControlFrozen Memories",
+    "1. Cooldown Reduction2. High Damage per Second3. Resource Generation4. Mana Cost Reduction5. Critical Strike Chance6. Lucky Hit: Chance to Regain Resource"
+  ],
+  [
+    "Helm(Best in Slot)",
+    "Godslayer Crown",
+    "1. Cooldown Reduction2. Maximum Life 3. Crowd Control Duration4. Damage"
+  ],
+  [
+    "Helm(Optional)",
+    "Fortune",
+    "1. Cooldown Reduction2. Maximum Mana3. % Total Armor4. Lucky Hit Chance while Barrier5. Maximum Life6. Crowd Control Duration7. Intelligence"
+  ],
+  [
+    "Chest (Best in Slot)",
+    "Raiment of the Infinite",
+    "1. Intelligence2. Damage to Close Enemies3. Damage to Stunned Enemies 4. Ranks to Glass Cannon"
+  ],
+  [
+    "Chest(Optional)",
+    "Snowveiled Aspect",
+    "1. % Total Armor2. Damage Reduction against Burning Enemies3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
+  ],
+  [
+    "Gloves",
+    "one of:Piercing ColdStorm SwellConceitedControlFrozen Memories",
+    "1. Ranks to Ice Shards2. Critical Strike Chance3. Attack Speed4. Lucky Hit: Chance to Regain Resource5. Lucky Hit Chance6. Intelligence"
+  ],
+  [
+    "Pants (Best in Slot)",
+    "Tibault's Will",
+    "1. Damage Reduction against Close Enemies2. Maximum Resource3. Damage4. Potion Capacity"
+  ],
+  [
+    "Pants(Optional)",
+    "Disobedience",
+    "1. % Total Armor2. Damage Reduction against Burning Enemies3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
+  ],
+  [
+    "Boots (Best in Slot)",
+    "Esu's Heirloom",
+    "1. Movement Speed2. Critical Strike Damage3. Shrine Buff Duration4. Movement Speed on Elite Kill"
+  ],
+  [
+    "Boots(Optional)",
+    "Bounding ConduitorShared Misery",
+    "1. Ranks to Frost Nova2. Mana Cost Reduction3. Movement Speed4. Implicit: +Max Evade Charges5. Ranks to Teleport6. Intelligence"
+  ],
+  [
+    "Amulet",
+    "Disobedienceor Elementalist's",
+    "1. Cooldown Reduction2. Mana Cost Reduction3. Movement Speed4. Ranks to Devouring Blaze5. Ranks to Defensive Skills6. Damage Reduction from Burning Enemies"
+  ],
+  [
+    "Rings",
+    "two of:Piercing ColdStorm SwellConceitedControlFrozen Memories",
+    "1. Resource Generation2. Critical Strike Chance3. Cold Damage4. Maximum Life5. Critical Strike Damage"
+  ]
+]

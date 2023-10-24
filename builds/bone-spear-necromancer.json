@@ -1,0 +1,56 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon",
+    "Offensive Aspect of Serration on a One-Handed Sword",
+    "*Weapon Damage1. Vulnerable Damage2. Critical Strike Damage3. Critical Strike Damage with Bone Skills4. Core Skill Damage"
+  ],
+  [
+    "Offhand",
+    "Edgemaster\u2019s Aspect",
+    "*Weapon Damage1. Critical Strike Chance2. Lucky Hit: Chance to Resource Primary Resource3. Essence Cost Reduction4. Damage Reduction while Fortified"
+  ],
+  [
+    "Helm",
+    "Deathless Visage"
+  ],
+  [
+    "Chest Armor",
+    "Aspect of Disobedience",
+    "1. Damage Reduction2. % Total Armor3. Maximum Life4. Damage Reduction from Distant Enemies"
+  ],
+  [
+    "Gloves",
+    "Splintering Offensive Aspect",
+    "1. +Ranks to Bone Spear2. Critical Strike Chance3. Critical Strike Chance with Bone Skills4. Lucky Hit: Up to 5% Chance to Restore Primary Resource5. Attack Speed"
+  ],
+  [
+    "Pants",
+    "Defensive Aspect of Shielding Storm",
+    "Implicit: Potion Restores Essence1. Damage Reduction2. Maximum Life3. Damage Reduction while Fortified4. Total Armor5. Intelligence6. All Stats"
+  ],
+  [
+    "Boots",
+    "(BiS) Wind Striker Mobility Aspect",
+    "Implicit: Movement Speed after Evade1. Movement Speed2. Single Resistance3. Single Resistance4. Single Resistance5. Essence Cost Reduction6. IntelligenceBoots is one of the best slots to maximize your Resistances! If you're already max, you can swap into other stats."
+  ],
+  [
+    "Amulet",
+    "Offensive Aspect of Grasping Veins",
+    "1. Movement Speed2. Essence Cost Reduction3. Total Armor4. +Ranks to Evulsion*5. Damage Reduction (Hardcore)"
+  ],
+  [
+    "Ring 1",
+    "Sacrificial Aspect ",
+    "1. Critical Strike Chance2. Vulnerable Damage3. Critical Strike Damage4. Maximum Essence*5. Maximum Life (Hardcore)"
+  ],
+  [
+    "Ring 2",
+    "Resource Aspect of Exposed Flesh",
+    "1. Critical Strike Chance2. Vulnerable Damage3. Critical Strike Damage4. Maximum Essence*5. Maximum Life (Hardcore)"
+  ]
+]

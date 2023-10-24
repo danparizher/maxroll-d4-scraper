@@ -1,0 +1,57 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon(Dagger)",
+    "Aspect of Grasping Veins",
+    "1. Overpower Damage2. Core Skill Damage3. Intelligence4. All Stats5. Damage to Close Enemies"
+  ],
+  [
+    "Off-Hand(Shield)",
+    "Aspect of Shared Misery",
+    "1. Maximum Life2. Essence Cost Reduction3. Cooldown Reduction4. Damage Reduction from Close5. Lucky Hit: Up to a 5% Chance to Restore xx% Primary Resource6. Lucky Hit Chance"
+  ],
+  [
+    "Helm",
+    "Aspect of Disobedience",
+    "1. Maximum Life2. Total Armor3. Cooldown Reduction4. Healing Received5. All Stats"
+  ],
+  [
+    "Chest",
+    "Aspect of Might",
+    "1. Maximum Life2. % Total Armor3. Damage Reduction from Close Enemies4. Damage Reduction5. Damage Reduction from Distant Enemies"
+  ],
+  [
+    "Gloves",
+    "Blood-bathed Aspect",
+    "1. +xx Ranks to Blood Surge2. Overpower Damage3. Attack Speed4. Lucky Hit: Up to a 5% Chance to Restore xx% Primary Resource5. Critical Strike Chance6. Lucky Hit Chance"
+  ],
+  [
+    "Pants",
+    "Aspect of Shielding StormORTemerity",
+    "Implicit: Potion Grants Barrier1. Maximum Life2. % Total Armor3. Damage Reduction (Any Relevant Options)4. Blood Orb Healing"
+  ],
+  [
+    "Boots",
+    "Ghostwalker Mobility Aspect",
+    "Implicit: Max Evade Charges1. Movement Speed2. Essence Cost Reduction3. +xx Ranks to Corpse Tendrils4. Blood Orb Healing"
+  ],
+  [
+    "Amulet",
+    "Aspect of Rathma\u2019s Chosen",
+    "1. Essence Cost Reduction2. +xx Ranks to Tides of Blood Passive3. +xx Ranks to Coalesced Blood Passive4. Movement Speed5. % Total Armor6. Cooldown Reduction"
+  ],
+  [
+    "Ring 1",
+    "Aspect of Potent Blood",
+    "1. Maximum Life2. Overpower Damage3. Blood Orb Healing4. Critical Strike Chance5. Lucky Hit Chance"
+  ],
+  [
+    "Ring 2",
+    "Aspect of the Umbral",
+    "1. Maximum Life2. Overpower Damage3. Blood Orb Healing4. Critical Strike Chance5. Lucky Hit Chance"
+  ]
+]

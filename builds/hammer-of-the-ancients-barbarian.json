@@ -1,0 +1,72 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Two-HandedBludgeoning Weapon",
+    "One of:Edgemaster\u2019sLimitless Rage",
+    "1. High Damage per Second2. Damage while Berserking3. Overpower Damage / Damage to Close Enemies4. Damage with Core Skills5. Strength6. All Stats7. Critical Strike Damage"
+  ],
+  [
+    "Dual WieldWeapon 1(Mace)",
+    "One of:Ancestral ForceExpectant",
+    "1. Damage while Berserking2. Overpower Damage / Damage to Close Enemies3. Damage with Core Skills4. Strength / All Stats5. Critical Strike Damage"
+  ],
+  [
+    "Dual WieldWeapon 2(Mace)",
+    "One of:Ancestral ForceExpectant",
+    "1. Damage while Berserking2. Overpower Damage / Damage to Close Enemies3. Damage with Core Skills4. Strength / All Stats5. Critical Strike Damage"
+  ],
+  [
+    "Two-HandedSlashing Weapon(Sword)",
+    "One of:Edgemaster\u2019sLimitless Rage",
+    "1. Damage while Berserking2. Overpower Damage / Damage to Close Enemies3. Damage with Core Skills4. Strength5. All Stats6. Critical Strike Damage"
+  ],
+  [
+    "Helm(Unique)",
+    "Godslayer Crown",
+    "1. Damage to Pulled in Nearby Enemies (60%)2. Cooldown Reduction3. Maximum Life4. Crowd Control Duration5. % Damage"
+  ],
+  [
+    "Helm(Alternative)",
+    "One of:Numbing WrathExploiter's Aspect",
+    "1. Cooldown Reduction2. Maximum Fury3. % Total Armor4. Maximum Life5. Damage while Berserking6. Strength / All Stats7. Resistance (as needed)8. Crowd Control Duration"
+  ],
+  [
+    "Chest",
+    "Might",
+    "1. Damage Reduction from Close Enemies2. Damage Reduction while Fortified3. % Total Armor4. Maximum Life5. Damage Reduction6. Resistance (as needed)"
+  ],
+  [
+    "Gloves",
+    "Relentless Berserker's",
+    "1. + Ranks of Hammer of the Ancients2. Critical Strike Chance3. Attack Speed4. Overpower Damage5. Lucky Hit Chance6. Strength / All Stats"
+  ],
+  [
+    "Pants(Unique)",
+    "Tibault's Will",
+    "1. Increased Damage while Unstoppable (40%)2. Maximum Resource3. Damage Reduction from Close Enemies4. % Damage5. Potion Capacity"
+  ],
+  [
+    "Pants(Alternative)",
+    "Numbing Wrath",
+    "1. Damage Reduction from Close Enemies2. Damage Reduction while Fortified3. % Total Armor4. Maximum Life5. Damage Reduction6. Resistance (as needed)"
+  ],
+  [
+    "Boots ",
+    "Ghostwalker",
+    "1. Movement Speed2. Cold / Lightning / Poison Resistance3. Cold / Lightning / Poison Resistance4. Cold / Lightning / Poison Resistance5. Resistance (as needed)6. Fury Cost Reduction7. Damage Reduction while Injured8. Strength / All Stats9. Movement Speed for 4 Seconds After Killing an Elite"
+  ],
+  [
+    "Amulet",
+    "Disobedience",
+    "1. Cooldown Reduction2. Fury Cost Reduction3. + Ranks of the Brute Force Passive4. Movement Speed5. + Ranks of the Counteroffensive  Passive6. + Ranks of the Wallop Passive7. + Ranks of the Heavy Handed Passive"
+  ],
+  [
+    "Rings",
+    "Bold Chieftain'sEchoing Fury",
+    "1. Damage while Berserking2. Maximum Fury3. Critical Strike Chance4. Resource Generation5. Maximum Life6. Damage to Close Enemies7. Physical Damage"
+  ]
+]

@@ -1,0 +1,74 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon",
+    "one of:Edgemaster\u2019sConceitedStorm Swell",
+    "Weapon Type: Wand1. High Damage per Second2. Intelligence3. All Stats4. Critical Strike Damage5. Mastery Skill Damage6. Damage to Close Enemies"
+  ],
+  [
+    "Off-Hand",
+    "one of:Edgemaster\u2019sConceitedStorm Swell",
+    "1. Cooldown Reduction2. High Damage per Second3. Resource Generation4. Mana Cost Reduction5. Intelligence6. Damage Reduction against Burning Enemies7. Lucky Hit Chance"
+  ],
+  [
+    "Helm(Best in Slot)",
+    "Godslayer Crown"
+  ],
+  [
+    "Helm(Optional)",
+    "Shared Misery",
+    "1. Cooldown Reduction2. % Total Armor3. Maximum Life4. Lucky Hit Chance while Barrier5. Intelligence6. Crowd Control Duration"
+  ],
+  [
+    "Chest(Best in Slot)",
+    "Raiment of the Infinite",
+    "1. Damage to Close Enemies2. Damage to Stunned Enemies3. Intelligence4. Ranks to Glass Cannon"
+  ],
+  [
+    "Chest(Optional)",
+    "Snowveiled",
+    "1. % Total Armor2. Damage Reduction against Burning Enemies3. Damage Reduction against Close Enemies4. Damage Reduction against Distant Enemies5. Damage Reduction 6. Maximum Life"
+  ],
+  [
+    "Gloves",
+    "one of:Edgemaster\u2019sConceitedStorm Swell",
+    "1. Attack Speed2. Intelligence3. Lucky Hit Chance4. Lucky Hit: Chance to Restore Resource5. All Stats6. Lucky Hit: Chance to Heal"
+  ],
+  [
+    "Pants",
+    "Disobedience",
+    "1. Ranks to Firewall2. % Total Armor3. Damage Reduction against Burning Enemies4. Damage Reduction against Close Enemies5. Damage Reduction against Distant Enemies6. Damage Reduction 7. Maximum Life"
+  ],
+  [
+    "Boots (Best in Slot)",
+    "Flickerstep"
+  ],
+  [
+    "Boots(Optional)",
+    "Bounding ConduitorGhostwalker",
+    "Implicit: Max Evade Charges1. Mana Cost Reduction2. Movement Speed4. Ranks to Teleport5. Intelligence"
+  ],
+  [
+    "Amulet",
+    "Control",
+    "1. Cooldown Reduction2. Mana Cost Reduction3. Ranks to Mastery Skills4. Movement Speed5. Ranks to Inner Flames6. Ranks to Defensive Skills7. Damage Reduction from Burning Enemies"
+  ],
+  [
+    "Ring 1 ",
+    "Prodigy\u2019sor Retribution",
+    "1. Vulnerable Damage2. Resource Generation3. Critical Strike Damage4. Maximum Life5. Lucky Hit Chance6. Damage to Close Enemies"
+  ],
+  [
+    "Ring 2(Best in Slot)",
+    "X'Fal's Corroded Signet"
+  ],
+  [
+    "Ring 2(Optional)",
+    "Engulfing Flames",
+    "1. Vulnerable Damage2. Resource Generation3. Critical Strike Damage4. Maximum Life5. Lucky Hit Chance6. Damage to Close Enemies"
+  ]
+]

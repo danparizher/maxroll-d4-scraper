@@ -1,0 +1,77 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon",
+    "one of:GravitationalStorm SwellConceitedControl",
+    "Weapon Type: Dagger1. High Damage Per Second2. Intelligence3. All Stats4. Damage to Close Enemies5. Mastery Skill Damage6. Critical Strike Damage"
+  ],
+  [
+    "Off-Hand",
+    "one of:GravitationalStorm SwellConceitedControl",
+    "1. Cooldown Reduction2. High Damage Per Second3. Resource Generation4. Mana Cost Reduction5. Critical Strike Chance6. Lucky Hit: Chance to Regain Resource"
+  ],
+  [
+    "Helm(Best in Slot)",
+    "Godslayer Crown",
+    "1. Cooldown Reduction2. Maximum Life3. Crowd Control Duration4. Damage"
+  ],
+  [
+    "Helm(Optional)",
+    "Disobedience",
+    "1. Cooldown Reduction2. % Total Armor3. Maximum Life4. Maximum Mana5. Intelligence"
+  ],
+  [
+    "Chest(Best in Slot)",
+    "Raiment of the Infinite",
+    "1. Damage to Close Enemies2. Damage to Stunned Enemies3. Intelligence4. Ranks to Glass Cannon"
+  ],
+  [
+    "Chest(Optional)",
+    "Snowveiled",
+    "1. % Total Armor2. Damage Reduction against Close Enemies3. Damage Reduction against Distant Enemies4.1 Damage Reduction 4.2 Maximum Life6. Damage Reduction against Burning Enemies"
+  ],
+  [
+    "Gloves",
+    "one of:GravitationalStorm SwellConceitedControl",
+    "1. Attack Speed2. Critical Strike Chance3. Intelligence4. Critical Strike Chance against Injured Enemies5. Lucky Hit: Chance to Regain Resource"
+  ],
+  [
+    "Pants (Best in Slot)",
+    "Tibault's Will",
+    "1. Damage Reduction against Close Enemies2. Maximum Resource3. Damage4. Potion Capacity"
+  ],
+  [
+    "Pants(Optional)",
+    "Unwavering",
+    "1. Ranks to Ball Lightning2. % Total Armor3. Damage Reduction against Close Enemies4. Damage Reduction against Distant Enemies5. Damage Reduction 6. Maximum Life"
+  ],
+  [
+    "Boots(Best in Slot)",
+    "Flickerstep",
+    "1. Movement Speed2. Damage Reduction against Close Enemies3. All Stats4. Ultimate Damage"
+  ],
+  [
+    "Boots(Optional)",
+    "Bounding Conduit",
+    "1. Mana Cost Reduction2. Implicit: Attacks Reduce Evade's Cooldown3. Implicit: +Max Evade Charges4. Movement Speed5. Ranks to Teleport6. Ranks to Frost Nova7. Intelligence"
+  ],
+  [
+    "Amulet",
+    "DisobedienceorControl",
+    "1. Cooldown Reduction2. Mana Cost Reduction3. Ranks to Mastery Skills4. Movement Speed5. Ranks to Conjuration Mastery6. Ranks Elemental Dominance7. Ranks to Glass Cannon6. Ranks to Defensive Skills"
+  ],
+  [
+    "Ring 1",
+    "one of:GravitationalStorm SwellConceitedControl",
+    "1. Resource Generation2. Critical Strike Chance3. Maximum Life4. Damage to Close Enemies5. Maximum Mana"
+  ],
+  [
+    "Ring 2 ",
+    "Prodigy\u2019sRecharging",
+    "1. Resource Generation2. Critical Strike Chance3. Maximum Life4. Damage to Close Enemies5. Maximum Mana"
+  ]
+]

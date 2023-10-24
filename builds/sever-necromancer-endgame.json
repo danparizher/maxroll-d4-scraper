@@ -1,0 +1,57 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon(Wand)",
+    "Offensive Aspect of Ultimate Shadow",
+    "1. High Damage per Second2. Intelligence3. Damage to Close Enemies4. Core Skill Damage5. Damage to Affected by Shadow Damage Over Time Enemies6. All Stats"
+  ],
+  [
+    "Off-Hand(Focus)",
+    "Offensive Aspect of Grasping Veins",
+    "1. High Damage per Second2. Lucky Hit Chance3. Lucky Hit Chance When You Have Barrier4. Essence Cost Reduction5. Lucky Hit Chance to Restore Primary Resource6. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time Enemies"
+  ],
+  [
+    "Helm",
+    "Defensive Aspect of Disobedience",
+    "1. Total Armor2. Maximum Life3. Cooldown Reduction4. Lucky Hit Chance while You Have a Barrier.5. Intelligence"
+  ],
+  [
+    "Chest",
+    "Aspect of Explosive Mist",
+    "1. Maximum Life2. % Total Armor3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time4. Damage Reduction against Close Enemies5. Damage Reduction (Any Applicable Options)"
+  ],
+  [
+    "Gloves",
+    "Aspect of DecayORHowl from Below",
+    "1. +xx Ranks to Sever2. Lucky Hit Chance3. Critical Strike Chance4. Attack Speed5. Lucky Hit: Chance to Restore Primary Resource6. Intelligence"
+  ],
+  [
+    "Pants",
+    "Defensive Aspect of Shielding Storm",
+    "Implicit: Potion Grants Barrier1. Maximum Life2. Damage Reduction from Close Enemies3. Total Armor4. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time5. +xx Ranks to Corpse Explosion6. Damage Reduction (Any Applicable Options)"
+  ],
+  [
+    "Boots",
+    "Greaves of the Empty TombORWind Striker Aspect",
+    "Implicit: Max Evade Charges1. Movement Speed2. Essence Cost Reduction3. +xx Ranks to Corpse Tendrils4. Intelligence5. (Elementel) Resistance"
+  ],
+  [
+    "Amulet",
+    "Blighted Offensive Aspect",
+    "1. Movement Speed2. Essence Cost Reduction3. +xx Ranks to Gloom Passive4. Cooldown Reduction5. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time6. +xx Ranks to Corpse Skills"
+  ],
+  [
+    "Ring 1",
+    "Resource Aspect of the Umbral",
+    "1. Critical Strike Chance2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Damage to Enemies Affected by Shadow Damage Over Time"
+  ],
+  [
+    "Ring 2",
+    "Aspect of Exposed Flesh",
+    "1. Critical Strike Chance2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Damage to Enemies Affected by Shadow Damage Over Time "
+  ]
+]

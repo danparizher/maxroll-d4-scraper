@@ -1,0 +1,57 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon(1-Handed-Axe)",
+    "Aftershock",
+    "Implicit: Damage To Healthy Enemies1. High Damage per Second2. Willpower3. All Stats4. Damage to Close Enemies5. Damage To Poisoned Enemies6. Vulnerable Damage7. Damage over Time8. Critical Strike Damage9. Critical Strike Damage With Werewolf SkillsSockets Royal Emerald"
+  ],
+  [
+    "Totem",
+    "SubterraneanorTrampled Earthor Blurred BeastorAccelerating",
+    "1. Critical Strike Chance2. Cooldown Reduction3. Damage Reduction From Poisoned Enemies4. Lucky Hit Chance5. Spirit Cost Reduction6. Resource Generation7. Damage Reduction While FortifiedSockets Royal Emerald"
+  ],
+  [
+    "Helm",
+    "Might",
+    "1. +Ranks To Poison Creeper2. Single Resistance3. Cooldown Reduction4. Maximum Life5. Total Armor6. WillpowerSocket Royal Ruby"
+  ],
+  [
+    "Chest",
+    "Vigorous AspectorDisobedience",
+    "1. Damage Reduction From Poisoned2. Damage Reduction While Fortified3. Damage Reduction From Close4. Damage Reduction From Distant5. Damage Reduction 6. Max LifeSockets Royal Ruby"
+  ],
+  [
+    "Gloves",
+    "SubterraneanorTrampled Earthor Blurred BeastorAccelerating",
+    "1. Critical Strike Chance2. Lucky Hit3. Attack Speed4. Ranks of Shred5. Willpower6. Dexterity7. Intelligence"
+  ],
+  [
+    "Pants",
+    "Vigorous AspectorDisobedience",
+    "1. Damage Reduction From Poisoned2. Damage Reduction While Fortified3. Damage Reduction From Close4. Damage Reduction From Distant5. Damage Reduction 6.  Maximum Life7. Total ArmorSockets Royal Ruby"
+  ],
+  [
+    "Boots",
+    "Craven",
+    "Implicit: Max Evade Charges1. Movement Speed2. 2/3: Two of: Fire, Cold, Shadow, Poison 4. Total Armor while in Werewolf Form5. Dodge Chance6. Willpower7. Dodge Chance Against Distant Enemies8. Fortify Generation"
+  ],
+  [
+    "Amulet",
+    "Stormclaw's",
+    "1. Ranks to Call of the Wild2. Ranks of All Companion Skills3. Cooldown Reduction4. Damage Reduction From Poisoned Enemies5. Ranks to Toxic Claws6. Ranks to Envenom7. Damage Reduction While FortifiedSocket Single Resistance"
+  ],
+  [
+    "Ring 1",
+    "SubterraneanorTrampled Earthor Blurred BeastorAccelerating",
+    "1. Critical Strike Chance 2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Damage to Poisoned Enemies6. Damage to Crowd Controlled Enemies7. Damage to Slowed EnemiesSocket Single Resistance"
+  ],
+  [
+    "Ring 2",
+    "SubterraneanorTrampled Earthor Blurred BeastorAccelerating",
+    "1. Critical Strike Chance 2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Damage to Poisoned Enemies6. Damage to Crowd Controlled Enemies7. Damage to Slowed EnemiesSocket Single Resistance"
+  ]
+]

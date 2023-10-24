@@ -1,0 +1,87 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Two-HandedBludgeoning Weapon",
+    "Needleflare",
+    "1. Damage while Berserking 2. Damage to Close Enemies3. Strength 4. Basic Skill Damage5. All Stats6. Damage to Bleeding Enemies7. Vulnerable Damage"
+  ],
+  [
+    "Dual WieldWeapon 1(Unique)",
+    "Ramaladni's Magnum Opus(used in an effort to make Frenzy do damage)",
+    "1. High Damage per Second2. Increased Damage per Point of Fury (0.4)3. Maximum Fury4. Damage to Close Enemies5. Damage with Dual-Wielded Weapons"
+  ],
+  [
+    "Dual WieldWeapon 1(Alternative)",
+    "Rapid",
+    "1. Damage while Berserking 2. Damage to Close Enemies3. Strength 4. Basic Skill Damage5. All Stats6. Damage to Bleeding Enemies7. Vulnerable Damage"
+  ],
+  [
+    "Dual WieldWeapon 2(Axe)",
+    "One of:Death Wish (if using Ancients' Oath)Inner CalmEdgemaster\u2019s",
+    "1. Damage while Berserking 2. Damage to Close Enemies3. Strength 4. Basic Skill Damage5. All Stats6. Damage to Bleeding Enemies7. Vulnerable Damage"
+  ],
+  [
+    "Two-Handed Slashing Weapon(Unique)",
+    "Ancients' Oath",
+    "1. Enemies Pulled Take Bonus Damage (50%)2. Damage while Berserking 3. Damage to Close Enemies4. Vulnerable Damage5. Ranks of Steel Grasp"
+  ],
+  [
+    "Two-HandedSlashing Weapon(Axe Alternative)",
+    "Death Wish (if not using Ancients' Oath)",
+    "1. Damage while Berserking 2. Damage to Close Enemies3. Strength 4. Basic Skill Damage5. All Stats6. Damage to Bleeding Enemies7. Vulnerable Damage"
+  ],
+  [
+    "Helm",
+    "Numbing Wrath",
+    "1. Cooldown Reduction2. Damage while Berserking 3. % Armor 4. Life / Maximum Fury5. Strength / All Stats 6. Resistance (as needed)"
+  ],
+  [
+    "Chest(Unique)",
+    "Razorplate",
+    "1. High Thorns Roll"
+  ],
+  [
+    "Chest(Defensive)",
+    "One of:Might",
+    "1. Damage Reduction from Close Enemies2. Damage Reduction while Fortified3. % Total Armor4. Maximum Life5. Damage Reduction6. Resistance (as needed)7. Thorns"
+  ],
+  [
+    "Gloves",
+    "One of:Death Wish (if using Ancients' Oath)Inner CalmEdgemaster\u2019s",
+    "1. Critical Strike Chance2. Strength3. All Stats4. Dexterity / Willpower5. Damage to Injured Enemies6. Attack Speed"
+  ],
+  [
+    "Pants",
+    "Disobedience",
+    "1. Damage Reduction from Close Enemies2. Damage Reduction while Fortified3. % Total Armor4. Maximum Life5. Damage Reduction6. Resistance (as needed)"
+  ],
+  [
+    "Boots ",
+    "Ghostwalker",
+    "1. Movement Speed2. Cold / Lightning / Poison Resistance3. Cold / Lightning / Poison Resistance4. Cold / Lightning / Poison Resistance5. Resistance (as needed)6. Fury Cost Reduction7. Damage Reduction while Injured8. Strength / All Stats9. Movement Speed for 4 Seconds After Killing an Elite"
+  ],
+  [
+    "Amulet(Unique)",
+    "Battle Trance",
+    "1. + Ranks of Frenzy2. Maximum Fury3. Cooldown Reduction4. Damage Reduction from Close Enemies"
+  ],
+  [
+    "Amulet(Alternative)",
+    "Might",
+    "1. Cooldown Reduction2. Damage Reduction from Close Enemies3. + Ranks of the Counteroffensive  Passive4. Damage Reduction while Fortified5. Thorns6. Movement Speed"
+  ],
+  [
+    "Ring 1",
+    "Bold Chieftain's",
+    "1. Damage While Berserking2. Maximum Life3. Maximum Fury4. Damage to Close Enemies5. Vulnerable Damage6. Physical Damage7. Damage to Bleeding Enemies"
+  ],
+  [
+    "Ring 2",
+    "One of:Death Wish (if using Ancients' Oath)Inner CalmEdgemaster\u2019s",
+    "1. Damage While Berserking2. Maximum Life3. Maximum Fury4. Damage to Close Enemies5. Vulnerable Damage6. Physical Damage7. Damage to Bleeding Enemies"
+  ]
+]

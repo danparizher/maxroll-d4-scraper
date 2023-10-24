@@ -1,0 +1,70 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon",
+    "one of:ConceitedControlElementalist'sStorm Swell",
+    "Weapon Type: Dagger1. High Damage per Second2. Intelligence3. All Stats4. Mastery Skill Damage5. Damage to Close Enemies6. Critical Strike Damage"
+  ],
+  [
+    "Off-Hand",
+    "one of:ConceitedControlElementalist'sStorm Swell",
+    "1. High Damage per Second2. Cooldown Reduction3. Mana Cost Reduction4. Resource Generation5. Critical Strike Chance6. Lucky Hit: % Chance to Restore Primary Resource"
+  ],
+  [
+    "Helm(Best in Slot)",
+    "Godslayer Crown"
+  ],
+  [
+    "Helm(Optional)",
+    "Unwavering",
+    "1. Cooldown Reduction2. Maximum Mana3. % Total Armor4. Maximum Life5. % Lucky Hit Chance While You Have a Barrier"
+  ],
+  [
+    "Chest(Optional)",
+    "Snowveiled",
+    "1. % Total Armor2. Damage Reduction from Distant Enemies3. Damage Reduction from Close Enemies4. Damage Reduction5. Maximum Life6. Damage Reduction from Enemies That Are Burning"
+  ],
+  [
+    "Chest(Best in Slot)",
+    "Raiment of the Infinite",
+    "1. Stun Duration2. Damage to Close Enemies3. Damage to Stunned Enemies4. Intelligence"
+  ],
+  [
+    "Gloves",
+    "one of:ConceitedControlElementalist'sStorm Swell",
+    "1. Critical Strike Chance2. Attack Speed3. Lucky Hit: % Chance to Restore Primary Resource4. Lucky Hit Chance5. Intelligence"
+  ],
+  [
+    "Pants",
+    "Disobedience",
+    "1 + Ranks of Meteor2. % Total Armor3. Damage Reduction from Distant Enemies4. Damage Reduction from Close Enemies5. Damage Reduction6. Maximum Life7. Damage Reduction from Enemies That Are Burning"
+  ],
+  [
+    "Boots(Best in Slot)",
+    "Flickerstep"
+  ],
+  [
+    "Boots(Optional)",
+    "Bounding Conduit",
+    "Implicit: + Max Evade Charges1. Mana Cost Reduction2. Movement Speed3. + Ranks of Frost Nova4. + Ranks of Teleport5. Intelligence"
+  ],
+  [
+    "Amulet",
+    "Aspect of Three Curses",
+    "1. Cooldown Reduction2. Mana Cost Reduction3. + Ranks of All Mastery Skills4. + Ranks of Devouring Blaze5. Movement Speed6. + Ranks of All Defensive Skills7. % Total Armor"
+  ],
+  [
+    "Ring 1",
+    "Prodigy\u2019s",
+    "1. Resource Generation2. Critical Strike Chance3. Fire Damage4. Maximum Life5. Damage to Close Enemies"
+  ],
+  [
+    "Ring 2",
+    "one of:ConceitedControlElementalist'sStorm Swell",
+    "1. Resource Generation2. Critical Strike Chance3. Fire Damage4. Maximum Life5. Damage to Close Enemies"
+  ]
+]

@@ -1,0 +1,82 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Ranged",
+    "Edgemaster\u2019s Aspect",
+    "Weapon Type: Crossbow1. High Damage per Second2. Vulnerable Damage3. Dexterity4. All stats5. Damage to Core skills6. Critical Strike Damage7. Damage to Crowd Controlled EnemiesSocket Royal Skull"
+  ],
+  [
+    "Melee 1 ",
+    "Aspect of Branching VolleysRapid AspectAspect of the ExpectantAspect of CorruptionAccelerating Aspect",
+    "Weapon Type: SwordDamage doesn't matter1. Vulnerable Damage2. Dexterity3. All stats4. Damage to Core skills5. Critical Strike Damage6. Damage to Crowd Controlled EnemiesSocket Royal Skull"
+  ],
+  [
+    "Melee 2 (Best in Slot)",
+    "Condemnation",
+    "Damage doesn't matter1. Damage with Combo Points2. Basic Skill Attack Speed3. Critical Strike Damage4. Damage with Dual-Wield Weapons5. Core Skill DamageSocket Royal Skull"
+  ],
+  [
+    "Melee 2(Regular)",
+    "Aspect of Branching VolleysRapid AspectAspect of the ExpectantAspect of CorruptionAccelerating Aspect",
+    "Weapon Type: SwordDamage doesn't matter1. Vulnerable Damage2. Dexterity3. All stats4. Damage to Core skills5. Critical Strike Damage6. Damage to Crowd Controlled EnemiesSocket Royal Skull"
+  ],
+  [
+    "Helm(Best in Slot)",
+    "Harlequin Crest",
+    "1. Damage Reduction2. Maximum Life3. Cooldown Reduction4. All Stats5. Resource RegenerationSocket Royal Ruby"
+  ],
+  [
+    "Helm (Regular)",
+    "Aspect of MightAspect of DisobedienceEnshrouding Aspect",
+    "1. Cooldown Reduction2. Cold Imbuement3. Poison Resistance4. Armor5. Life on Kill6. DexteritySocket Royal Ruby"
+  ],
+  [
+    "Chest",
+    "Aspect of Might Aspect of DisobedienceEnshrouding Aspect",
+    "1. Damage Reduction2. Armor3. Maximum Life4. Close Damage Reduction5. Distant Damage ReductionSockets Royal Ruby"
+  ],
+  [
+    "Gloves",
+    "Aspect of Branching VolleysRapid AspectAspect of the ExpectantAspect of CorruptionAccelerating Aspect",
+    "1. Ranks to Barrage2. Critical Strike Chance3. Lucky Hit Chance4. Attack Speed5. Dexterity "
+  ],
+  [
+    "Gloves (best in slot) ",
+    "Grasp of Shadow",
+    "1.  Ranks to Core Skills2.  Attack speed3.  Shadow Clone Damage4.  Dexterity"
+  ],
+  [
+    "Pants",
+    "Aspect of MightEnshrouding AspectAspect of Disobedience",
+    "Implicit: Potion Grants Barrier1. Damage Reduction2. Armor3. Maximum Life4. Imbuement Skill Cooldown Reduction5. Ranks to Dark ShroudSockets Royal Ruby"
+  ],
+  [
+    "Pants (best in slot)",
+    "Tibault's Will",
+    "1.  PH2.  PH3.  PH4.  PHSockets Royal Ruby"
+  ],
+  [
+    "Boots",
+    "Mangler's Aspect",
+    "Implicit:  Reduce Cooldown Evade 1. Movement Speed2. Fire Resistance3. Lightning Resistance4. Cold Resistance5. Dexterity6. Dodge Chance vs Distant enemies"
+  ],
+  [
+    "Amulet",
+    "Umbrous Aspect",
+    "1. Ranks to Weapon Mastery2. Cooldown Reduction3. Movement Speed4. Ranks to Imbuement Skills5. Damage Reduction6. Ranks to Exploit7. Ranks to MaliceSocket Royal Amethyst"
+  ],
+  [
+    "Ring 1",
+    "Rapid AspectAspect of the ExpectantAspect of Branching VolleysAspect of CorruptionAccelerating Aspect",
+    "1. Vulnerable Damage2. Critical Strike Chance3. Maximum Life4. Lucky Hit Chance5. Damage to Distant Enemies6. Damage to Close Enemies 7. Damage with Imbued SkillsSocket Royal Amethyst"
+  ],
+  [
+    "Ring 2",
+    "Rapid AspectAspect of the ExpectantAspect of Branching VolleysAspect of CorruptionAccelerating Aspect",
+    "1. Vulnerable Damage2. Critical Strike Chance3. Maximum Life4. Lucky Hit Chance5. Damage to Distant Enemies6. Damage to Close Enemies 7. Damage with Imbued SkillsSocket Royal Skull"
+  ]
+]

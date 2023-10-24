@@ -1,0 +1,82 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Ranged",
+    "Aspect of Encircling Blades",
+    "Weapon Type: CrossbowDamage doesn't matter1. Damage to Crowd Controlled Enemies2. Ultimate Skill Damage3. Close Damage4. Dexterity5. All Stats6. Core Skill DamageSocket Royal Diamond"
+  ],
+  [
+    "Melee 1 ",
+    "Aspect of Pestilent PointsRapid AspectAspect of the ExpectantAspect of Bursting Venoms",
+    "Weapon Type: Sword1. Damage to Crowd Controlled Enemies2. Ultimate Skill Damage3. Close Damage4. Dexterity5. All Stats6. Core Skill DamageSocket Royal Diamond"
+  ],
+  [
+    "Melee 2 (Best in Slot)",
+    "Condemnation",
+    "1. Damage with Combo Points2. Basic Skill Attack Speed3. Critical Strike Damage4. Damage with Dual-Wield Weapons5. Core Skill DamageSocket Royal Diamond"
+  ],
+  [
+    "Melee 2(Regular)",
+    "Aspect of Pestilent PointsRapid AspectAspect of the ExpectantAspect of Bursting Venoms",
+    "Weapon Type: Sword1. Damage to Crowd Controlled Enemies2. Ultimate Skill Damage3. Close Damage4. Dexterity5. All Stats6. Core Skill DamageSocket Royal Diamond"
+  ],
+  [
+    "Helm (Regular)",
+    "Aspect of MightAspect of DisobedienceCheat's Aspect",
+    "1. Cooldown Reduction2. Poison Imbuement3. Poison Resistance4. Armor5. DexteritySocket Royal Ruby"
+  ],
+  [
+    "Helm (Optional)",
+    "Godslayer Crown",
+    "1.  PH2.  PH3.  PH4.  PHSockets Royal Ruby"
+  ],
+  [
+    "Chest",
+    "Aspect of Might Aspect of DisobedienceCheat's Aspect",
+    "1. Damage Reduction2. Fire Resistance3. Lightning Resistance4. Cold Resistance5. Distant Damage ReductionSockets Royal Ruby"
+  ],
+  [
+    "Gloves",
+    "Aspect of Pestilent PointsRapid AspectAspect of the ExpectantAspect of Bursting Venoms",
+    "1. Ranks to Flurry2. Critical Strike Chance3. Lucky Hit Chance4. Attack Speed5. Dexterity "
+  ],
+  [
+    "Pants",
+    "Aspect of MightAspect of DisobedienceCheat's Aspect",
+    "Implicit: Potion Grants Barrier1. Damage Reduction2. Armor3. Maximum Life4. Imbuement Skill Cooldown Reduction5. Close Damage ReductionSockets Royal Ruby"
+  ],
+  [
+    "Pants (Best in Slot)",
+    "Tibault's Will",
+    "1.  PH2.  PH3.  PH4.  PHSockets Royal Ruby"
+  ],
+  [
+    "Boots",
+    "Mangler's Aspect",
+    "Implicit: Movement Speed on Evade1. Movement Speed2. Damage Reduction While Injured3. Dodge Chance4. Movement Speed After Elite Kill5. Energy Cost Reduction6.  Dexterity"
+  ],
+  [
+    "Boots (Best in Slot)",
+    "Flickerstep",
+    "1.  PH2.  PH3.  PH4.  PH"
+  ],
+  [
+    "Amulet",
+    "Umbrous Aspect",
+    "1.  Ranks to Weapon Mastery2. Cooldown Reduction3. Movement Speed4. Ranks to Imbuement Skills5. Damage Reduction6. Ranks to Exploit7. Ranks to MaliceSocket Royal Amethyst"
+  ],
+  [
+    "Ring 1",
+    "Rapid AspectAspect of the ExpectantAspect of Pestilent PointsAspect of Bursting Venoms",
+    "1. Damage to Crowd Controlled Enemies2. Critical Strike Chance3. Maximum Life4. Close Damage5. Lucky Hit Chance6. Critical Strike DamageSocket Royal Amethyst"
+  ],
+  [
+    "Ring 2",
+    "Rapid AspectAspect of the ExpectantAspect of Pestilent PointsAspect of Bursting Venoms",
+    "1. Damage to Crowd Controlled Enemies2. Critical Strike Chance3. Maximum Life4. Close Damage5. Lucky Hit Chance6. Critical Strike DamageSocket Royal Skull"
+  ]
+]

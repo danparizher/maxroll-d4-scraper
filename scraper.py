@@ -1,11 +1,13 @@
 from __future__ import annotations
 
+import concurrent.futures
 import json
 import logging
-import re
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+import requests
+from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -18,6 +20,17 @@ logging.basicConfig(
 )
 
 
+def get_soup(url: str) -> BeautifulSoup:
+    r = requests.get(url, timeout=5)
+    return BeautifulSoup(r.text, "html.parser")
+
+
+def get_class_paths() -> list[str]:
+    root = "https://maxroll.gg/d4/build-guides?filter[metas][taxonomy]=taxonomies.metas&filter[metas][value]=d4-endgame&filter[classes][taxonomy]=taxonomies.classes&filter[classes][value]=d4-"
+    classes = ["barbarian", "druid", "necromancer", "rogue", "sorcerer"]
+    return [root + c for c in classes]
+
+
 def init_driver() -> webdriver.Chrome:
     options = webdriver.ChromeOptions()
     options.add_argument("headless")
@@ -27,26 +40,10 @@ def init_driver() -> webdriver.Chrome:
     return webdriver.Chrome(options=options)
 
 
-def get_class_paths() -> list[str]:
-    root = "https://maxroll.gg/d4/build-guides?filter[metas][taxonomy]=taxonomies.metas&filter[metas][value]=d4-endgame&filter[classes][taxonomy]=taxonomies.classes&filter[classes][value]=d4-"
-    classes = ["barbarian", "druid", "necromancer", "rogue", "sorcerer"]
-    return [root + c for c in classes]
-
-
-def clear_jsons() -> None:
-    # delete the contents of the builds.json file
-    with Path("builds.json").open("w") as f:
-        json.dump([], f)
-
-    # Delete all files in the builds directory
-    for file in Path("builds").glob("*"):
-        file.unlink()
-
-
-def get_build_paths(path: str) -> list[str]:
+def get_build_paths_for_class(path: str) -> list[str]:
+    build_paths = []
     logging.info("Retrieving build paths from %s", path)
     driver = init_driver()
-    build_paths = []
     driver.get(path)
     WebDriverWait(driver, 20).until(
         EC.presence_of_element_located(
@@ -64,132 +61,58 @@ def get_build_paths(path: str) -> list[str]:
     driver.quit()
     for build_path in build_paths:
         logging.info("Retrieved build path: %s", build_path)
-
-    # create the build_paths.json file if it doesn't exist and write to it. If it already exists, overwrite the data
-    # Format should be the build name as the key and the build path as the value
-    # Everything after build-guides/ and before -guide is the build name
-
-    build_json = [
-        {
-            build_path.split("/")[-1].split("-guide")[0]: build_path,
-        }
-        for build_path in build_paths
-    ]
-
-    # populate the build_paths.json file with `build_json`. If the file doesn't exist, create it. If there is existing data, overwrite it
-    with Path("builds.json").open("r") as f:
-        existing_data = json.load(f)
-    existing_data += build_json
-    with Path("builds.json").open("w") as f:
-        json.dump(existing_data, f)
-
     return build_paths
 
 
-# go to every build path and get print the contents within:
-# 1. Go to 'https://maxroll.gg/d4/build-guides/hammer-of-the-ancients-barbarian-guide' (Which is the first item in the list)
-# 2. There is a table of information with the following headers: Slot, Aspect, Stat Priority
-# 3. Table Selector: #main-article > div.table-block > table > tbody
-# 4. Return the whole table as a list of lists
-
-# Header: #main-article > div.table-block > table > tbody > tr:nth-child(1)
-# Row 1: #main-article > div.table-block > table > tbody > tr:nth-child(2)
-# Row 2: #main-article > div.table-block > table > tbody > tr:nth-child(3)
+def get_build_paths() -> list[str]:
+    all_build_paths = []
+    class_paths = get_class_paths()
+    with ThreadPoolExecutor() as executor:
+        future_to_path = {
+            executor.submit(get_build_paths_for_class, path): path
+            for path in class_paths
+        }
+        for future in concurrent.futures.as_completed(future_to_path):
+            path = future_to_path[future]
+            try:
+                data = future.result()
+            except Exception:
+                logging.exception("%s generated an exception", path)
+            else:
+                all_build_paths.extend(data)
+    return all_build_paths
 
 
 def get_stat_priorities(path: str) -> list[list[str]]:
-    try:
-        driver = init_driver()
-        stat_priorities = []
-        driver.get(path)
-        # wait for the table to load
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located(
-                (
-                    By.CSS_SELECTOR,
-                    "#main-article > div.table-block > table > tbody",
-                ),
-            ),
-        )
-        # get the table
-        table = driver.find_element(
-            By.CSS_SELECTOR,
-            "#main-article > div.table-block > table > tbody",
-        )
-        # get the rows
-        rows = table.find_elements(By.TAG_NAME, "tr")
-        for row in rows:
-            # get the text from the entire row
-            row_text = row.text
-            # split the row text into cells
-            cells = row_text.split("\n")
-            stat_priorities.append(cells)
-        driver.quit()
-        logging.info("Retrieved stat priorities from %s", path)
-    except Exception:
-        logging.exception("An error occurred while getting stat priorities")
-        return []
-    else:
-        return stat_priorities
-
-
-
-def clean_stat_priorities(
-    stat_priorities: list[list[str]],
-    build_path: str,
-) -> list[list[str]]:
-    cleaned_stat_priorities = [
-        [
-            # remove the unicode characters
-            re.sub("\u200d", " ", item).strip()
-            for item in sublist
-            if item.strip()
-        ]
-        for sublist in stat_priorities
-        # remove unique items, because their stats are consistent
-        if all("unique" not in item.lower() for item in sublist)
+    soup = get_soup(path)
+    logging.info("Retrieving stat priorities from %s", path)
+    return [
+        [stat.text for stat in stat_priority.find_all("td") if stat.text]
+        for stat_priority in soup.find_all("tbody")[0].find_all("tr")
     ]
 
-    # write the cleaned stat priorities
-    if not Path("builds").exists():
-        Path("builds").mkdir(parents=True)
-    build_name = build_path.split("/")[-1].split("-guide")[0]
-    file_path = Path("builds") / f"{build_name}.json"
 
-    if file_path.exists():
-        with file_path.open("r") as f:
-            existing_data = json.load(f)
-    else:
-        existing_data = []
+def build_jsons() -> None:
+    # Delete all files in the builds directory
+    for file in Path("builds").glob("*"):
+        file.unlink()
 
-    existing_data += cleaned_stat_priorities
-    with Path(file_path).open("w") as f:
-        json.dump(existing_data, f)
+    build_paths = get_build_paths()
+    build_json = []
 
-    return cleaned_stat_priorities
+    Path("builds").mkdir(exist_ok=True)
+
+    for path in build_paths:
+        title = path.split("/")[-1].split("-guide")[0]
+        build_json.append({title: path})
+
+        priorities = get_stat_priorities(path)
+        with (Path("builds") / f"{title}.json").open("w") as f:
+            json.dump(priorities, f, indent=2)
+
+    with Path("builds.json").open("w") as f:
+        json.dump(build_json, f, indent=2)
 
 
 if __name__ == "__main__":
-    print("\033c", end="")
-    clear_jsons()
-    class_paths = get_class_paths()
-    with ThreadPoolExecutor() as executor:
-        build_paths = executor.map(get_build_paths, class_paths)
-        build_paths = [path for sublist in build_paths for path in sublist]
-
-    logging.info("Retrieving stat priorities, this may take a while...")
-
-    with ThreadPoolExecutor() as executor:
-        stat_priorities = executor.map(get_stat_priorities, build_paths)
-        stat_priorities = [
-            priority for sublist in stat_priorities for priority in sublist
-        ]
-
-    logging.info("Cleaning stat priorities...")
-    with ThreadPoolExecutor() as executor:
-        cleaned_stat_priorities = executor.map(
-            clean_stat_priorities,
-            stat_priorities,
-            build_paths,
-        )
-    logging.info("Done!")
+    build_jsons()

@@ -8,12 +8,18 @@ attrs==23.1.0
     # via
     #   outcome
     #   trio
+beautifulsoup4==4.12.2
+    # via -r requirements.in
 build==1.0.3
     # via pip-tools
 certifi==2023.7.22
-    # via selenium
+    # via
+    #   requests
+    #   selenium
 cffi==1.16.0
     # via trio
+charset-normalizer==3.3.1
+    # via requests
 click==8.1.7
     # via pip-tools
 colorama==0.4.6
@@ -23,7 +29,9 @@ colorama==0.4.6
 h11==0.14.0
     # via wsproto
 idna==3.4
-    # via trio
+    # via
+    #   requests
+    #   trio
 outcome==1.3.0
     # via trio
 packaging==23.2
@@ -36,12 +44,16 @@ pyproject-hooks==1.0.0
     # via build
 pysocks==1.7.1
     # via urllib3
+requests==2.31.0
+    # via -r requirements.in
 selenium==4.14.0
     # via -r requirements.in
 sniffio==1.3.0
     # via trio
 sortedcontainers==2.4.0
     # via trio
+soupsieve==2.5
+    # via beautifulsoup4
 trio==0.22.2
     # via
     #   selenium
@@ -50,8 +62,8 @@ trio-websocket==0.11.1
     # via selenium
 urllib3[socks]==2.0.7
     # via
+    #   requests
     #   selenium
-    #   urllib3
 wheel==0.41.2
     # via pip-tools
 wsproto==1.2.0
