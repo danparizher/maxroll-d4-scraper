@@ -1,27 +1,57 @@
 [
   [
-    "1.",
-    "Deadraiser",
-    "Deadraiser"
+    "SLOT",
+    "ASPECT/UNIQUE",
+    "STAT PRIORITY"
   ],
   [
-    "2.",
-    "Control",
-    "Control"
+    "Weapon(Wand)",
+    "One of:Aspect of ReanimationAspect of Grasping VeinsOsseous Gale AspectBlood Getter's Aspect",
+    "Implicit: Lucky Hit Chance1. Critical Strike Damage2. Vulnerable Damage3. Damage to Close Enemies4. Damage to Stunned Enemies5. Damage to Crowd Controlled Enemies6. Damage to Slowed Enemies7. All Stats"
   ],
   [
-    "3.",
-    "Exploit",
-    "Exploit"
+    "Off-Hand",
+    "One of:Osseous Gale AspectAspect of ReanimationAspect of Grasping VeinsBlood Getter's Aspect",
+    "1. Cooldown Reduction2. Lucky Hit Chance3. Critical Strike Chance4. Maximum Minion Life5. Lucky Hit Chancewhile You Have a Barrier6. All Stats "
   ],
   [
-    "4.",
-    "Mage",
-    "Warrior"
+    "Helm",
+    "One of: Aspect of DisobedienceAspect of Hardened BonesAspect of Shielding Storm",
+    "1. Maximum Life2. Cooldown Reduction3. Lucky Hit Chance whileYou Have a Barrier4. % Total Armor5. All Stats6. Intelligence"
   ],
   [
-    "5.",
-    "Warrior",
-    "Mage"
+    "Chest",
+    "One of:Aspect of Hardened BonesAspect of DisobedienceAspect of Shielding Storm",
+    "1. % Total Armor2. Damage Reduction from Close Enemies3. Damage Reduction4. Maximum Minion Life5. Damage Reduction fromDistant Enemies6. Damage Reduction whileFortified7. Summoning Skill Damage8. Physical Damage9. All Stats"
+  ],
+  [
+    "Gloves",
+    "One of:Aspect of ReanimationAspect of Grasping VeinsOsseous Gale AspectBlood Getter's Aspect",
+    "1. Lucky Hit Chance2. Critical Strike Chance3. Attack Speed4. All Stats"
+  ],
+  [
+    "Pants",
+    "One of:Aspect of Shielding StormAspect of Hardened BonesAspect of Disobedience",
+    "Implicit: Potion Grants Barrier1. % Total Armor2. Damage Reduction from Close Enemies3. Maximum Life4. Damage Reduction whileFortified5. Maximum Minion Life6. Damage Reduction7. Damage Reduction from Distant Enemies8. Dodge Chance"
+  ],
+  [
+    "Boots",
+    "Viscous Aspect",
+    "Implicit: Max Evade Charges1. Movement Speed2. Ranks of Corpse Tendrils3. Dodge Chance4. Movement Speed AfterKilling an Elite5. All Stats6. Damage Reduction whileInjured"
+  ],
+  [
+    "Amulet",
+    "Aspect of Frenzied Dead",
+    "1. Ranks of Hellbent Commander2. Movement Speed3. Cooldown Reduction4. Minion Attack Speed5. Lucky Hit Chance whileYou Have a Barrier6. Total Armor7. Damage Reduction8. Damage Reduction from Distant Enemies9. Damage Reduction whileFortified10. Summoning Skill Damage"
+  ],
+  [
+    "Ring 1",
+    "Ring of Mendeln",
+    "1. Lucky Hit: Chance to empowerall of your Minions, causing thenext attack from each to explodefor Physical Damage2. Lucky Hit Chance3. Minion Attack Speed4. Maximum Minion Life5. Thorns"
+  ],
+  [
+    "Ring 2",
+    "One of:Aspect of ReanimationAspect of Grasping VeinsOsseous Gale AspectBlood Getter's Aspect",
+    "1. Critical Strike Chance2. Critical Strike Damage3. Vulnerable Damage4. Lucky Hit Chance5. Maximum Life6. Damage to Crowd Controlled Enemies7. Damage to Slowed Enemies8. Damage to Close Enemies9. Physical Damage"
   ]
 ]

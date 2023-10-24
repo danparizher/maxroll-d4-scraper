@@ -96,13 +96,34 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
     for path in paths:
         soup = get_soup(path)
         logging.info("Retrieving stat priorities from %s", path)
-        build_jsons.append(
-            [
-                [stat.text for stat in stat_priority.find_all("td") if stat.text]
-                for stat_priority in soup.find_all("tbody")[0].find_all("tr")
-            ],
+        # Define the required class names
+        required_class_names = [
+            "wp-block-advgb-table",
+            "advgb-table-frontend",
+            "is-style-stripes",
+            "aligncenter",
+        ]
+        # Find the table that contains the most matching class names
+        table = max(
+            soup.find_all("table"),
+            key=lambda tag: sum(
+                c in tag.get("class", []) for c in required_class_names
+            ),
         )
-    return build_jsons
+        if table is not None:
+            tbody = table.find("tbody")
+            if tbody is not None:
+                build_jsons.append(
+                    [
+                        [
+                            stat.text
+                            for stat in stat_priority.find_all("td")
+                            if stat.text
+                        ]
+                        for stat_priority in tbody.find_all("tr")
+                    ],
+                )
+    return [item for sublist in build_jsons for item in sublist]
 
 
 def build_jsons() -> None:
@@ -126,7 +147,7 @@ def build_jsons() -> None:
             except Exception:
                 logging.exception("%s generated an exception", path)
             else:
-                priorities = data[0]  # Assuming there's only one path in the list
+                priorities = data
                 title = path.split("/")[-1].split("-guide")[0]
                 build_json.append({title: path})
                 with (Path("builds") / f"{title}.json").open("w") as f:

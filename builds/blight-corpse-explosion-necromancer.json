@@ -1,27 +1,52 @@
 [
   [
-    "1.",
-    "Control",
-    "Darkness"
+    "SLOT",
+    "ASPECT/UNIQUE",
+    "STAT PRIORITY"
   ],
   [
-    "2.",
-    "Scourge",
-    "Control"
+    "Weapon(2-Handed-Sword)",
+    "Blighted Aspect",
+    "Implicit: Critical Strike Damage1. Critical Strike Damage2. Damage to Affected by Shadow Damage Over Time Enemies3. Vulnerable Damage4. All Stats5. Damage to Crowd Controlled Enemies6. Damage to Slowed Enemies7. Damage to Close Enemies8. Intelligence"
   ],
   [
-    "3.",
-    "Exploit",
-    "Essence"
+    "Helm",
+    "One of: Aspect of DisobedienceAspect of MightAspect of Shielding StormAspect of the Embalmer",
+    "1. Intelligence2. Maximum Life3. Cooldown Reduction4. Lucky Hit Chance while You Have a Barrier5. % Total Armor6. All Stats7. Crowd Control Duration"
   ],
   [
-    "4.",
-    "Darkness",
-    "Scourge"
+    "Chest",
+    "One of: Aspect of Shielding StormAspect of DisobedienceAspect of MightAspect of the Embalmer",
+    "1. % Total Armor2. Damage Reduction from Close Enemies3. Damage Reduction4. Maximum Life5. Damage Reduction from EnemiesAffected by Shadow Damage Over Time6. Damage Reduction fromDistant Enemies7. Shadow Damage8. Darkness Skill Damage9. All Stats10. Intelligence"
   ],
   [
-    "5.",
-    "Essence",
-    "Exploit"
+    "Gloves",
+    "One of:Aspect of Ultimate ShadowBlood-soaked AspectSacrificial AspectHowl from Below",
+    "1. Critical Strike Chance2. Attack Speed3. Ranks of Blight4. Lucky Hit Chance5. Shadow Damage Over Time6. All Stats7. Intelligence8. Corpse Explosion Damage"
+  ],
+  [
+    "Pants",
+    "One of:Aspect of MightAspect of DisobedienceAspect of Shielding StormAspect of the Embalmer",
+    "Implicit: Potion Grants Barrier1. Ranks of Corpse Explosion2. % Total Armor3. Damage Reduction from CloseEnemies4. Damage Reduction from EnemiesAffected by Shadow Damage OverTime5. Damage Reduction6. Maximum Life7. Damage Reduction from Distant Enemies"
+  ],
+  [
+    "Boots",
+    "Aspect of the Void",
+    "Implicit: Attacks Reduce Evade'sCooldown1. Movement Speed2. Ranks of Corpse Tendrils3. Dodge Chance4. All Stats5. Essence Cost Reduction6. Intelligence"
+  ],
+  [
+    "Amulet",
+    "Aspect of Decay",
+    "1. Ranks of All Corpse Skills2. Cooldown Reduction3. Movement Speed4. Total Armor5. Ranks of Terror Passive*6. Ranks of Gloom Passive*7. Ranks of Fueled by Death*8. Lucky Hit Chance whileYou Have a Barrier9. Damage Reduction10. Damage Reduction from Distant Enemies11. Darkness Skill Damage* These stats cannot spawn together on the same Amulet"
+  ],
+  [
+    "Ring 1",
+    "Aspect of Grasping Veins",
+    "1. Critical Strike Chance2. Critical Strike Damage3. Vulnerable Damage4. Lucky Hit Chance5. Maximum Life6. Damage to Crowd Controlled Enemies7. Damage to Slowed Enemies8. Damage to Close Enemies9. Shadow Damage"
+  ],
+  [
+    "Ring 2",
+    "One of:X'Fal's Corroded SignetBlood-soaked AspectAspect of Ultimate ShadowAspect of the UmbralSacrificial Aspect",
+    "1. Shadow Damage Over TimeEffect2. Critical Strike Chance3. Maximum Life4. Critical Strike Damage5. Vulnerable Damage6. Damage to Crowd Controlled Enemies7. Damage to Slowed Enemies8. Damage to Close Enemies9. Lucky Hit Chance10. Shadow Damage"
   ]
 ]
