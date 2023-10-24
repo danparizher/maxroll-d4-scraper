@@ -1,0 +1,72 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Ranged",
+    "Repeatingor Corruption",
+    "Weapon Type: Bow1. High Damage per Second2. Damage to Crowd Controlled Enemies3. Ultimate Skill Damage4. All Stats5. Dexterity 6. Vulnerable Damage7. Core Skill DamageSockets Royal Diamond"
+  ],
+  [
+    "Melee 1",
+    "One of: Edgemaster\u2019sConceited AcceleratingCorruptionorRepeating",
+    "Weapon Type: SwordDamage doesn't matter1. Damage to Crowd Controlled Enemies2. Ultimate Skill Damage3. All Stats4. Dexterity 5. Vulnerable Damage6. Core Skill DamageSocket Royal Diamond"
+  ],
+  [
+    "Melee 2",
+    "One of: Edgemaster\u2019sConceited AcceleratingCorruptionorRepeating",
+    "Weapon Type: SwordDamage doesn't matter1. Damage to Crowd Controlled Enemies2. Ultimate Skill Damage3. All Stats4. Dexterity 5. Vulnerable Damage6. Core Skill DamageSocket Royal Diamond"
+  ],
+  [
+    "Helm",
+    "One of: DisobedienceEscape Artist's",
+    "1. Any Resistance 2. Cooldown Reduction3. Total Armor %4. Ranks to Poison Imbuement5. Maximum Life6. Total ArmorSocket Royal Ruby"
+  ],
+  [
+    "Chest",
+    "One of:DisobedienceEscape Artist's",
+    "1. Any Resistance (with Flickerstep)2. Any Resistance (with Flickerstep)3. Any Resistance (with Flickerstep)4. Damage Reduction5. Damage Reduction from Close6. Total Armor %7. Damage Reduction from Distant8. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Gloves",
+    "Aspect of Noxious Ice",
+    "1. Ranks to Rapid Fire2. Attack Speed3. Critical Strike Chance4. Lucky Hit Chance5. All Stats"
+  ],
+  [
+    "Pants(Best in Slot)",
+    "Temerity",
+    "Implicit: Potion Grants Movement Speed1. Maximum Life2. Healing Received3. Potion Drop Rate4. Lucky Hit: Chance to HealSockets Royal Ruby"
+  ],
+  [
+    "Pants(Regular)",
+    "Aspect of the Protector",
+    "Implicit: Potion Grants Barrier1. Damage Reduction2. Damage Reduction from Close3. Total Armor 4. Damage Reduction from Distant5. Maximum Life Sockets Royal Ruby"
+  ],
+  [
+    "Boots(Best in Slot)",
+    "Flickerstep",
+    "Implicit: Attacks Reduce Evade Cooldown1. Movement Speed2. Ultimate Skill Damage3. Damage Reduction from Close4. All Stats"
+  ],
+  [
+    "Boots(Regular)",
+    "Ravager's",
+    "Implicit: Max Evade Charges1. Movement Speed2. Any Resistance3. Any Resistance4. Any Resistance5. Movement Speed on Elite Kill6. Dodge Chance"
+  ],
+  [
+    "Amulet",
+    "Word of Hakan",
+    "1. Rain of Arrows Cooldown Reduction2. Ultimate Skill Damage3. Movement Speed4. Ranks of All Imbuement SkillsSocket any Gem to cap Resistances or Royal Skull if capped"
+  ],
+  [
+    "Ring 1",
+    "One of: Edgemaster\u2019sConceited AcceleratingCorruptionorRepeating",
+    "1. Damage to Crowd Controlled Enemies2. Resource Generation3. Critical Strike Chance4. Maximum Life5. Vulnerable Damage6. Critical Strike DamageSocket any Gem to cap Resistances or Royal Skull if capped"
+  ],
+  [
+    "Ring 2",
+    "One of: Edgemaster\u2019sConceited AcceleratingCorruptionorRepeating",
+    "1. Damage to Crowd Controlled Enemies2. Resource Generation3. Critical Strike Chance4. Maximum Life5. Vulnerable Damage6. Critical Strike DamageSocket any Gem to cap Resistances or Royal Skull if capped"
+  ]
+]

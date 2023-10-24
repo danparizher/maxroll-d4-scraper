@@ -1,0 +1,75 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Ranged",
+    "Edgemaster\u2019s",
+    "Weapon Type: Crossbow1. High Damage per Second 2. Damage to Crowd Controlled Enemies3. Damage to Close Enemies4. All Stats 5. Dexterity6. Core Skill Damage7. Vulnerable Damage8. Critical Strike DamageSockets Royal Skull"
+  ],
+  [
+    "Melee 1 (Regular)",
+    "Accelerating",
+    "Weapon Type: Dagger1. High Damage per Second 2. Damage to Crowd Controlled Enemies3. Damage to Close Enemies4. All Stats 5. Dexterity6. Core Skill Damage7. Vulnerable Damage8. Critical Strike DamageSocket Royal Skull"
+  ],
+  [
+    "Melee 1 (Best in Slot)",
+    "Condemnation",
+    "1. High Damage per Second2. Damage with Combo Points3. Basic Skill Attack Speed4. Core Skill Damage5. Critical Strike Damage6. Damage with Dual-Wield WeaponsSocket Royal Skull"
+  ],
+  [
+    "Melee 2",
+    "One of: Encircling BladesRapid AspectExpectant",
+    "Weapon Type: Dagger1. High Damage per Second 2. Damage to Crowd Controlled Enemies3. Damage to Close Enemies4. All Stats 5. Dexterity6. Core Skill Damage7. Vulnerable Damage8. Critical Strike DamageSocket Royal Skull"
+  ],
+  [
+    "Helm ",
+    "One of: MightCheat's",
+    "1.  Any Resistance 2.  Any Resistance (with Penitent Greaves)3. Cooldown Reduction4. % Total Armor 5. Maximum Life6. Ranks to Shadow ImbuementSocket Royal Ruby"
+  ],
+  [
+    "Chest",
+    "One of: Mangler'sShared Misery",
+    "1.  Any Resistance (with Penitent Greaves)2. % Total Armor3. Damage Reduction4. Close Damage Reduction5. Distant Damage Reduction5. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Gloves",
+    "One of: Mangler'sShared Misery",
+    "1. Ranks to Flurry2. Ranks to Rapid Fire3. Critical Strike Chance4. Attack Speed5. All Stats6. Dexterity"
+  ],
+  [
+    "Pants",
+    "One of: MightCheat's",
+    "Implicit: Potion Grants Barrier1.  Any Resistance (with Penitent Greaves)2. % Total Armor3. Damage Reduction4. Close Damage Reduction5. Distant Damage Reduction5. Maximum LifeSockets Royal Ruby"
+  ],
+  [
+    "Boots (Best in Slot)",
+    "Penitent Greaves",
+    "Implicit: Movement Speed on Evade1. Movement Speed2. Cold Resistance3. Damage to Chilled Enemies4. Crowd Control Duration5. Slow Duration Reduction"
+  ],
+  [
+    "Boots(Regular)",
+    "Ravager's",
+    "Implicit: Movement Speed on Evade1. Movement Speed2. Any Resistance3. Any Resistance4. Any Resistance5. Movement Speed on Elite Kill6. Dodge Chance"
+  ],
+  [
+    "Amulet",
+    "Ghostwalker",
+    "1. Movement Speed2. Cooldown Reduction3. Ranks to Weapon Mastery*4. Ranks to Malice*5. Ranks to Exploit*6. Damage Reduction7. % Total Armor 8. Close Damage Reduction9. Distant Damage ReductionSocket any Gem to cap Resistances or Royal Skull if capped"
+  ],
+  [
+    "* These affixes cannot appear on the same item together. "
+  ],
+  [
+    "Ring 1",
+    "One of: Encircling BladesRapid AspectExpectant",
+    "1. Damage to Crowd Controlled Enemies2. Damage to Close Enemies3. Critical Strike Chance4. Maximum Life5. Resource Generation6. Vulnerable DamageSocket any Gem to cap Resistances or Royal Skull if capped"
+  ],
+  [
+    "Ring 2",
+    "One of: Encircling BladesRapid AspectExpectant",
+    "1. Damage to Crowd Controlled Enemies2. Damage to Close Enemies3. Critical Strike Chance4. Maximum Life5. Resource Generation6. Vulnerable DamageSocket any Gem to cap Resistances or Royal Skull if capped"
+  ]
+]

@@ -111,7 +111,7 @@ def build_jsons() -> None:
             json.dump(priorities, f, indent=2)
 
     with Path("builds.json").open("w") as f:
-        json.dump(build_json, f, indent=2)
+        json.dump(build_json, f, indent=2, sort_keys=True)
 
 
 if __name__ == "__main__":
