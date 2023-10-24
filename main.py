@@ -2,8 +2,7 @@
 This is the entry point for the application.
 """
 
-import cleaner
-import scraper
+from src import cleaner, scraper
 
 scraper.run()
 cleaner.run()

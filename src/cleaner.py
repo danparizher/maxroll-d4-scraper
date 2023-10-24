@@ -7,7 +7,7 @@ from pathlib import Path
 
 
 def remove_constant_items() -> None:
-    builds_dir = Path("builds")
+    builds_dir = Path("data\\builds")
     for file in builds_dir.iterdir():
         if file.is_file():
             with file.open() as f:

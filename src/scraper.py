@@ -151,10 +151,10 @@ def build_jsons() -> None:
                 priorities = data
                 title = path.split("/")[-1].split("-guide")[0]
                 build_json.append({title: path})
-                with (Path("builds") / f"{title}.json").open("w") as f:
+                with (Path("data\\builds") / f"{title}.json").open("w") as f:
                     json.dump(priorities, f, indent=2)
 
-    with Path("builds.json").open("w") as f:
+    with Path("data\\builds.json").open("w") as f:
         build_json = sorted(build_json, key=lambda x: next(iter(x.keys())))
         json.dump(build_json, f, indent=2)
 
