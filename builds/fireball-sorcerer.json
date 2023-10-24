@@ -5,11 +5,6 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Best in Slot)",
-    "Staff of Endless Rage",
-    "1. High Weapon Damage2. Fire Damage3. Damage to Close Enemies4. Core Skill Damage5. Ranks to Inner Flames"
-  ],
-  [
     "Weapon (Optional)",
     "Storm SwellorConceited",
     "Weapon Type: Wand1. High Weapon Damage2. Intelligence3. All Stats4. Core Skill Damage5. Damage to Close Enemies"
@@ -18,10 +13,6 @@
     "Off-Hand(Optional)",
     "Storm SwellorConceited",
     "1. Cooldown Reduction2. High Weapon Damage3. Resource Generation4. Mana Cost Reduction5. Critical Strike Chance6. Lucky Hit: Chance to Regain Resource7. Intelligence"
-  ],
-  [
-    "Helm (Best in Slot)",
-    "Godslayer Crown"
   ],
   [
     "Helm (Optional)",
@@ -34,27 +25,14 @@
     "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction against Burning Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
   ],
   [
-    "Gloves (Best in Slot)",
-    "Gloves of the Illuminator",
-    "1. Ranks to Fireball2. Critical Strike Chance3. Fireball Attack Speed4. Lucky Hit: Chance to Regain Resource"
-  ],
-  [
     "Gloves(Optional)",
     "Elementalist's",
     "1. Ranks to Fireball2. Critical Strike Chance3. Attack Speed4. Lucky Hit: Chance to Regain Resource5. Lucky Hit Chance6. Intelligence"
   ],
   [
-    "Pants(Best in Slot)",
-    "Tibault's Will"
-  ],
-  [
     "Pants(Optional)",
     "Snowveiled",
     "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction against Burning Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
-  ],
-  [
-    "Boots(Best in Slot)",
-    "Flickerstep"
   ],
   [
     "Boots(Optional)",

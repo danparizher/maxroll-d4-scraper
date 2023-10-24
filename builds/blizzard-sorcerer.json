@@ -20,11 +20,6 @@
     "1. Cooldown Reduction2. % Total Armor3. Maximum Mana4. Maximum Life5. Crowd Control Duration6. Intelligence"
   ],
   [
-    "Chest(Best in Slot)",
-    "Raiment of the Infinite",
-    "1. Damage to Close Enemies2. Damage to Stunned Enemies3. Intelligence4. Ranks to Glass Cannon"
-  ],
-  [
     "Chest(Optional)",
     "Snowguard's",
     "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction 5. Maximum Life6. Intelligence"
@@ -35,19 +30,9 @@
     "1. Critical Strike Chance2. Attack Speed3. Ranks to Ice Shards4. Lucky Hit: Chance to Regain Resource5. Critical Strike Chance against Injured Enemies6. Intelligence"
   ],
   [
-    "Pants(Best in Slot)",
-    "Tibault's Will",
-    "1. Damage Reduction against Close Enemies2. Maximum Resource3. Damage4. Potion Capacity"
-  ],
-  [
     "Pants(Optional)",
     "Snowveiled",
     "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction 5. Maximum Life6. Intelligence"
-  ],
-  [
-    "Boots (Best in Slot)",
-    "Esu's Heirloom",
-    "1. Movement Speed2. Critical Strike Damage3. Shrine Buff Duration4. Movement Speed on Elite Kill"
   ],
   [
     "Boots(Optional)",
@@ -58,11 +43,6 @@
     "Amulet",
     "Glacial",
     "1. Cooldown Reduction2. Mana Cost Reduction3. Movement Speed4. Ranks to Devouring Blaze5. Ranks to Hoarfrost6. Ranks to Permafrost7. Ranks to Defensive Skills"
-  ],
-  [
-    "Rain 1(Best in Slot)",
-    "Blue Rose",
-    "1. Mana Cost Reduction2. Ice Spike Damage3. Critical Strike Damage4. Lucky Hit Chance"
   ],
   [
     "Ring 1(Optional)",

@@ -5,11 +5,6 @@
     "STAT PRIORITY"
   ],
   [
-    "Two-HandedBludgeoning Weapon(Best in Slot)",
-    "Overkill",
-    "1. High Damage per Second2. High % Unique Power3. Ranks to Death Blow4. Damage to Injured Enemies5. Physical Damage6. Overpower DamageSockets Royal Skull"
-  ],
-  [
     "Two-HandedBludgeoning Weapon(Regular)",
     "Accelerating",
     "1. High Damage per Second2. Damage while Berserking3. Damage to Close Enemies4. All Stats5. Strength6. Vulnerable Damage7. Critical Strike DamageSockets Royal Skull"
@@ -43,11 +38,6 @@
     "Gloves",
     "Weapon Master's",
     "1. + Ranks of Upheaval2. Critical Strike Chance3. Attack Speed4. Lucky Hit Chance5. Strength6. All Stats"
-  ],
-  [
-    "Pants(Best in Slot)",
-    "Tibault's Will",
-    "Implicit: Potion Grants Resource1. Damage Reduction from Close2. Maximum Resource3. Damage4. Potion CapacitySockets Royal Ruby"
   ],
   [
     "Pants(Regular)",

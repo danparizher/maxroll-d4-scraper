@@ -15,19 +15,9 @@
     "1. Cooldown Reduction2. High Damage Per Second3. Resource Generation4. Mana Cost Reduction5. Critical Strike Chance6. Lucky Hit: Chance to Regain Resource"
   ],
   [
-    "Helm(Best in Slot)",
-    "Godslayer Crown",
-    "1. Cooldown Reduction2. Maximum Life3. Crowd Control Duration4. Damage"
-  ],
-  [
     "Helm(Optional)",
     "Disobedience",
     "1. Cooldown Reduction2. % Total Armor3. Maximum Life4. Maximum Mana5. Intelligence"
-  ],
-  [
-    "Chest(Best in Slot)",
-    "Raiment of the Infinite",
-    "1. Damage to Close Enemies2. Damage to Stunned Enemies3. Intelligence4. Ranks to Glass Cannon"
   ],
   [
     "Chest(Optional)",
@@ -40,19 +30,9 @@
     "1. Attack Speed2. Critical Strike Chance3. Intelligence4. Critical Strike Chance against Injured Enemies5. Lucky Hit: Chance to Regain Resource"
   ],
   [
-    "Pants (Best in Slot)",
-    "Tibault's Will",
-    "1. Damage Reduction against Close Enemies2. Maximum Resource3. Damage4. Potion Capacity"
-  ],
-  [
     "Pants(Optional)",
     "Unwavering",
     "1. Ranks to Ball Lightning2. % Total Armor3. Damage Reduction against Close Enemies4. Damage Reduction against Distant Enemies5. Damage Reduction 6. Maximum Life"
-  ],
-  [
-    "Boots(Best in Slot)",
-    "Flickerstep",
-    "1. Movement Speed2. Damage Reduction against Close Enemies3. All Stats4. Ultimate Damage"
   ],
   [
     "Boots(Optional)",

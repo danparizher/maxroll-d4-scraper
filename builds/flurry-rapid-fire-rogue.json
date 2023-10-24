@@ -15,11 +15,6 @@
     "Weapon Type: Dagger1. High Damage per Second 2. Damage to Crowd Controlled Enemies3. Damage to Close Enemies4. All Stats 5. Dexterity6. Core Skill Damage7. Vulnerable Damage8. Critical Strike DamageSocket Royal Skull"
   ],
   [
-    "Melee 1 (Best in Slot)",
-    "Condemnation",
-    "1. High Damage per Second2. Damage with Combo Points3. Basic Skill Attack Speed4. Core Skill Damage5. Critical Strike Damage6. Damage with Dual-Wield WeaponsSocket Royal Skull"
-  ],
-  [
     "Melee 2",
     "One of: Encircling BladesRapid AspectExpectant",
     "Weapon Type: Dagger1. High Damage per Second 2. Damage to Crowd Controlled Enemies3. Damage to Close Enemies4. All Stats 5. Dexterity6. Core Skill Damage7. Vulnerable Damage8. Critical Strike DamageSocket Royal Skull"
@@ -43,11 +38,6 @@
     "Pants",
     "One of: MightCheat's",
     "Implicit: Potion Grants Barrier1.  Any Resistance (with Penitent Greaves)2. % Total Armor3. Damage Reduction4. Close Damage Reduction5. Distant Damage Reduction5. Maximum LifeSockets Royal Ruby"
-  ],
-  [
-    "Boots (Best in Slot)",
-    "Penitent Greaves",
-    "Implicit: Movement Speed on Evade1. Movement Speed2. Cold Resistance3. Damage to Chilled Enemies4. Crowd Control Duration5. Slow Duration Reduction"
   ],
   [
     "Boots(Regular)",

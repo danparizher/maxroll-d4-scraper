@@ -15,19 +15,9 @@
     "1. Cooldown Reduction2. High Damage per Second3. Resource Generation4. Mana Cost Reduction5. Critical Strike Chance6. Lucky Hit: Chance to Regain Resource"
   ],
   [
-    "Helm(Best in Slot)",
-    "Godslayer Crown",
-    "1. Cooldown Reduction2. Maximum Life 3. Crowd Control Duration4. Damage"
-  ],
-  [
     "Helm(Optional)",
     "Fortune",
     "1. Cooldown Reduction2. Maximum Mana3. % Total Armor4. Lucky Hit Chance while Barrier5. Maximum Life6. Crowd Control Duration7. Intelligence"
-  ],
-  [
-    "Chest (Best in Slot)",
-    "Raiment of the Infinite",
-    "1. Intelligence2. Damage to Close Enemies3. Damage to Stunned Enemies 4. Ranks to Glass Cannon"
   ],
   [
     "Chest(Optional)",
@@ -40,19 +30,9 @@
     "1. Ranks to Ice Shards2. Critical Strike Chance3. Attack Speed4. Lucky Hit: Chance to Regain Resource5. Lucky Hit Chance6. Intelligence"
   ],
   [
-    "Pants (Best in Slot)",
-    "Tibault's Will",
-    "1. Damage Reduction against Close Enemies2. Maximum Resource3. Damage4. Potion Capacity"
-  ],
-  [
     "Pants(Optional)",
     "Disobedience",
     "1. % Total Armor2. Damage Reduction against Burning Enemies3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
-  ],
-  [
-    "Boots (Best in Slot)",
-    "Esu's Heirloom",
-    "1. Movement Speed2. Critical Strike Damage3. Shrine Buff Duration4. Movement Speed on Elite Kill"
   ],
   [
     "Boots(Optional)",

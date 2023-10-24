@@ -159,5 +159,5 @@ def build_jsons() -> None:
         json.dump(build_json, f, indent=2)
 
 
-if __name__ == "__main__":
+def run() -> None:
     build_jsons()

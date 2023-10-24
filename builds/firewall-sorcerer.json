@@ -15,18 +15,9 @@
     "1. Cooldown Reduction2. High Damage per Second3. Resource Generation4. Mana Cost Reduction5. Intelligence6. Damage Reduction against Burning Enemies7. Lucky Hit Chance"
   ],
   [
-    "Helm(Best in Slot)",
-    "Godslayer Crown"
-  ],
-  [
     "Helm(Optional)",
     "Shared Misery",
     "1. Cooldown Reduction2. % Total Armor3. Maximum Life4. Lucky Hit Chance while Barrier5. Intelligence6. Crowd Control Duration"
-  ],
-  [
-    "Chest(Best in Slot)",
-    "Raiment of the Infinite",
-    "1. Damage to Close Enemies2. Damage to Stunned Enemies3. Intelligence4. Ranks to Glass Cannon"
   ],
   [
     "Chest(Optional)",
@@ -44,10 +35,6 @@
     "1. Ranks to Firewall2. % Total Armor3. Damage Reduction against Burning Enemies4. Damage Reduction against Close Enemies5. Damage Reduction against Distant Enemies6. Damage Reduction 7. Maximum Life"
   ],
   [
-    "Boots (Best in Slot)",
-    "Flickerstep"
-  ],
-  [
     "Boots(Optional)",
     "Bounding ConduitorGhostwalker",
     "Implicit: Max Evade Charges1. Mana Cost Reduction2. Movement Speed4. Ranks to Teleport5. Intelligence"
@@ -61,10 +48,6 @@
     "Ring 1 ",
     "Prodigy\u2019sor Retribution",
     "1. Vulnerable Damage2. Resource Generation3. Critical Strike Damage4. Maximum Life5. Lucky Hit Chance6. Damage to Close Enemies"
-  ],
-  [
-    "Ring 2(Best in Slot)",
-    "X'Fal's Corroded Signet"
   ],
   [
     "Ring 2(Optional)",
