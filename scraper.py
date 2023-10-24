@@ -92,7 +92,7 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
             [
                 [stat.text for stat in stat_priority.find_all("td") if stat.text]
                 for stat_priority in soup.find_all("tbody")[0].find_all("tr")
-            ]
+            ],
         )
     return build_jsons
 
