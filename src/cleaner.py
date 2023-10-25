@@ -23,7 +23,8 @@ def remove_constant_items() -> None:
                 row
                 for row in data
                 if (
-                    "unique" not in row[0].lower()
+                    len(row) > 0
+                    and "unique" not in row[0].lower()
                     and not re.search(r"best[-\s]in[-\s]slot", row[0].lower())
                 )
             ]

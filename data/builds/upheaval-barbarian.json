@@ -1,0 +1,67 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Two-Handed Bludgeoning Weapon",
+    "1. Hellhammer2. Edgemaster\u2019s Aspect",
+    "Stat Priority:1. Damage Per Second2. Strength3. Damage while Berserking4. Overpower Damage5. All Stats"
+  ],
+  [
+    "Two-Handed Slashing Weapon",
+    "1. Aspect of Limitless Rage",
+    "Weapon Type (Implicit Affix):1. Axe (Damage to Healthy Enemies)2. Sword (Critical Strike Damage)3. Polearm (Damage to Injured Enemies)Stat Priority:1. Strength2. Damage while Berserking3. Overpower Damage4. All Stats"
+  ],
+  [
+    "One-Handed Weapon 1",
+    "1. Edgemaster\u2019s Aspect*2. Accelerating Aspect*3. Aspect of the Expectant4. Aspect of Inner Calm",
+    "Weapon Type (Implicit Affix):1. Mace (Overpower Damage)2. Axe (Damage to Healthy Enemies)3. Sword (Critical Strike Damage)Stat Priority:1. Strength2. Damage while Berserking3. Overpower Damage4. All Stats"
+  ],
+  [
+    "One-Handed Weapon 2",
+    "1. Edgemaster\u2019s Aspect*2. Accelerating Aspect*3. Aspect of the Expectant4. Aspect of Inner Calm",
+    "Weapon Type (Implicit Affix):1. Mace (Overpower Damage)2. Axe (Damage to Healthy Enemies)3. Sword (Critical Strike Damage)Stat Priority:1. Strength2. Damage while Berserking3. Overpower Damage4. All Stats"
+  ],
+  [
+    "Helm",
+    "Aspect of Numbing Wrath",
+    "1. % Total Armor2. Damage while Berserking3. Elemental Resistance**4. Elemental Resistance**5. Strength6. Maximum Life"
+  ],
+  [
+    "Chest",
+    "Aspect of Might",
+    "1. % Total Armor2. Damage Reduction from Close Enemies3. Damage Reduction while Fortified4. Damage Reduction5. Maximum Life"
+  ],
+  [
+    "Gloves",
+    "1. Aspect of the Expectant2. Aspect of Inner Calm3. Smiting Aspect",
+    "1. Ranks of Upheaval2. Attack Speed3. Critical Strike Chance4. Strength"
+  ],
+  [
+    "Pants",
+    "1. Tibault's Will2. Aspect of Disobedience",
+    "Implicit: Potion Grants Barrier1. % Total Armor2. Damage Reduction while Injured3. Damage Reduction from Close Enemies4. Damage Reduction while Fortified"
+  ],
+  [
+    "Boots",
+    "Ghostwalker Aspect",
+    "Implicit: +Evade Charges1. Movement Speed2. Elemental Resistance**3. Elemental Resistance**4. Damage Reduction while Injured"
+  ],
+  [
+    "Amulet",
+    "1. Banished Lord's Talisman2. Edgemaster\u2019s Aspect*3. Accelerating Aspect",
+    "1. Ranks of Brute Force2. Ranks of Wallop3. Movement Speed4. Cooldown Reduction5: Crowd Control Duration6. +% Strength7. Fury Cost Reduction8. % Total Armor"
+  ],
+  [
+    "Ring 1",
+    "1. Bold Chieftain's Aspect",
+    "1. Damage while Berserking2. Critical Strike Chance3. Resource Generation4. Maximum Life5. Overpower Damage"
+  ],
+  [
+    "Ring 2",
+    "Aspect of Echoing Fury",
+    "1. Damage while Berserking2. Critical Strike Chance3. Resource Generation4. Maximum Life5. Overpower Damage"
+  ]
+]
