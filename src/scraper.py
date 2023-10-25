@@ -31,7 +31,7 @@ logging.basicConfig(
 
 def get_soup(url: str) -> BeautifulSoup:
     """Return a BeautifulSoup object from the given URL."""
-    r = requests.get(url, timeout=5)
+    r = requests.get(url, timeout=10)
     return BeautifulSoup(r.text, "html.parser")
 
 
