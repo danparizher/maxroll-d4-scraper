@@ -5,17 +5,17 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon (Optional)",
+    "Weapon ",
     "Storm SwellorConceited",
     "Weapon Type: Wand1. High Weapon Damage2. Intelligence3. All Stats4. Core Skill Damage5. Damage to Close Enemies"
   ],
   [
-    "Off-Hand(Optional)",
+    "Off-Hand",
     "Storm SwellorConceited",
     "1. Cooldown Reduction2. High Weapon Damage3. Resource Generation4. Mana Cost Reduction5. Critical Strike Chance6. Lucky Hit: Chance to Regain Resource7. Intelligence"
   ],
   [
-    "Helm (Optional)",
+    "Helm ",
     "Fortune",
     "1. Cooldown Reduction2. Lucky Hit Chance while Barrier3. % Total Armor4. Maximum Mana5. Intelligence6. Crowd Control Duration7. Maximum Life"
   ],
@@ -25,17 +25,17 @@
     "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction against Burning Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
   ],
   [
-    "Gloves(Optional)",
+    "Gloves",
     "Elementalist's",
     "1. Ranks to Fireball2. Critical Strike Chance3. Attack Speed4. Lucky Hit: Chance to Regain Resource5. Lucky Hit Chance6. Intelligence"
   ],
   [
-    "Pants(Optional)",
+    "Pants",
     "Snowveiled",
     "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction against Burning Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
   ],
   [
-    "Boots(Optional)",
+    "Boots",
     "Bounding ConduitorEsu's Heirloom",
     "1. Mana Cost Reduction2. Implicit: +Max Evade Charges3. Implicit: Attacks Reduce Evade's Cooldown4. Movement Speed5. Ranks to Teleport6. Ranks to Frost Nova7. Intelligence"
   ],

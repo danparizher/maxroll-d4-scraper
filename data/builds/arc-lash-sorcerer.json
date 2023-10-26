@@ -15,12 +15,12 @@
     "1. Cooldown Reduction2. High Damage per Second3. Critical Strike Chance4. Basic Skill Attack Speed5. Intelligence6. Lucky Hit Chance"
   ],
   [
-    "Helm(Optional)",
+    "Helm",
     "Snowveiled",
     "1. Cooldown Reduction2. Basic Skill Attack Speed3. % Total Armor4. Maximum Life5. Lucky Hit Chance while Barrier6. Intelligence"
   ],
   [
-    "Chest(Optional)",
+    "Chest",
     "Might",
     "1. % Total Armor2. Damage Reduction against Close Enemies3. Damage Reduction 4. Damage Reduction against Distant Enemies5. Maximum Life6. Intelligence"
   ],
@@ -30,12 +30,12 @@
     "1. Attack Speed2. Critical Strike Chance3. Lightning Critical Strike Damage4. Lucky Hit Chance5. Lucky Hit: Chance to Heal6. Intelligence"
   ],
   [
-    "Pants(Optional)",
+    "Pants",
     "Disobedience",
     "1. Ranks to Ball Lightning2. % Total Armor3. Damage Reduction against Close Enemies4. Damage Reduction 5. Damage Reduction against Distant Enemies6. Maximum Life7. Intelligence"
   ],
   [
-    "Boots(Optional)",
+    "Boots",
     "Bounding Conduit",
     "Implicit: + Max Evade Charges1. Movement Speed2. Ranks to Frost Nova3. Ranks to Teleport4. Intelligence5. Ranks to Flame Shield"
   ],

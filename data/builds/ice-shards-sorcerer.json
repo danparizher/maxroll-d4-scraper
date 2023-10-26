@@ -15,12 +15,12 @@
     "1. Cooldown Reduction2. High Damage per Second3. Resource Generation4. Mana Cost Reduction5. Critical Strike Chance6. Lucky Hit: Chance to Regain Resource"
   ],
   [
-    "Helm(Optional)",
+    "Helm",
     "Fortune",
     "1. Cooldown Reduction2. Maximum Mana3. % Total Armor4. Lucky Hit Chance while Barrier5. Maximum Life6. Crowd Control Duration7. Intelligence"
   ],
   [
-    "Chest(Optional)",
+    "Chest",
     "Snowveiled Aspect",
     "1. % Total Armor2. Damage Reduction against Burning Enemies3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
   ],
@@ -30,12 +30,12 @@
     "1. Ranks to Ice Shards2. Critical Strike Chance3. Attack Speed4. Lucky Hit: Chance to Regain Resource5. Lucky Hit Chance6. Intelligence"
   ],
   [
-    "Pants(Optional)",
+    "Pants",
     "Disobedience",
     "1. % Total Armor2. Damage Reduction against Burning Enemies3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
   ],
   [
-    "Boots(Optional)",
+    "Boots",
     "Bounding ConduitorShared Misery",
     "1. Ranks to Frost Nova2. Mana Cost Reduction3. Movement Speed4. Implicit: +Max Evade Charges5. Ranks to Teleport6. Intelligence"
   ],

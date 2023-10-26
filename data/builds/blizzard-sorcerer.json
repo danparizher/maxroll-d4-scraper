@@ -20,7 +20,7 @@
     "1. Cooldown Reduction2. % Total Armor3. Maximum Mana4. Maximum Life5. Crowd Control Duration6. Intelligence"
   ],
   [
-    "Chest(Optional)",
+    "Chest",
     "Snowguard's",
     "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction 5. Maximum Life6. Intelligence"
   ],
@@ -30,12 +30,12 @@
     "1. Critical Strike Chance2. Attack Speed3. Ranks to Ice Shards4. Lucky Hit: Chance to Regain Resource5. Critical Strike Chance against Injured Enemies6. Intelligence"
   ],
   [
-    "Pants(Optional)",
+    "Pants",
     "Snowveiled",
     "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction 5. Maximum Life6. Intelligence"
   ],
   [
-    "Boots(Optional)",
+    "Boots",
     "GhostwalkerorBounding Conduit",
     "1. Mana Cost Reduction2. Implicit: +Max Evade Charges3. Implicit: Attacks Reduce Evade's Cooldown4. Movement Speed5. Ranks to Frost Nova6. Ranks to Teleport7. Intelligence"
   ],
@@ -45,7 +45,7 @@
     "1. Cooldown Reduction2. Mana Cost Reduction3. Movement Speed4. Ranks to Devouring Blaze5. Ranks to Hoarfrost6. Ranks to Permafrost7. Ranks to Defensive Skills"
   ],
   [
-    "Ring 1(Optional)",
+    "Ring 1",
     "Storm Swell",
     "1. Resource Generation2. Critical Strike Chance3. Cold Damage4. Maximum Life5. Damage to Close Enemies"
   ],

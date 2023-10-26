@@ -41,12 +41,11 @@ class Translator:
                 data = dict(sorted(data.items(), key=lambda item: item[0]))
                 json.dump(data, f, indent=2)
 
-
-def run() -> None:
-    """Run the translator."""
-    translator = Translator()
-    translator.build_json()
+    def run(self: Translator) -> None:
+        """Run the translator."""
+        self.build_json()
 
 
 if __name__ == "__main__":
-    run()
+    translator = Translator()
+    translator.run()

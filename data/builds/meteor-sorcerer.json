@@ -15,12 +15,12 @@
     "1. High Damage per Second2. Cooldown Reduction3. Mana Cost Reduction4. Resource Generation5. Critical Strike Chance6. Lucky Hit: % Chance to Restore Primary Resource"
   ],
   [
-    "Helm(Optional)",
+    "Helm",
     "Unwavering",
     "1. Cooldown Reduction2. Maximum Mana3. % Total Armor4. Maximum Life5. % Lucky Hit Chance While You Have a Barrier"
   ],
   [
-    "Chest(Optional)",
+    "Chest",
     "Snowveiled",
     "1. % Total Armor2. Damage Reduction from Distant Enemies3. Damage Reduction from Close Enemies4. Damage Reduction5. Maximum Life6. Damage Reduction from Enemies That Are Burning"
   ],
@@ -35,7 +35,7 @@
     "1 + Ranks of Meteor2. % Total Armor3. Damage Reduction from Distant Enemies4. Damage Reduction from Close Enemies5. Damage Reduction6. Maximum Life7. Damage Reduction from Enemies That Are Burning"
   ],
   [
-    "Boots(Optional)",
+    "Boots",
     "Bounding Conduit",
     "Implicit: + Max Evade Charges1. Mana Cost Reduction2. Movement Speed3. + Ranks of Frost Nova4. + Ranks of Teleport5. Intelligence"
   ],
