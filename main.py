@@ -2,8 +2,13 @@
 This is the entry point for the application.
 """
 
-from src import cleaner, scraper, translator
+from src import scraper
+from src.cleaner import Cleaner
+from src.translator import Translator
 
-scraper.run()
-cleaner.run()
-translator.run()
+if __name__ == "__main__":
+    scraper.run()
+    cleaner = Cleaner()
+    cleaner.run()
+    translator = Translator()
+    translator.run()

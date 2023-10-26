@@ -143,7 +143,7 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
     return list(chain.from_iterable(build_jsons))
 
 
-def build_jsons() -> None:
+def compile_jsons() -> None:
     """Create JSON files for each build path and a master JSON file that contains information about all the builds."""
     # Delete all files in the builds directory
     for file in Path("data\\builds").glob("*"):
@@ -178,7 +178,7 @@ def build_jsons() -> None:
 
 def run() -> None:
     """Run the scraper."""
-    build_jsons()
+    compile_jsons()
 
 
 if __name__ == "__main__":

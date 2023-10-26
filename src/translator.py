@@ -33,7 +33,7 @@ class Translator:
         data = json.loads(response.content)
         return {item["IdName"]: item["Description"] for item in data}
 
-    def build_json(self: Translator) -> None:
+    def compile_json(self: Translator) -> None:
         """Build the JSON file."""
         data = self.create_map()
         if data is not None:
@@ -43,7 +43,7 @@ class Translator:
 
     def run(self: Translator) -> None:
         """Run the translator."""
-        self.build_json()
+        self.compile_json()
 
 
 if __name__ == "__main__":
