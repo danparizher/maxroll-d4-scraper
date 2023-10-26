@@ -1,4 +1,4 @@
-# D4 Scraper
+# Diablo IV Scraper
 
 This project is a web scraper that extracts Diablo IV data from maxroll.gg and stores the information about different class builds in JSON files. This project is still a work in progress, and more features will be added in the future.
 
