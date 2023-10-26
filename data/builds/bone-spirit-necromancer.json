@@ -5,12 +5,12 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(2-Handed-Sword",
+    "Weapon",
     "Offensive Aspect of Grasping Veins",
     "1. High Damage per Second2. Intelligence3. Damage to Close4. Critical Strike Damage5. All Stats6. Critical Strike Damage with Bone"
   ],
   [
-    "Helm ",
+    "Helm",
     "Aspect of Might",
     "1. Maximum Essence2. Maximum Life3. Cooldown Reduction4. Total Armor5. All Stats"
   ],
@@ -40,12 +40,12 @@
     "1. Movement Speed2. Cooldown Reduction3. +xx Ranks to Macabre Skills4. +xx Ranks to Evulsion5. Damage Reduction from Close Enemies"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Resource Aspect of the Umbral",
     "1. Critical Strike Chance2. Maximum Essence3. Maximum Life4. Damage to Close Enemies5. Lucky Hit Chance"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Aspect of Torment",
     "1. Critical Strike Chance2. Maximum Essence3. Maximum Life4. Damage to Close Enemies5. Lucky Hit Chance"
   ]

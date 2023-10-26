@@ -35,7 +35,7 @@
     "1. Ranks to Twisting Blades2. Attack Speed3. Lucky Hit: Slow4. Critical Strike Chance5. Lucky Hit Chance"
   ],
   [
-    "Pants(Regular)",
+    "Pants",
     "Cheat's",
     "Implicit: Potion Grants Barrier1. % Total Armor 2. Damage Reduction2. Damage Reduction from Close4. Damage Reduction from Distant5. Maximum LifeSockets Royal Ruby"
   ],
@@ -53,12 +53,12 @@
     "* These affixes cannot appear on the same item together. "
   ],
   [
-    "Ring 1",
+    "Ring",
     "Ravenous",
     "1. Resource Generation2. Damage to Crowd Controlled Enemies2. Critical Strike Chance4. Maximum Life5. Damage to Close Enemies6. Lucky Hit ChanceSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
-    "Ring 2",
+    "Ring",
     "The Umbral",
     "1. Resource Generation2. Damage to Crowd Controlled Enemies2. Critical Strike Chance4. Maximum Life5. Damage to Close Enemies6. Lucky Hit ChanceSocket any Gem to cap Resistances or Royal Skull if capped"
   ]

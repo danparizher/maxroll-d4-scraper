@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Wand)",
+    "Weapon",
     "One of:Edgemaster\u2019s AspectAspect of Frozen OrbitStorm Swell AspectConceited AspectAspect of Frozen MemoriesElementalist's Aspect",
     "Weapon Type: Wand (Implicit: Lucky Hit Chance)1. All Stats2. Critical Strike Damage3. Vulnerable Damage4. Core Skill Damage5. Intelligence6. Damage to Burning Enemies7. Damage to Crowd ControlledEnemies8. Damage to Distant Enemies"
   ],
@@ -45,12 +45,12 @@
     "1. Cooldown Reduction2. Ranks of the Icy Touch Passive*3. Ranks of the Hoarfrost Passive*4. Ranks of the Permafrost Passive*5. Ranks of the Glass CannonPassive*6. Mana Cost Reduction7. Movement Speed8. Ranks of All Defensive Skills9. Ranks of Elemental Dominance*10. Total Armor11. Frost Skill Damage12. Damage Reduction13. Damage Reduction from Distant Enemies* These stats cannot appear on the same item together"
   ],
   [
-    "Ring 1",
+    "Ring",
     "One of:Aspect of Frozen MemoriesEdgemaster\u2019s AspectAspect of Frozen OrbitConceited AspectStorm Swell AspectElementalist's AspectAspect of the Umbral",
     "1. Critical Strike Damage2. Vulnerable Damage3. Critical Strike Chance4. Maximum Life5. Resource Generation6. Lucky Hit Chance7. Maximum Mana8. Damage to Crowd Controlled Enemies"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Prodigy\u2019s Aspect",
     "1. Critical Strike Damage2. Vulnerable Damage3. Critical Strike Chance4. Resource Generation5. Maximum Life6. Lucky Hit Chance7. Maximum Mana8. Damage to Crowd Controlled Enemies"
   ]

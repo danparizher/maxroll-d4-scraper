@@ -5,27 +5,27 @@
     "STAT PRIORITY"
   ],
   [
-    "Two-HandedBludgeoning Weapon",
+    "Weapon",
     "One of:Edgemaster\u2019sLimitless Rage",
     "1. Damage while Berserking2. Damage to Close Enemies3. Damage with Core Skills4. Strength / All Stats5. Damage to Bleeding Enemies6. Critical Strike Damage"
   ],
   [
-    "Dual WieldWeapon 1(1-Hand Sword Alternative)",
+    "Weapon",
     "One of:Berserk RippingExpectant",
     "1. High Damage per Second2. Damage while Berserking3. Damage to Close Enemies4. Damage with Core Skills5. Strength / All Stats6. Damage to Bleeding Enemies7. Critical Strike Damage"
   ],
   [
-    "Dual WieldWeapon 2(Mace)",
+    "Weapon",
     "One of:Berserk RippingExpectant",
     "1. High Damage per Second2. Damage while Berserking3. Damage to Close Enemies4. Damage with Core Skills5. Strength / All Stats6. Damage to Bleeding Enemies7. Critical Strike Damage"
   ],
   [
-    "Two-HandedSlashing Weapon(Sword)",
+    "Weapon",
     "One of:Edgemaster\u2019sLimitless Rage",
     "1. Damage while Berserking2. Damage to Close Enemies3. Damage with Core Skills4. Strength / All Stats5. Damage to Bleeding Enemies6. Critical Strike Damage"
   ],
   [
-    "Helm(Alternative)",
+    "Helm",
     "One of:Iron BloodNumbing Wrath",
     "1. Cooldown Reduction2. Maximum Fury3. Damage while Berserking4. % Total Armor5. Maximum Life6. Strength / All Stats7. Resistance (as needed)8. Crowd Control Duration"
   ],
@@ -40,12 +40,12 @@
     "1. + Ranks of Whirlwind2. Critical Strike Chance3. Lucky Hit Chance4. Strength / All Stats5. Dexterity / Willpower (as needed)6. Lucky Hit: Up to a 5% Chance to Restore Primary Resource7. Critical Strike Chance Against Injured Enemies"
   ],
   [
-    "Pants(Alternative)",
+    "Pants",
     "One of:Iron BloodNumbing Wrath",
     "1. Damage Reduction from Close Enemies2. Damage Reduction from Enemies That Are Bleeding3. % Total Armor4. Maximum Life5. Damage Reduction while Fortified6. Damage Reduction7. Resistance (as needed)"
   ],
   [
-    "Boots ",
+    "Boots",
     "Ghostwalker",
     "1. Movement Speed2. Cold / Lightning / Poison Resistance3. Cold / Lightning / Poison Resistance4. Cold / Lightning / Poison Resistance5. Resistance (as needed)6. Fury Cost Reduction7. Damage Reduction while Injured8. Strength / All Stats9. Movement Speed for 4 Seconds After Killing an Elite"
   ],
@@ -55,7 +55,7 @@
     "1. Cooldown Reduction2. Fury Cost Reduction3. + Ranks of the Wallop Passive4. Movement Speed5. + Ranks of the Counteroffensive  Passive"
   ],
   [
-    "Rings",
+    "Ring",
     "Bold Chieftain'sEchoing Fury",
     "1. Damage while Berserking2. Maximum Fury (with Ramaladni's Magnum Opus)3. Critical Strike Chance4. Resource Generation5. Maximum Life6. Damage to Close Enemies7. Physical Damage8. Damage to Bleeding Enemies"
   ]

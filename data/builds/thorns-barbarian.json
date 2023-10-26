@@ -5,22 +5,22 @@
     "STAT PRIORITY"
   ],
   [
-    "Two-HandedBludgeoning Weapon",
+    "Weapon",
     "Needleflare",
     "1. Damage while Berserking 2. Damage to Close Enemies3. Strength 4. Basic Skill Damage5. All Stats6. Damage to Bleeding Enemies7. Vulnerable Damage"
   ],
   [
-    "Dual WieldWeapon 1(Alternative)",
+    "Weapon",
     "Rapid",
     "1. Damage while Berserking 2. Damage to Close Enemies3. Strength 4. Basic Skill Damage5. All Stats6. Damage to Bleeding Enemies7. Vulnerable Damage"
   ],
   [
-    "Dual WieldWeapon 2(Axe)",
+    "Weapon",
     "One of:Death Wish (if using Ancients' Oath)Inner CalmEdgemaster\u2019s",
     "1. Damage while Berserking 2. Damage to Close Enemies3. Strength 4. Basic Skill Damage5. All Stats6. Damage to Bleeding Enemies7. Vulnerable Damage"
   ],
   [
-    "Two-HandedSlashing Weapon(Axe Alternative)",
+    "Weapon",
     "Death Wish (if not using Ancients' Oath)",
     "1. Damage while Berserking 2. Damage to Close Enemies3. Strength 4. Basic Skill Damage5. All Stats6. Damage to Bleeding Enemies7. Vulnerable Damage"
   ],
@@ -30,7 +30,7 @@
     "1. Cooldown Reduction2. Damage while Berserking 3. % Armor 4. Life / Maximum Fury5. Strength / All Stats 6. Resistance (as needed)"
   ],
   [
-    "Chest(Defensive)",
+    "Chest",
     "One of:Might",
     "1. Damage Reduction from Close Enemies2. Damage Reduction while Fortified3. % Total Armor4. Maximum Life5. Damage Reduction6. Resistance (as needed)7. Thorns"
   ],
@@ -45,22 +45,22 @@
     "1. Damage Reduction from Close Enemies2. Damage Reduction while Fortified3. % Total Armor4. Maximum Life5. Damage Reduction6. Resistance (as needed)"
   ],
   [
-    "Boots ",
+    "Boots",
     "Ghostwalker",
     "1. Movement Speed2. Cold / Lightning / Poison Resistance3. Cold / Lightning / Poison Resistance4. Cold / Lightning / Poison Resistance5. Resistance (as needed)6. Fury Cost Reduction7. Damage Reduction while Injured8. Strength / All Stats9. Movement Speed for 4 Seconds After Killing an Elite"
   ],
   [
-    "Amulet(Alternative)",
+    "Amulet",
     "Might",
     "1. Cooldown Reduction2. Damage Reduction from Close Enemies3. + Ranks of the Counteroffensive  Passive4. Damage Reduction while Fortified5. Thorns6. Movement Speed"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Bold Chieftain's",
     "1. Damage While Berserking2. Maximum Life3. Maximum Fury4. Damage to Close Enemies5. Vulnerable Damage6. Physical Damage7. Damage to Bleeding Enemies"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:Death Wish (if using Ancients' Oath)Inner CalmEdgemaster\u2019s",
     "1. Damage While Berserking2. Maximum Life3. Maximum Fury4. Damage to Close Enemies5. Vulnerable Damage6. Physical Damage7. Damage to Bleeding Enemies"
   ]

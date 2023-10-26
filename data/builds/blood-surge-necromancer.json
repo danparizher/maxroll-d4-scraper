@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Dagger)",
+    "Weapon",
     "Aspect of Grasping Veins",
     "1. Overpower Damage2. Core Skill Damage3. Intelligence4. All Stats5. Damage to Close Enemies"
   ],
@@ -45,12 +45,12 @@
     "1. Essence Cost Reduction2. +xx Ranks to Tides of Blood Passive3. +xx Ranks to Coalesced Blood Passive4. Movement Speed5. % Total Armor6. Cooldown Reduction"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Aspect of Potent Blood",
     "1. Maximum Life2. Overpower Damage3. Blood Orb Healing4. Critical Strike Chance5. Lucky Hit Chance"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Aspect of the Umbral",
     "1. Maximum Life2. Overpower Damage3. Blood Orb Healing4. Critical Strike Chance5. Lucky Hit Chance"
   ]

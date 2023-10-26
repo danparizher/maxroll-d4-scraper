@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(1-Handed-Axe)",
+    "Weapon",
     "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
     "Weapon Type: Axe1. High Damage per Second2. Damage to Close Enemies3. Damage to Distant Enemies4. Willpower5. All Stats6. Core Skill Damage7. Vulnerable Damage"
   ],
@@ -15,7 +15,7 @@
     "1. High Damage per Second2. Cooldown Reduction3. Critical Strike Chance4. Lucky Hit Chance5. Damage Reduction against Poisoned Enemies6. Damage Reduction while Fortified"
   ],
   [
-    "Helm (Human Form)",
+    "Helm",
     "Mending Stone",
     "1. Cooldown Reduction2. Life3. Single Resistance4. Single Resistance5. % Total Armor6. Willpower7. Basic Skill Attack Speed"
   ],
@@ -25,7 +25,7 @@
     "1. Damage Reduction against Close Enemies2. Damage Reduction against Poisoned Enemies3. Damage Reduction while Fortified4. Damage Reduction against Distant Enemies5. % Total Armor6. Maximum Life7. Willpower"
   ],
   [
-    "Chest(Speedfarming)",
+    "Chest",
     "Mad Wolf's Glee",
     "1. Movement Speed2. %Damage3. Damage Reduction against Poisoned Enemies4. Life"
   ],
@@ -50,12 +50,12 @@
     "1. Ranks to Envenom2. Cooldown Reduction3. Movement Speed4. Spirit Cost Reduction*5. Total Armor while in Werewolf Form6. Damage Reduction from Close Enemies7. Damage Reduction against Poisoned Enemies8. Damage Reduction while Fortified9. Ranks to Defiance"
   ],
   [
-    "Ring 1",
+    "Ring",
     "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
     "1. Damage to Close Enemies2. Critical Strike Chance3. Damage to Distant Enemies4. Lucky Hit Chance5. Life6. Damage to Slowed Enemies7. Vulnerable Damage8. Critical Strike Damage9. Critical Strike Damage with Werewolf Skills"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
     "1. Damage to Close Enemies2. Critical Strike Chance3. Damage to Distant Enemies4. Lucky Hit Chance5. Life6. Damage to Slowed Enemies7. Vulnerable Damage8. Critical Strike Damage9. Critical Strike Damage with Werewolf Skills"
   ]

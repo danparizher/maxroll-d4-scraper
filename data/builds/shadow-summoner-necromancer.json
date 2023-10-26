@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Wand)",
+    "Weapon",
     "Aspect of Ultimate Shadow",
     "1. High Damage per Second2. Intelligence3. All Stats4. Damage to Close5. Damage to Slowed6. Damage to Affected by Shadow Damage Over Time"
   ],
@@ -45,12 +45,12 @@
     "1. Movement Speed2. +xx Ranks to Gloom Passive3. Damage Reduction from Close Enemies4. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time5. Minion Attack Speed6. Cooldown Reduction7. Total Armor"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Ring of MendelnORAspect of Frenzied Dead",
     "1. Critical Strike Chance2. Damage to Close Enemies3. Lucky Hit Chance4. Maximum Life5. Maximum Minion Life"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Aspect of Decay",
     "1. Critical Strike Chance2. Damage to Close Enemies3. Lucky Hit Chance4. Maximum Life5. Maximum Minion Life"
   ]

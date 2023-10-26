@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Wand)",
+    "Weapon",
     "Offensive Aspect of Ultimate Shadow",
     "1. High Damage per Second2. Damage to Close Enemies3. Intelligence4. All Stats5. Damage to Affected by Shadow Damage Over Time Enemies6. Damage over Time"
   ],
@@ -45,12 +45,12 @@
     "1. Movement Speed2. Cooldown Reduction3. +xx Ranks to Gloom Passive4. +xx Ranks to Corpse Skills5. Damage Reduction from Affected by Shadow Damage Over Time Enemie6. Shadow Damage Over Time"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Aspect of Grasping Veins",
     "1. Lucky Hit Chance2. Critical Strike Chance3. Damage to Close Enmies4. Maximum Life5. Shadow Damage"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Offensive Aspect of Decay",
     "1. Lucky Hit Chance2. Critical Strike Chance3. Damage to Close Enmies4. Maximum Life5. Shadow Damage"
   ]

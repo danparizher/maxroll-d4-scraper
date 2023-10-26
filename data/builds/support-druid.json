@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Alternate)",
+    "Weapon",
     "One of:RapidNighthowler'sSmiting AspectRetribution",
     "Weapon Type: Any 1-H1. Willpower2. All Stats3. Lucky Hit: Chance to Execute Injured Non-Elites4. Any"
   ],
@@ -20,7 +20,7 @@
     "1. Cooldown Reduction2. Crowd Control Duration3. Maximum Life4. % Total Armor5. Willpower6. All Stats7. Basic Skill Attack Speed8. Barrier Generation"
   ],
   [
-    "Helm (Injured)",
+    "Helm",
     "Tempest Roar",
     "1. Damage while Shapeshifted2. Critical Strike Damage3. Maximum Spirit4. Poison Resistance"
   ],
@@ -50,12 +50,12 @@
     "1. +Ranks to All Defensive Skills2. Cooldown Reduction3.Damage Reduction from Close Enemies 4. Damage Reduction While Fortified5. Damage Reduction from Enemies That Are Poisoned6. Damage Reduction While Injured7. Crowd Control Duration8. % Total Armor"
   ],
   [
-    "Ring 1",
+    "Ring",
     "One of:RapidNighthowler'sSmiting Aspect",
     "1. Maximum Life2. Barrier Generation3. Lucky Hit Chance4. Critical Strike Chance5. Fortify Generation"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:RapidNighthowler'sSmiting Aspect",
     "1. Maximum Life2. Barrier Generation3. Lucky Hit Chance4. Critical Strike Chance5. Fortify Generation"
   ]

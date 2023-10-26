@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(1-Handed-Axe)",
+    "Weapon",
     "One of:Subterranean AftershockTrampled EarthNatural BalanceRetaliation",
     "1. High Damage per Second2. Damage To Crowd Controlled3. Willpower4. All Stats5. Core Skill Damage6. Damage to Close Enemies7. Critical Strike Damage8. Damage to Poisoned Enemies"
   ],
@@ -45,12 +45,12 @@
     "1. Ranks to Envenom2. Movement Speed3. Cooldown Reduction4. Damage Reduction while Fortified5. Damage Reduction From Poisoned Enemies 6. Damage Reduction from Close Enemies7. ArmorSocket Single Resistance"
   ],
   [
-    "Ring 1",
+    "Ring",
     "One of:Subterranean AftershockTrampled EarthNatural BalanceRetaliation",
     "1. Critical Strike Chance2. Damage to Crowd Controlled Enemies3. Life 4. Damage To Close Enemies5. Critical Strike Damage 6.Critical Strike Damage with Earth Skills7. Physical DamageSocket Single Resistance"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:Subterranean AftershockTrampled EarthNatural BalanceRetaliation",
     "1. Critical Strike Chance2. Damage to Crowd Controlled Enemies3. Life 4. Damage To Close Enemies5. Critical Strike Damage 6.Critical Strike Damage with Earth Skills7. Physical DamageSocket Single Resistance"
   ]

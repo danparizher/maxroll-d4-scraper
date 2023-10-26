@@ -5,22 +5,22 @@
     "STAT PRIORITY"
   ],
   [
-    "Two-Handed Bludgeoning Weapon",
+    "Weapon",
     "1. Hellhammer2. Edgemaster\u2019s Aspect",
     "Stat Priority:1. Damage Per Second2. Strength3. Damage while Berserking4. Overpower Damage5. All Stats"
   ],
   [
-    "Two-Handed Slashing Weapon",
+    "Weapon",
     "1. Aspect of Limitless Rage",
     "Weapon Type (Implicit Affix):1. Axe (Damage to Healthy Enemies)2. Sword (Critical Strike Damage)3. Polearm (Damage to Injured Enemies)Stat Priority:1. Strength2. Damage while Berserking3. Overpower Damage4. All Stats"
   ],
   [
-    "One-Handed Weapon 1",
+    "Weapon",
     "1. Edgemaster\u2019s Aspect*2. Accelerating Aspect*3. Aspect of the Expectant4. Aspect of Inner Calm",
     "Weapon Type (Implicit Affix):1. Mace (Overpower Damage)2. Axe (Damage to Healthy Enemies)3. Sword (Critical Strike Damage)Stat Priority:1. Strength2. Damage while Berserking3. Overpower Damage4. All Stats"
   ],
   [
-    "One-Handed Weapon 2",
+    "Weapon",
     "1. Edgemaster\u2019s Aspect*2. Accelerating Aspect*3. Aspect of the Expectant4. Aspect of Inner Calm",
     "Weapon Type (Implicit Affix):1. Mace (Overpower Damage)2. Axe (Damage to Healthy Enemies)3. Sword (Critical Strike Damage)Stat Priority:1. Strength2. Damage while Berserking3. Overpower Damage4. All Stats"
   ],
@@ -55,12 +55,12 @@
     "1. Ranks of Brute Force2. Ranks of Wallop3. Movement Speed4. Cooldown Reduction5: Crowd Control Duration6. +% Strength7. Fury Cost Reduction8. % Total Armor"
   ],
   [
-    "Ring 1",
+    "Ring",
     "1. Bold Chieftain's Aspect",
     "1. Damage while Berserking2. Critical Strike Chance3. Resource Generation4. Maximum Life5. Overpower Damage"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Aspect of Echoing Fury",
     "1. Damage while Berserking2. Critical Strike Chance3. Resource Generation4. Maximum Life5. Overpower Damage"
   ]

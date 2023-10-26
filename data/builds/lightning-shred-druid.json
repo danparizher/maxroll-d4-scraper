@@ -5,12 +5,12 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(1-Handed-Axe)",
+    "Weapon",
     "Edgemaster\u2019s",
     "Implicit: Damage To Healthy1. High Damage per Second2. Willpower3. All Stats4. Damage to Close Enemies5. Core Skill Damage6. Damage to Poisoned7. Vulnerable Damage8. Damage to Crowd Controlled9. Damage to SlowedSocket Royal Emerald"
   ],
   [
-    "Weapon(1-Handed-Axe)",
+    "Weapon",
     "Waxing Gibbous",
     "1. High Damage per Second 2. Critical Strike Damage3. Damage to Close Enemies4. Damage to Injured Enemies5. Life On KillSocket Royal Emerald"
   ],
@@ -20,7 +20,7 @@
     "1. High Damage per Second2. Cooldown Reduction3. Critical Strike Chance4. Damage Reduction While Fortified5. Damage Reduction from Poisoned6. Spirit Cost Reduction7. Willpower8. Fortify GenerationSocket Royal Emerald"
   ],
   [
-    "Helm ",
+    "Helm",
     "Dark Howl",
     "1. Cooldown Reduction2. % Total Armor3. Maximum Life4. Willpower5. Basic Attack SpeedSocket Royal Ruby"
   ],
@@ -50,12 +50,12 @@
     "1. Cooldown Reduction2. Ranks of the Envenom Passive3. Spirit Cost Reduction4. Damage Reduction while Fortified5.  Damage Reduction From Poisoned6. Damage Reduction From Close7. Total Armor In Werewolf Form8. Damage Reduction9. Damage Reduction from DistantSocket Single Resistance"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Accelerating AspectorDire Wolf'sorRampaging WerebeastorAspect of Retaliation",
     "1. Critical Strike Chance2. Maximum Life3. Resource Generation4. Damage to Close Enemies5. Damage to Poisoned Enemies6. Critical Strike Damage With Werewolf Skills7. Critical Strike Damage8. Vulnerable DamageSocket Single Resistance"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Accelerating AspectorDire Wolf'sorRampaging WerebeastorAspect of Retaliation",
     "1. Critical Strike Chance2. Maximum Life3. Resource Generation4. Damage to Close Enemies5. Damage to Poisoned Enemies6. Critical Strike Damage With Werewolf Skills7. Critical Strike Damage8. Vulnerable DamageSocket Single Resistance"
   ]

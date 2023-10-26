@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(2-Handed-Sword)",
+    "Weapon",
     "Blighted Aspect",
     "Implicit: Critical Strike Damage1. Critical Strike Damage2. Damage to Affected by Shadow Damage Over Time Enemies3. Vulnerable Damage4. All Stats5. Damage to Crowd Controlled Enemies6. Damage to Slowed Enemies7. Damage to Close Enemies8. Intelligence"
   ],
@@ -40,12 +40,12 @@
     "1. Ranks of All Corpse Skills2. Cooldown Reduction3. Movement Speed4. Total Armor5. Ranks of Terror Passive*6. Ranks of Gloom Passive*7. Ranks of Fueled by Death*8. Lucky Hit Chance whileYou Have a Barrier9. Damage Reduction10. Damage Reduction from Distant Enemies11. Darkness Skill Damage* These stats cannot spawn together on the same Amulet"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Aspect of Grasping Veins",
     "1. Critical Strike Chance2. Critical Strike Damage3. Vulnerable Damage4. Lucky Hit Chance5. Maximum Life6. Damage to Crowd Controlled Enemies7. Damage to Slowed Enemies8. Damage to Close Enemies9. Shadow Damage"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:X'Fal's Corroded SignetBlood-soaked AspectAspect of Ultimate ShadowAspect of the UmbralSacrificial Aspect",
     "1. Shadow Damage Over TimeEffect2. Critical Strike Chance3. Maximum Life4. Critical Strike Damage5. Vulnerable Damage6. Damage to Crowd Controlled Enemies7. Damage to Slowed Enemies8. Damage to Close Enemies9. Lucky Hit Chance10. Shadow Damage"
   ]

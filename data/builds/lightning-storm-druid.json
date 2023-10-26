@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(1-Handed-Axe)",
+    "Weapon",
     "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
     "Weapon Type: Axe1. High Damage per Second2. Damage To Distant Enemies3. Damage To Close Enemies4. Willpower5. All Stats6. Core Skill Damage7. Critical Strike Damage8. Critical Strike Damage with Werewolf Skills"
   ],
@@ -20,7 +20,7 @@
     "1. Damage while Shapeshifted2. Critical Strike Damage3. Maximum Spirit4. Poison Resistance"
   ],
   [
-    "Helm ",
+    "Helm",
     "Mending Stone",
     "1. Cooldown Reduction2. Maximum Life3. Willpower4. Single Resistance5. Total Armor6. Basic Attack Speed"
   ],
@@ -50,12 +50,12 @@
     "1. Cooldown Reduction2. Movement Speed3. Ranks to Envenom4. Damage Reduction From Poisoned5. Damage Reduction While Fortified6. Damage Reduction from Close Enemies7. Damage Reduction from Distant EnemiesSocket Single Resistance"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Umbral",
     "1. Damage to Distant Enemies2. Damage to Close Enemies3. Critical Strike Chance4. Lucky Hit Chance5. Maximum Life6. Critical Strike Damage With Werewolf Skills7. Lightning Critical Strike DamageSocket Single Resistance"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
     "1. Damage to Distant Enemies2. Damage to Close Enemies3. Critical Strike Chance4. Lucky Hit Chance5. Maximum Life6. Critical Strike Damage With Werewolf Skills7. Lightning Critical Strike DamageSocket Single Resistance"
   ]

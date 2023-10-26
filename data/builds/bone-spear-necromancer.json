@@ -19,7 +19,7 @@
     "Deathless Visage"
   ],
   [
-    "Chest Armor",
+    "Chest",
     "Aspect of Disobedience",
     "1. Damage Reduction2. % Total Armor3. Maximum Life4. Damage Reduction from Distant Enemies"
   ],
@@ -44,12 +44,12 @@
     "1. Movement Speed2. Essence Cost Reduction3. Total Armor4. +Ranks to Evulsion*5. Damage Reduction (Hardcore)"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Sacrificial Aspect ",
     "1. Critical Strike Chance2. Vulnerable Damage3. Critical Strike Damage4. Maximum Essence*5. Maximum Life (Hardcore)"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Resource Aspect of Exposed Flesh",
     "1. Critical Strike Chance2. Vulnerable Damage3. Critical Strike Damage4. Maximum Essence*5. Maximum Life (Hardcore)"
   ]

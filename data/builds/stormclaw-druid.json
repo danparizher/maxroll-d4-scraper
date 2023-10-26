@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(2-Handed-Staff)",
+    "Weapon",
     "Greatstaff of the Crone",
     "Implicit: Damage To Crowd Controlled1. Damage To Close2. Damage To Crowd Controlled3. Non-Physical Damage4. Ranks of ClawSockets Royal Topaz"
   ],
@@ -35,12 +35,12 @@
     "1.Movement Speed2. Ranks of the Envenom Passive3. Cooldown Reduction4. Damage Reduction From Poisoned5.  Damage Reduction From Close7. Armor in Werewolf Form8. Damage Reduction from Distant9. Damage Reduction while FortifiedSocket Single Resistance"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Mighty Storm's AspectorOverchargedor Edgemaster\u2019s",
     "1. Damage To Close Enemies2. Lucky Hit Chance3. Maximum Life4. Critical Strike Chance5. Damage To Distant Enemies6. Critical Strike Damage7. Damage to Poisoned EnemiesSocket Single Resistance"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Mighty Storm's AspectorOverchargedor Edgemaster\u2019s",
     "1. Damage To Close Enemies2. Lucky Hit Chance3. Maximum Life4. Critical Strike Chance5. Damage To Distant Enemies6. Critical Strike Damage7. Damage to Poisoned EnemiesSocket Single Resistance"
   ]

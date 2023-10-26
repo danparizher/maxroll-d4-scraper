@@ -20,7 +20,7 @@
     "Weapon Type: Dagger1. High Damage per Second2. Ultimate Skill Damage3. Damage to Close Enemies4. All Stats5. Dexterity6. Core Skill Damage7. Critical Strike DamageSocket Royal Diamond"
   ],
   [
-    "Helm ",
+    "Helm",
     "One of:MightShared Misery",
     "1. Any Resistance2. Cooldown Reduction3. Total Armor4. Maximum Life5. Life on KillSocket Royal Ruby"
   ],
@@ -35,7 +35,7 @@
     "1. Ranks to Twisting Blades2. Attack Speed3. Lucky Hit: Chance to Slow4. Critical Strike Chance5. Lucky Hit Chance6. Reduced Arm Time of Traps"
   ],
   [
-    "Pants(Regular)",
+    "Pants",
     "One of:Cheat's",
     "Implicit: Potion Grants Barrier1. Damage Reduction2. Total Armor3. Damage Reduction from Close4. Damage Reduction from Poisoned5. Damage Reduction from Distant6. Maximum LifeSockets Royal Ruby"
   ],
@@ -53,12 +53,12 @@
     "* These affixes cannot appear on the same item together. "
   ],
   [
-    "Ring 1",
+    "Ring",
     "One of:RavenousThe Umbral",
     "1. Resource Generation2. Critical Strike Chance3. Lucky Hit Chance4. Maximum Life5. Damage to Close Enemies6. Critical Strike DamageSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:RavenousThe Umbral",
     "1. Resource Generation2. Critical Strike Chance3. Lucky Hit Chance4. Maximum Life5. Damage to Close Enemies6. Critical Strike DamageSocket any Gem to cap Resistances or Royal Skull if capped"
   ]

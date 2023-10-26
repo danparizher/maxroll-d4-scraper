@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Wand)",
+    "Weapon",
     "Offensive Aspect of Ultimate Shadow",
     "1. High Damage per Second2. Intelligence3. Damage to Close Enemies4. Core Skill Damage5. Damage to Affected by Shadow Damage Over Time Enemies6. All Stats"
   ],
@@ -45,12 +45,12 @@
     "1. Movement Speed2. Essence Cost Reduction3. +xx Ranks to Gloom Passive4. Cooldown Reduction5. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time6. +xx Ranks to Corpse Skills"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Resource Aspect of the Umbral",
     "1. Critical Strike Chance2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Damage to Enemies Affected by Shadow Damage Over Time"
   ],
   [
-    "Ring 2",
+    "Ring",
     "Aspect of Exposed Flesh",
     "1. Critical Strike Chance2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Damage to Enemies Affected by Shadow Damage Over Time "
   ]

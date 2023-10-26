@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Dagger)",
+    "Weapon",
     "One of:Storm Swell AspectConceited AspectAccelerating AspectElementalist's AspectAspect of RetributionAspect of ControlAspect of the Unbroken Tether",
     "Weapon Type: Dagger(Implicit: Damage to Close Enemies)1. Intelligence2. Critical Strike Damage3. Vulnerable Damage4. Lightning Critical Strike Damage5. Core Skill Damage6. Damage to Burning Enemies7. Damage to Crowd Controlled Enemies8. Damage to Close Enemies9. All Stats"
   ],
@@ -45,12 +45,12 @@
     "1. Cooldown Reduction2. Ranks of All Defensive Skills3. Ranks of Devouring Blaze*4. Ranks of Glass Cannon*5. Ranks of Hoarfrost*6. Ranks of ElementalDominance*7. Mana Cost Reduction8. Movement Speed9. Total Armor10. Damage Reduction11. Damage Reduction from Distant Enemies12. Shock Skill Damage* These stats cannot spawntogether on the same Amulet"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Recharging Aspect",
     "1. Critical Strike Damage2. Lightning Critical Strike Damage3. Critical Strike Chance4. Maximum Life5. Vulnerable Damage6. Damage to Close Enemies7. Damage to Crowd Controlled Enemies8. Damage to Stunned Enemies9. Lightning Damage10. Maximum Mana11. Resource Generation"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:Elementalist's AspectConceited AspectStorm Swell AspectAspect of RetributionAccelerating AspectAspect of ControlAspect of the Unbroken Tether",
     "1. Vulnerable Damage2. Resource Generation3. Critical Strike Damage4. Critical Strike Chance5. Lightning Critical Strike Damage6. Maximum Life7. Maximum Mana8. Damage to Close Enemies9. Damage to Crowd Controlled Enemies10. Damage to Stunned Enemies11. Lightning Damage"
   ]

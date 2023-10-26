@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(Wand)",
+    "Weapon",
     "One of:Aspect of ReanimationAspect of Grasping VeinsOsseous Gale AspectBlood Getter's Aspect",
     "Implicit: Lucky Hit Chance1. Critical Strike Damage2. Vulnerable Damage3. Damage to Close Enemies4. Damage to Stunned Enemies5. Damage to Crowd Controlled Enemies6. Damage to Slowed Enemies7. All Stats"
   ],
@@ -45,12 +45,12 @@
     "1. Ranks of Hellbent Commander2. Movement Speed3. Cooldown Reduction4. Minion Attack Speed5. Lucky Hit Chance whileYou Have a Barrier6. Total Armor7. Damage Reduction8. Damage Reduction from Distant Enemies9. Damage Reduction whileFortified10. Summoning Skill Damage"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Ring of Mendeln",
     "1. Lucky Hit: Chance to empowerall of your Minions, causing thenext attack from each to explodefor Physical Damage2. Lucky Hit Chance3. Minion Attack Speed4. Maximum Minion Life5. Thorns"
   ],
   [
-    "Ring 2",
+    "Ring",
     "One of:Aspect of ReanimationAspect of Grasping VeinsOsseous Gale AspectBlood Getter's Aspect",
     "1. Critical Strike Chance2. Critical Strike Damage3. Vulnerable Damage4. Lucky Hit Chance5. Maximum Life6. Damage to Crowd Controlled Enemies7. Damage to Slowed Enemies8. Damage to Close Enemies9. Physical Damage"
   ]

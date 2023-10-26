@@ -15,7 +15,7 @@
     "1. Cooldown Reduction2. Resource Generation3. Mana Cost Reduction4. Critical Strike Chance5. Crowd Control Duration6. Lucky Hit: Chance to Regain Resource"
   ],
   [
-    "Helm ",
+    "Helm",
     "Disobedience",
     "1. Cooldown Reduction2. % Total Armor3. Maximum Mana4. Maximum Life5. Crowd Control Duration6. Intelligence"
   ],
@@ -45,12 +45,12 @@
     "1. Cooldown Reduction2. Mana Cost Reduction3. Movement Speed4. Ranks to Devouring Blaze5. Ranks to Hoarfrost6. Ranks to Permafrost7. Ranks to Defensive Skills"
   ],
   [
-    "Ring 1",
+    "Ring",
     "Storm Swell",
     "1. Resource Generation2. Critical Strike Chance3. Cold Damage4. Maximum Life5. Damage to Close Enemies"
   ],
   [
-    "Ring 2 ",
+    "Ring",
     "Prodigy\u2019s",
     "1. Resource Generation2. Critical Strike Chance3. Cold Damage4. Maximum Life5. Damage to Close Enemies"
   ]

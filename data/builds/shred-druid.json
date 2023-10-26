@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon(1-Handed-Axe)",
+    "Weapon",
     "Aftershock",
     "Implicit: Damage To Healthy Enemies1. High Damage per Second2. Willpower3. All Stats4. Damage to Close Enemies5. Damage To Poisoned Enemies6. Vulnerable Damage7. Damage over Time8. Critical Strike Damage9. Critical Strike Damage With Werewolf SkillsSockets Royal Emerald"
   ],
@@ -45,12 +45,12 @@
     "1. Ranks to Call of the Wild2. Ranks of All Companion Skills3. Cooldown Reduction4. Damage Reduction From Poisoned Enemies5. Ranks to Toxic Claws6. Ranks to Envenom7. Damage Reduction While FortifiedSocket Single Resistance"
   ],
   [
-    "Ring 1",
+    "Ring",
     "SubterraneanorTrampled Earthor Blurred BeastorAccelerating",
     "1. Critical Strike Chance 2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Damage to Poisoned Enemies6. Damage to Crowd Controlled Enemies7. Damage to Slowed EnemiesSocket Single Resistance"
   ],
   [
-    "Ring 2",
+    "Ring",
     "SubterraneanorTrampled Earthor Blurred BeastorAccelerating",
     "1. Critical Strike Chance 2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Damage to Poisoned Enemies6. Damage to Crowd Controlled Enemies7. Damage to Slowed EnemiesSocket Single Resistance"
   ]

@@ -1,6 +1,7 @@
 """Cleaner for the data files."""
 
 from __future__ import annotations
+
 import json
 import logging
 import re
@@ -16,8 +17,21 @@ logging.basicConfig(
 class Cleaner:
     def __init__(self: Cleaner) -> None:
         self.builds_dir = Path("data\\builds")
+        self.equipment_types = [
+            "Helm",
+            "Chest",
+            "Gloves",
+            "Pants",
+            "Boots",
+            "Weapon",
+            "Ranged",
+            "Offhand",
+            "Amulet",
+            "Ring",
+        ]
 
     def remove_constant_items(self) -> None:
+        """Remove unique and best-in-slot items from equipment."""
         for file in self.builds_dir.iterdir():
             if file.is_file():
                 with file.open() as f:
@@ -35,21 +49,26 @@ class Cleaner:
                     json.dump(new_data, f, indent=2)
         logging.info("All files cleaned.")
 
-    def remove_optional(self: Cleaner) -> None:
+    def replace_valid_equipment(self: Cleaner) -> None:
+        """Replace equipment types with a standardized name according to the closest match."""
         for file in self.builds_dir.iterdir():
             if file.is_file():
                 with file.open() as f:
                     data = json.load(f)
-                new_data = [
-                    [re.sub(r"\(Optional\)", "", stat, flags=re.I) for stat in row]
-                    for row in data
-                ]
+                for row in data:
+                    if row:
+                        equipment_type = row[0]
+                        for valid_equipment in self.equipment_types:
+                            if valid_equipment.lower() in equipment_type.lower():
+                                row[0] = valid_equipment
+                                break
                 with file.open("w") as f:
-                    json.dump(new_data, f, indent=2)
+                    json.dump(data, f, indent=2)
+        logging.info("Equipment names standardized.")
 
     def run(self: Cleaner) -> None:
         self.remove_constant_items()
-        self.remove_optional()
+        self.replace_valid_equipment()
 
 
 if __name__ == "__main__":
