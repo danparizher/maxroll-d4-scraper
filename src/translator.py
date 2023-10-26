@@ -19,18 +19,27 @@ class Translator:
     def __init__(self: Translator) -> None:
         self.url = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Affixes.enUS.json"
 
-    def create_map(self: Translator) -> dict[str, str]:
+    def create_map(self: Translator) -> dict[str, str] | None:
         """Return the map for IdName:Description."""
         response = requests.get(self.url, timeout=10)
+        if response.status_code != 200:
+            logging.error(
+                "Failed to get data from %s. Status code: %s",
+                self.url,
+                response.status_code,
+            )
+            return None
+
         data = json.loads(response.content)
         return {item["IdName"]: item["Description"] for item in data}
 
     def build_json(self: Translator) -> None:
         """Build the JSON file."""
         data = self.create_map()
-        with Path("data\\map.json").open("w") as f:
-            data = dict(sorted(data.items(), key=lambda item: item[0]))
-            json.dump(data, f, indent=2)
+        if data is not None:
+            with Path("data\\map.json").open("w") as f:
+                data = dict(sorted(data.items(), key=lambda item: item[0]))
+                json.dump(data, f, indent=2)
 
 
 def run() -> None:

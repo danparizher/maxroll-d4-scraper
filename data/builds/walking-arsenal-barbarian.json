@@ -6,17 +6,17 @@
   ],
   [
     "Two-HandedBludgeoning Weapon(Regular)",
-    "Accelerating",
+    "One of:Accelerating Edgemaster\u2019sEarthstriker's Add an extra defensive Aspect on the Amulet until Overkill",
     "1. High Damage per Second2. Damage while Berserking3. Damage to Close Enemies4. All Stats5. Strength6. Vulnerable Damage7. Critical Strike DamageSockets Royal Skull"
   ],
   [
     "Dual WieldWeapon 1(Axe)",
-    "One of:Accelerating (with Overkill)Conceited (without Overkill) Edgemaster\u2019sBerserk Ripping",
+    "One of:Accelerating Edgemaster\u2019sBerserk Ripping",
     "1. Damage while Berserking2. Damage to Close Enemies3. All Stats4. Strength5. Vulnerable Damage6. Critical Strike DamageSocket Royal Skull"
   ],
   [
     "Dual WieldWeapon 2(Axe)",
-    "One of:Accelerating (with Overkill)Conceited (without Overkill) Edgemaster\u2019sBerserk Ripping",
+    "One of:Accelerating Edgemaster\u2019sBerserk Ripping",
     "1. Damage while Berserking2. Damage to Close Enemies3. All Stats4. Strength5. Vulnerable Damage6. Critical Strike DamageSocket Royal Skull"
   ],
   [
@@ -26,12 +26,12 @@
   ],
   [
     "Helm",
-    "One of:DisobedienceIron WarriorAspect of Might",
+    "One of:Iron WarriorSteadfast Berserker'sMight",
     "1. + Ranks of Death Blow2. Any Resistance3. Cooldown Reduction4. % Total Armor5. Maximum LifeSocket Royal Ruby"
   ],
   [
     "Chest",
-    "One of:DisobedienceIron WarriorAspect of Might",
+    "One of:Iron WarriorSteadfast Berserker'sMight",
     "1. % Total Armor2. Damage Reduction 2. Damage Reduction from Close Enemies3. Damage Reduction 4. Damage Reduction while Fortified6. Damage Reduction from Distant Enemies5. Damage Reduction from Enemies That Are Bleeding6. % Total Armor7. Maximum LifeSockets Royal Ruby"
   ],
   [
@@ -41,7 +41,7 @@
   ],
   [
     "Pants(Regular)",
-    "One of:DisobedienceIron WarriorAspect of Might",
+    "One of:Iron WarriorSteadfast Berserker'sMight",
     "1. % Total Armor2. Damage Reduction 2. Damage Reduction from Close Enemies3. Damage Reduction 4. Damage Reduction while Fortified6. Damage Reduction from Distant Enemies5. Damage Reduction from Enemies That Are Bleeding6. % Total Armor7. Maximum LifeSockets Royal Ruby"
   ],
   [
@@ -51,17 +51,17 @@
   ],
   [
     "Amulet",
-    "Steadfast Berserker's",
+    "Earthstriker's ",
     "1. + Ranks of the Heavy Handed Passive*2. Movement Speed3. Cooldown Reduction4. + Ranks of All Weapon Mastery Skills5. + Ranks of the Counteroffensive Passive*6. Damage ReductionSocket any Gem to cap Resistances or Royal Skull if capped* Can't appear on the same item together"
   ],
   [
     "Ring 1",
-    "One of:Accelerating (with Overkill)Conceited (without Overkill) Edgemaster\u2019sBerserk Ripping",
+    "Berserk Fury",
     "1. Damage while Berserking2. Fortify Generation3. Critical Strike Chance4. Maximum Life5. Damage to Close Enemies6. Vulnerable DamageSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
     "Ring 1",
-    "One of:Accelerating (with Overkill)Conceited (without Overkill) Edgemaster\u2019sBerserk Ripping",
+    "One of:AcceleratingEdgemaster\u2019sBerserk Ripping",
     "1. Damage while Berserking2. Fortify Generation3. Critical Strike Chance4. Maximum Life5. Damage to Close Enemies6. Vulnerable DamageSocket any Gem to cap Resistances or Royal Skull if capped"
   ]
 ]

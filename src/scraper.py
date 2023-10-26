@@ -29,10 +29,17 @@ logging.basicConfig(
 )
 
 
-def get_soup(url: str) -> BeautifulSoup:
+def get_soup(url: str) -> BeautifulSoup | None:
     """Return a BeautifulSoup object from the given URL."""
-    r = requests.get(url, timeout=10)
-    return BeautifulSoup(r.text, "html.parser")
+    response = requests.get(url, timeout=10)
+    if response.status_code != 200:
+        logging.error(
+            "Failed to get data from %s. Status code: %s",
+            url,
+            response.status_code,
+        )
+        return None
+    return BeautifulSoup(response.text, "html.parser")
 
 
 def generate_class_paths() -> list[str]:
@@ -112,12 +119,14 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
             "aligncenter",
         ]
         # Find the table that contains the most matching class names. We do this because there may multiple tables on the page.
-        table = max(
-            soup.find_all("table"),
-            key=lambda tag: sum(
-                c in tag.get("class", []) for c in required_class_names
-            ),
-        )
+        table = None
+        if soup is not None:
+            table = max(
+                soup.find_all("table"),
+                key=lambda tag: sum(
+                    c in tag.get("class", []) for c in required_class_names
+                ),
+            )
         if table is not None:
             tbody = table.find("tbody")
             if tbody is not None:

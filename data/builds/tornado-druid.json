@@ -12,7 +12,7 @@
   [
     "Off-Hand",
     "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
-    "1. High Damage per Second2. Cooldown Reduction3. Lucky Hit Chance4. Critical Strike Chance5. Damage Reduction against Poisoned Enemies6. Damage Reduction while Fortified"
+    "1. High Damage per Second2. Cooldown Reduction3. Critical Strike Chance4. Lucky Hit Chance5. Damage Reduction against Poisoned Enemies6. Damage Reduction while Fortified"
   ],
   [
     "Helm (Human Form)",
@@ -27,7 +27,7 @@
   [
     "Chest(Speedfarming)",
     "Mad Wolf's Glee",
-    "1. Movement Speed2. Physical Damage3. Damage Reduction against Poisoned Enemies4. Poison Damage"
+    "1. Movement Speed2. %Damage3. Damage Reduction against Poisoned Enemies4. Life"
   ],
   [
     "Gloves",
@@ -41,7 +41,7 @@
   ],
   [
     "Boots",
-    "Craven Aspect",
+    "Ghostwalker (Seasonal)orCraven (Eternal)",
     "Implicit: Attacks Reduce Evade's Cooldown1. Movement Speed2/3/ Two of: Fire, Cold, Shadow Resistance4. Spirit Cost Reduction*5. Total Armor while in Werewolf Form5. Dodge Chance6. Willpower7. All Stats"
   ],
   [
@@ -52,11 +52,11 @@
   [
     "Ring 1",
     "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
-    "1. Damage to Close Enemies2. Critical Strike Chance3. Lucky Hit Chance4. Damage to Distant Enemies5. Life6. Damage to Slowed Enemies7. Vulnerable Damage8. Critical Strike Damage9. Critical Strike Damage with Werewolf Skills"
+    "1. Damage to Close Enemies2. Critical Strike Chance3. Damage to Distant Enemies4. Lucky Hit Chance5. Life6. Damage to Slowed Enemies7. Vulnerable Damage8. Critical Strike Damage9. Critical Strike Damage with Werewolf Skills"
   ],
   [
     "Ring 2",
     "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
-    "1. Damage to Close Enemies2. Critical Strike Chance3. Lucky Hit Chance4. Damage to Distant Enemies5. Life6. Damage to Slowed Enemies7. Vulnerable Damage8. Critical Strike Damage9. Critical Strike Damage with Werewolf Skills"
+    "1. Damage to Close Enemies2. Critical Strike Chance3. Damage to Distant Enemies4. Lucky Hit Chance5. Life6. Damage to Slowed Enemies7. Vulnerable Damage8. Critical Strike Damage9. Critical Strike Damage with Werewolf Skills"
   ]
 ]
