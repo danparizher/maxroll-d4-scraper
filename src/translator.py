@@ -37,7 +37,7 @@ class Translator:
         """Build the JSON file."""
         data = self.create_map()
         if data is not None:
-            with Path("data\\map.json").open("w") as f:
+            with Path("data\\stat_map.json").open("w") as f:
                 data = dict(sorted(data.items(), key=lambda item: item[0]))
                 json.dump(data, f, indent=2)
 
