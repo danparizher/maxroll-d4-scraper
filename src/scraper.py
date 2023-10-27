@@ -192,7 +192,7 @@ def compile_jsons() -> None:
                 logging.exception("%s generated an exception", path)
             else:
                 priorities = data
-                title = path.split("/")[-1].split("-guide")[0]
+                title = path.split("/")[-1].replace("-guide", "").replace("-build", "")
                 build_json.append({title: path})
                 with (Path("data\\builds") / f"{title}.json").open("w") as f:
                     json.dump(priorities, f, indent=2)

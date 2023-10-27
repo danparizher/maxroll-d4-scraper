@@ -168,7 +168,7 @@ class Translator:
 
         for build_file in (Path("data") / "builds").iterdir():
             with build_file.open("r") as f:
-                translated_build = self.translate(build_file.name[:-4], json.load(f))
+                translated_build = self.translate(build_file.name[:-5], json.load(f))
 
             with (translated_builds_dir / build_file.name).open("w") as f:
                 json.dump(translated_build, f, indent=2)
