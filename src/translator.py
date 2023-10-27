@@ -89,7 +89,7 @@ class Translator:
 
         # no matches - cry
         msg = f"Failed to find a match for {plaintext} - fuzzy matched {best_match_id} with ratio {best_match_ratio}%"
-        raise Exception(msg)
+        raise Exception(msg)  # noqa
 
     def translate(
         self: Translator,
