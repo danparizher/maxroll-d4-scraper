@@ -33,12 +33,16 @@ SKIP_STATS = [
 
 
 class Translator:
+    # TODO: Move stat_map generation to scraping.py
     def __init__(self: Translator) -> None:
         self.url = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Affixes.enUS.json"
         self.stat_map = self.create_map()
 
         with Path("data\\stat_map.json").open("w") as f:
             json.dump(self.stat_map, f, indent=2)
+
+        with Path("data\\uniques.json").open("r") as f:
+            self.uniques = json.load(f)
 
     def create_map(self: Translator) -> dict[str, str]:
         """Return the map for IdName:Description."""
@@ -56,8 +60,15 @@ class Translator:
     @staticmethod
     def clean_plaintext(plaintext: str) -> str:
         cleaned = re.sub(r"[^a-z\s]", "", plaintext.strip().lower())
-        cleaned = cleaned.replace("ranks to", "ranks of the")
+        cleaned = re.sub(r"\(.*?\)", "", cleaned)
         cleaned = re.sub(r"damage to (.+) enemies", r"\1 damage", cleaned)
+        # TODO: For some reason, it isn't removing the unique substring
+        # remove the substring of values in unique.json
+        # i.e. "Movement Speed with FlickerStep" -> "Movement Speed"
+        # for unique in self.uniques:
+        #     if unique in cleaned:
+        #         cleaned = cleaned.replace(unique, "").strip()
+        cleaned = cleaned.replace("ranks to", "ranks of the")
         return cleaned.replace("maximum life", "life")
 
     def map_plaintext_to_id(self: Translator, plaintext: str) -> str:
@@ -107,7 +118,7 @@ class Translator:
             "ItemAspects": [],
         }
 
-        print(f"FILE: {build_name}json")
+        print(f"FILE: {build_name}.json")
         for gear_type, _aspects, stat_numbered_list in rows:
             stats = {}
 

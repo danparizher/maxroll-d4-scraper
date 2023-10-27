@@ -17,6 +17,8 @@ logging.basicConfig(
 class Cleaner:
     def __init__(self: Cleaner) -> None:
         self.builds_dir = Path("data\\builds")
+        with Path("data\\uniques.json").open() as f:
+            self.uniques = json.load(f)
         self.equipment_types = [
             "Helm",
             "Chest",
@@ -30,17 +32,20 @@ class Cleaner:
             "Ring",
         ]
 
-    def remove_constant_items(self) -> None:
+    def remove_unique_items(self: Cleaner) -> None:
         """Remove unique and best-in-slot items from equipment."""
         for file in self.builds_dir.iterdir():
             if file.is_file():
                 with file.open() as f:
                     data = json.load(f)
-                new_data = [
+                # Skip the first row (header)
+                new_data = [data[0]]  # Keep the header in the new data
+                new_data += [
                     row
-                    for row in data
+                    for row in data[1:]
                     if (
-                        len(row) > 0
+                        len(row) > 1
+                        and row[0] not in self.uniques
                         and "unique" not in row[0].lower()
                         and not re.search(r"best[-\s]in[-\s]slot", row[0].lower())
                     )
@@ -67,7 +72,7 @@ class Cleaner:
         logging.info("Equipment names standardized.")
 
     def run(self: Cleaner) -> None:
-        self.remove_constant_items()
+        self.remove_unique_items()
         self.replace_valid_equipment()
 
 

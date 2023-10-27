@@ -16,6 +16,7 @@ from concurrent.futures import ThreadPoolExecutor
 from contextlib import suppress
 from itertools import chain
 from pathlib import Path
+from typing import Any
 
 import requests
 from bs4 import BeautifulSoup, Tag
@@ -29,6 +30,52 @@ logging.basicConfig(
     format="[%(asctime)s] %(levelname)s: %(message)s",
     datefmt="%I:%M:%S",
 )
+
+
+class Uniques:
+    def __init__(self: Uniques) -> None:
+        self.core_toc = []
+        self.item_files = []
+        self.uniques = []
+
+    @staticmethod
+    def fetch_data(url: str) -> dict[str, Any]:
+        """Return the JSON data from the given URL."""
+        response = requests.get(url, timeout=10)
+        return response.json()
+
+    def fetch_item_files(self: Uniques) -> list[str] | None:
+        """Return a list of item files."""
+        url = "https://raw.githubusercontent.com/blizzhackers/d4data/master/json/base/CoreTOC.dat.json"
+        self.core_toc = self.fetch_data(url)
+        self.item_files = [
+            name for name in self.core_toc["73"].values() if "unique" in name.lower()
+        ]
+        return self.item_files
+
+    def get_uniques(self) -> list[str]:
+        """Return a list of unique item names."""
+        self.item_files = self.fetch_item_files()
+        if self.item_files is not None:
+            with ThreadPoolExecutor() as executor:
+                futures = [
+                    executor.submit(
+                        self.fetch_data,
+                        f"https://raw.githubusercontent.com/blizzhackers/d4data/master/json/enUS_Text/meta/StringList/Item_{value}.stl.json",
+                    )
+                    for value in self.item_files
+                ]
+                for future in concurrent.futures.as_completed(futures):
+                    data = future.result()
+                    self.uniques.append(data["arStrings"][0]["szText"])
+        return self.uniques
+
+    def compile_json(self: Uniques) -> None:
+        """Create JSON file for the list of unique items."""
+        data = self.get_uniques()
+        with Path("data\\uniques.json").open("w") as f:
+            data.sort()
+            json.dump(data, f, indent=2)
 
 
 def get_soup(url: str) -> BeautifulSoup | None:
@@ -205,6 +252,7 @@ def compile_jsons() -> None:
 def run() -> None:
     """Run the scraper."""
     compile_jsons()
+    Uniques().compile_json()
 
 
 if __name__ == "__main__":
