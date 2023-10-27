@@ -7,56 +7,56 @@
   [
     "Ranged",
     "Edgemaster\u2019s Aspect",
-    "Weapon Type: Bow1. H1. High Damage per Second2. Vulnerable Damage3. Dexterity4. All stats5. Damage to Distant Enemies6. Core Skill Damage7. Damage to Crowd Controlled EnemiesSocket Royal SkullSocket Royal Emerald"
+    "Weapon Type: Crossbow\n1. High Damage per Second\n2. Damage vs Crowd Controlled\n3. Dexterity\n4. All stats\n5. Damage to Core skills\n6. Critical Strike Damage\nSocket Royal Skull\nSocket\nRoyal Emerald"
   ],
   [
-    "Melee 1 ",
-    "Trickshot AspectRapid AspectAspect of the ExpectantAspect of Corruption",
-    "Weapon Type: SwordDamage doesn't matter1. Vulnerable Damage2. Dexterity3. All stats4. Damage to Distant Enemies5. Core Skill Damage6. Damage to Crowd Controlled EnemiesSocket Royal Skull"
+    "Melee 1",
+    "Trickshot Aspect Rapid Aspect Aspect of the Expectant\nAspect of Corruption",
+    "Weapon Type: Sword Damage doesn't matter\n1. Damage vs Crowd Controlled\n2. Dexterity\n3. All stats\n4. Damage to Core skills\n5. Critical Strike Damage\n6. Damage to Crowd Controlled Enemies\nSocket\nRoyal Skull"
   ],
   [
-    "Melee 2(Regular)",
-    "Trickshot AspectRapid AspectAspect of the ExpectantAspect of Corruption",
-    "Weapon Type: SwordDamage doesn't matter1. Vulnerable Damage2. Dexterity3. All stats4. Damage to Distant Enemies5. Core Skill Damage6. Damage to Crowd Controlled EnemiesSocket Royal Skull"
+    "Melee 2\n(Regular)",
+    "Trickshot AspectRapid Aspect Aspect of the Expectant\nAspect of Corruption",
+    "Weapon Type: Sword Damage doesn't matter\n1. Damage vs Crowd Controlled\n2. Dexterity\n3. All stats\n4. Damage to Core skills\n5. Critical Strike Damage\n6. Damage to Crowd Controlled Enemie\nSocket\nRoyal Skull"
   ],
   [
     "Helm",
-    "Aspect of MightAspect of DisobedienceEnshrouding Aspect",
-    "1.Cooldown Reduction2. Poison Imbuement3. Poison Resistance4. Armor5. Life on Kill6. DexteritySocket Royal Ruby"
+    "Aspect of Might Aspect of Disobedience\nEnshrouding Aspect",
+    "1.Cooldown Reduction\n2. Maximum Life\n3. Poison Resistance\n4. Armor\n5. Life on Kill\n6. Dexterity\nSocket\nRoyal Ruby"
   ],
   [
     "Chest",
-    "Aspect of MightAspect of DisobedienceEnshrouding Aspect",
-    "1. Damage Reduction2. Armor3. Maximum Life4. Distant Damage Reduction5. Damage Reduction vs Poisoned EnemiesSockets Royal Ruby"
+    "Aspect of Might Aspect of Disobedience\nEnshrouding Aspect",
+    "1. Damage Reduction\n2. Armor\n3. Maximum Life\n4. Distant Damage Reduction\n5. Damage Reduction vs Poisoned Enemies\nSockets\nRoyal Ruby"
   ],
   [
     "Gloves",
-    "Trickshot AspectRapid AspectAspect of the ExpectantAspect of Corruption",
-    "1. Ranks to Penetrating Shot2. Critical Strike Chance3. Rapid Fire4. Attack Speed5. Dexterity "
+    "Trickshot AspectRapid Aspect Aspect of the Expectant\nAspect of Corruption",
+    "1. Ranks to Penetrating Shot\n2. Critical Strike Chance\n3. Rapid Fire\n4. Attack Speed\n5. Dexterity"
   ],
   [
     "Pants",
-    "Aspect of MightAspect of DisobedienceEnshrouding Aspect",
-    "Implicit: Potion Grants Barrier1. Damage Reduction2. Armor3. Maximum Life4. Imbuement Skill Cooldown Reduction5. Ranks to Dark ShroudSockets Royal Ruby"
+    "Aspect of Might Aspect of Disobedience\nEnshrouding Aspect",
+    "Implicit: Potion Grants Barrier\n1. Damage Reduction\n2. Armor\n3. Maximum Life\n4. Imbuement Skill Cooldown Reduction\n5. Ranks to Dark Shroud\nSockets\nRoyal Ruby"
   ],
   [
     "Boots",
     "Mangler's Aspect",
-    "IImplicit:  Reduce Cooldown Evade 1. Movement Speed2. Fire Resistance3. Lightning Resistance4. Cold Resistance5. Dexterity6. Dodge Chance vs Distant enemies"
+    "IImplicit:  Reduce Cooldown Evade\n1. Movement Speed\n2. Fire Resistance\n3. Lightning Resistance\n4. Cold Resistance\n5. Dexterity\n6. Dodge Chance vs Distant enemies"
   ],
   [
     "Amulet",
     "Umbrous Aspect",
-    "1.  Ranks to Weapon Mastery2. Cooldown Reduction3. Movement Speed4. Ranks to Imbuement Skills5. Damage Reduction6. Ranks to Exploit7. Ranks to MaliceSocket Royal Amethyst"
+    "1.  Ranks to Exploit\n2. Cooldown Reduction\n3. Movement Speed\n4. Ranks to Imbuement Skills\n5. Damage Reduction\n6. Ranks to Weapon Mastery\n7. Ranks to Malice\nSocket Royal Amethyst"
   ],
   [
     "Ring",
-    "Rapid AspectAspect of the ExpectantTrickshot AspectAspect of Corruption",
-    "1. Vulnerable Damage2. Critical Strike Chance3. Maximum Life4. Damage to Distant Enemies5. Lucky Hit Chance6. Critical Strike DamageSocket Royal Amethyst"
+    "Rapid Aspect Aspect of the Expectant\nTrickshot AspectAspect of Corruption",
+    "1. Damage vs Crowd Controlled\n2. Critical Strike Chance\n3. Maximum Life\n4. Lucky Hit Chance\n5. Damage to Distant Enemies\n6. Damage to Close Enemies\n7. Damage with Imbued Skills\nSocket\nRoyal Amethyst"
   ],
   [
     "Ring",
-    "Rapid AspectAspect of the ExpectantTrickshot AspectAspect of Corruption",
-    "1. Vulnerable Damage2. Critical Strike Chance3. Maximum Life4. Damage to Distant Enemies5. Lucky Hit Chance6. Critical Strike DamageSocket Royal Skull"
+    "Rapid Aspect Aspect of the Expectant\nTrickshot AspectAspect of Corruption",
+    "1. Damage vs Crowd Controlled\n2. Critical Strike Chance\n3. Maximum Life\n4. Lucky Hit Chance\n5. Damage to Distant Enemies\n6. Damage to Close Enemies\n7. Damage with Imbued Skills\nSocket\nRoyal Skull"
   ]
 ]

@@ -1,0 +1,326 @@
+{
+  "Name": "walking-arsenal-barbarian.",
+  "ItemAffixes": [
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Shadow",
+      "Type": "Helm"
+    },
+    {
+      "Id": "SkillRankBonus_Barb_Special_DeathBlow",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction_Bleeding",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "SkillRankBonus_Barb_Core_4_Slot01",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction_Bleeding",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Shadow",
+      "Type": "Boots"
+    },
+    {
+      "Id": "FortifyBonus",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Berserk_Duration",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "SkillRankBonus_Barb_Category_WeaponMastery",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Barb_03_Counteroffensive",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Barb_Berserker_T2_N4_HeavyHanded",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "FortifyBonus",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "FortifyBonus",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

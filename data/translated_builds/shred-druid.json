@@ -1,0 +1,310 @@
+{
+  "Name": "shred-druid.",
+  "ItemAffixes": [
+    {
+      "Id": "CritDamage_With_Wolf",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Poisoned",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_DoT",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "Totem"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Totem"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Totem"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Totem"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Druid",
+      "Type": "Totem"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Totem"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Totem"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Shadow",
+      "Type": "Helm"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Special_VineCreeper",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Core_5",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Shadow",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Werewolf_Armor",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Dodge_Ranged",
+      "Type": "Boots"
+    },
+    {
+      "Id": "FortifyBonus",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "Boots"
+    },
+    {
+      "Id": "PassiveRankBonus_Druid_Shapeshifting_T4_N3_ToxicClaws",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Category_Companion",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Druid_15_Envenom",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Druid_Shapeshifting_T2_N3_CalloftheWild",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Poisoned",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Slowed",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Poisoned",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Slowed",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

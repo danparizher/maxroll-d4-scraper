@@ -6,57 +6,57 @@
   ],
   [
     "Weapon",
-    "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
-    "Weapon Type: Axe1. High Damage per Second2. Damage To Distant Enemies3. Damage To Close Enemies4. Willpower5. All Stats6. Core Skill Damage7. Critical Strike Damage8. Critical Strike Damage with Werewolf Skills"
+    "One of: Retaliation Overcharged Rampaging Werebeast\nLightning Dancer's",
+    "Weapon Type: Axe\n1. High Damage per Second\n2. Damage To Distant Enemies\n3. Damage To Close Enemies\n4. Willpower\n5. All Stats\n6. Core Skill Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Werewolf Skills"
   ],
   [
     "Off-Hand",
-    "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
-    "1. Cooldown Reduction2. Critical Strike Chance3. Damage Reduction From Poisoned4. Damage Reduction While Fortified5. Lucky Hit Chance6. Willpower"
+    "One of: Retaliation Overcharged Rampaging Werebeast\nLightning Dancer's",
+    "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Damage Reduction From Poisoned\n4. Damage Reduction While Fortified\n5. Lucky Hit Chance\n6. Willpower"
   ],
   [
     "Helm",
     "Tempest Roar",
-    "1. Damage while Shapeshifted2. Critical Strike Damage3. Maximum Spirit4. Poison Resistance"
+    "1. Damage while Shapeshifted\n2. Critical Strike Damage\n3. Maximum Spirit\n4. Poison Resistance"
   ],
   [
     "Helm",
     "Mending Stone",
-    "1. Cooldown Reduction2. Maximum Life3. Willpower4. Single Resistance5. Total Armor6. Basic Attack Speed"
+    "1. Cooldown Reduction\n2. Maximum Life\n3. Willpower\n4. Single Resistance\n5. Total Armor\n6. Basic Attack Speed"
   ],
   [
     "Chest",
-    "VigorousorDisobedience",
-    "1. Damage Reduction From Poisoned2. Damage Reduction While Fortified3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction6. % Total Armor7. Maximum Life8. Willpower"
+    "Vigorous or\nDisobedience",
+    "1. Damage Reduction From Poisoned\n2. Damage Reduction While Fortified\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction\n6. % Total Armor\n7. Maximum Life\n8. Willpower"
   ],
   [
     "Gloves",
-    "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
-    "1. Ranks to Lightning Storm2. Critical Strike Chance3. Lucky Hit Chance4. Willpower5. Critical Strike Damage with Werewolf Skills6. Lightning Critical Strike Damage"
+    "One of: Retaliation Overcharged Rampaging Werebeast\nLightning Dancer's",
+    "1. Ranks to Lightning Storm\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Willpower\n5. Critical Strike Damage with Werewolf Skills\n6. Lightning Critical Strike Damage"
   ],
   [
     "Pants",
-    "DisobedienceorVigorous",
-    "Implicit: Potion Grants Barrier1. Damage Reduction From Poisoned2. Damage Reduction While Fortified3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction6. % Total Armor7. Maximum Life8. Willpower"
+    "Disobedience or\nVigorous",
+    "Implicit: Potion Grants Barrier\n1. Damage Reduction From Poisoned\n2. Damage Reduction While Fortified\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction\n6. % Total Armor\n7. Maximum Life\n8. Willpower"
   ],
   [
     "Boots",
-    "Stormshifter'sorGhostwalker",
-    "Implicit: Attacks Reduce Evade's CD1. Movement Speed2/3. Two of: Fire, Cold, Shadow, Poison Resistance 4. Total Armor while in Werewolf Form5. Fortify Generation6. Dodge Chance From Distant Enemeis7. Dodge Chance6. Willpower"
+    "Stormshifter's or\nGhostwalker",
+    "Implicit: Attacks Reduce Evade's CD\n1. Movement Speed\n2/3. Two of: Fire, Cold, Shadow, Poison Resistance\n4. Total Armor while in Werewolf Form\n5. Fortify Generation\n6. Dodge Chance From Distant Enemeis\n7. Dodge Chance\n6. Willpower"
   ],
   [
     "Amulet",
     "Dire Wolf's",
-    "1. Cooldown Reduction2. Movement Speed3. Ranks to Envenom4. Damage Reduction From Poisoned5. Damage Reduction While Fortified6. Damage Reduction from Close Enemies7. Damage Reduction from Distant EnemiesSocket Single Resistance"
+    "1. Cooldown Reduction\n2. Movement Speed\n3. Ranks to Envenom\n4. Damage Reduction From Poisoned\n5. Damage Reduction While Fortified\n6. Damage Reduction from Close Enemies\n7. Damage Reduction from Distant Enemies\nSocket Single Resistance"
   ],
   [
     "Ring",
     "Umbral",
-    "1. Damage to Distant Enemies2. Damage to Close Enemies3. Critical Strike Chance4. Lucky Hit Chance5. Maximum Life6. Critical Strike Damage With Werewolf Skills7. Lightning Critical Strike DamageSocket Single Resistance"
+    "1. Damage to Distant Enemies\n2. Damage to Close Enemies\n3. Critical Strike Chance\n4. Lucky Hit Chance\n5. Maximum Life\n6. Critical Strike Damage With Werewolf Skills\n7. Lightning Critical Strike Damage\nSocket Single Resistance"
   ],
   [
     "Ring",
-    "One of:RetaliationOverchargedRampaging WerebeastLightning Dancer's",
-    "1. Damage to Distant Enemies2. Damage to Close Enemies3. Critical Strike Chance4. Lucky Hit Chance5. Maximum Life6. Critical Strike Damage With Werewolf Skills7. Lightning Critical Strike DamageSocket Single Resistance"
+    "One of: Retaliation Overcharged Rampaging Werebeast\nLightning Dancer's",
+    "1. Damage to Distant Enemies\n2. Damage to Close Enemies\n3. Critical Strike Chance\n4. Lucky Hit Chance\n5. Maximum Life\n6. Critical Strike Damage With Werewolf Skills\n7. Lightning Critical Strike Damage\nSocket Single Resistance"
   ]
 ]

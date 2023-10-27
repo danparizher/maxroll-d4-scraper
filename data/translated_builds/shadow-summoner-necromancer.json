@@ -1,0 +1,214 @@
+{
+  "Name": "shadow-summoner-necromancer.",
+  "ItemAffixes": [
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Trapped",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Slowed",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "PetHealth_Necro",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "Luck_With_Barrier",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Luck_With_Barrier",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Thorns",
+      "Type": "Chest"
+    },
+    {
+      "Id": "PetHealth_Necro",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Resistance_All",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Boots"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_CorpseTendrils",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Boots"
+    },
+    {
+      "Id": "PassiveRankBonus_Necro_01_Gloom",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PetAttackSpeed_Necro",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "PetHealth_Necro",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "PetHealth_Necro",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

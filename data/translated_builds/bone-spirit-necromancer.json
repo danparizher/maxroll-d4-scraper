@@ -1,0 +1,190 @@
+{
+  "Name": "bone-spirit-necromancer.",
+  "ItemAffixes": [
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage_With_Bone",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resource_MaxEssence",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "CritDamage_With_Bone",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_BloodMist",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_BoneSpirit",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_All",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Boots"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_CorpseTendrils",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Boots"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Category_Macabre",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Necro_Summoning_T1_N2_Evulsion",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Resource_MaxEssence",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Resource_MaxEssence",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

@@ -1,0 +1,278 @@
+{
+  "Name": "rain-of-arrows-rogue-build.",
+  "ItemAffixes": [
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_Category_Ultimate",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_Category_Ultimate",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "Damage_Category_Ultimate",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Shadow",
+      "Type": "Helm"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Chest"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Core_1",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Shadow",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Damage_Category_Ultimate",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Category_Imbuements",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

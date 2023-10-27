@@ -7,51 +7,51 @@
   [
     "Weapon",
     "Aspect of Ultimate Shadow",
-    "1. High Damage per Second2. Intelligence3. All Stats4. Damage to Close5. Damage to Slowed6. Damage to Affected by Shadow Damage Over Time"
+    "1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close\n5. Damage to Slowed\n6. Damage to Affected by\nShadow Damage Over Time"
   ],
   [
-    "Off-Hand(Focus)",
+    "Off-Hand\n(Focus)",
     "Aspect of Grasping Veins",
-    "1. High Damage per Second2. Lucky Hit Chance3. Lucky Hit Chance while You Have a Barrier4. Maxium Minion Life5. Cooldown Reduction"
+    "1. High Damage per Second\n2. Lucky Hit Chance\n3. Lucky Hit Chance while You Have a Barrier\n4. Maxium Minion Life\n5. Cooldown Reduction"
   ],
   [
     "Helm",
     "Coldbringer's Aspect",
-    "1. Total Armor2. Maximum Life3. Cooldown Reduction4. Lucky Hit Chance while You Have a Barrier5. Intelligence"
+    "1. Total Armor\n2. Maximum Life\n3. Cooldown Reduction\n4. Lucky Hit Chance while You Have a Barrier\n5. Intelligence"
   ],
   [
     "Chest",
     "Aspect of Disobedience",
-    "1. Maximum Life2. % Total Armor3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time4. Damage Reduction from Close Enemies5. Maximum Minion Life6. Thorns (IF necessary)"
+    "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n4. Damage Reduction from Close Enemies\n5. Maximum Minion Life\n6. Thorns (IF necessary)"
   ],
   [
     "Gloves",
     "Viscous Aspect",
-    "1. Critical Strike Chance2. Attack Speed3. Lucky Hit Chance4. Shadow Damage over Time5. Intelligence"
+    "1. Critical Strike Chance\n2. Attack Speed\n3. Lucky Hit Chance\n4. Shadow Damage over Time\n5. Intelligence"
   ],
   [
     "Pants",
     "Aspect of Shielding Storm",
-    "Implicit: Potion Grants Barrier1. Maximum Life2. % Total Armor3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time4. Damage Reduction against Close Enemies5. +xx Ranks to Corpse Explosion"
+    "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n4. Damage Reduction against Close Enemies\n5. +xx Ranks to Corpse Explosion"
   ],
   [
     "Boots",
     "Blood Getter's Aspect",
-    "Implicit: Max Evade Charges1. Movement Speed3. +xx Ranks to Corpse Tendrils4. Intelligence5. All Stats5. (Elemental) Resistance"
+    "Implicit: Max Evade Charges\n1. Movement Speed\n3. +xx Ranks to Corpse Tendrils\n4. Intelligence\n5. All Stats\n5. (Elemental) Resistance"
   ],
   [
     "Amulet",
     "Blighted Aspect",
-    "1. Movement Speed2. +xx Ranks to Gloom Passive3. Damage Reduction from Close Enemies4. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time5. Minion Attack Speed6. Cooldown Reduction7. Total Armor"
+    "1. Movement Speed\n2. +xx Ranks to Gloom Passive\n3. Damage Reduction from Close Enemies\n4. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n5. Minion Attack Speed\n6. Cooldown Reduction\n7. Total Armor"
   ],
   [
     "Ring",
-    "Ring of MendelnORAspect of Frenzied Dead",
-    "1. Critical Strike Chance2. Damage to Close Enemies3. Lucky Hit Chance4. Maximum Life5. Maximum Minion Life"
+    "Ring of Mendeln OR\nAspect of Frenzied Dead",
+    "1. Critical Strike Chance\n2. Damage to Close Enemies\n3. Lucky Hit Chance\n4. Maximum Life\n5. Maximum Minion Life"
   ],
   [
     "Ring",
     "Aspect of Decay",
-    "1. Critical Strike Chance2. Damage to Close Enemies3. Lucky Hit Chance4. Maximum Life5. Maximum Minion Life"
+    "1. Critical Strike Chance\n2. Damage to Close Enemies\n3. Lucky Hit Chance\n4. Maximum Life\n5. Maximum Minion Life"
   ]
 ]

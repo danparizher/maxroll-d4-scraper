@@ -6,52 +6,52 @@
   ],
   [
     "Weapon",
-    "one of:Frozen TundraPiercing ColdConceited",
-    "Weapon Type: Dagger1. Intelligence2. All Stats3. Damage to Close Enemies4. Critical Strike Damage5. Damage to Chilled Enemies"
+    "one of: Frozen Tundra Piercing Cold\nConceited",
+    "Weapon Type: Dagger\n1. Intelligence\n2. All Stats\n3. Damage to Close Enemies\n4. Critical Strike Damage\n5. Damage to Chilled Enemies"
   ],
   [
     "Off-Hand",
-    "one of:Frozen TundraPiercing ColdConceited",
-    "1. Cooldown Reduction2. Resource Generation3. Mana Cost Reduction4. Critical Strike Chance5. Crowd Control Duration6. Lucky Hit: Chance to Regain Resource"
+    "one of: Frozen Tundra Piercing Cold\nConceited",
+    "1. Cooldown Reduction\n2. Resource Generation\n3. Mana Cost Reduction\n4. Critical Strike Chance\n5. Crowd Control Duration\n6. Lucky Hit: Chance to Regain Resource"
   ],
   [
     "Helm",
     "Disobedience",
-    "1. Cooldown Reduction2. % Total Armor3. Maximum Mana4. Maximum Life5. Crowd Control Duration6. Intelligence"
+    "1. Cooldown Reduction\n2. % Total Armor\n3. Maximum Mana\n4. Maximum Life\n5. Crowd Control Duration\n6. Intelligence"
   ],
   [
     "Chest",
     "Snowguard's",
-    "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction 5. Maximum Life6. Intelligence"
+    "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. Maximum Life\n6. Intelligence"
   ],
   [
     "Gloves",
-    "one of:Frozen TundraPiercing ColdConceited",
-    "1. Critical Strike Chance2. Attack Speed3. Ranks to Ice Shards4. Lucky Hit: Chance to Regain Resource5. Critical Strike Chance against Injured Enemies6. Intelligence"
+    "one of: Frozen Tundra Piercing Cold\nConceited",
+    "1. Critical Strike Chance\n2. Attack Speed\n3. Ranks to Ice Shards\n4. Lucky Hit: Chance to Regain Resource\n5. Critical Strike Chance against Injured Enemies\n6. Intelligence"
   ],
   [
     "Pants",
     "Snowveiled",
-    "1. % Total Armor2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction 5. Maximum Life6. Intelligence"
+    "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. Maximum Life\n6. Intelligence"
   ],
   [
     "Boots",
-    "GhostwalkerorBounding Conduit",
-    "1. Mana Cost Reduction2. Implicit: +Max Evade Charges3. Implicit: Attacks Reduce Evade's Cooldown4. Movement Speed5. Ranks to Frost Nova6. Ranks to Teleport7. Intelligence"
+    "Ghostwalker or\nBounding Conduit",
+    "1. Mana Cost Reduction\n2. Implicit: +Max Evade Charges\n3. Implicit: Attacks Reduce Evade's Cooldown\n4. Movement Speed\n5. Ranks to Frost Nova\n6. Ranks to Teleport\n7. Intelligence"
   ],
   [
     "Amulet",
     "Glacial",
-    "1. Cooldown Reduction2. Mana Cost Reduction3. Movement Speed4. Ranks to Devouring Blaze5. Ranks to Hoarfrost6. Ranks to Permafrost7. Ranks to Defensive Skills"
+    "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Movement Speed\n4. Ranks to Devouring Blaze\n5. Ranks to Hoarfrost\n6. Ranks to Permafrost\n7. Ranks to Defensive Skills"
   ],
   [
     "Ring",
     "Storm Swell",
-    "1. Resource Generation2. Critical Strike Chance3. Cold Damage4. Maximum Life5. Damage to Close Enemies"
+    "1. Resource Generation\n2. Critical Strike Chance\n3. Cold Damage\n4. Maximum Life\n5. Damage to Close Enemies"
   ],
   [
     "Ring",
     "Prodigy\u2019s",
-    "1. Resource Generation2. Critical Strike Chance3. Cold Damage4. Maximum Life5. Damage to Close Enemies"
+    "1. Resource Generation\n2. Critical Strike Chance\n3. Cold Damage\n4. Maximum Life\n5. Damage to Close Enemies"
   ]
 ]

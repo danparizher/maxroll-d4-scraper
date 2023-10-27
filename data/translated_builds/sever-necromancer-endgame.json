@@ -1,0 +1,218 @@
+{
+  "Name": "sever-necromancer-endgame.",
+  "ItemAffixes": [
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Shadow_DoT",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Luck_With_Barrier",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Necromancer",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Luck_With_Barrier",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Core_3",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Resistance_All",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Necromancer",
+      "Type": "Boots"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_CorpseTendrils",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Boots"
+    },
+    {
+      "Id": "PassiveRankBonus_Necro_01_Gloom",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Category_Corpse",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Necromancer",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Trapped",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Trapped",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

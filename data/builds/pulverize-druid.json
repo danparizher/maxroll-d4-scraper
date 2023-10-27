@@ -7,61 +7,61 @@
   [
     "Weapon",
     "Shockwave",
-    "1. High Damage per Second2. Willpower3. All Stats3. Damage to Crowd Controlled Enemies5. Core Skill Damage6. Damage to Close Enemies7. Vulnerable Damage8. Damage to Slowed Enemies9. Critical Strike Damage10. Critical Strike Damage with Earth Skills"
+    "1. High Damage per Second\n2. Willpower\n3. All Stats\n3. Damage to Crowd Controlled Enemies\n5. Core Skill Damage\n6. Damage to Close Enemies\n7. Vulnerable Damage\n8. Damage to Slowed Enemies\n9. Critical Strike Damage\n10. Critical Strike Damage with Earth Skills"
   ],
   [
     "Weapon",
-    "One of:RetaliationAccelerating",
-    "1. High Damage per Second2. Willpower3. All Stats4. Core Skill Damage5. Damage to Close Enemies6. Vulnerable Damage7. Damage to Slowed Enemies8. Critical Strike Damage9. Critical Strike Damage with Earth Skills"
+    "One of: Retaliation\nAccelerating",
+    "1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Core Skill Damage\n5. Damage to Close Enemies\n6. Vulnerable Damage\n7. Damage to Slowed Enemies\n8. Critical Strike Damage\n9. Critical Strike Damage with Earth Skills"
   ],
   [
-    "Totem(Off-Hand)",
-    "One of:RetaliationAccelerating",
-    "1. Cooldown Reduction2. Critical Strike Chance3. Lucky Hit Chance4. Damage Reduction while Fortified5. Willpower"
+    "Totem\n(Off-Hand)",
+    "One of: Retaliation\nAccelerating",
+    "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Damage Reduction while Fortified\n5. Willpower"
   ],
   [
     "Helm",
     "Mending Stone",
-    "1. Cooldown Reduction2. Maximum Life3. Single Resistance4. Single Resistance5. % Total Armor6. Basic Skill Attack Speed7. Willpower8. All Stats"
+    "1. Cooldown Reduction\n2. Maximum Life\n3. Single Resistance\n4. Single Resistance\n5. % Total Armor\n6. Basic Skill Attack Speed\n7. Willpower\n8. All Stats"
   ],
   [
     "Chest",
-    "Quicksand (Speedfarm)orMight (Early Endgame)",
-    "1. Damage Reduction while Fortified2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. Damage Reduction5. % Total Armor6. Maximum Life7. Willpower"
+    "Quicksand (Speedfarm) or\nMight (Early Endgame)",
+    "1. Damage Reduction while Fortified\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. % Total Armor\n6. Maximum Life\n7. Willpower"
   ],
   [
     "Gloves",
-    "One of:Ursine HorrorRampaging Werebeast",
-    "1. Ranks to Pulverize2. Critical Strike Chance3. Attack Speed4. Lucky Hit Chance5. Willpower"
+    "One of: Ursine Horror\nRampaging Werebeast",
+    "1. Ranks to Pulverize\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit Chance\n5. Willpower"
   ],
   [
     "Pants",
-    "Disobedience(Endgame)orMight (Early Endgame)",
-    "Implicit: Potion Grants Barrier1. Damage Reduction while Fortified2. Damage Reduction against Distant Enemies3. Damage Reduction against Close Enemies4. % Total Armor while in Werebear Form5. % Total Armor6. Maximum Life"
+    "Disobedience(Endgame) or\nMight (Early Endgame)",
+    "Implicit: Potion Grants Barrier\n1. Damage Reduction while Fortified\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. % Total Armor while in Werebear Form\n5. % Total Armor\n6. Maximum Life"
   ],
   [
     "Boots",
-    "QuicksandorGhostwalker Aspect",
-    "Implicit: Attacks Reduce Evade's Cooldown1. Movement Speed2. Movement Speed after killing an Elite3. Spirit Cost Reduction4. Willpower5. Resists (as needed)"
+    "Quicksand or\nGhostwalker Aspect",
+    "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Movement Speed after killing an Elite\n3. Spirit Cost Reduction\n4. Willpower\n5. Resists (as needed)"
   ],
   [
     "Boots",
     "Quicksand",
-    "Implicit: Attacks Reduce Evade's Cooldown1. Movement Speed2. Spirit Cost Reduction3. Dodge Chance4. Willpower5. Resists (as needed)6. Dodge Chance Against Distant Enemies"
+    "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Spirit Cost Reduction\n3. Dodge Chance\n4. Willpower\n5. Resists (as needed)\n6. Dodge Chance Against Distant Enemies"
   ],
   [
     "Amulet",
-    "Retaliation (2-Handed)orShockwave (1-Handed)",
-    "1. Cooldown Reduction2. Spirit Cost Reduction3. Movement Speed4. Ranks to Crushing Earth5. Ranks to Nature's Reach6. Damage Reduction while Fortified7. Damage Reduction from Close Enemies8. Damage Reduction from Distant Enemies"
+    "Retaliation (2-Handed) or\nShockwave (1-Handed)",
+    "1. Cooldown Reduction\n2. Spirit Cost Reduction\n3. Movement Speed\n4. Ranks to Crushing Earth\n5. Ranks to Nature's Reach\n6. Damage Reduction while Fortified\n7. Damage Reduction from Close Enemies\n8. Damage Reduction from Distant Enemies"
   ],
   [
     "Ring",
-    "One of:Ursine HorrorRampaging Werebeast",
-    "1. Critical Strike Chance2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Vulnerable Damage7. Critical Strike Damage8. Critical Strike Damage with Earth Skills9. Damage to Crowd Controlled Enemies*"
+    "One of: Ursine Horror\nRampaging Werebeast",
+    "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills\n9. Damage to Crowd Controlled Enemies\n*"
   ],
   [
     "Ring",
     "Umbral",
-    "1. Critical Strike Chance2. Lucky Hit Chance3. Maximum Life4. Damage to Close Enemies5. Vulnerable Damage7. Critical Strike Damage8. Critical Strike Damage with Earth Skills9. Damage to Crowd Controlled Enemies*"
+    "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills\n9. Damage to Crowd Controlled Enemies\n*"
   ]
 ]

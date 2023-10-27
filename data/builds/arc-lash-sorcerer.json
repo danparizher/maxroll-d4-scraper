@@ -6,47 +6,47 @@
   ],
   [
     "Weapon",
-    "one of:ControlGravitationalConceitedStorm SwellRapid",
-    "Weapon Type: Wand1. High Damage per Second2. Intelligence3. All Stats4. Damage to Close Enemies5. Critical Strike Damage6. Lightning Critical Strike Damage"
+    "one of: Control Gravitational Conceited Storm Swell\nRapid",
+    "Weapon Type: Wand\n1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close Enemies\n5. Critical Strike Damage\n6. Lightning Critical Strike Damage"
   ],
   [
     "Off-Hand",
-    "one of:ControlGravitationalConceitedStorm SwellRapid",
-    "1. Cooldown Reduction2. High Damage per Second3. Critical Strike Chance4. Basic Skill Attack Speed5. Intelligence6. Lucky Hit Chance"
+    "one of: Control Gravitational Conceited Storm Swell\nRapid",
+    "1. Cooldown Reduction\n2. High Damage per Second\n3. Critical Strike Chance\n4. Basic Skill Attack Speed\n5. Intelligence\n6. Lucky Hit Chance"
   ],
   [
     "Helm",
     "Snowveiled",
-    "1. Cooldown Reduction2. Basic Skill Attack Speed3. % Total Armor4. Maximum Life5. Lucky Hit Chance while Barrier6. Intelligence"
+    "1. Cooldown Reduction\n2. Basic Skill Attack Speed\n3. % Total Armor\n4. Maximum Life\n5. Lucky Hit Chance while Barrier\n6. Intelligence"
   ],
   [
     "Chest",
     "Might",
-    "1. % Total Armor2. Damage Reduction against Close Enemies3. Damage Reduction 4. Damage Reduction against Distant Enemies5. Maximum Life6. Intelligence"
+    "1. % Total Armor\n2. Damage Reduction against Close Enemies\n3. Damage Reduction\n4. Damage Reduction against Distant Enemies\n5. Maximum Life\n6. Intelligence"
   ],
   [
     "Gloves",
-    "one of:ControlGravitationalConceitedStorm SwellRapid",
-    "1. Attack Speed2. Critical Strike Chance3. Lightning Critical Strike Damage4. Lucky Hit Chance5. Lucky Hit: Chance to Heal6. Intelligence"
+    "one of: Control Gravitational Conceited Storm Swell\nRapid",
+    "1. Attack Speed\n2. Critical Strike Chance\n3. Lightning Critical Strike Damage\n4. Lucky Hit Chance\n5. Lucky Hit: Chance to Heal\n6. Intelligence"
   ],
   [
     "Pants",
     "Disobedience",
-    "1. Ranks to Ball Lightning2. % Total Armor3. Damage Reduction against Close Enemies4. Damage Reduction 5. Damage Reduction against Distant Enemies6. Maximum Life7. Intelligence"
+    "1. Ranks to Ball Lightning\n2. % Total Armor\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. Damage Reduction against Distant Enemies\n6. Maximum Life\n7. Intelligence"
   ],
   [
     "Boots",
     "Bounding Conduit",
-    "Implicit: + Max Evade Charges1. Movement Speed2. Ranks to Frost Nova3. Ranks to Teleport4. Intelligence5. Ranks to Flame Shield"
+    "Implicit: + Max Evade Charges\n1. Movement Speed\n2. Ranks to Frost Nova\n3. Ranks to Teleport\n4. Intelligence\n5. Ranks to Flame Shield"
   ],
   [
     "Amulet",
-    "Rapidor Disobedienceor Esadora's Overflowing Cameo",
-    "1. Cooldown Reduction2. Movement Speed3. Ranks to Defensive Skills4. Ranks to Conjuration Mastery5. Ranks to Hoarfrost6. Damage Reduction against Close Enemies"
+    "Rapid or Disobedience or\nEsadora's Overflowing Cameo",
+    "1. Cooldown Reduction\n2. Movement Speed\n3. Ranks to Defensive Skills\n4. Ranks to Conjuration Mastery\n5. Ranks to Hoarfrost\n6. Damage Reduction against Close Enemies"
   ],
   [
     "Ring",
-    "one of:ControlGravitationalConceitedStorm SwellRapid",
-    "1. Critical Strike Chance2. Damage to Close Enemies3. Maximum Life4. Critical Strike Damage5. Lightning Critical Strike Damage6. Lucky Hit Chance"
+    "one of: Control Gravitational Conceited Storm Swell\nRapid",
+    "1. Critical Strike Chance\n2. Damage to Close Enemies\n3. Maximum Life\n4. Critical Strike Damage\n5. Lightning Critical Strike Damage\n6. Lucky Hit Chance"
   ]
 ]

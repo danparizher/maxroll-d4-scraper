@@ -1,0 +1,322 @@
+{
+  "Name": "hammer-of-the-ancients-barbarian.",
+  "ItemAffixes": [
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "OverpowerDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "OverpowerDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "OverpowerDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "OverpowerDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CC_Duration",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resource_MaxFury",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "OverpowerDamage",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "SkillRankBonus_Barb_Core_1_Slot01",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Pants"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Boots"
+    },
+    {
+      "Id": "DamageReductionInjured",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Barbarian",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Boots"
+    },
+    {
+      "Id": "PassiveRankBonus_Barb_Berserker_T2_N4_HeavyHanded",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Barb_10_Wallop",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Barb_03_Counteroffensive",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Barb_Warlord_T2_N2_BruteForce",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Barbarian",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "Ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Resource_MaxFury",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

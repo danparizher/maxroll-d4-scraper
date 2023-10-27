@@ -1,0 +1,515 @@
+{
+  "Name": "NAME",
+  "ItemAffixes": [
+    {
+      "Id": "Damage_While_Shapeshifted",
+      "Type": "helm"
+    },
+    {
+      "Id": "OverpowerDamage",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Core_2",
+      "Type": "gloves"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Core_1",
+      "Type": "gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "helm"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "Werebear_Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "pants"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Druid",
+      "Type": "boots"
+    },
+    {
+      "Id": "Dodge_Ranged",
+      "Type": "boots"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "boots"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Druid",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Werebear_Armor",
+      "Type": "amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Druid_NatureMagic_T2_N2_CrushingEarth",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Luck",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "offhand"
+    },
+    {
+      "Id": "Luck",
+      "Type": "offhand"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "offhand"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "offhand"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "pants"
+    }
+  ],
+  "ItemAspects": [
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_druid_018",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_druid_066",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_druid_074",
+      "Type": "offhand"
+    }
+  ]
+}

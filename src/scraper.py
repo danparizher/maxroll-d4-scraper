@@ -11,12 +11,14 @@ from __future__ import annotations
 import concurrent.futures
 import json
 import logging
+import re
 from concurrent.futures import ThreadPoolExecutor
+from contextlib import suppress
 from itertools import chain
 from pathlib import Path
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -105,6 +107,30 @@ def get_all_build_paths() -> list[str]:
     return all_build_paths
 
 
+def get_text_lines(tag: Tag) -> str:
+    for span in tag.find_all("span"):
+        span.unwrap()
+
+    tag.smooth()
+    lines = [line.strip() for line in tag.get_text(separator="\n").splitlines()]
+
+    with suppress(ValueError):
+        i = lines.index("Stat Priority:")
+        del lines[: i + 1]
+
+    for i in range(len(lines) - 2, 0, -1):
+        line = lines[i]
+
+        if not re.match(
+            r"^[\d/\.\s]*\d[\d/\.\s]*[\.:]",
+            line,
+        ) and not line.lower().startswith(("*", "socket")):
+            lines[i - 1] += f" {line}"
+            del lines[i]
+
+    return "\n".join(lines)
+
+
 def get_stat_priorities(paths: list[str]) -> list[list[str]]:
     """Return a list of stat priorities for the given build paths."""
     build_jsons = []
@@ -133,9 +159,9 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
                 build_jsons.append(
                     [
                         [
-                            stat.text
+                            get_text_lines(stat)
                             for stat in stat_priority.find_all("td")
-                            if stat.text
+                            if len(stat_priority.find_all("td")) == 3
                         ]
                         for stat_priority in tbody.find_all("tr")
                     ],

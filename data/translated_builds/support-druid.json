@@ -1,0 +1,294 @@
+{
+  "Name": "support-druid.",
+  "ItemAffixes": [
+    {
+      "Id": "Execute",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "AttackSpeed_Basics",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "CC_Duration",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "Barrier_Strength_Percent",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "AttackSpeed_Basics",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CC_Duration",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Barrier_Strength_Percent",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Damage_While_Shapeshifted",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resource_MaxSpirit",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Special_CycloneArmor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Special_DebilitatingRoar",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionInjured",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Dodge_Ranged",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Werewolf_Armor",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "DamageReductionInjured",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CC_Duration",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Generic_Category_Defensive",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionInjured",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Barrier_Strength_Percent",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "FortifyBonus",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Barrier_Strength_Percent",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "FortifyBonus",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

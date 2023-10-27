@@ -6,47 +6,47 @@
   ],
   [
     "Weapon",
-    "one of:Piercing ColdStorm SwellConceitedControlFrozen Memories",
-    "Weapon Type: Wand1. High Damage per Second2. Intelligence3. All Stats4. Core Skill Damage5. Critical Strike Damage6. Damage to Close Enemies"
+    "one of: Piercing Cold Storm Swell Conceited Control\nFrozen Memories",
+    "Weapon Type: Wand\n1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Core Skill Damage\n5. Critical Strike Damage\n6. Damage to Close Enemies"
   ],
   [
     "Off-Hand",
-    "one of:Piercing ColdStorm SwellConceitedControlFrozen Memories",
-    "1. Cooldown Reduction2. High Damage per Second3. Resource Generation4. Mana Cost Reduction5. Critical Strike Chance6. Lucky Hit: Chance to Regain Resource"
+    "one of: Piercing Cold Storm Swell Conceited Control\nFrozen Memories",
+    "1. Cooldown Reduction\n2. High Damage per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource"
   ],
   [
     "Helm",
     "Fortune",
-    "1. Cooldown Reduction2. Maximum Mana3. % Total Armor4. Lucky Hit Chance while Barrier5. Maximum Life6. Crowd Control Duration7. Intelligence"
+    "1. Cooldown Reduction\n2. Maximum Mana\n3. % Total Armor\n4. Lucky Hit Chance while Barrier\n5. Maximum Life\n6. Crowd Control Duration\n7. Intelligence"
   ],
   [
     "Chest",
     "Snowveiled Aspect",
-    "1. % Total Armor2. Damage Reduction against Burning Enemies3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
+    "1. % Total Armor\n2. Damage Reduction against Burning Enemies\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Intelligence"
   ],
   [
     "Gloves",
-    "one of:Piercing ColdStorm SwellConceitedControlFrozen Memories",
-    "1. Ranks to Ice Shards2. Critical Strike Chance3. Attack Speed4. Lucky Hit: Chance to Regain Resource5. Lucky Hit Chance6. Intelligence"
+    "one of: Piercing Cold Storm Swell Conceited Control\nFrozen Memories",
+    "1. Ranks to Ice Shards\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit: Chance to Regain Resource\n5. Lucky Hit Chance\n6. Intelligence"
   ],
   [
     "Pants",
     "Disobedience",
-    "1. % Total Armor2. Damage Reduction against Burning Enemies3. Damage Reduction against Distant Enemies4. Damage Reduction against Close Enemies5. Damage Reduction 6. Maximum Life7. Intelligence"
+    "1. % Total Armor\n2. Damage Reduction against Burning Enemies\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Intelligence"
   ],
   [
     "Boots",
-    "Bounding ConduitorShared Misery",
-    "1. Ranks to Frost Nova2. Mana Cost Reduction3. Movement Speed4. Implicit: +Max Evade Charges5. Ranks to Teleport6. Intelligence"
+    "Bounding Conduit or\nShared Misery",
+    "1. Ranks to Frost Nova\n2. Mana Cost Reduction\n3. Movement Speed\n4. Implicit: +Max Evade Charges\n5. Ranks to Teleport\n6. Intelligence"
   ],
   [
     "Amulet",
-    "Disobedienceor Elementalist's",
-    "1. Cooldown Reduction2. Mana Cost Reduction3. Movement Speed4. Ranks to Devouring Blaze5. Ranks to Defensive Skills6. Damage Reduction from Burning Enemies"
+    "Disobedience or\nElementalist's",
+    "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Movement Speed\n4. Ranks to Devouring Blaze\n5. Ranks to Defensive Skills\n6. Damage Reduction from Burning Enemies"
   ],
   [
     "Ring",
-    "two of:Piercing ColdStorm SwellConceitedControlFrozen Memories",
-    "1. Resource Generation2. Critical Strike Chance3. Cold Damage4. Maximum Life5. Critical Strike Damage"
+    "two of: Piercing Cold Storm Swell Conceited Control\nFrozen Memories",
+    "1. Resource Generation\n2. Critical Strike Chance\n3. Cold Damage\n4. Maximum Life\n5. Critical Strike Damage"
   ]
 ]

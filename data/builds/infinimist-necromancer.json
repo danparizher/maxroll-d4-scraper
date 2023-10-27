@@ -7,51 +7,51 @@
   [
     "Weapon",
     "Offensive Aspect of Ultimate Shadow",
-    "1. High Damage per Second2. Damage to Close Enemies3. Intelligence4. All Stats5. Damage to Affected by Shadow Damage Over Time Enemies6. Damage over Time"
+    "1. High Damage per Second\n2. Damage to Close Enemies\n3. Intelligence\n4. All Stats\n5. Damage to Affected by Shadow Damage Over Time Enemies\n6. Damage over Time"
   ],
   [
-    "Off-Hand(Focus)",
+    "Off-Hand\n(Focus)",
     "Blood-soaked Offensive Aspect",
-    "1. High Damage per Second2. Lucky Hit Chance3. Lucky Hit Chance while You Have a Barrier4. Cooldown Reduction5. Critical Strike Chance6. Intelligence7. All Stats"
+    "1. High Damage per Second\n2. Lucky Hit Chance\n3. Lucky Hit Chance while You Have a Barrier\n4. Cooldown Reduction\n5. Critical Strike Chance\n6. Intelligence\n7. All Stats"
   ],
   [
     "Helm",
     "Utility Aspect of Explosive Mist",
-    "1. Total Armor2. Maximum Life3. Lucky Hit Chance while You Have a Barrier4. Cooldown Reduction5. Intelligence6. All Stats"
+    "1. Total Armor\n2. Maximum Life\n3. Lucky Hit Chance while You Have a Barrier\n4. Cooldown Reduction\n5. Intelligence\n6. All Stats"
   ],
   [
     "Chest",
     "Aspect of Disobedience",
-    "1. Maximum Life2. % Total Armor3. Damage Reduction from Affected byShadow Damage Over Time Enemies4. Damage Reduction against Close Enemies6. Damage Reduction"
+    "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Affected by Shadow Damage Over Time Enemies\n4. Damage Reduction against Close Enemies\n6. Damage Reduction"
   ],
   [
     "Gloves",
-    "Aspect of Shared MiseryORHowl from Below (BIS)",
-    "1. Lucky Hit Chance2. Critical Strike Chance3. Shadow Damage over Time5. Intelligence6. Attack Speed"
+    "Aspect of Shared Misery OR Howl from Below\n(BIS)",
+    "1. Lucky Hit Chance\n2. Critical Strike Chance\n3. Shadow Damage over Time\n5. Intelligence\n6. Attack Speed"
   ],
   [
     "Pants",
     "Defensive Aspect of Shielding Storm",
-    "Implicit: Potion Grants Barrier1. Maximum Life2. +xx Ranks to Corpse Explosion3. Damage Reduction from Affected by Shadow Damage Over Time Enemies4. Damage Reduction from Close Enemies5. +xx Ranks to Blood Mist6. Intelligence"
+    "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. +xx Ranks to Corpse Explosion\n3. Damage Reduction from Affected by Shadow Damage Over Time Enemies\n4. Damage Reduction from Close Enemies\n5. +xx Ranks to Blood Mist\n6. Intelligence"
   ],
   [
     "Boots",
-    "Ghostwalker Mobility AspectORGreaves of the Empty Tomb(Extra Lucky Hit Option)",
-    "Implicit: + to Max Evade Charges1. Movement Speed2. +xx Ranks to Corpse Tendrils3. Intelligence4. All Stats"
+    "Ghostwalker Mobility Aspect OR Greaves of the Empty Tomb\n(Extra Lucky Hit Option)",
+    "Implicit: + to Max Evade Charges\n1. Movement Speed\n2. +xx Ranks to Corpse Tendrils\n3. Intelligence\n4. All Stats"
   ],
   [
     "Amulet",
     "Blighted Offensive Aspect",
-    "1. Movement Speed2. Cooldown Reduction3. +xx Ranks to Gloom Passive4. +xx Ranks to Corpse Skills5. Damage Reduction from Affected by Shadow Damage Over Time Enemie6. Shadow Damage Over Time"
+    "1. Movement Speed\n2. Cooldown Reduction\n3. +xx Ranks to Gloom Passive\n4. +xx Ranks to Corpse Skills\n5. Damage Reduction from Affected by Shadow Damage Over Time Enemie\n6. Shadow Damage Over Time"
   ],
   [
     "Ring",
     "Aspect of Grasping Veins",
-    "1. Lucky Hit Chance2. Critical Strike Chance3. Damage to Close Enmies4. Maximum Life5. Shadow Damage"
+    "1. Lucky Hit Chance\n2. Critical Strike Chance\n3. Damage to Close Enmies\n4. Maximum Life\n5. Shadow Damage"
   ],
   [
     "Ring",
     "Offensive Aspect of Decay",
-    "1. Lucky Hit Chance2. Critical Strike Chance3. Damage to Close Enmies4. Maximum Life5. Shadow Damage"
+    "1. Lucky Hit Chance\n2. Critical Strike Chance\n3. Damage to Close Enmies\n4. Maximum Life\n5. Shadow Damage"
   ]
 ]

@@ -44,6 +44,8 @@ pyproject-hooks==1.0.0
     # via build
 pysocks==1.7.1
     # via urllib3
+rapidfuzz==3.4.0
+    # via thefuzz
 requests==2.31.0
     # via -r requirements.in
 selenium==4.14.0
@@ -54,6 +56,8 @@ sortedcontainers==2.4.0
     # via trio
 soupsieve==2.5
     # via beautifulsoup4
+thefuzz==0.20.0
+    # via -r requirements.in
 trio==0.22.2
     # via
     #   selenium

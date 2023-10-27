@@ -6,57 +6,57 @@
   ],
   [
     "Weapon",
-    "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
-    "Weapon Type: Axe1. High Damage per Second2. Damage to Close Enemies3. Damage to Distant Enemies4. Willpower5. All Stats6. Core Skill Damage7. Vulnerable Damage"
+    "One of: Stormchaser's Rampaging Werebeast Accelerating Retaliation\nNighthowler's",
+    "Weapon Type: Axe\n1. High Damage per Second\n2. Damage to Close Enemies\n3. Damage to Distant Enemies\n4. Willpower\n5. All Stats\n6. Core Skill Damage\n7. Vulnerable Damage"
   ],
   [
     "Off-Hand",
-    "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
-    "1. High Damage per Second2. Cooldown Reduction3. Critical Strike Chance4. Lucky Hit Chance5. Damage Reduction against Poisoned Enemies6. Damage Reduction while Fortified"
+    "One of: Stormchaser's Rampaging Werebeast Accelerating Retaliation\nNighthowler's",
+    "1. High Damage per Second\n2. Cooldown Reduction\n3. Critical Strike Chance\n4. Lucky Hit Chance\n5. Damage Reduction against Poisoned Enemies\n6. Damage Reduction while Fortified"
   ],
   [
     "Helm",
     "Mending Stone",
-    "1. Cooldown Reduction2. Life3. Single Resistance4. Single Resistance5. % Total Armor6. Willpower7. Basic Skill Attack Speed"
+    "1. Cooldown Reduction\n2. Life\n3. Single Resistance\n4. Single Resistance\n5. % Total Armor\n6. Willpower\n7. Basic Skill Attack Speed"
   ],
   [
     "Chest",
-    "MightorVigorous",
-    "1. Damage Reduction against Close Enemies2. Damage Reduction against Poisoned Enemies3. Damage Reduction while Fortified4. Damage Reduction against Distant Enemies5. % Total Armor6. Maximum Life7. Willpower"
+    "Might or\nVigorous",
+    "1. Damage Reduction against Close Enemies\n2. Damage Reduction against Poisoned Enemies\n3. Damage Reduction while Fortified\n4. Damage Reduction against Distant Enemies\n5. % Total Armor\n6. Maximum Life\n7. Willpower"
   ],
   [
     "Chest",
     "Mad Wolf's Glee",
-    "1. Movement Speed2. %Damage3. Damage Reduction against Poisoned Enemies4. Life"
+    "1. Movement Speed\n2. %Damage\n3. Damage Reduction against Poisoned Enemies\n4. Life"
   ],
   [
     "Gloves",
-    "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
-    "1. Ranks to Tornado2. Critical Strike Chance3. Attack Speed4. Lucky Hit Chance5. Willpower"
+    "One of: Stormchaser's Rampaging Werebeast Accelerating Retaliation\nNighthowler's",
+    "1. Ranks to Tornado\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit Chance\n5. Willpower"
   ],
   [
     "Pants",
     "Disobedience",
-    "Implicit: Potion Grants Barrier1. Damage Reduction against Close Enemies2. Damage Reduction against Poisoned Enemies3. Damage Reduction while Fortified4. Damage Reduction against Distant Enemies5. % Total Armor6. Maximum Life7. Damage Reduction"
+    "Implicit: Potion Grants Barrier\n1. Damage Reduction against Close Enemies\n2. Damage Reduction against Poisoned Enemies\n3. Damage Reduction while Fortified\n4. Damage Reduction against Distant Enemies\n5. % Total Armor\n6. Maximum Life\n7. Damage Reduction"
   ],
   [
     "Boots",
-    "Ghostwalker (Seasonal)orCraven (Eternal)",
-    "Implicit: Attacks Reduce Evade's Cooldown1. Movement Speed2/3/ Two of: Fire, Cold, Shadow Resistance4. Spirit Cost Reduction*5. Total Armor while in Werewolf Form5. Dodge Chance6. Willpower7. All Stats"
+    "Ghostwalker (Seasonal) or\nCraven (Eternal)",
+    "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed 2/3/ Two of: Fire, Cold, Shadow Resistance\n4. Spirit Cost Reduction\n*\n5. Total Armor while in Werewolf Form\n5. Dodge Chance\n6. Willpower\n7. All Stats"
   ],
   [
     "Amulet",
     "Dire Wolf's",
-    "1. Ranks to Envenom2. Cooldown Reduction3. Movement Speed4. Spirit Cost Reduction*5. Total Armor while in Werewolf Form6. Damage Reduction from Close Enemies7. Damage Reduction against Poisoned Enemies8. Damage Reduction while Fortified9. Ranks to Defiance"
+    "1. Ranks to Envenom\n2. Cooldown Reduction\n3. Movement Speed\n4. Spirit Cost Reduction\n*\n5. Total Armor while in Werewolf Form\n6. Damage Reduction from Close Enemies\n7. Damage Reduction against Poisoned Enemies\n8. Damage Reduction while Fortified\n9. Ranks to Defiance"
   ],
   [
     "Ring",
-    "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
-    "1. Damage to Close Enemies2. Critical Strike Chance3. Damage to Distant Enemies4. Lucky Hit Chance5. Life6. Damage to Slowed Enemies7. Vulnerable Damage8. Critical Strike Damage9. Critical Strike Damage with Werewolf Skills"
+    "One of: Stormchaser's Rampaging Werebeast Accelerating Retaliation\nNighthowler's",
+    "1. Damage to Close Enemies\n2. Critical Strike Chance\n3. Damage to Distant Enemies\n4. Lucky Hit Chance\n5. Life\n6. Damage to Slowed Enemies\n7. Vulnerable Damage\n8. Critical Strike Damage\n9. Critical Strike Damage with Werewolf Skills"
   ],
   [
     "Ring",
-    "One of:Stormchaser'sRampaging WerebeastAcceleratingRetaliationNighthowler's",
-    "1. Damage to Close Enemies2. Critical Strike Chance3. Damage to Distant Enemies4. Lucky Hit Chance5. Life6. Damage to Slowed Enemies7. Vulnerable Damage8. Critical Strike Damage9. Critical Strike Damage with Werewolf Skills"
+    "One of: Stormchaser's Rampaging Werebeast Accelerating Retaliation\nNighthowler's",
+    "1. Damage to Close Enemies\n2. Critical Strike Chance\n3. Damage to Distant Enemies\n4. Lucky Hit Chance\n5. Life\n6. Damage to Slowed Enemies\n7. Vulnerable Damage\n8. Critical Strike Damage\n9. Critical Strike Damage with Werewolf Skills"
   ]
 ]

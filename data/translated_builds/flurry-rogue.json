@@ -1,0 +1,258 @@
+{
+  "Name": "flurry-rogue.",
+  "ItemAffixes": [
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_Category_Ultimate",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_Category_Ultimate",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Melee 2\n(Regular)"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Melee 2\n(Regular)"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Melee 2\n(Regular)"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Melee 2\n(Regular)"
+    },
+    {
+      "Id": "Damage_Category_Ultimate",
+      "Type": "Melee 2\n(Regular)"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Melee 2\n(Regular)"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Chest"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Core_2",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "CDR_Imbues",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Rogue",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "DamageReductionInjured",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "Boots"
+    },
+    {
+      "Id": "PassiveRankBonus_Rogue_Cunning_T3_N1_Exploit",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Category_Imbuements",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Rogue_Cunning_T4_N2_Malice",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    }
+  ],
+  "ItemAspects": []
+}

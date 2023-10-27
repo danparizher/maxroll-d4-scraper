@@ -2,3 +2,4 @@ beautifulsoup4
 pip-tools
 requests
 selenium
+thefuzz

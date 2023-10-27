@@ -6,52 +6,52 @@
   ],
   [
     "Weapon",
-    "One of:Subterranean AftershockTrampled EarthNatural BalanceRetaliation",
-    "1. High Damage per Second2. Damage To Crowd Controlled3. Willpower4. All Stats5. Core Skill Damage6. Damage to Close Enemies7. Critical Strike Damage8. Damage to Poisoned Enemies"
+    "One of: Subterranean Aftershock Trampled Earth Natural Balance\nRetaliation",
+    "1. High Damage per Second\n2. Damage To Crowd Controlled\n3. Willpower\n4. All Stats\n5. Core Skill Damage\n6. Damage to Close Enemies\n7. Critical Strike Damage\n8. Damage to Poisoned Enemies"
   ],
   [
-    "Off-hand(Totem)",
-    "One of:Subterranean AftershockTrampled EarthNatural BalanceRetaliation",
-    "1. Cooldown Reduction2. Critical Strike Chance3. Damage Reduction While Fortified4. Damage Reduction From Poisoned5. Basic Attack Speed6. Lucky Hit Chance7. Barrier Generation"
+    "Off-hand\n(Totem)",
+    "One of: Subterranean Aftershock Trampled Earth Natural Balance\nRetaliation",
+    "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Damage Reduction While Fortified\n4. Damage Reduction From Poisoned\n5. Basic Attack Speed\n6. Lucky Hit Chance\n7. Barrier Generation"
   ],
   [
     "Helm",
-    "One of:DisobedienceMightMending Stone",
-    "1. Cooldown Reduction2. Basic Attack Speed3. Life4. Armor5. Crowd Control Duration6. Barrier Generation7. Willpower"
+    "One of: Disobedience Might\nMending Stone",
+    "1. Cooldown Reduction\n2. Basic Attack Speed\n3. Life\n4. Armor\n5. Crowd Control Duration\n6. Barrier Generation\n7. Willpower"
   ],
   [
     "Chest",
-    "One of:DisobedienceMight Mending Stone",
-    "1. Damage Reduction while Fortified2. Damage Reduction against Close Enemies3. Damage Reduction against Distant Enemies4. Damage Reduction from Poisoned Enemies5. Damage Reduction 6. Maximum Life7. Armor"
+    "One of: Disobedience Might\nMending Stone",
+    "1. Damage Reduction while Fortified\n2. Damage Reduction against Close Enemies\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction from Poisoned Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Armor"
   ],
   [
     "Gloves",
-    "One of:Subterranean AftershockTrampled EarthNatural BalanceRetaliation",
-    "1. Ranks to Landslide2. Critical Strike Chance3. Attack Speed4. Willpower5. Critical Strike Damage with Earth Skills"
+    "One of: Subterranean Aftershock Trampled Earth Natural Balance\nRetaliation",
+    "1. Ranks to Landslide\n2. Critical Strike Chance\n3. Attack Speed\n4. Willpower\n5. Critical Strike Damage with Earth Skills"
   ],
   [
     "Pants",
-    "One of:DisobedienceMight Mending Stone",
-    "1. Damage Reduction while Fortified2. Damage Reduction from Close Enemies3. Damage Reduction from Distant Enemies4. Damage Reduction Poisoned Enemies5. Damage Reduction From 5. Life"
+    "One of: Disobedience Might\nMending Stone",
+    "1. Damage Reduction while Fortified\n2. Damage Reduction from Close Enemies\n3. Damage Reduction from Distant Enemies\n4. Damage Reduction Poisoned Enemies\n5. Damage Reduction From\n5. Life"
   ],
   [
     "Boots",
     "Ghostwalker",
-    "Implicit: Movement Speed after Evade1. Movement Speed2. 1 of of: Fire, Cold, Lightning, Shadow Resistance 3. Movement Speed After Killing an Elite4. Dodge Chance5. Willpower6. Fortify Generation7. Dodge Chance Against Distant Enemies8. Damage Reduction While Injured"
+    "Implicit: Movement Speed after Evade\n1. Movement Speed\n2. 1 of of: Fire, Cold, Lightning, Shadow Resistance\n3. Movement Speed After Killing an Elite\n4. Dodge Chance\n5. Willpower\n6. Fortify Generation\n7. Dodge Chance Against Distant Enemies\n8. Damage Reduction While Injured"
   ],
   [
     "Amulet",
     "Symbiotic",
-    "1. Ranks to Envenom2. Movement Speed3. Cooldown Reduction4. Damage Reduction while Fortified5. Damage Reduction From Poisoned Enemies 6. Damage Reduction from Close Enemies7. ArmorSocket Single Resistance"
+    "1. Ranks to Envenom\n2. Movement Speed\n3. Cooldown Reduction\n4. Damage Reduction while Fortified\n5. Damage Reduction From Poisoned Enemies\n6. Damage Reduction from Close Enemies\n7. Armor\nSocket Single Resistance"
   ],
   [
     "Ring",
-    "One of:Subterranean AftershockTrampled EarthNatural BalanceRetaliation",
-    "1. Critical Strike Chance2. Damage to Crowd Controlled Enemies3. Life 4. Damage To Close Enemies5. Critical Strike Damage 6.Critical Strike Damage with Earth Skills7. Physical DamageSocket Single Resistance"
+    "One of: Subterranean Aftershock Trampled Earth Natural Balance\nRetaliation",
+    "1. Critical Strike Chance\n2. Damage to Crowd Controlled Enemies\n3. Life\n4. Damage To Close Enemies\n5. Critical Strike Damage\n6.Critical Strike Damage with Earth Skills\n7. Physical Damage\nSocket Single Resistance"
   ],
   [
     "Ring",
-    "One of:Subterranean AftershockTrampled EarthNatural BalanceRetaliation",
-    "1. Critical Strike Chance2. Damage to Crowd Controlled Enemies3. Life 4. Damage To Close Enemies5. Critical Strike Damage 6.Critical Strike Damage with Earth Skills7. Physical DamageSocket Single Resistance"
+    "One of: Subterranean Aftershock Trampled Earth Natural Balance\nRetaliation",
+    "1. Critical Strike Chance\n2. Damage to Crowd Controlled Enemies\n3. Life\n4. Damage To Close Enemies\n5. Critical Strike Damage\n6.Critical Strike Damage with Earth Skills\n7. Physical Damage\nSocket Single Resistance"
   ]
 ]
