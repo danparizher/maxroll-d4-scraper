@@ -17,11 +17,14 @@ logging.basicConfig(
     datefmt="%I:%M:%S",
 )
 
+# TODO: Resolve in cleaner.py or find correct stat IDs
 SKIP_STATS = [
     "Damage to Core skills",  # general core skill property
     "High Damage per Second",  # general item property
     "Any",  # placeholder - should be cleaned
     "Movement Speed for 4 Seconds After Killing an Elite",  # unclear??? (no associated ID in stat map)
+    "movement speed after killing an elite",  # same ^ (no associated ID in stat map)
+    "movement speed on elite kill",  # same ^ (no associated ID in stat map)
     "After using Teleport, Close enemies are Pulled to you and Stunned for 2-3 Seconds, but Teleport's Cooldown is increased by 20%",  # unique
     "Maximum Fury (with Ramaladni's Magnum Opus)",  # another unique item ^^
     "PH",  # same ^
@@ -53,7 +56,6 @@ class Translator:
     @staticmethod
     def clean_plaintext(plaintext: str) -> str:
         cleaned = re.sub(r"[^a-z\s]", "", plaintext.strip().lower())
-
         cleaned = cleaned.replace("ranks to", "ranks of the")
         cleaned = re.sub(r"damage to (.+) enemies", r"\1 damage", cleaned)
         return cleaned.replace("maximum life", "life")

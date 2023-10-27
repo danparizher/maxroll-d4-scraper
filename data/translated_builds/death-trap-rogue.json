@@ -210,10 +210,6 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
       "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
       "Type": "Amulet"
     },
