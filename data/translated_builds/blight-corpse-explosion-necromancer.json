@@ -6,23 +6,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_CCd",
-      "Type": "Weapon"
-    },
-    {
       "Id": "Damage_to_Shadow_DoT",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Damage_to_Slowed",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
@@ -30,11 +14,35 @@
       "Type": "Weapon"
     },
     {
+      "Id": "CoreStats_All",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Slowed",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
       "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
     {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Helm"
+    },
+    {
       "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
@@ -54,12 +62,16 @@
       "Type": "Helm"
     },
     {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Helm"
+      "Id": "Armor",
+      "Type": "Chest"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Helm"
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
     },
     {
       "Id": "Life",
@@ -74,14 +86,6 @@
       "Type": "Chest"
     },
     {
-      "Id": "Armor",
-      "Type": "Chest"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "Chest"
-    },
-    {
       "Id": "Damage_Type_Bonus_Shadow",
       "Type": "Chest"
     },
@@ -90,7 +94,7 @@
       "Type": "Chest"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "CoreStats_All",
       "Type": "Chest"
     },
     {
@@ -98,19 +102,7 @@
       "Type": "Chest"
     },
     {
-      "Id": "DamageReductionClose",
-      "Type": "Chest"
-    },
-    {
-      "Id": "Damage_Type_DoT_Bonus_Shadow",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "SkillRankBonus_Necro_Core_2",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CoreStats_All",
+      "Id": "CritChance",
       "Type": "Gloves"
     },
     {
@@ -118,11 +110,7 @@
       "Type": "Gloves"
     },
     {
-      "Id": "CritChance",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "Damage_Category_Spenders",
+      "Id": "SkillRankBonus_Necro_Core_2",
       "Type": "Gloves"
     },
     {
@@ -130,31 +118,27 @@
       "Type": "Gloves"
     },
     {
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Gloves"
+    },
+    {
       "Id": "CoreStat_Intelligence",
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
-      "Type": "Pants"
+      "Id": "Damage_Category_Spenders",
+      "Type": "Gloves"
     },
     {
-      "Id": "DamageReduction_ShadowDoT",
+      "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
       "Type": "Pants"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "Pants"
-    },
-    {
-      "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
       "Type": "Pants"
     },
     {
@@ -162,23 +146,23 @@
       "Type": "Pants"
     },
     {
-      "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "Boots"
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Pants"
     },
     {
-      "Id": "CoreStats_All",
-      "Type": "Boots"
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Dodge",
       "Type": "Boots"
     },
     {
@@ -186,11 +170,31 @@
       "Type": "Boots"
     },
     {
+      "Id": "Dodge",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Necromancer",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Boots"
+    },
+    {
       "Id": "SkillRankBonus_Necro_Category_Corpse",
       "Type": "Amulet"
     },
     {
-      "Id": "PassiveRankBonus_Necro_Caster_T2_N1_Terror",
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
       "Type": "Amulet"
     },
     {
@@ -198,7 +202,7 @@
       "Type": "Amulet"
     },
     {
-      "Id": "PassiveRankBonus_Necro_Summoning_T3_N2_FueledByDeath",
+      "Id": "PassiveRankBonus_Necro_Caster_T2_N1_Terror",
       "Type": "Amulet"
     },
     {
@@ -206,7 +210,15 @@
       "Type": "Amulet"
     },
     {
+      "Id": "PassiveRankBonus_Necro_Summoning_T3_N2_FueledByDeath",
+      "Type": "Amulet"
+    },
+    {
       "Id": "Luck_With_Barrier",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction",
       "Type": "Amulet"
     },
     {
@@ -218,23 +230,23 @@
       "Type": "Amulet"
     },
     {
-      "Id": "DamageReduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Life",
+      "Id": "CritChance",
       "Type": "Ring"
     },
     {
       "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
       "Type": "Ring"
     },
     {
@@ -251,58 +263,46 @@
     },
     {
       "Id": "Damage_Type_Bonus_Shadow",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Slowed",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_Type_Bonus_Shadow",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
       "Type": "Ring"
     },
     {
       "Id": "Damage_Type_DoT_Bonus_Shadow",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Slowed",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Shadow",
       "Type": "Ring"
     }
   ],

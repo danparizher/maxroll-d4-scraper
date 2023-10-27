@@ -2,7 +2,15 @@
   "Name": "blood-surge-necromancer.",
   "ItemAffixes": [
     {
+      "Id": "OverpowerDamage",
+      "Type": "Weapon"
+    },
+    {
       "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
     {
@@ -14,19 +22,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "OverpowerDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
-    },
-    {
       "Id": "Life",
-      "Type": "Off-Hand\n(Shield)"
-    },
-    {
-      "Id": "Lucky_Hit_Resource",
       "Type": "Off-Hand\n(Shield)"
     },
     {
@@ -34,7 +30,15 @@
       "Type": "Off-Hand\n(Shield)"
     },
     {
+      "Id": "CD_Reduction",
+      "Type": "Off-Hand\n(Shield)"
+    },
+    {
       "Id": "DamageReductionClose",
+      "Type": "Off-Hand\n(Shield)"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
       "Type": "Off-Hand\n(Shield)"
     },
     {
@@ -42,11 +46,15 @@
       "Type": "Off-Hand\n(Shield)"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Off-Hand\n(Shield)"
+      "Id": "Life",
+      "Type": "Helm"
     },
     {
-      "Id": "Life",
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
@@ -54,15 +62,7 @@
       "Type": "Helm"
     },
     {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
       "Id": "CoreStats_All",
-      "Type": "Helm"
-    },
-    {
-      "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
@@ -70,15 +70,7 @@
       "Type": "Chest"
     },
     {
-      "Id": "DamageReductionDistant",
-      "Type": "Chest"
-    },
-    {
       "Id": "Armor",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReduction",
       "Type": "Chest"
     },
     {
@@ -86,11 +78,19 @@
       "Type": "Chest"
     },
     {
-      "Id": "Lucky_Hit_Resource",
-      "Type": "Gloves"
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
     },
     {
       "Id": "SkillRankBonus_Necro_Core_5",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "OverpowerDamage",
       "Type": "Gloves"
     },
     {
@@ -98,7 +98,7 @@
       "Type": "Gloves"
     },
     {
-      "Id": "OverpowerDamage",
+      "Id": "Lucky_Hit_Resource",
       "Type": "Gloves"
     },
     {
@@ -114,7 +114,7 @@
       "Type": "Pants"
     },
     {
-      "Id": "BloodOrb_Healing",
+      "Id": "Armor",
       "Type": "Pants"
     },
     {
@@ -122,7 +122,7 @@
       "Type": "Pants"
     },
     {
-      "Id": "Armor",
+      "Id": "BloodOrb_Healing",
       "Type": "Pants"
     },
     {
@@ -130,7 +130,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "BloodOrb_Healing",
+      "Id": "Resource_Cost_Reduction_Necromancer",
       "Type": "Boots"
     },
     {
@@ -138,12 +138,8 @@
       "Type": "Boots"
     },
     {
-      "Id": "Resource_Cost_Reduction_Necromancer",
+      "Id": "BloodOrb_Healing",
       "Type": "Boots"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Amulet"
     },
     {
       "Id": "Resource_Cost_Reduction_Necromancer",
@@ -154,7 +150,15 @@
       "Type": "Amulet"
     },
     {
+      "Id": "PassiveRankBonus_Necro_Caster_T2_N2_CoalescedBlood",
+      "Type": "Amulet"
+    },
+    {
       "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Armor",
       "Type": "Amulet"
     },
     {
@@ -162,19 +166,15 @@
       "Type": "Amulet"
     },
     {
-      "Id": "PassiveRankBonus_Necro_Caster_T2_N2_CoalescedBlood",
-      "Type": "Amulet"
-    },
-    {
       "Id": "Life",
       "Type": "Ring"
     },
     {
-      "Id": "BloodOrb_Healing",
+      "Id": "OverpowerDamage",
       "Type": "Ring"
     },
     {
-      "Id": "OverpowerDamage",
+      "Id": "BloodOrb_Healing",
       "Type": "Ring"
     },
     {
@@ -190,11 +190,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "BloodOrb_Healing",
+      "Id": "OverpowerDamage",
       "Type": "Ring"
     },
     {
-      "Id": "OverpowerDamage",
+      "Id": "BloodOrb_Healing",
       "Type": "Ring"
     },
     {

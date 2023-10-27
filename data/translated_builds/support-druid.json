@@ -2,10 +2,6 @@
   "Name": "support-druid.",
   "ItemAffixes": [
     {
-      "Id": "Execute",
-      "Type": "Weapon"
-    },
-    {
       "Id": "CoreStat_Willpower",
       "Type": "Weapon"
     },
@@ -14,23 +10,15 @@
       "Type": "Weapon"
     },
     {
-      "Id": "AttackSpeed_Basics",
-      "Type": "Off-Hand"
+      "Id": "Execute",
+      "Type": "Weapon"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "CD_Reduction",
       "Type": "Off-Hand"
     },
     {
       "Id": "CC_Duration",
-      "Type": "Off-Hand"
-    },
-    {
-      "Id": "Barrier_Strength_Percent",
-      "Type": "Off-Hand"
-    },
-    {
-      "Id": "Luck",
       "Type": "Off-Hand"
     },
     {
@@ -38,27 +26,27 @@
       "Type": "Off-Hand"
     },
     {
+      "Id": "Luck",
+      "Type": "Off-Hand"
+    },
+    {
       "Id": "DamageReduction_Poisoned",
       "Type": "Off-Hand"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "CoreStats_All",
       "Type": "Off-Hand"
     },
     {
-      "Id": "Life",
-      "Type": "Helm"
-    },
-    {
       "Id": "AttackSpeed_Basics",
-      "Type": "Helm"
+      "Type": "Off-Hand"
     },
     {
-      "Id": "Armor",
-      "Type": "Helm"
+      "Id": "Barrier_Strength_Percent",
+      "Type": "Off-Hand"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
@@ -66,7 +54,11 @@
       "Type": "Helm"
     },
     {
-      "Id": "Barrier_Strength_Percent",
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
       "Type": "Helm"
     },
     {
@@ -74,7 +66,15 @@
       "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "CoreStats_All",
+      "Type": "Helm"
+    },
+    {
+      "Id": "AttackSpeed_Basics",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Barrier_Strength_Percent",
       "Type": "Helm"
     },
     {
@@ -82,11 +82,11 @@
       "Type": "Helm"
     },
     {
-      "Id": "Resource_MaxSpirit",
+      "Id": "CritDamage",
       "Type": "Helm"
     },
     {
-      "Id": "CritDamage",
+      "Id": "Resource_MaxSpirit",
       "Type": "Helm"
     },
     {
@@ -94,35 +94,7 @@
       "Type": "Helm"
     },
     {
-      "Id": "Life",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Chest"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Chest"
-    },
-    {
-      "Id": "SkillRankBonus_Druid_Special_CycloneArmor",
-      "Type": "Chest"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "Chest"
-    },
-    {
       "Id": "SkillRankBonus_Druid_Special_DebilitatingRoar",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
       "Type": "Chest"
     },
     {
@@ -130,19 +102,35 @@
       "Type": "Chest"
     },
     {
-      "Id": "CoreStat_Strength",
-      "Type": "Gloves"
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
     },
     {
-      "Id": "CoreStats_All",
-      "Type": "Gloves"
+      "Id": "FortifyDamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Special_CycloneArmor",
+      "Type": "Chest"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CritChance",
       "Type": "Gloves"
     },
     {
@@ -154,7 +142,19 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
+      "Id": "CoreStats_All",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "DamageReductionClose",
       "Type": "Pants"
     },
     {
@@ -162,19 +162,11 @@
       "Type": "Pants"
     },
     {
-      "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
       "Id": "FortifyDamageReduction",
       "Type": "Pants"
     },
     {
-      "Id": "DamageReduction",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReductionInjured",
+      "Id": "Armor",
       "Type": "Pants"
     },
     {
@@ -182,12 +174,32 @@
       "Type": "Pants"
     },
     {
+      "Id": "DamageReductionInjured",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
       "Id": "Dodge",
       "Type": "Pants"
     },
     {
-      "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Boots"
     },
     {
       "Id": "Dodge",
@@ -198,7 +210,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "DamageReductionInjured",
       "Type": "Boots"
     },
     {
@@ -206,43 +218,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
-      "Id": "DamageReductionInjured",
-      "Type": "Boots"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CC_Duration",
-      "Type": "Amulet"
-    },
-    {
       "Id": "SkillRankBonus_Generic_Category_Defensive",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReductionInjured",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReductionClose",
       "Type": "Amulet"
     },
     {
@@ -250,11 +226,39 @@
       "Type": "Amulet"
     },
     {
+      "Id": "DamageReductionClose",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionInjured",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CC_Duration",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Amulet"
+    },
+    {
       "Id": "Life",
       "Type": "Ring"
     },
     {
       "Id": "Barrier_Strength_Percent",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
       "Type": "Ring"
     },
     {
@@ -266,10 +270,6 @@
       "Type": "Ring"
     },
     {
-      "Id": "Luck",
-      "Type": "Ring"
-    },
-    {
       "Id": "Life",
       "Type": "Ring"
     },
@@ -278,15 +278,15 @@
       "Type": "Ring"
     },
     {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
       "Id": "CritChance",
       "Type": "Ring"
     },
     {
       "Id": "FortifyBonus",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
       "Type": "Ring"
     }
   ],

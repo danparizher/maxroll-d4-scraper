@@ -2,6 +2,14 @@
   "Name": "sever-necromancer-endgame.",
   "ItemAffixes": [
     {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
       "Id": "Damage_Category_Spenders",
       "Type": "Weapon"
     },
@@ -14,19 +22,11 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Luck_With_Barrier",
+      "Id": "Luck",
       "Type": "Off-Hand\n(Focus)"
     },
     {
-      "Id": "Lucky_Hit_Resource",
+      "Id": "Luck_With_Barrier",
       "Type": "Off-Hand\n(Focus)"
     },
     {
@@ -34,7 +34,7 @@
       "Type": "Off-Hand\n(Focus)"
     },
     {
-      "Id": "Luck",
+      "Id": "Lucky_Hit_Resource",
       "Type": "Off-Hand\n(Focus)"
     },
     {
@@ -42,15 +42,11 @@
       "Type": "Off-Hand\n(Focus)"
     },
     {
-      "Id": "Life",
-      "Type": "Helm"
-    },
-    {
       "Id": "Armor",
       "Type": "Helm"
     },
     {
-      "Id": "CoreStat_Intelligence",
+      "Id": "Life",
       "Type": "Helm"
     },
     {
@@ -62,6 +58,10 @@
       "Type": "Helm"
     },
     {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Helm"
+    },
+    {
       "Id": "Life",
       "Type": "Chest"
     },
@@ -70,27 +70,19 @@
       "Type": "Chest"
     },
     {
-      "Id": "DamageReductionClose",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "Chest"
-    },
-    {
       "Id": "DamageReduction_ShadowDoT",
       "Type": "Chest"
     },
     {
-      "Id": "Lucky_Hit_Resource",
-      "Type": "Gloves"
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
     },
     {
-      "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
     },
     {
-      "Id": "CritChance",
+      "Id": "SkillRankBonus_Necro_Core_3",
       "Type": "Gloves"
     },
     {
@@ -98,11 +90,19 @@
       "Type": "Gloves"
     },
     {
-      "Id": "CoreStat_Intelligence",
+      "Id": "CritChance",
       "Type": "Gloves"
     },
     {
-      "Id": "SkillRankBonus_Necro_Core_3",
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
       "Type": "Gloves"
     },
     {
@@ -110,15 +110,11 @@
       "Type": "Pants"
     },
     {
-      "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
       "Id": "DamageReductionClose",
       "Type": "Pants"
     },
     {
-      "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
+      "Id": "Armor",
       "Type": "Pants"
     },
     {
@@ -126,11 +122,15 @@
       "Type": "Pants"
     },
     {
+      "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
+      "Type": "Pants"
+    },
+    {
       "Id": "DamageReductionClose",
       "Type": "Pants"
     },
     {
-      "Id": "Resistance_All",
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -142,19 +142,15 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
       "Id": "CoreStat_Intelligence",
       "Type": "Boots"
     },
     {
-      "Id": "PassiveRankBonus_Necro_01_Gloom",
-      "Type": "Amulet"
+      "Id": "Resistance_All",
+      "Type": "Boots"
     },
     {
-      "Id": "SkillRankBonus_Necro_Category_Corpse",
+      "Id": "Movement_Speed",
       "Type": "Amulet"
     },
     {
@@ -162,11 +158,7 @@
       "Type": "Amulet"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReduction_ShadowDoT",
+      "Id": "PassiveRankBonus_Necro_01_Gloom",
       "Type": "Amulet"
     },
     {
@@ -174,15 +166,31 @@
       "Type": "Amulet"
     },
     {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Category_Corpse",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
       "Id": "Life",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Trapped",
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "Damage_to_Trapped",
       "Type": "Ring"
     },
     {
@@ -198,19 +206,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Trapped",
-      "Type": "Ring"
-    },
-    {
       "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
+      "Id": "Damage_to_Trapped",
       "Type": "Ring"
     }
   ],

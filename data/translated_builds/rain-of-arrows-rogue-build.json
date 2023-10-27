@@ -6,11 +6,7 @@
       "Type": "Ranged"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Ranged"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Damage_Category_Ultimate",
       "Type": "Ranged"
     },
     {
@@ -18,11 +14,15 @@
       "Type": "Ranged"
     },
     {
-      "Id": "Damage_Category_Ultimate",
+      "Id": "CoreStat_Dexterity",
       "Type": "Ranged"
     },
     {
       "Id": "Damage_to_Vulnerable",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
       "Type": "Ranged"
     },
     {
@@ -30,11 +30,7 @@
       "Type": "Melee 1"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Melee 1"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Damage_Category_Ultimate",
       "Type": "Melee 1"
     },
     {
@@ -42,11 +38,15 @@
       "Type": "Melee 1"
     },
     {
-      "Id": "Damage_Category_Ultimate",
+      "Id": "CoreStat_Dexterity",
       "Type": "Melee 1"
     },
     {
       "Id": "Damage_to_Vulnerable",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
       "Type": "Melee 1"
     },
     {
@@ -54,11 +54,7 @@
       "Type": "Melee 2"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Melee 2"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Damage_Category_Ultimate",
       "Type": "Melee 2"
     },
     {
@@ -66,7 +62,7 @@
       "Type": "Melee 2"
     },
     {
-      "Id": "Damage_Category_Ultimate",
+      "Id": "CoreStat_Dexterity",
       "Type": "Melee 2"
     },
     {
@@ -74,20 +70,8 @@
       "Type": "Melee 2"
     },
     {
-      "Id": "Life",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "Helm"
+      "Id": "Damage_Category_Spenders",
+      "Type": "Melee 2"
     },
     {
       "Id": "Resistance_Single_Fire",
@@ -98,15 +82,15 @@
       "Type": "Helm"
     },
     {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Helm"
-    },
-    {
-      "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
       "Type": "Helm"
     },
     {
@@ -114,15 +98,23 @@
       "Type": "Helm"
     },
     {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
+      "Type": "Helm"
+    },
+    {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "Helm"
     },
     {
-      "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Id": "Armor",
+      "Type": "Helm"
     },
     {
-      "Id": "DamageReductionDistant",
+      "Id": "Resistance_Single_Fire",
       "Type": "Chest"
     },
     {
@@ -130,15 +122,23 @@
       "Type": "Chest"
     },
     {
+      "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
       "Id": "Armor",
       "Type": "Chest"
     },
     {
-      "Id": "Resistance_Single_Fire",
+      "Id": "DamageReductionDistant",
       "Type": "Chest"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Core_1",
       "Type": "Gloves"
     },
     {
@@ -154,15 +154,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "SkillRankBonus_Rogue_Core_1",
+      "Id": "CoreStats_All",
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
-      "Type": "Pants"
-    },
-    {
-      "Id": "Armor",
+      "Id": "DamageReduction",
       "Type": "Pants"
     },
     {
@@ -170,19 +166,19 @@
       "Type": "Pants"
     },
     {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
       "Id": "DamageReductionDistant",
       "Type": "Pants"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "Life",
       "Type": "Pants"
     },
     {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -191,6 +187,14 @@
     },
     {
       "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
       "Type": "Boots"
     },
     {
@@ -206,14 +210,6 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
       "Id": "CD_Reduction",
       "Type": "Amulet"
     },
@@ -222,11 +218,31 @@
       "Type": "Amulet"
     },
     {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
       "Id": "SkillRankBonus_Rogue_Category_Imbuements",
       "Type": "Amulet"
     },
     {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
       "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
       "Type": "Ring"
     },
     {
@@ -246,31 +262,15 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
-    },
-    {
       "Id": "Life",
       "Type": "Ring"
     },
     {
-      "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
-      "Type": "Ring"
-    },
-    {
-      "Id": "ResourceGain",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
       "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
       "Type": "Ring"
     }
   ],

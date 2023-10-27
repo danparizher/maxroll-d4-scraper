@@ -2,7 +2,11 @@
   "Name": "pulverize-druid.",
   "ItemAffixes": [
     {
-      "Id": "CritDamage",
+      "Id": "CoreStat_Willpower",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStats_All",
       "Type": "Weapon"
     },
     {
@@ -14,19 +18,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Slowed",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "Weapon"
-    },
-    {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CritDamage_With_Earth",
       "Type": "Weapon"
     },
     {
@@ -34,7 +26,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Willpower",
+      "Id": "Damage_to_Slowed",
       "Type": "Weapon"
     },
     {
@@ -42,11 +34,11 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_Category_Spenders",
+      "Id": "CritDamage_With_Earth",
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Slowed",
+      "Id": "CoreStat_Willpower",
       "Type": "Weapon"
     },
     {
@@ -54,11 +46,11 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "Damage_Category_Spenders",
       "Type": "Weapon"
     },
     {
-      "Id": "CritDamage_With_Earth",
+      "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
@@ -66,8 +58,20 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Willpower",
+      "Id": "Damage_to_Slowed",
       "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage_With_Earth",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Totem\n(Off-Hand)"
     },
     {
       "Id": "CritChance",
@@ -87,14 +91,10 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Totem\n(Off-Hand)"
-    },
-    {
-      "Id": "Life",
       "Type": "Helm"
     },
     {
-      "Id": "Resistance_Single_Lightning",
+      "Id": "Life",
       "Type": "Helm"
     },
     {
@@ -102,23 +102,15 @@
       "Type": "Helm"
     },
     {
-      "Id": "Resistance_Single_Poison",
-      "Type": "Helm"
-    },
-    {
-      "Id": "AttackSpeed_Basics",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "Helm"
-    },
-    {
       "Id": "Resistance_Single_Frost",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
       "Type": "Helm"
     },
     {
@@ -126,19 +118,27 @@
       "Type": "Helm"
     },
     {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "AttackSpeed_Basics",
+      "Type": "Helm"
+    },
+    {
       "Id": "CoreStat_Willpower",
       "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "CoreStats_All",
       "Type": "Helm"
     },
     {
-      "Id": "Life",
+      "Id": "FortifyDamageReduction",
       "Type": "Chest"
     },
     {
-      "Id": "Armor",
+      "Id": "DamageReductionDistant",
       "Type": "Chest"
     },
     {
@@ -146,15 +146,15 @@
       "Type": "Chest"
     },
     {
-      "Id": "FortifyDamageReduction",
-      "Type": "Chest"
-    },
-    {
       "Id": "DamageReduction",
       "Type": "Chest"
     },
     {
-      "Id": "DamageReductionDistant",
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Life",
       "Type": "Chest"
     },
     {
@@ -166,11 +166,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "AttackSpeed",
+      "Id": "CritChance",
       "Type": "Gloves"
     },
     {
-      "Id": "CritChance",
+      "Id": "AttackSpeed",
       "Type": "Gloves"
     },
     {
@@ -182,7 +182,15 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
+      "Id": "FortifyDamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
       "Type": "Pants"
     },
     {
@@ -194,19 +202,11 @@
       "Type": "Pants"
     },
     {
-      "Id": "DamageReductionClose",
+      "Id": "Life",
       "Type": "Pants"
     },
     {
-      "Id": "FortifyDamageReduction",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Pants"
-    },
-    {
-      "Id": "Resistance_Single_Lightning",
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -214,27 +214,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resistance_Single_Shadow",
-      "Type": "Boots"
-    },
-    {
       "Id": "Resource_Cost_Reduction_Druid",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -242,11 +222,15 @@
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_Single_Lightning",
+      "Id": "Resistance_Single_Fire",
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_Single_Fire",
+      "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
       "Type": "Boots"
     },
     {
@@ -254,7 +238,39 @@
       "Type": "Boots"
     },
     {
+      "Id": "Resistance_Single_Shadow",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Druid",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Boots"
+    },
+    {
       "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
       "Type": "Boots"
     },
     {
@@ -266,35 +282,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "CoreStat_Willpower",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Druid",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Dodge",
-      "Type": "Boots"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Druid_06_NaturesReach",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "FortifyDamageReduction",
+      "Id": "CD_Reduction",
       "Type": "Amulet"
     },
     {
@@ -310,19 +298,31 @@
       "Type": "Amulet"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "PassiveRankBonus_Druid_06_NaturesReach",
       "Type": "Amulet"
     },
     {
+      "Id": "FortifyDamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
       "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
       "Type": "Ring"
     },
     {
@@ -330,7 +330,19 @@
       "Type": "Ring"
     },
     {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
       "Id": "CritDamage_With_Earth",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
       "Type": "Ring"
     },
     {
@@ -342,19 +354,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
-    },
-    {
       "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
       "Type": "Ring"
     },
     {
@@ -362,19 +362,19 @@
       "Type": "Ring"
     },
     {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
       "Id": "CritDamage_With_Earth",
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
+      "Id": "Damage_to_CCd",
       "Type": "Ring"
     }
   ],

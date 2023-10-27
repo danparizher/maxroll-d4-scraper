@@ -2,15 +2,7 @@
   "Name": "shred-druid.",
   "ItemAffixes": [
     {
-      "Id": "CritDamage_With_Wolf",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Damage_to_Poisoned",
+      "Id": "CoreStat_Willpower",
       "Type": "Weapon"
     },
     {
@@ -22,7 +14,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_DoT",
+      "Id": "Damage_to_Poisoned",
       "Type": "Weapon"
     },
     {
@@ -30,19 +22,27 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Willpower",
+      "Id": "Damage_DoT",
       "Type": "Weapon"
     },
     {
-      "Id": "ResourceGain",
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage_With_Wolf",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Totem"
+    },
+    {
+      "Id": "CD_Reduction",
       "Type": "Totem"
     },
     {
       "Id": "DamageReduction_Poisoned",
-      "Type": "Totem"
-    },
-    {
-      "Id": "CritChance",
       "Type": "Totem"
     },
     {
@@ -54,27 +54,15 @@
       "Type": "Totem"
     },
     {
+      "Id": "ResourceGain",
+      "Type": "Totem"
+    },
+    {
       "Id": "FortifyDamageReduction",
       "Type": "Totem"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Totem"
-    },
-    {
-      "Id": "Life",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
+      "Id": "SkillRankBonus_Druid_Special_VineCreeper",
       "Type": "Helm"
     },
     {
@@ -86,15 +74,15 @@
       "Type": "Helm"
     },
     {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Helm"
-    },
-    {
-      "Id": "SkillRankBonus_Druid_Special_VineCreeper",
-      "Type": "Helm"
-    },
-    {
-      "Id": "CoreStat_Willpower",
       "Type": "Helm"
     },
     {
@@ -103,10 +91,22 @@
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Helm"
     },
     {
       "Id": "DamageReduction_Poisoned",
+      "Type": "Chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
       "Type": "Chest"
     },
     {
@@ -118,19 +118,15 @@
       "Type": "Chest"
     },
     {
-      "Id": "FortifyDamageReduction",
-      "Type": "Chest"
-    },
-    {
       "Id": "DamageReduction",
       "Type": "Chest"
     },
     {
-      "Id": "SkillRankBonus_Druid_Core_5",
-      "Type": "Gloves"
+      "Id": "Life",
+      "Type": "Chest"
     },
     {
-      "Id": "CoreStat_Dexterity",
+      "Id": "CritChance",
       "Type": "Gloves"
     },
     {
@@ -142,11 +138,7 @@
       "Type": "Gloves"
     },
     {
-      "Id": "CritChance",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
+      "Id": "SkillRankBonus_Druid_Core_5",
       "Type": "Gloves"
     },
     {
@@ -154,15 +146,19 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
-      "Type": "Pants"
+      "Id": "CoreStat_Dexterity",
+      "Type": "Gloves"
     },
     {
-      "Id": "Armor",
-      "Type": "Pants"
+      "Id": "CoreStat_Intelligence",
+      "Type": "Gloves"
     },
     {
       "Id": "DamageReduction_Poisoned",
+      "Type": "Pants"
+    },
+    {
+      "Id": "FortifyDamageReduction",
       "Type": "Pants"
     },
     {
@@ -174,12 +170,24 @@
       "Type": "Pants"
     },
     {
-      "Id": "FortifyDamageReduction",
+      "Id": "DamageReduction",
       "Type": "Pants"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "Life",
       "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Boots"
     },
     {
       "Id": "Resistance_Single_Frost",
@@ -190,7 +198,19 @@
       "Type": "Boots"
     },
     {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Boots"
+    },
+    {
       "Id": "Werewolf_Armor",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStat_Willpower",
       "Type": "Boots"
     },
     {
@@ -202,27 +222,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Dodge",
-      "Type": "Boots"
-    },
-    {
-      "Id": "PassiveRankBonus_Druid_Shapeshifting_T4_N3_ToxicClaws",
+      "Id": "PassiveRankBonus_Druid_Shapeshifting_T2_N3_CalloftheWild",
       "Type": "Amulet"
     },
     {
@@ -230,11 +230,15 @@
       "Type": "Amulet"
     },
     {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
       "Id": "DamageReduction_Poisoned",
       "Type": "Amulet"
     },
     {
-      "Id": "FortifyDamageReduction",
+      "Id": "PassiveRankBonus_Druid_Shapeshifting_T4_N3_ToxicClaws",
       "Type": "Amulet"
     },
     {
@@ -242,15 +246,23 @@
       "Type": "Amulet"
     },
     {
-      "Id": "PassiveRankBonus_Druid_Shapeshifting_T2_N3_CalloftheWild",
+      "Id": "FortifyDamageReduction",
       "Type": "Amulet"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
     },
     {
       "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {
@@ -266,10 +278,6 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
       "Id": "CritChance",
       "Type": "Ring"
     },
@@ -282,6 +290,10 @@
       "Type": "Ring"
     },
     {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
       "Id": "Damage_to_Poisoned",
       "Type": "Ring"
     },
@@ -291,18 +303,6 @@
     },
     {
       "Id": "Damage_to_Slowed",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
       "Type": "Ring"
     }
   ],

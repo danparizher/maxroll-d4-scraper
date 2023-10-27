@@ -6,11 +6,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CritDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStat_Strength",
+      "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
@@ -18,11 +14,15 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Strength",
       "Type": "Weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
       "Type": "Weapon"
     },
     {
@@ -30,11 +30,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CritDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStat_Strength",
+      "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
@@ -42,11 +38,15 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Strength",
       "Type": "Weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
       "Type": "Weapon"
     },
     {
@@ -54,11 +54,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CritDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStat_Strength",
+      "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
@@ -66,11 +62,15 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Strength",
       "Type": "Weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CritDamage",
       "Type": "Weapon"
     },
     {
@@ -78,11 +78,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CritDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStat_Strength",
+      "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
@@ -90,7 +86,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Strength",
       "Type": "Weapon"
     },
     {
@@ -98,7 +94,19 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Life",
+      "Id": "CritDamage",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "SkillRankBonus_Barb_Special_DeathBlow",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
       "Type": "Helm"
     },
     {
@@ -110,23 +118,7 @@
       "Type": "Helm"
     },
     {
-      "Id": "Resistance_Single_Fire",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "Helm"
-    },
-    {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Helm"
-    },
-    {
-      "Id": "SkillRankBonus_Barb_Special_DeathBlow",
       "Type": "Helm"
     },
     {
@@ -134,23 +126,15 @@
       "Type": "Helm"
     },
     {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
       "Id": "Life",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReduction_Bleeding",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Chest"
+      "Type": "Helm"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
-    },
-    {
-      "Id": "FortifyDamageReduction",
       "Type": "Chest"
     },
     {
@@ -160,6 +144,38 @@
     {
       "Id": "DamageReductionClose",
       "Type": "Chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction_Bleeding",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "SkillRankBonus_Barb_Core_4_Slot01",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
     },
     {
       "Id": "CoreStat_Strength",
@@ -170,39 +186,7 @@
       "Type": "Gloves"
     },
     {
-      "Id": "SkillRankBonus_Barb_Core_4_Slot01",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "AttackSpeed",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "Luck",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "Life",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReduction_Bleeding",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Pants"
-    },
-    {
       "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
-      "Id": "FortifyDamageReduction",
       "Type": "Pants"
     },
     {
@@ -214,11 +198,23 @@
       "Type": "Pants"
     },
     {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
+      "Id": "FortifyDamageReduction",
+      "Type": "Pants"
     },
     {
-      "Id": "Resistance_Single_Poison",
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction_Bleeding",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -230,11 +226,19 @@
       "Type": "Boots"
     },
     {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Boots"
+    },
+    {
       "Id": "Resistance_Single_Shadow",
       "Type": "Boots"
     },
     {
-      "Id": "FortifyBonus",
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -242,12 +246,20 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "FortifyBonus",
       "Type": "Boots"
     },
     {
+      "Id": "PassiveRankBonus_Barb_Berserker_T2_N4_HeavyHanded",
+      "Type": "Amulet"
+    },
+    {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
     },
     {
       "Id": "SkillRankBonus_Barb_Category_WeaponMastery",
@@ -262,19 +274,15 @@
       "Type": "Amulet"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Barb_Berserker_T2_N4_HeavyHanded",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
-    },
-    {
       "Id": "Berserk_Damage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "FortifyBonus",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -283,14 +291,6 @@
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "FortifyBonus",
       "Type": "Ring"
     },
     {
@@ -302,11 +302,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Near",
+      "Id": "FortifyBonus",
       "Type": "Ring"
     },
     {
@@ -314,7 +310,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "FortifyBonus",
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {

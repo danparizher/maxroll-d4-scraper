@@ -2,7 +2,11 @@
   "Name": "infinimist-necromancer.",
   "ItemAffixes": [
     {
-      "Id": "Damage_to_Shadow_DoT",
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
     {
@@ -10,7 +14,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "Damage_to_Shadow_DoT",
       "Type": "Weapon"
     },
     {
@@ -18,15 +22,15 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
+      "Id": "Luck",
+      "Type": "Off-Hand\n(Focus)"
     },
     {
       "Id": "Luck_With_Barrier",
       "Type": "Off-Hand\n(Focus)"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "CD_Reduction",
       "Type": "Off-Hand\n(Focus)"
     },
     {
@@ -34,23 +38,19 @@
       "Type": "Off-Hand\n(Focus)"
     },
     {
-      "Id": "Luck",
-      "Type": "Off-Hand\n(Focus)"
-    },
-    {
       "Id": "CoreStat_Intelligence",
       "Type": "Off-Hand\n(Focus)"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "CoreStats_All",
       "Type": "Off-Hand\n(Focus)"
     },
     {
-      "Id": "Life",
+      "Id": "Armor",
       "Type": "Helm"
     },
     {
-      "Id": "Armor",
+      "Id": "Life",
       "Type": "Helm"
     },
     {
@@ -58,7 +58,7 @@
       "Type": "Helm"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
@@ -66,7 +66,7 @@
       "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "CoreStats_All",
       "Type": "Helm"
     },
     {
@@ -90,11 +90,7 @@
       "Type": "Chest"
     },
     {
-      "Id": "Damage_Type_DoT_Bonus_Shadow",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "AttackSpeed",
+      "Id": "Luck",
       "Type": "Gloves"
     },
     {
@@ -102,11 +98,15 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Luck",
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
       "Type": "Gloves"
     },
     {
       "Id": "CoreStat_Intelligence",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
       "Type": "Gloves"
     },
     {
@@ -114,19 +114,11 @@
       "Type": "Pants"
     },
     {
-      "Id": "SkillRankBonus_Necro_Special_BloodMist",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReduction_ShadowDoT",
-      "Type": "Pants"
-    },
-    {
       "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
       "Type": "Pants"
     },
     {
-      "Id": "CoreStat_Intelligence",
+      "Id": "DamageReduction_ShadowDoT",
       "Type": "Pants"
     },
     {
@@ -134,11 +126,15 @@
       "Type": "Pants"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Id": "SkillRankBonus_Necro_Special_BloodMist",
+      "Type": "Pants"
     },
     {
       "Id": "CoreStat_Intelligence",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -146,15 +142,19 @@
       "Type": "Boots"
     },
     {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Boots"
+    },
+    {
       "Id": "CoreStats_All",
       "Type": "Boots"
     },
     {
-      "Id": "Damage_Type_DoT_Bonus_Shadow",
+      "Id": "Movement_Speed",
       "Type": "Amulet"
     },
     {
-      "Id": "DamageReduction_ShadowDoT",
+      "Id": "CD_Reduction",
       "Type": "Amulet"
     },
     {
@@ -166,23 +166,15 @@
       "Type": "Amulet"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "DamageReduction_ShadowDoT",
       "Type": "Amulet"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
       "Type": "Amulet"
     },
     {
-      "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_Type_Bonus_Shadow",
+      "Id": "Luck",
       "Type": "Ring"
     },
     {
@@ -190,7 +182,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "Luck",
+      "Id": "DamageReductionClose",
       "Type": "Ring"
     },
     {
@@ -198,11 +190,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "DamageReductionClose",
+      "Id": "Damage_Type_Bonus_Shadow",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_Type_Bonus_Shadow",
+      "Id": "Luck",
       "Type": "Ring"
     },
     {
@@ -210,7 +202,15 @@
       "Type": "Ring"
     },
     {
-      "Id": "Luck",
+      "Id": "DamageReductionClose",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Shadow",
       "Type": "Ring"
     }
   ],

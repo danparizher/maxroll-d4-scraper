@@ -2,11 +2,11 @@
   "Name": "stormclaw-druid.",
   "ItemAffixes": [
     {
-      "Id": "Damage_to_CCd",
+      "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
-      "Id": "SkillRankBonus_Druid_Basic_2",
+      "Id": "Damage_to_CCd",
       "Type": "Weapon"
     },
     {
@@ -14,12 +14,8 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "SkillRankBonus_Druid_Basic_2",
       "Type": "Weapon"
-    },
-    {
-      "Id": "Life",
-      "Type": "Chest"
     },
     {
       "Id": "DamageReduction_Poisoned",
@@ -44,6 +40,26 @@
     {
       "Id": "CoreStat_Willpower",
       "Type": "Chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "Gloves"
     },
     {
       "Id": "Resource_Reduction_Storm",
@@ -54,26 +70,6 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Luck",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "AttackSpeed",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "Life",
-      "Type": "Pants"
-    },
-    {
       "Id": "DamageReduction_Poisoned",
       "Type": "Pants"
     },
@@ -90,12 +86,24 @@
       "Type": "Pants"
     },
     {
+      "Id": "DamageReductionInjured",
+      "Type": "Pants"
+    },
+    {
       "Id": "DamageReduction",
       "Type": "Pants"
     },
     {
-      "Id": "DamageReductionInjured",
+      "Id": "Life",
       "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Boots"
     },
     {
       "Id": "Resistance_Single_Frost",
@@ -106,19 +114,15 @@
       "Type": "Boots"
     },
     {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Boots"
+    },
+    {
       "Id": "Werewolf_Armor",
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
+      "Id": "DamageReductionInjured",
       "Type": "Boots"
     },
     {
@@ -130,11 +134,15 @@
       "Type": "Boots"
     },
     {
-      "Id": "DamageReductionInjured",
-      "Type": "Boots"
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
     },
     {
       "Id": "PassiveRankBonus_Druid_15_Envenom",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
       "Type": "Amulet"
     },
     {
@@ -158,35 +166,7 @@
       "Type": "Amulet"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Poisoned",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Far",
-      "Type": "Ring"
-    },
-    {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -198,6 +178,14 @@
       "Type": "Ring"
     },
     {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Far",
+      "Type": "Ring"
+    },
+    {
       "Id": "CritDamage",
       "Type": "Ring"
     },
@@ -206,11 +194,15 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Far",
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
       "Type": "Ring"
     },
     {
@@ -218,7 +210,15 @@
       "Type": "Ring"
     },
     {
-      "Id": "Luck",
+      "Id": "Damage_to_Far",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Poisoned",
       "Type": "Ring"
     }
   ],

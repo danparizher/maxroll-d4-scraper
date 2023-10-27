@@ -2,15 +2,11 @@
   "Name": "penetrating-shot-rogue.",
   "ItemAffixes": [
     {
-      "Id": "CritDamage",
+      "Id": "Damage_to_CCd",
       "Type": "Ranged"
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "Ranged"
-    },
-    {
-      "Id": "Damage_to_CCd",
       "Type": "Ranged"
     },
     {
@@ -19,7 +15,7 @@
     },
     {
       "Id": "CritDamage",
-      "Type": "Melee 1"
+      "Type": "Ranged"
     },
     {
       "Id": "Damage_to_CCd",
@@ -34,11 +30,15 @@
       "Type": "Melee 1"
     },
     {
+      "Id": "CritDamage",
+      "Type": "Melee 1"
+    },
+    {
       "Id": "Damage_to_CCd",
       "Type": "Melee 1"
     },
     {
-      "Id": "CritDamage",
+      "Id": "Damage_to_CCd",
       "Type": "Melee 2\n(Regular)"
     },
     {
@@ -50,32 +50,12 @@
       "Type": "Melee 2\n(Regular)"
     },
     {
-      "Id": "Damage_to_CCd",
+      "Id": "CritDamage",
       "Type": "Melee 2\n(Regular)"
     },
     {
       "Id": "Damage_to_CCd",
       "Type": "Melee 2\n(Regular)"
-    },
-    {
-      "Id": "Life",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Life_On_Kill",
-      "Type": "Helm"
     },
     {
       "Id": "CD_Reduction",
@@ -83,10 +63,34 @@
     },
     {
       "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life_On_Kill",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Helm"
+    },
+    {
+      "Id": "DamageReduction",
       "Type": "Chest"
     },
     {
       "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Life",
       "Type": "Chest"
     },
     {
@@ -98,19 +102,7 @@
       "Type": "Chest"
     },
     {
-      "Id": "DamageReduction",
-      "Type": "Chest"
-    },
-    {
       "Id": "SkillRankBonus_Rogue_Core_5",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "AttackSpeed",
       "Type": "Gloves"
     },
     {
@@ -122,7 +114,15 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "DamageReduction",
       "Type": "Pants"
     },
     {
@@ -130,11 +130,7 @@
       "Type": "Pants"
     },
     {
-      "Id": "SkillRankBonus_Rogue_Special_DarkShroud",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReduction",
+      "Id": "Life",
       "Type": "Pants"
     },
     {
@@ -142,7 +138,11 @@
       "Type": "Pants"
     },
     {
-      "Id": "Dodge_Ranged",
+      "Id": "SkillRankBonus_Rogue_Special_DarkShroud",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -150,7 +150,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Resistance_Single_Lightning",
       "Type": "Boots"
     },
     {
@@ -158,11 +158,11 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "CoreStat_Dexterity",
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_Single_Lightning",
+      "Id": "Dodge_Ranged",
       "Type": "Boots"
     },
     {
@@ -170,7 +170,19 @@
       "Type": "Amulet"
     },
     {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
       "Id": "SkillRankBonus_Rogue_Category_Imbuements",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction",
       "Type": "Amulet"
     },
     {
@@ -182,23 +194,19 @@
       "Type": "Amulet"
     },
     {
-      "Id": "DamageReduction",
-      "Type": "Amulet"
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Id": "CritChance",
+      "Type": "Ring"
     },
     {
       "Id": "Life",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_With_Imbued",
+      "Id": "Luck",
       "Type": "Ring"
     },
     {
@@ -210,11 +218,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
+      "Id": "Damage_With_Imbued",
       "Type": "Ring"
     },
     {
@@ -222,11 +226,15 @@
       "Type": "Ring"
     },
     {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
       "Id": "Life",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_With_Imbued",
+      "Id": "Luck",
       "Type": "Ring"
     },
     {
@@ -238,15 +246,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
+      "Id": "Damage_With_Imbued",
       "Type": "Ring"
     }
   ],

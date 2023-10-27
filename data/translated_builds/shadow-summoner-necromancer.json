@@ -2,15 +2,11 @@
   "Name": "shadow-summoner-necromancer.",
   "ItemAffixes": [
     {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Weapon"
+    },
+    {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Damage_to_Trapped",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Damage_to_Slowed",
       "Type": "Weapon"
     },
     {
@@ -18,16 +14,12 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Intelligence",
+      "Id": "Damage_to_Slowed",
       "Type": "Weapon"
     },
     {
-      "Id": "PetHealth_Necro",
-      "Type": "Off-Hand\n(Focus)"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Off-Hand\n(Focus)"
+      "Id": "Damage_to_Trapped",
+      "Type": "Weapon"
     },
     {
       "Id": "Luck",
@@ -38,11 +30,23 @@
       "Type": "Off-Hand\n(Focus)"
     },
     {
+      "Id": "PetHealth_Necro",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Off-Hand\n(Focus)"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
       "Id": "Life",
       "Type": "Helm"
     },
     {
-      "Id": "Armor",
+      "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
@@ -54,19 +58,7 @@
       "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Helm"
-    },
-    {
       "Id": "Life",
-      "Type": "Chest"
-    },
-    {
-      "Id": "Thorns",
-      "Type": "Chest"
-    },
-    {
-      "Id": "PetHealth_Necro",
       "Type": "Chest"
     },
     {
@@ -82,7 +74,15 @@
       "Type": "Chest"
     },
     {
-      "Id": "Damage_Type_DoT_Bonus_Shadow",
+      "Id": "PetHealth_Necro",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Thorns",
+      "Type": "Chest"
+    },
+    {
+      "Id": "CritChance",
       "Type": "Gloves"
     },
     {
@@ -90,11 +90,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "CritChance",
+      "Id": "Luck",
       "Type": "Gloves"
     },
     {
-      "Id": "Luck",
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
       "Type": "Gloves"
     },
     {
@@ -107,6 +107,10 @@
     },
     {
       "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction_ShadowDoT",
       "Type": "Pants"
     },
     {
@@ -118,15 +122,7 @@
       "Type": "Pants"
     },
     {
-      "Id": "DamageReduction_ShadowDoT",
-      "Type": "Pants"
-    },
-    {
-      "Id": "Resistance_All",
-      "Type": "Boots"
-    },
-    {
-      "Id": "CoreStats_All",
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -134,31 +130,23 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
       "Id": "CoreStat_Intelligence",
       "Type": "Boots"
     },
     {
-      "Id": "PassiveRankBonus_Necro_01_Gloom",
-      "Type": "Amulet"
+      "Id": "CoreStats_All",
+      "Type": "Boots"
     },
     {
-      "Id": "Armor",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "PetAttackSpeed_Necro",
-      "Type": "Amulet"
+      "Id": "Resistance_All",
+      "Type": "Boots"
     },
     {
       "Id": "Movement_Speed",
       "Type": "Amulet"
     },
     {
-      "Id": "DamageReduction_ShadowDoT",
+      "Id": "PassiveRankBonus_Necro_01_Gloom",
       "Type": "Amulet"
     },
     {
@@ -166,23 +154,27 @@
       "Type": "Amulet"
     },
     {
+      "Id": "DamageReduction_ShadowDoT",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PetAttackSpeed_Necro",
+      "Type": "Amulet"
+    },
+    {
       "Id": "CD_Reduction",
       "Type": "Amulet"
     },
     {
-      "Id": "Life",
-      "Type": "Ring"
+      "Id": "Armor",
+      "Type": "Amulet"
     },
     {
-      "Id": "PetHealth_Necro",
+      "Id": "CritChance",
       "Type": "Ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -198,15 +190,23 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
       "Id": "CritChance",
       "Type": "Ring"
     },
     {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
       "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "PetHealth_Necro",
       "Type": "Ring"
     }
   ],

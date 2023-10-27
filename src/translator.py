@@ -1,6 +1,7 @@
 """Translates scraped maxroll data to a format that can be used by D4Companion."""
 
 from __future__ import annotations
+from collections import OrderedDict
 
 import json
 import logging
@@ -105,9 +106,9 @@ class Translator:
             "ItemAspects": [],
         }
 
-        print(f"FILE: {build_name}.json")
+        print(f"FILE: {build_name}json")
         for gear_type, _aspects, stat_numbered_list in rows:
-            stats = set()
+            stats = OrderedDict()
 
             for stat_numbered in stat_numbered_list.splitlines():
                 re_match = re.search(
@@ -142,12 +143,10 @@ class Translator:
                 )
                 multi_stats = stat.split("/" if "/" in stat else ",")
                 for multi_stat in multi_stats:
-                    if is_resistance and not multi_stat.endswith(
-                        "resistance",
-                    ):
+                    if is_resistance and not multi_stat.endswith("resistance"):
                         multi_stat += " resistance"
 
-                    stats.add(multi_stat)
+                    stats.setdefault(multi_stat, None)
 
             for stat in stats:
                 output["ItemAffixes"].append(

@@ -2,11 +2,11 @@
   "Name": "fireball-sorcerer.",
   "ItemAffixes": [
     {
-      "Id": "Damage_Category_Spenders",
+      "Id": "Shield_Damage_Bonus",
       "Type": "Weapon"
     },
     {
-      "Id": "Shield_Damage_Bonus",
+      "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
     {
@@ -14,12 +14,16 @@
       "Type": "Weapon"
     },
     {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
       "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
+      "Id": "CD_Reduction",
+      "Type": "Off-Hand\n(Optional)"
     },
     {
       "Id": "Shield_Damage_Bonus",
@@ -30,7 +34,7 @@
       "Type": "Off-Hand\n(Optional)"
     },
     {
-      "Id": "Lucky_Hit_Resource",
+      "Id": "Resource_Cost_Reduction_Sorcerer",
       "Type": "Off-Hand\n(Optional)"
     },
     {
@@ -38,7 +42,7 @@
       "Type": "Off-Hand\n(Optional)"
     },
     {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
+      "Id": "Lucky_Hit_Resource",
       "Type": "Off-Hand\n(Optional)"
     },
     {
@@ -47,22 +51,6 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand\n(Optional)"
-    },
-    {
-      "Id": "Life",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resource_MaxMana",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "CC_Duration",
       "Type": "Helm"
     },
     {
@@ -70,19 +58,31 @@
       "Type": "Helm"
     },
     {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resource_MaxMana",
+      "Type": "Helm"
+    },
+    {
       "Id": "CoreStat_Intelligence",
       "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "CC_Duration",
       "Type": "Helm"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "Helm"
     },
     {
       "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
       "Type": "Chest"
     },
     {
@@ -98,11 +98,11 @@
       "Type": "Chest"
     },
     {
-      "Id": "CoreStat_Intelligence",
+      "Id": "Life",
       "Type": "Chest"
     },
     {
-      "Id": "DamageReductionDistant",
+      "Id": "CoreStat_Intelligence",
       "Type": "Chest"
     },
     {
@@ -110,7 +110,7 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Lucky_Hit_Resource",
+      "Id": "CritChance",
       "Type": "Gloves"
     },
     {
@@ -118,7 +118,7 @@
       "Type": "Gloves"
     },
     {
-      "Id": "CritChance",
+      "Id": "Lucky_Hit_Resource",
       "Type": "Gloves"
     },
     {
@@ -130,11 +130,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
+      "Id": "Armor",
       "Type": "Pants"
     },
     {
-      "Id": "Armor",
+      "Id": "DamageReductionDistant",
       "Type": "Pants"
     },
     {
@@ -150,15 +150,15 @@
       "Type": "Pants"
     },
     {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
       "Id": "CoreStat_Intelligence",
       "Type": "Pants"
     },
     {
-      "Id": "DamageReductionDistant",
-      "Type": "Pants"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
+      "Id": "Resource_Cost_Reduction_Sorcerer",
       "Type": "Boots"
     },
     {
@@ -166,11 +166,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "SkillRankBonus_Sorc_Special_Teleport",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
+      "Id": "Evade_Attack_Reset",
       "Type": "Boots"
     },
     {
@@ -178,12 +174,28 @@
       "Type": "Boots"
     },
     {
+      "Id": "SkillRankBonus_Sorc_Special_Teleport",
+      "Type": "Boots"
+    },
+    {
+      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
+      "Type": "Boots"
+    },
+    {
       "Id": "CoreStat_Intelligence",
       "Type": "Boots"
     },
     {
-      "Id": "Evade_Attack_Reset",
-      "Type": "Boots"
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Sorcerer",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
     },
     {
       "Id": "PassiveRankBonus_Sorc_Fire_T2_N3_DevouringFlames",
@@ -194,31 +206,11 @@
       "Type": "Amulet"
     },
     {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "Amulet"
-    },
-    {
       "Id": "SkillRankBonus_Generic_Category_Defensive",
       "Type": "Amulet"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Life",
-      "Type": "Ring"
-    },
-    {
       "Id": "ResourceGain",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {
@@ -234,11 +226,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "ResourceGain",
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "ResourceGain",
       "Type": "Ring"
     },
     {
@@ -247,6 +239,14 @@
     },
     {
       "Id": "Damage_Type_Bonus_Fire",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     }
   ],

@@ -6,11 +6,7 @@
       "Type": "Ranged"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Ranged"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Damage_to_Near",
       "Type": "Ranged"
     },
     {
@@ -18,7 +14,11 @@
       "Type": "Ranged"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Dexterity",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
       "Type": "Ranged"
     },
     {
@@ -26,11 +26,7 @@
       "Type": "Melee 1"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Melee 1"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Damage_to_Near",
       "Type": "Melee 1"
     },
     {
@@ -38,7 +34,11 @@
       "Type": "Melee 1"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Dexterity",
+      "Type": "Melee 1"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
       "Type": "Melee 1"
     },
     {
@@ -46,11 +46,7 @@
       "Type": "Melee 2"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Melee 2"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Damage_to_Near",
       "Type": "Melee 2"
     },
     {
@@ -58,11 +54,19 @@
       "Type": "Melee 2"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Dexterity",
       "Type": "Melee 2"
     },
     {
-      "Id": "Life",
+      "Id": "Damage_Category_Spenders",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
       "Type": "Helm"
     },
     {
@@ -74,27 +78,7 @@
       "Type": "Helm"
     },
     {
-      "Id": "Resistance_Single_Fire",
-      "Type": "Helm"
-    },
-    {
-      "Id": "SkillRankBonus_Rogue_Special_ShadowImbue",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "Helm"
-    },
-    {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Helm"
-    },
-    {
-      "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
       "Type": "Helm"
     },
     {
@@ -102,11 +86,27 @@
       "Type": "Helm"
     },
     {
-      "Id": "Life",
-      "Type": "Chest"
+      "Id": "SkillRankBonus_Rogue_Special_ShadowImbue",
+      "Type": "Helm"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
+      "Type": "Helm"
     },
     {
       "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
       "Type": "Chest"
     },
     {
@@ -118,7 +118,7 @@
       "Type": "Chest"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "Life",
       "Type": "Chest"
     },
     {
@@ -126,11 +126,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Lucky_Hit_Slow",
+      "Id": "AttackSpeed",
       "Type": "Gloves"
     },
     {
-      "Id": "AttackSpeed",
+      "Id": "Lucky_Hit_Slow",
       "Type": "Gloves"
     },
     {
@@ -142,11 +142,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
+      "Id": "Armor",
       "Type": "Pants"
     },
     {
-      "Id": "Armor",
+      "Id": "DamageReduction",
       "Type": "Pants"
     },
     {
@@ -158,15 +158,11 @@
       "Type": "Pants"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "Life",
       "Type": "Pants"
     },
     {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -174,11 +170,15 @@
       "Type": "Boots"
     },
     {
-      "Id": "Resource_Cost_Reduction_Rogue",
+      "Id": "Resistance_Single_Frost",
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_Single_Frost",
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
       "Type": "Boots"
     },
     {
@@ -190,7 +190,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "Resource_Cost_Reduction_Rogue",
       "Type": "Boots"
     },
     {
@@ -198,11 +198,19 @@
       "Type": "Amulet"
     },
     {
-      "Id": "PassiveRankBonus_Rogue_Cunning_T3_N1_Exploit",
+      "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
       "Type": "Amulet"
     },
     {
-      "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Rogue_Cunning_T3_N1_Exploit",
       "Type": "Amulet"
     },
     {
@@ -214,19 +222,11 @@
       "Type": "Amulet"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
       "Id": "DamageReductionClose",
       "Type": "Amulet"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Life",
+      "Id": "ResourceGain",
       "Type": "Ring"
     },
     {
@@ -234,15 +234,15 @@
       "Type": "Ring"
     },
     {
-      "Id": "ResourceGain",
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
       "Type": "Ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -250,7 +250,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "Life",
+      "Id": "ResourceGain",
       "Type": "Ring"
     },
     {
@@ -258,15 +258,15 @@
       "Type": "Ring"
     },
     {
-      "Id": "ResourceGain",
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
       "Type": "Ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
       "Type": "Ring"
     },
     {

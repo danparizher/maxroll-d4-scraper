@@ -2,7 +2,7 @@
   "Name": "bone-spear-necromancer.",
   "ItemAffixes": [
     {
-      "Id": "CritDamage_With_Bone",
+      "Id": "Damage_to_Vulnerable",
       "Type": "Weapon"
     },
     {
@@ -10,19 +10,19 @@
       "Type": "Weapon"
     },
     {
+      "Id": "CritDamage_With_Bone",
+      "Type": "Weapon"
+    },
+    {
       "Id": "Damage_Category_Spenders",
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "FortifyDamageReduction",
+      "Id": "CritChance",
       "Type": "Offhand"
     },
     {
-      "Id": "CritChance",
+      "Id": "Lucky_Hit_Resource",
       "Type": "Offhand"
     },
     {
@@ -30,8 +30,16 @@
       "Type": "Offhand"
     },
     {
-      "Id": "Lucky_Hit_Resource",
+      "Id": "FortifyDamageReduction",
       "Type": "Offhand"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
     },
     {
       "Id": "Life",
@@ -42,27 +50,7 @@
       "Type": "Chest"
     },
     {
-      "Id": "Armor",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "Chest"
-    },
-    {
-      "Id": "Lucky_Hit_Resource",
-      "Type": "Gloves"
-    },
-    {
       "Id": "SkillRankBonus_Necro_Core_1",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "AttackSpeed",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CritDamage_With_Bone",
       "Type": "Gloves"
     },
     {
@@ -70,15 +58,23 @@
       "Type": "Gloves"
     },
     {
+      "Id": "CritDamage_With_Bone",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
       "Id": "Life",
-      "Type": "Pants"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
-      "Id": "CoreStats_All",
       "Type": "Pants"
     },
     {
@@ -86,12 +82,28 @@
       "Type": "Pants"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "Armor",
       "Type": "Pants"
     },
     {
       "Id": "CoreStat_Intelligence",
       "Type": "Pants"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
     },
     {
       "Id": "Resistance_Single_Lightning",
@@ -102,23 +114,11 @@
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "Boots"
-    },
-    {
       "Id": "Resistance_Single_Shadow",
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "Resource_Cost_Reduction_Necromancer",
       "Type": "Boots"
     },
     {
@@ -130,7 +130,7 @@
       "Type": "Amulet"
     },
     {
-      "Id": "PassiveRankBonus_Necro_Summoning_T1_N2_Evulsion",
+      "Id": "Resource_Cost_Reduction_Necromancer",
       "Type": "Amulet"
     },
     {
@@ -138,19 +138,11 @@
       "Type": "Amulet"
     },
     {
-      "Id": "Resource_Cost_Reduction_Necromancer",
+      "Id": "PassiveRankBonus_Necro_Summoning_T1_N2_Evulsion",
       "Type": "Amulet"
     },
     {
-      "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
       "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Resource_MaxEssence",
       "Type": "Ring"
     },
     {
@@ -162,15 +154,23 @@
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
       "Id": "Resource_MaxEssence",
       "Type": "Ring"
     },
     {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
       "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Resource_MaxEssence",
       "Type": "Ring"
     }
   ],

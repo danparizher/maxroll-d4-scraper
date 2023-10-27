@@ -6,6 +6,18 @@
       "Type": "Weapon"
     },
     {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Stunned",
+      "Type": "Weapon"
+    },
+    {
       "Id": "Damage_to_CCd",
       "Type": "Weapon"
     },
@@ -18,31 +30,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Damage_to_Stunned",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Luck_With_Barrier",
-      "Type": "Off-Hand"
-    },
-    {
-      "Id": "PetHealth_Necro",
-      "Type": "Off-Hand"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "Off-Hand"
-    },
-    {
-      "Id": "CritChance",
+      "Id": "CD_Reduction",
       "Type": "Off-Hand"
     },
     {
@@ -50,11 +38,27 @@
       "Type": "Off-Hand"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "CritChance",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "PetHealth_Necro",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "Luck_With_Barrier",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "CoreStats_All",
       "Type": "Off-Hand"
     },
     {
       "Id": "Life",
+      "Type": "Helm"
+    },
+    {
+      "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
@@ -74,39 +78,7 @@
       "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Damage_Type_Bonus_Physical",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Chest"
-    },
-    {
-      "Id": "PetHealth_Necro",
-      "Type": "Chest"
-    },
-    {
       "Id": "Armor",
-      "Type": "Chest"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "Chest"
-    },
-    {
-      "Id": "Damage_Tag_Summoning",
-      "Type": "Chest"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReduction",
       "Type": "Chest"
     },
     {
@@ -114,7 +86,35 @@
       "Type": "Chest"
     },
     {
-      "Id": "AttackSpeed",
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "PetHealth_Necro",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Damage_Tag_Summoning",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "Chest"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Luck",
       "Type": "Gloves"
     },
     {
@@ -122,39 +122,15 @@
       "Type": "Gloves"
     },
     {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
       "Id": "CoreStats_All",
       "Type": "Gloves"
     },
     {
-      "Id": "Luck",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "Life",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Pants"
-    },
-    {
-      "Id": "PetHealth_Necro",
-      "Type": "Pants"
-    },
-    {
       "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "Pants"
-    },
-    {
-      "Id": "Dodge",
       "Type": "Pants"
     },
     {
@@ -162,23 +138,31 @@
       "Type": "Pants"
     },
     {
-      "Id": "PetMoveSpeed_Druid",
-      "Type": "Boots"
+      "Id": "Life",
+      "Type": "Pants"
     },
     {
-      "Id": "DamageReductionInjured",
-      "Type": "Boots"
+      "Id": "FortifyDamageReduction",
+      "Type": "Pants"
     },
     {
-      "Id": "CoreStats_All",
-      "Type": "Boots"
+      "Id": "PetHealth_Necro",
+      "Type": "Pants"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
     },
     {
       "Id": "Dodge",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -186,39 +170,27 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Id": "Dodge",
+      "Type": "Boots"
     },
     {
-      "Id": "Armor",
-      "Type": "Amulet"
+      "Id": "PetMoveSpeed_Druid",
+      "Type": "Boots"
     },
     {
-      "Id": "Luck_With_Barrier",
-      "Type": "Amulet"
+      "Id": "CoreStats_All",
+      "Type": "Boots"
     },
     {
-      "Id": "PetAttackSpeed_Necro",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Damage_Tag_Summoning",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "Amulet"
+      "Id": "DamageReductionInjured",
+      "Type": "Boots"
     },
     {
       "Id": "PassiveRankBonus_Necro_Summoning_T2_N1_HellbentCommander",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
       "Type": "Amulet"
     },
     {
@@ -227,6 +199,38 @@
     },
     {
       "Id": "PetAttackSpeed_Necro",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Luck_With_Barrier",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Damage_Tag_Summoning",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "PetAttackSpeed_Necro",
       "Type": "Ring"
     },
     {
@@ -234,15 +238,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "Luck",
-      "Type": "Ring"
-    },
-    {
       "Id": "Thorns",
       "Type": "Ring"
     },
     {
-      "Id": "Life",
+      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -250,11 +250,19 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_CCd",
+      "Id": "Damage_to_Vulnerable",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_Type_Bonus_Physical",
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
       "Type": "Ring"
     },
     {
@@ -266,15 +274,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
+      "Id": "Damage_Type_Bonus_Physical",
       "Type": "Ring"
     }
   ],

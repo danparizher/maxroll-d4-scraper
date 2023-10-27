@@ -2,19 +2,11 @@
   "Name": "flurry-rapid-fire-rogue.",
   "ItemAffixes": [
     {
-      "Id": "CritDamage",
-      "Type": "Ranged"
-    },
-    {
       "Id": "Damage_to_CCd",
       "Type": "Ranged"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Ranged"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Damage_to_Near",
       "Type": "Ranged"
     },
     {
@@ -22,7 +14,11 @@
       "Type": "Ranged"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Dexterity",
+      "Type": "Ranged"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
       "Type": "Ranged"
     },
     {
@@ -31,18 +27,14 @@
     },
     {
       "Id": "CritDamage",
-      "Type": "Melee 1\n(Regular)"
+      "Type": "Ranged"
     },
     {
       "Id": "Damage_to_CCd",
       "Type": "Melee 1\n(Regular)"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Melee 1\n(Regular)"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
+      "Id": "Damage_to_Near",
       "Type": "Melee 1\n(Regular)"
     },
     {
@@ -50,7 +42,11 @@
       "Type": "Melee 1\n(Regular)"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CoreStat_Dexterity",
+      "Type": "Melee 1\n(Regular)"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
       "Type": "Melee 1\n(Regular)"
     },
     {
@@ -59,22 +55,10 @@
     },
     {
       "Id": "CritDamage",
-      "Type": "Melee 2"
+      "Type": "Melee 1\n(Regular)"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Melee 2"
-    },
-    {
-      "Id": "Damage_Category_Spenders",
-      "Type": "Melee 2"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
-      "Type": "Melee 2"
-    },
-    {
-      "Id": "CoreStats_All",
       "Type": "Melee 2"
     },
     {
@@ -82,11 +66,31 @@
       "Type": "Melee 2"
     },
     {
+      "Id": "CoreStats_All",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "Melee 2"
+    },
+    {
       "Id": "Damage_to_Vulnerable",
       "Type": "Melee 2"
     },
     {
-      "Id": "Life",
+      "Id": "CritDamage",
+      "Type": "Melee 2"
+    },
+    {
+      "Id": "Resistance_Single_Fire",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
       "Type": "Helm"
     },
     {
@@ -95,26 +99,6 @@
     },
     {
       "Id": "Resistance_Single_Poison",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Fire",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_All",
-      "Type": "Helm"
-    },
-    {
-      "Id": "SkillRankBonus_Rogue_Special_ShadowImbue",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
       "Type": "Helm"
     },
     {
@@ -122,19 +106,27 @@
       "Type": "Helm"
     },
     {
+      "Id": "Resistance_All",
+      "Type": "Helm"
+    },
+    {
       "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
+      "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "Helm"
+    },
+    {
+      "Id": "SkillRankBonus_Rogue_Special_ShadowImbue",
+      "Type": "Helm"
     },
     {
       "Id": "Resistance_All",
-      "Type": "Chest"
-    },
-    {
-      "Id": "DamageReduction",
       "Type": "Chest"
     },
     {
@@ -147,6 +139,14 @@
     },
     {
       "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Life",
       "Type": "Chest"
     },
     {
@@ -154,15 +154,7 @@
       "Type": "Gloves"
     },
     {
-      "Id": "CoreStat_Dexterity",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "AttackSpeed",
+      "Id": "SkillRankBonus_Rogue_Core_1",
       "Type": "Gloves"
     },
     {
@@ -170,19 +162,19 @@
       "Type": "Gloves"
     },
     {
-      "Id": "SkillRankBonus_Rogue_Core_1",
+      "Id": "AttackSpeed",
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
-      "Type": "Pants"
+      "Id": "CoreStats_All",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "Gloves"
     },
     {
       "Id": "Resistance_All",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReduction",
       "Type": "Pants"
     },
     {
@@ -198,11 +190,15 @@
       "Type": "Pants"
     },
     {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
+      "Id": "DamageReduction",
+      "Type": "Pants"
     },
     {
-      "Id": "Resistance_Single_Poison",
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -211,6 +207,14 @@
     },
     {
       "Id": "Resistance_Single_Frost",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Boots"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
       "Type": "Boots"
     },
     {
@@ -227,7 +231,19 @@
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Rogue_Cunning_T4_N2_Malice",
+      "Type": "Amulet"
     },
     {
       "Id": "PassiveRankBonus_Rogue_Cunning_T3_N1_Exploit",
@@ -242,39 +258,15 @@
       "Type": "Amulet"
     },
     {
-      "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Rogue_Cunning_T4_N2_Malice",
+      "Id": "DamageReduction",
       "Type": "Amulet"
     },
     {
       "Id": "DamageReduction",
       "Type": "Amulet"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Life",
-      "Type": "Ring"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ring"
-    },
-    {
-      "Id": "ResourceGain",
       "Type": "Ring"
     },
     {
@@ -283,6 +275,14 @@
     },
     {
       "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "ResourceGain",
       "Type": "Ring"
     },
     {
@@ -290,15 +290,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "Life",
-      "Type": "Ring"
-    },
-    {
       "Id": "Damage_to_CCd",
-      "Type": "Ring"
-    },
-    {
-      "Id": "ResourceGain",
       "Type": "Ring"
     },
     {
@@ -307,6 +299,14 @@
     },
     {
       "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "ResourceGain",
       "Type": "Ring"
     },
     {

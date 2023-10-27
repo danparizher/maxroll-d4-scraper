@@ -2,7 +2,7 @@
   "Name": "tornado-druid.",
   "ItemAffixes": [
     {
-      "Id": "Damage_Category_Spenders",
+      "Id": "Damage_to_Near",
       "Type": "Weapon"
     },
     {
@@ -10,11 +10,15 @@
       "Type": "Weapon"
     },
     {
+      "Id": "CoreStat_Willpower",
+      "Type": "Weapon"
+    },
+    {
       "Id": "CoreStats_All",
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "Damage_Category_Spenders",
       "Type": "Weapon"
     },
     {
@@ -22,11 +26,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Willpower",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
+      "Id": "CD_Reduction",
       "Type": "Off-Hand"
     },
     {
@@ -38,31 +38,23 @@
       "Type": "Off-Hand"
     },
     {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Off-Hand"
+    },
+    {
       "Id": "FortifyDamageReduction",
       "Type": "Off-Hand"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand"
+      "Type": "Helm"
     },
     {
-      "Id": "Resistance_Single_Lightning",
+      "Id": "Life",
       "Type": "Helm"
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "Helm"
-    },
-    {
-      "Id": "AttackSpeed_Basics",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Armor",
       "Type": "Helm"
     },
     {
@@ -70,7 +62,19 @@
       "Type": "Helm"
     },
     {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "Helm"
+    },
+    {
       "Id": "Resistance_Single_Shadow",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Armor",
       "Type": "Helm"
     },
     {
@@ -78,27 +82,15 @@
       "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "AttackSpeed_Basics",
       "Type": "Helm"
-    },
-    {
-      "Id": "Life",
-      "Type": "Helm"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "Chest"
-    },
-    {
-      "Id": "Life",
-      "Type": "Chest"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Chest"
     },
     {
       "Id": "DamageReductionClose",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
       "Type": "Chest"
     },
     {
@@ -107,6 +99,14 @@
     },
     {
       "Id": "DamageReductionDistant",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Chest"
+    },
+    {
+      "Id": "Life",
       "Type": "Chest"
     },
     {
@@ -118,6 +118,10 @@
       "Type": "Chest"
     },
     {
+      "Id": "Damage",
+      "Type": "Chest"
+    },
+    {
       "Id": "DamageReduction_Poisoned",
       "Type": "Chest"
     },
@@ -126,11 +130,7 @@
       "Type": "Chest"
     },
     {
-      "Id": "Damage",
-      "Type": "Chest"
-    },
-    {
-      "Id": "AttackSpeed",
+      "Id": "SkillRankBonus_Druid_Core_3",
       "Type": "Gloves"
     },
     {
@@ -138,11 +138,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Luck",
+      "Id": "AttackSpeed",
       "Type": "Gloves"
     },
     {
-      "Id": "SkillRankBonus_Druid_Core_3",
+      "Id": "Luck",
       "Type": "Gloves"
     },
     {
@@ -150,19 +150,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "Pants"
-    },
-    {
-      "Id": "Life",
-      "Type": "Pants"
-    },
-    {
-      "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
       "Id": "DamageReductionClose",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
       "Type": "Pants"
     },
     {
@@ -170,12 +162,24 @@
       "Type": "Pants"
     },
     {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
       "Id": "DamageReduction",
       "Type": "Pants"
     },
     {
-      "Id": "DamageReductionDistant",
-      "Type": "Pants"
+      "Id": "Movement_Speed",
+      "Type": "Boots"
     },
     {
       "Id": "Resistance_Single_Fire",
@@ -186,19 +190,11 @@
       "Type": "Boots"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "Resource_Cost_Reduction_Druid",
       "Type": "Boots"
     },
     {
       "Id": "Werewolf_Armor",
-      "Type": "Boots"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Druid",
       "Type": "Boots"
     },
     {
@@ -206,39 +202,15 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "CoreStat_Willpower",
       "Type": "Boots"
     },
     {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Werewolf_Armor",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Druid",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Druid_NatureMagic_T4_N2_Defiance",
-      "Type": "Amulet"
+      "Id": "CoreStats_All",
+      "Type": "Boots"
     },
     {
       "Id": "PassiveRankBonus_Druid_15_Envenom",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReductionClose",
       "Type": "Amulet"
     },
     {
@@ -246,11 +218,39 @@
       "Type": "Amulet"
     },
     {
-      "Id": "CritDamage_With_Wolf",
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Druid",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Werewolf_Armor",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Druid_NatureMagic_T4_N2_Defiance",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {
-      "Id": "CritDamage",
+      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -258,7 +258,27 @@
       "Type": "Ring"
     },
     {
+      "Id": "Luck",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
       "Id": "Damage_to_Slowed",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage_With_Wolf",
       "Type": "Ring"
     },
     {
@@ -270,27 +290,15 @@
       "Type": "Ring"
     },
     {
+      "Id": "Damage_to_Far",
+      "Type": "Ring"
+    },
+    {
       "Id": "Luck",
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
-    },
-    {
       "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritDamage_With_Wolf",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Far",
       "Type": "Ring"
     },
     {
@@ -298,23 +306,15 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "Ring"
-    },
-    {
       "Id": "Damage_to_Vulnerable",
       "Type": "Ring"
     },
     {
-      "Id": "Life",
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage_With_Wolf",
       "Type": "Ring"
     }
   ],

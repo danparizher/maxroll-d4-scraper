@@ -2,11 +2,7 @@
   "Name": "arc-lash-sorcerer.",
   "ItemAffixes": [
     {
-      "Id": "CritDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CritDamage_With_Lightning",
+      "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
     {
@@ -18,11 +14,15 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Intelligence",
+      "Id": "CritDamage",
       "Type": "Weapon"
     },
     {
-      "Id": "AttackSpeed_Basics",
+      "Id": "CritDamage_With_Lightning",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CD_Reduction",
       "Type": "Off-Hand"
     },
     {
@@ -30,7 +30,7 @@
       "Type": "Off-Hand"
     },
     {
-      "Id": "Luck",
+      "Id": "AttackSpeed_Basics",
       "Type": "Off-Hand"
     },
     {
@@ -38,11 +38,11 @@
       "Type": "Off-Hand"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "Luck",
       "Type": "Off-Hand"
     },
     {
-      "Id": "Life",
+      "Id": "CD_Reduction",
       "Type": "Helm"
     },
     {
@@ -51,6 +51,10 @@
     },
     {
       "Id": "Armor",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
       "Type": "Helm"
     },
     {
@@ -62,14 +66,6 @@
       "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Helm"
-    },
-    {
-      "Id": "Life",
-      "Type": "Chest"
-    },
-    {
       "Id": "Armor",
       "Type": "Chest"
     },
@@ -82,20 +78,16 @@
       "Type": "Chest"
     },
     {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Chest"
-    },
-    {
       "Id": "DamageReductionDistant",
       "Type": "Chest"
     },
     {
-      "Id": "CritDamage_With_Lightning",
-      "Type": "Gloves"
+      "Id": "Life",
+      "Type": "Chest"
     },
     {
-      "Id": "Luck",
-      "Type": "Gloves"
+      "Id": "CoreStat_Intelligence",
+      "Type": "Chest"
     },
     {
       "Id": "AttackSpeed",
@@ -106,6 +98,14 @@
       "Type": "Gloves"
     },
     {
+      "Id": "CritDamage_With_Lightning",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "Gloves"
+    },
+    {
       "Id": "Luck",
       "Type": "Gloves"
     },
@@ -114,15 +114,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "Life",
+      "Id": "SkillRankBonus_Sorc_Special_BallLightning",
       "Type": "Pants"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_BallLightning",
       "Type": "Pants"
     },
     {
@@ -134,15 +130,23 @@
       "Type": "Pants"
     },
     {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Pants"
-    },
-    {
       "Id": "DamageReductionDistant",
       "Type": "Pants"
     },
     {
-      "Id": "SkillRankBonus_Sorc_Special_FlameShield",
+      "Id": "Life",
+      "Type": "Pants"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Boots"
+    },
+    {
+      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
       "Type": "Boots"
     },
     {
@@ -150,16 +154,24 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Boots"
-    },
-    {
       "Id": "CoreStat_Intelligence",
       "Type": "Boots"
     },
     {
-      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
+      "Id": "SkillRankBonus_Sorc_Special_FlameShield",
       "Type": "Boots"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Generic_Category_Defensive",
+      "Type": "Amulet"
     },
     {
       "Id": "PassiveRankBonus_Sorc_02_ConjurationMastery",
@@ -170,20 +182,16 @@
       "Type": "Amulet"
     },
     {
-      "Id": "SkillRankBonus_Generic_Category_Defensive",
-      "Type": "Amulet"
-    },
-    {
       "Id": "DamageReductionClose",
       "Type": "Amulet"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Id": "CritChance",
+      "Type": "Ring"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
     },
     {
       "Id": "Life",
@@ -195,14 +203,6 @@
     },
     {
       "Id": "CritDamage_With_Lightning",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
       "Type": "Ring"
     },
     {

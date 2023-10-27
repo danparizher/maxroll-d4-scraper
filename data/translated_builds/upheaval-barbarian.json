@@ -2,10 +2,6 @@
   "Name": "upheaval-barbarian.",
   "ItemAffixes": [
     {
-      "Id": "Berserk_Damage",
-      "Type": "Weapon"
-    },
-    {
       "Id": "Damage_to_Poisoned",
       "Type": "Weapon"
     },
@@ -14,7 +10,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "Berserk_Damage",
       "Type": "Weapon"
     },
     {
@@ -22,7 +18,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Berserk_Damage",
+      "Id": "CoreStats_All",
       "Type": "Weapon"
     },
     {
@@ -30,15 +26,15 @@
       "Type": "Weapon"
     },
     {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
       "Id": "OverpowerDamage",
       "Type": "Weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Berserk_Damage",
       "Type": "Weapon"
     },
     {
@@ -46,15 +42,15 @@
       "Type": "Weapon"
     },
     {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
       "Id": "OverpowerDamage",
       "Type": "Weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Berserk_Damage",
       "Type": "Weapon"
     },
     {
@@ -62,6 +58,10 @@
       "Type": "Weapon"
     },
     {
+      "Id": "Berserk_Damage",
+      "Type": "Weapon"
+    },
+    {
       "Id": "OverpowerDamage",
       "Type": "Weapon"
     },
@@ -70,11 +70,11 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Berserk_Damage",
+      "Id": "Armor",
       "Type": "Helm"
     },
     {
-      "Id": "Life",
+      "Id": "Berserk_Damage",
       "Type": "Helm"
     },
     {
@@ -86,15 +86,15 @@
       "Type": "Helm"
     },
     {
-      "Id": "Armor",
+      "Id": "Life",
       "Type": "Helm"
     },
     {
-      "Id": "Life",
+      "Id": "Armor",
       "Type": "Chest"
     },
     {
-      "Id": "Armor",
+      "Id": "DamageReductionClose",
       "Type": "Chest"
     },
     {
@@ -106,11 +106,11 @@
       "Type": "Chest"
     },
     {
-      "Id": "DamageReductionClose",
+      "Id": "Life",
       "Type": "Chest"
     },
     {
-      "Id": "CoreStat_Strength",
+      "Id": "SkillRankBonus_Barb_Core_4_Slot01",
       "Type": "Gloves"
     },
     {
@@ -122,11 +122,11 @@
       "Type": "Gloves"
     },
     {
-      "Id": "SkillRankBonus_Barb_Core_4_Slot01",
+      "Id": "CoreStat_Strength",
       "Type": "Gloves"
     },
     {
-      "Id": "DamageReductionClose",
+      "Id": "Armor",
       "Type": "Pants"
     },
     {
@@ -134,7 +134,7 @@
       "Type": "Pants"
     },
     {
-      "Id": "Armor",
+      "Id": "DamageReductionClose",
       "Type": "Pants"
     },
     {
@@ -146,19 +146,27 @@
       "Type": "Boots"
     },
     {
+      "Id": "Resistance_All",
+      "Type": "Boots"
+    },
+    {
       "Id": "DamageReductionInjured",
       "Type": "Boots"
     },
     {
-      "Id": "Resistance_All",
-      "Type": "Boots"
+      "Id": "SkillRankBonus_Sorc_Primary_02",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Basic_Reap",
+      "Type": "Amulet"
     },
     {
       "Id": "Movement_Speed",
       "Type": "Amulet"
     },
     {
-      "Id": "Armor",
+      "Id": "CD_Reduction",
       "Type": "Amulet"
     },
     {
@@ -174,15 +182,7 @@
       "Type": "Amulet"
     },
     {
-      "Id": "SkillRankBonus_Necro_Basic_Reap",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Primary_02",
+      "Id": "Armor",
       "Type": "Amulet"
     },
     {
@@ -190,7 +190,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "Life",
+      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -198,11 +198,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "OverpowerDamage",
+      "Id": "Life",
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
+      "Id": "OverpowerDamage",
       "Type": "Ring"
     },
     {
@@ -210,7 +210,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "Life",
+      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -218,11 +218,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "OverpowerDamage",
+      "Id": "Life",
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
+      "Id": "OverpowerDamage",
       "Type": "Ring"
     }
   ],

@@ -2,7 +2,15 @@
   "Name": "blood-lance-necromancer.",
   "ItemAffixes": [
     {
+      "Id": "OverpowerDamage",
+      "Type": "Weapon"
+    },
+    {
       "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
     {
@@ -12,22 +20,6 @@
     {
       "Id": "Damage_to_Near",
       "Type": "Weapon"
-    },
-    {
-      "Id": "OverpowerDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Lucky_Hit_Resource",
-      "Type": "Offhand"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Offhand"
     },
     {
       "Id": "CritChance",
@@ -38,7 +30,23 @@
       "Type": "Offhand"
     },
     {
+      "Id": "CD_Reduction",
+      "Type": "Offhand"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "Offhand"
+    },
+    {
+      "Id": "OverpowerDamage",
+      "Type": "Weapon"
+    },
+    {
       "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
     {
@@ -50,27 +58,11 @@
       "Type": "Weapon"
     },
     {
-      "Id": "OverpowerDamage",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
-    },
-    {
       "Id": "Life",
       "Type": "Helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
-    },
-    {
-      "Id": "SkillRankBonus_Necro_Special_Decrepify",
-      "Type": "Helm"
-    },
-    {
-      "Id": "AttackSpeed_Basics",
       "Type": "Helm"
     },
     {
@@ -78,11 +70,15 @@
       "Type": "Helm"
     },
     {
-      "Id": "Life",
-      "Type": "Chest"
+      "Id": "AttackSpeed_Basics",
+      "Type": "Helm"
     },
     {
-      "Id": "DamageReductionDistant",
+      "Id": "SkillRankBonus_Necro_Special_Decrepify",
+      "Type": "Helm"
+    },
+    {
+      "Id": "Life",
       "Type": "Chest"
     },
     {
@@ -90,16 +86,16 @@
       "Type": "Chest"
     },
     {
-      "Id": "DamageReduction",
-      "Type": "Chest"
-    },
-    {
       "Id": "DamageReductionClose",
       "Type": "Chest"
     },
     {
-      "Id": "Lucky_Hit_Resource",
-      "Type": "Gloves"
+      "Id": "DamageReduction",
+      "Type": "Chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Chest"
     },
     {
       "Id": "SkillRankBonus_Necro_Core_6",
@@ -110,11 +106,15 @@
       "Type": "Gloves"
     },
     {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
+    },
+    {
       "Id": "CritChance",
       "Type": "Gloves"
     },
     {
-      "Id": "AttackSpeed",
+      "Id": "Lucky_Hit_Resource",
       "Type": "Gloves"
     },
     {
@@ -126,15 +126,7 @@
       "Type": "Pants"
     },
     {
-      "Id": "DamageReductionDistant",
-      "Type": "Pants"
-    },
-    {
       "Id": "Armor",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReduction",
       "Type": "Pants"
     },
     {
@@ -142,7 +134,15 @@
       "Type": "Pants"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "DamageReduction",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "Pants"
+    },
+    {
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -154,7 +154,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "CoreStats_All",
       "Type": "Boots"
     },
     {
@@ -162,23 +162,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "Armor",
-      "Type": "Amulet"
-    },
-    {
       "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "FortifyDamageReduction",
       "Type": "Amulet"
     },
     {
@@ -186,15 +170,23 @@
       "Type": "Amulet"
     },
     {
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Armor",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "Amulet"
+    },
+    {
       "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_Type_Bonus_Physical",
       "Type": "Ring"
     },
     {
@@ -203,6 +195,14 @@
     },
     {
       "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {
@@ -214,7 +214,11 @@
       "Type": "Ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "OverpowerDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
       "Type": "Ring"
     },
     {
@@ -222,11 +226,7 @@
       "Type": "Ring"
     },
     {
-      "Id": "OverpowerDamage",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
+      "Id": "Damage_to_Near",
       "Type": "Ring"
     },
     {

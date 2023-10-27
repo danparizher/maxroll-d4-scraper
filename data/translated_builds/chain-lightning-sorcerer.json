@@ -2,7 +2,7 @@
   "Name": "chain-lightning-sorcerer.",
   "ItemAffixes": [
     {
-      "Id": "Damage_to_Burning",
+      "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
     {
@@ -10,11 +10,7 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_CCd",
-      "Type": "Weapon"
-    },
-    {
-      "Id": "Damage_Category_Spenders",
+      "Id": "Damage_to_Vulnerable",
       "Type": "Weapon"
     },
     {
@@ -22,7 +18,15 @@
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "Damage_Category_Spenders",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_Burning",
+      "Type": "Weapon"
+    },
+    {
+      "Id": "Damage_to_CCd",
       "Type": "Weapon"
     },
     {
@@ -30,19 +34,23 @@
       "Type": "Weapon"
     },
     {
-      "Id": "Damage_to_Vulnerable",
+      "Id": "CoreStats_All",
       "Type": "Weapon"
     },
     {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
+      "Id": "CD_Reduction",
+      "Type": "Off-Hand"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Off-Hand"
     },
     {
       "Id": "ResourceGain",
       "Type": "Off-Hand"
     },
     {
-      "Id": "CritChance",
+      "Id": "DamageReduction_Burning",
       "Type": "Off-Hand"
     },
     {
@@ -54,12 +62,12 @@
       "Type": "Off-Hand"
     },
     {
-      "Id": "DamageReduction_Burning",
-      "Type": "Off-Hand"
+      "Id": "CD_Reduction",
+      "Type": "Helm"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "Off-Hand"
+      "Id": "CoreStat_Intelligence",
+      "Type": "Helm"
     },
     {
       "Id": "Life",
@@ -82,19 +90,11 @@
       "Type": "Helm"
     },
     {
-      "Id": "CoreStat_Intelligence",
-      "Type": "Helm"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Helm"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
+      "Id": "Damage_to_Near",
       "Type": "Chest"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "Damage_to_Stunned",
       "Type": "Chest"
     },
     {
@@ -102,8 +102,20 @@
       "Type": "Chest"
     },
     {
-      "Id": "Damage_to_Stunned",
+      "Id": "CoreStat_Intelligence",
       "Type": "Chest"
+    },
+    {
+      "Id": "SkillRankBonus_Sorc_Core_3",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "Gloves"
     },
     {
       "Id": "CritDamage_With_Lightning",
@@ -114,27 +126,23 @@
       "Type": "Gloves"
     },
     {
-      "Id": "AttackSpeed",
-      "Type": "Gloves"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Gloves"
-    },
-    {
       "Id": "CoreStat_Intelligence",
       "Type": "Gloves"
     },
     {
-      "Id": "SkillRankBonus_Sorc_Core_3",
-      "Type": "Gloves"
+      "Id": "Armor",
+      "Type": "Pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "Pants"
     },
     {
       "Id": "Life",
       "Type": "Pants"
     },
     {
-      "Id": "Armor",
+      "Id": "DamageReduction_Burning",
       "Type": "Pants"
     },
     {
@@ -146,15 +154,7 @@
       "Type": "Pants"
     },
     {
-      "Id": "DamageReductionClose",
-      "Type": "Pants"
-    },
-    {
-      "Id": "DamageReduction_Burning",
-      "Type": "Pants"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_Teleport",
+      "Id": "Movement_Speed",
       "Type": "Boots"
     },
     {
@@ -162,7 +162,7 @@
       "Type": "Boots"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "SkillRankBonus_Sorc_Special_Teleport",
       "Type": "Boots"
     },
     {
@@ -170,7 +170,11 @@
       "Type": "Boots"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "Dodge",
+      "Type": "Boots"
+    },
+    {
+      "Id": "CoreStats_All",
       "Type": "Boots"
     },
     {
@@ -178,19 +182,11 @@
       "Type": "Boots"
     },
     {
-      "Id": "Dodge",
-      "Type": "Boots"
-    },
-    {
-      "Id": "Armor",
+      "Id": "CD_Reduction",
       "Type": "Amulet"
     },
     {
-      "Id": "Damage_Tag_Shock",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "DamageReductionDistant",
+      "Id": "SkillRankBonus_Generic_Category_Defensive",
       "Type": "Amulet"
     },
     {
@@ -198,7 +194,11 @@
       "Type": "Amulet"
     },
     {
-      "Id": "SkillRankBonus_Generic_Category_Defensive",
+      "Id": "PassiveRankBonus_Sorc_Elemental_T2_N1_GlassCannon",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Sorc_Primary_03",
       "Type": "Amulet"
     },
     {
@@ -210,7 +210,11 @@
       "Type": "Amulet"
     },
     {
-      "Id": "SkillRankBonus_Sorc_Primary_03",
+      "Id": "Movement_Speed",
+      "Type": "Amulet"
+    },
+    {
+      "Id": "Armor",
       "Type": "Amulet"
     },
     {
@@ -218,27 +222,15 @@
       "Type": "Amulet"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "DamageReductionDistant",
       "Type": "Amulet"
     },
     {
-      "Id": "CD_Reduction",
+      "Id": "Damage_Tag_Shock",
       "Type": "Amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Sorc_Elemental_T2_N1_GlassCannon",
-      "Type": "Amulet"
-    },
-    {
-      "Id": "Life",
-      "Type": "Ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
       "Type": "Ring"
     },
     {
@@ -246,7 +238,63 @@
       "Type": "Ring"
     },
     {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Stunned",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Lightning",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Resource_MaxMana",
+      "Type": "Ring"
+    },
+    {
       "Id": "ResourceGain",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "Ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "Ring"
+    },
+    {
+      "Id": "CritDamage_With_Lightning",
+      "Type": "Ring"
+    },
+    {
+      "Id": "Life",
       "Type": "Ring"
     },
     {
@@ -258,63 +306,15 @@
       "Type": "Ring"
     },
     {
-      "Id": "CritChance",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_Type_Bonus_Lightning",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Stunned",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "Ring"
-    },
-    {
       "Id": "Damage_to_CCd",
       "Type": "Ring"
     },
     {
-      "Id": "CritDamage_With_Lightning",
-      "Type": "Ring"
-    },
-    {
-      "Id": "ResourceGain",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Resource_MaxMana",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "Ring"
-    },
-    {
-      "Id": "CritChance",
+      "Id": "Damage_to_Stunned",
       "Type": "Ring"
     },
     {
       "Id": "Damage_Type_Bonus_Lightning",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
-    },
-    {
-      "Id": "Damage_to_Stunned",
       "Type": "Ring"
     }
   ],
