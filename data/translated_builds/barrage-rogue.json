@@ -19,10 +19,6 @@
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ranged"
-    },
-    {
-      "Id": "Damage_to_CCd",
       "Type": "Melee 1"
     },
     {
@@ -39,10 +35,6 @@
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Melee 1"
-    },
-    {
-      "Id": "Damage_to_CCd",
       "Type": "Melee 2\n(Regular)"
     },
     {
@@ -55,10 +47,6 @@
     },
     {
       "Id": "CritDamage",
-      "Type": "Melee 2\n(Regular)"
-    },
-    {
-      "Id": "Damage_to_CCd",
       "Type": "Melee 2\n(Regular)"
     },
     {
