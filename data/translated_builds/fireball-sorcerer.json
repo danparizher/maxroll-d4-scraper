@@ -2,10 +2,6 @@
   "Name": "fireball-sorcerer",
   "ItemAffixes": [
     {
-      "Id": "Shield_Damage_Bonus",
-      "Type": "Weapon"
-    },
-    {
       "Id": "CoreStat_Intelligence",
       "Type": "Weapon"
     },
@@ -23,10 +19,6 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand\n(Optional)"
-    },
-    {
-      "Id": "Shield_Damage_Bonus",
       "Type": "Off-Hand\n(Optional)"
     },
     {

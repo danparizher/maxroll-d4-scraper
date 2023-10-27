@@ -2,10 +2,6 @@
   "Name": "upheaval-barbarian",
   "ItemAffixes": [
     {
-      "Id": "Damage_to_Poisoned",
-      "Type": "Weapon"
-    },
-    {
       "Id": "CoreStat_Strength",
       "Type": "Weapon"
     },
@@ -154,11 +150,11 @@
       "Type": "Boots"
     },
     {
-      "Id": "SkillRankBonus_Sorc_Primary_02",
+      "Id": "PassiveRankBonus_Barb_Warlord_T2_N2_BruteForce",
       "Type": "Amulet"
     },
     {
-      "Id": "SkillRankBonus_Necro_Basic_Reap",
+      "Id": "PassiveRankBonus_Barb_10_Wallop",
       "Type": "Amulet"
     },
     {

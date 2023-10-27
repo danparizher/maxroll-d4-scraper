@@ -20,6 +20,8 @@ logging.basicConfig(
 # TODO: Resolve in cleaner.py or find correct stat IDs
 SKIP_STATS = [
     "Damage to Core skills",  # general core skill property
+    "damage per second",  # general item property
+    "high weapon damage",  # general item property
     "High Damage per Second",  # general item property
     "Any",  # placeholder - should be cleaned
     "Movement Speed for 4 Seconds After Killing an Elite",  # unclear??? (no associated ID in stat map)
@@ -68,7 +70,8 @@ class Translator:
         # for unique in self.uniques:
         #     if unique in cleaned:
         #         cleaned = cleaned.replace(unique, "").strip()
-        cleaned = cleaned.replace("ranks to", "ranks of the")
+        cleaned = cleaned.replace("the", "")
+        cleaned = cleaned.replace("passive", "")
         return cleaned.replace("maximum life", "life")
 
     def map_plaintext_to_id(self: Translator, plaintext: str) -> str:
