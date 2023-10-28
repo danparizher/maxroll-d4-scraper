@@ -42,6 +42,7 @@ class Translator:
             self.uniques = json.load(f)
 
     def clean_plaintext(self, plaintext: str) -> str:
+        """Clean a plaintext stat."""
         # Compile regular expressions
         pattern1 = re.compile(r"[^a-z\s]")  # remove non-alphabetic characters
         pattern2 = re.compile(r"\(.*?\)")  # remove parentheses and their contents
@@ -68,6 +69,7 @@ class Translator:
         return cleaned.strip().lower()
 
     def map_plaintext_to_id(self: Translator, plaintext: str) -> str:
+        """Map a plaintext stat to a stat ID."""
         # check for exact matches
         for stat_id, src_plaintext in self.stat_map.items():
             if self.clean_plaintext(src_plaintext) == self.clean_plaintext(plaintext):
@@ -105,6 +107,7 @@ class Translator:
         build_name: str,
         data: list[list[str]],
     ) -> dict[str, Any]:
+        """Translate a build from the scraped format to the D4Companion format."""
         rows = iter(data)
         _header = next(rows)
 
@@ -118,6 +121,7 @@ class Translator:
         for gear_type, _aspects, stat_numbered_list in rows:
             stats = {}
 
+            # parse aspects
             for stat_numbered in stat_numbered_list.splitlines():
                 re_match = re.search(
                     r"^[\d/\.\s]*\d[\d/\.\s]*[\.:]\s*(.*?)\s*(?:\(as\s*needed\))?(?:\(if\s*necessary\))?\s*$",
@@ -128,12 +132,14 @@ class Translator:
 
                 stat = re_match[1]
 
+                # skip stats that create errors
                 if any(
                     self.clean_plaintext(stat) == self.clean_plaintext(skip_stat)
                     for skip_stat in SKIP_STATS
                 ):
                     continue
 
+                # map general resistance stats to all 5 resistances
                 if self.clean_plaintext(stat) in {
                     self.clean_plaintext("any resistance").strip().lower(),
                     self.clean_plaintext("resists").strip().lower(),
@@ -149,6 +155,7 @@ class Translator:
                     )
                     >= 3
                 )
+                # split multi-stats
                 multi_stats = stat.split("/" if "/" in stat else ",")
                 for multi_stat in multi_stats:
                     if is_resistance and not multi_stat.endswith("resistance"):
@@ -167,6 +174,7 @@ class Translator:
         return output
 
     def run(self: Translator) -> None:
+        """Translate all scraped builds to the D4Companion format."""
         translated_builds_dir = Path("data") / "translated_builds"
 
         translated_builds_dir.mkdir(exist_ok=True)
