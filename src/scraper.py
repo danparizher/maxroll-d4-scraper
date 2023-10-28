@@ -78,18 +78,38 @@ class Uniques:
             json.dump(data, f, indent=2)
 
 
-class StatMap:
-    def __init__(self: StatMap) -> None:
+# TODO: use offical source (d4data)
+class AspectMap:
+    def __init__(self: AspectMap) -> None:
+        self.url = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Aspects.enUS.json"
+        self.aspect_map = self.create_map()
+
+        with Path("data\\aspect_map.json").open("w") as f:
+            json.dump(self.aspect_map, f, indent=2)
+
+    def create_map(self: AspectMap) -> dict[str, str]:
+        """Return the map for IdName:Name."""
+        response = requests.get(self.url, timeout=10)
+        if response.status_code != 200:
+            msg = f"Failed to get data from {self.url}. Status code: {response.status_code}"
+            raise requests.exceptions.HTTPError(msg)
+
+        data = json.loads(response.content)
+        return {
+            item["IdName"]: item["Name"]
+            for item in sorted(data, key=lambda item: item["IdName"])
+        }
+
+
+class AffixMap:
+    def __init__(self: AffixMap) -> None:
         self.url = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Affixes.enUS.json"
-        self.stat_map = self.create_map()
+        self.affix_map = self.create_map()
 
-        with Path("data\\stat_map.json").open("w") as f:
-            json.dump(self.stat_map, f, indent=2)
+        with Path("data\\affix_map.json").open("w") as f:
+            json.dump(self.affix_map, f, indent=2)
 
-        with Path("data\\uniques.json").open("r") as f:
-            self.uniques = json.load(f)
-
-    def create_map(self: StatMap) -> dict[str, str]:
+    def create_map(self: AffixMap) -> dict[str, str]:
         """Return the map for IdName:Description."""
         response = requests.get(self.url, timeout=10)
         if response.status_code != 200:
@@ -278,7 +298,8 @@ def run() -> None:
     """Run the scraper."""
     compile_jsons()
     Uniques().create_uniques()
-    StatMap().create_map()
+    AspectMap().create_map()
+    AffixMap().create_map()
 
 
 if __name__ == "__main__":

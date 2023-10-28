@@ -16,7 +16,8 @@ d4-scraper
 │  ├─ builds  # (contains the builds for each class)
 │  ├─ translated_builds # (contains the D4Companion compatible builds)
 │  ├─ builds.json # (K:V pairs of class name and build URL)
-│  ├─ stat_map.json # (K:V pairs of statID and stat name)
+│  ├─ aspect_map.json # (K:V pairs of AspectID and aspect name)
+│  ├─ affix_map.json # (K:V pairs of statID and stat name)
 │  └─ uniques.json # (List of all unique items)
 ├─ main.py # (main script)
 └─ src

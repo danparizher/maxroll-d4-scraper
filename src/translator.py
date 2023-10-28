@@ -35,8 +35,11 @@ SKIP_STATS = [
 
 class Translator:
     def __init__(self: Translator) -> None:
-        with (Path("data") / "stat_map.json").open("r") as f:
-            self.stat_map = json.load(f)
+        with (Path("data") / "aspect_map.json").open("r") as f:
+            self.aspect_map = json.load(f)
+
+        with (Path("data") / "affix_map.json").open("r") as f:
+            self.affix_map = json.load(f)
 
         with (Path("data") / "uniques.json").open("r") as f:
             self.uniques = json.load(f)
@@ -68,17 +71,21 @@ class Translator:
 
         return cleaned.strip().lower()
 
-    def map_plaintext_to_id(self: Translator, plaintext: str) -> str:
-        """Map a plaintext stat to a stat ID."""
+    def map_plaintext_to_id(
+        self: Translator,
+        plaintext: str,
+        map_to_use: dict[str, str],
+    ) -> str:
+        """Map a plaintext stat or aspect to an ID."""
         # check for exact matches
-        for stat_id, src_plaintext in self.stat_map.items():
+        for item, src_plaintext in map_to_use.items():
             if self.clean_plaintext(src_plaintext) == self.clean_plaintext(plaintext):
-                return stat_id
+                return item
 
         # check for fuzzy matches
         best_match_id = None
         best_match_ratio = None
-        for stat_id, src_plaintext in self.stat_map.items():
+        for item, src_plaintext in map_to_use.items():
             ratio = fuzz.token_sort_ratio(
                 self.clean_plaintext(src_plaintext),
                 self.clean_plaintext(plaintext),
@@ -86,14 +93,14 @@ class Translator:
 
             if not best_match_ratio or ratio > best_match_ratio:
                 best_match_ratio = ratio
-                best_match_id = stat_id
+                best_match_id = item
 
         if best_match_ratio and best_match_ratio > 60:
             assert best_match_id is not None
 
             if best_match_ratio < 80:
                 print(
-                    f"Warning: used low fidelity fuzzy match: {best_match_ratio}% {plaintext!r} -> {self.stat_map[best_match_id]!r}",
+                    f"Warning: used low fidelity fuzzy match: {best_match_ratio}% {plaintext!r} -> {map_to_use[best_match_id]!r}",
                 )
 
             return best_match_id
@@ -114,11 +121,11 @@ class Translator:
         output = {
             "Name": build_name,
             "ItemAffixes": [],
-            "ItemAspects": [],
+            "ItemAspects": [],  # TODO: Add aspects to translated builds
         }
 
         print(f"FILE: {build_name}.json")
-        for gear_type, _aspects, stat_numbered_list in rows:
+        for gear_type, aspects, stat_numbered_list in rows:
             stats = {}
 
             # parse aspects
@@ -166,10 +173,18 @@ class Translator:
             for stat in stats:
                 output["ItemAffixes"].append(
                     {
-                        "Id": self.map_plaintext_to_id(stat),
+                        "Id": self.map_plaintext_to_id(stat, self.affix_map),
                         "Type": gear_type,
                     },
                 )
+
+            # for aspect in aspects.splitlines():
+            #     output["ItemAspects"].append(
+            #         {
+            #             "Id": self.map_plaintext_to_id(aspect, self.aspect_map),
+            #             "Type": gear_type,
+            #         },
+            #     )
 
         return output
 
