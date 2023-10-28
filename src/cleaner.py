@@ -43,12 +43,10 @@ class Cleaner:
                 new_data += [
                     row
                     for row in data[1:]
-                    if (
-                        len(row) > 1
-                        and row[0] not in self.uniques
-                        and "unique" not in row[0].lower()
-                        and not re.search(r"best[-\s]in[-\s]slot", row[0].lower())
-                    )
+                    if len(row) > 1
+                    and all(unique not in row[0] for unique in self.uniques)
+                    and "unique" not in row[0].lower()
+                    and not re.search(r"best[-\s]in[-\s]slot", row[0].lower())
                 ]
                 with file.open("w") as f:
                     json.dump(new_data, f, indent=2)

@@ -8,7 +8,6 @@ import re
 from pathlib import Path
 from typing import Any
 
-import requests
 from thefuzz import fuzz
 
 logging.basicConfig(
@@ -35,44 +34,38 @@ SKIP_STATS = [
 
 
 class Translator:
-    # TODO: Move stat_map generation to scraping.py
     def __init__(self: Translator) -> None:
-        self.url = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Affixes.enUS.json"
-        self.stat_map = self.create_map()
+        with (Path("data") / "stat_map.json").open("r") as f:
+            self.stat_map = json.load(f)
 
-        with Path("data\\stat_map.json").open("w") as f:
-            json.dump(self.stat_map, f, indent=2)
-
-        with Path("data\\uniques.json").open("r") as f:
+        with (Path("data") / "uniques.json").open("r") as f:
             self.uniques = json.load(f)
 
-    def create_map(self: Translator) -> dict[str, str]:
-        """Return the map for IdName:Description."""
-        response = requests.get(self.url, timeout=10)
-        if response.status_code != 200:
-            msg = f"Failed to get data from {self.url}. Status code: {response.status_code}"
-            raise requests.exceptions.HTTPError(msg)
+    def clean_plaintext(self, plaintext: str) -> str:
+        # Compile regular expressions
+        pattern1 = re.compile(r"[^a-z\s]")  # remove non-alphabetic characters
+        pattern2 = re.compile(r"\(.*?\)")  # remove parentheses and their contents
+        pattern3 = re.compile(
+            r"damage to (.+) enemies",
+        )  # replace "damage to X enemies" with "X damage"
+        pattern4 = re.compile(r"\b(the|passive)\b")  # remove "the" and "passive"
 
-        data = json.loads(response.content)
-        return {
-            item["IdName"]: item["Description"]
-            for item in sorted(data, key=lambda item: item["IdName"])
-        }
+        # Preprocess uniques
+        self.uniques = [unique.strip().lower() for unique in self.uniques]
 
-    @staticmethod
-    def clean_plaintext(plaintext: str) -> str:
-        cleaned = re.sub(r"[^a-z\s]", "", plaintext.strip().lower())
-        cleaned = re.sub(r"\(.*?\)", "", cleaned)
-        cleaned = re.sub(r"damage to (.+) enemies", r"\1 damage", cleaned)
-        # TODO: For some reason, it isn't removing the unique substring
-        # remove the substring of values in unique.json
-        # i.e. "Movement Speed with FlickerStep" -> "Movement Speed"
-        # for unique in self.uniques:
-        #     if unique in cleaned:
-        #         cleaned = cleaned.replace(unique, "").strip()
-        cleaned = cleaned.replace("the", "")
-        cleaned = cleaned.replace("passive", "")
-        return cleaned.replace("maximum life", "life")
+        # Apply regular expressions
+        cleaned = pattern1.sub("", plaintext.strip().lower())
+        cleaned = pattern2.sub("", cleaned)
+        cleaned = pattern3.sub(r"\1 damage", cleaned)
+
+        # Remove unique items
+        cleaned = " ".join(word for word in cleaned.split() if word not in self.uniques)
+
+        # Replace specific words
+        cleaned = pattern4.sub("", cleaned)
+        cleaned = cleaned.replace("maximum life", "life")
+
+        return cleaned.strip().lower()
 
     def map_plaintext_to_id(self: Translator, plaintext: str) -> str:
         # check for exact matches
@@ -142,9 +135,9 @@ class Translator:
                     continue
 
                 if self.clean_plaintext(stat) in {
-                    self.clean_plaintext("any resistance"),
-                    self.clean_plaintext("resists"),
-                    self.clean_plaintext("single resistance"),
+                    self.clean_plaintext("any resistance").strip().lower(),
+                    self.clean_plaintext("resists").strip().lower(),
+                    self.clean_plaintext("single resistance").strip().lower(),
                 }:
                     stat = "fire / cold / lightning / poison / shadow resistance"
 

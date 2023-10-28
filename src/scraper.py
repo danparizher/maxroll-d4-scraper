@@ -70,12 +70,37 @@ class Uniques:
                     self.uniques.append(data["arStrings"][0]["szText"])
         return self.uniques
 
-    def compile_json(self: Uniques) -> None:
+    def create_uniques(self: Uniques) -> None:
         """Create JSON file for the list of unique items."""
         data = self.get_uniques()
         with Path("data\\uniques.json").open("w") as f:
             data.sort()
             json.dump(data, f, indent=2)
+
+
+class StatMap:
+    def __init__(self: StatMap) -> None:
+        self.url = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Affixes.enUS.json"
+        self.stat_map = self.create_map()
+
+        with Path("data\\stat_map.json").open("w") as f:
+            json.dump(self.stat_map, f, indent=2)
+
+        with Path("data\\uniques.json").open("r") as f:
+            self.uniques = json.load(f)
+
+    def create_map(self: StatMap) -> dict[str, str]:
+        """Return the map for IdName:Description."""
+        response = requests.get(self.url, timeout=10)
+        if response.status_code != 200:
+            msg = f"Failed to get data from {self.url}. Status code: {response.status_code}"
+            raise requests.exceptions.HTTPError(msg)
+
+        data = json.loads(response.content)
+        return {
+            item["IdName"]: item["Description"]
+            for item in sorted(data, key=lambda item: item["IdName"])
+        }
 
 
 def get_soup(url: str) -> BeautifulSoup | None:
@@ -252,7 +277,8 @@ def compile_jsons() -> None:
 def run() -> None:
     """Run the scraper."""
     compile_jsons()
-    Uniques().compile_json()
+    Uniques().create_uniques()
+    StatMap().create_map()
 
 
 if __name__ == "__main__":
