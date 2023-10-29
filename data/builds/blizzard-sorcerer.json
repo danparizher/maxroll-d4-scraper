@@ -10,7 +10,7 @@
     "Weapon Type: Dagger\n1. Intelligence\n2. All Stats\n3. Damage to Close Enemies\n4. Critical Strike Damage\n5. Damage to Chilled Enemies"
   ],
   [
-    "Off-Hand",
+    "offhand",
     "one of: Frozen Tundra Piercing Cold\nConceited",
     "1. Cooldown Reduction\n2. Resource Generation\n3. Mana Cost Reduction\n4. Critical Strike Chance\n5. Crowd Control Duration\n6. Lucky Hit: Chance to Regain Resource"
   ],

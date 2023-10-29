@@ -10,7 +10,7 @@
     "Weapon Type: Wand (Implicit: Lucky Hit Chance)\n1. All Stats\n2. Critical Strike Damage\n3. Vulnerable Damage\n4. Core Skill Damage\n5. Intelligence\n6. Damage to Burning Enemies\n7. Damage to Crowd Controlled Enemies\n8. Damage to Distant Enemies"
   ],
   [
-    "Off-Hand",
+    "offhand",
     "One of: Aspect of Frozen Memories Edgemaster\u2019s Aspect Conceited Aspect Aspect of Frozen Orbit Storm Swell Aspect\nElementalist's Aspect",
     "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Damage Reduction from Enemies That Are Burning\n4. Resource Generation\n5. Lucky Hit Chance\n6. Mana Cost Reduction\n7. Intelligence"
   ],

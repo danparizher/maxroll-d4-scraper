@@ -10,7 +10,7 @@
     "Weapon Type: Wand\n1. High Weapon Damage\n2. Intelligence\n3. All Stats\n4. Core Skill Damage\n5. Damage to Close Enemies"
   ],
   [
-    "Off-Hand\n(Optional)",
+    "offhand",
     "Storm Swell or\nConceited",
     "1. Cooldown Reduction\n2. High Weapon Damage\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource\n7. Intelligence"
   ],

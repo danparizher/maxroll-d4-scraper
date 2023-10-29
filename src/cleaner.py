@@ -64,6 +64,8 @@ class Cleaner:
                         equipment_type = row[0]
                         if "melee" in equipment_type.lower():
                             row[0] = "weapon"
+                        if "off-hand" in equipment_type.lower():
+                            row[0] = "offhand"
                         else:
                             for valid_equipment in self.equipment_types:
                                 if valid_equipment.lower() in equipment_type.lower():

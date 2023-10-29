@@ -10,7 +10,7 @@
     "Implicit: Lucky Hit Chance\n1. Critical Strike Damage\n2. Vulnerable Damage\n3. Damage to Close Enemies\n4. Damage to Stunned Enemies\n5. Damage to Crowd Controlled Enemies\n6. Damage to Slowed Enemies\n7. All Stats"
   ],
   [
-    "Off-Hand",
+    "offhand",
     "One of: Osseous Gale Aspect Aspect of Reanimation Aspect of Grasping Veins\nBlood Getter's Aspect",
     "1. Cooldown Reduction\n2. Lucky Hit Chance\n3. Critical Strike Chance\n4. Maximum Minion Life\n5. Lucky Hit Chance while You Have a Barrier\n6. All Stats"
   ],

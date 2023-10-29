@@ -10,7 +10,7 @@
     "Weapon Type: Axe\n1. High Damage per Second\n2. Damage to Close Enemies\n3. Damage to Distant Enemies\n4. Willpower\n5. All Stats\n6. Core Skill Damage\n7. Vulnerable Damage"
   ],
   [
-    "Off-Hand",
+    "offhand",
     "One of: Stormchaser's Rampaging Werebeast Accelerating Retaliation\nNighthowler's",
     "1. High Damage per Second\n2. Cooldown Reduction\n3. Critical Strike Chance\n4. Lucky Hit Chance\n5. Damage Reduction against Poisoned Enemies\n6. Damage Reduction while Fortified"
   ],

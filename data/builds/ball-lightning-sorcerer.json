@@ -10,7 +10,7 @@
     "Weapon Type: Dagger\n1. High Damage Per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close Enemies\n5. Mastery Skill Damage\n6. Critical Strike Damage"
   ],
   [
-    "Off-Hand",
+    "offhand",
     "one of: Gravitational Storm Swell Conceited\nControl",
     "1. Cooldown Reduction\n2. High Damage Per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource"
   ],
