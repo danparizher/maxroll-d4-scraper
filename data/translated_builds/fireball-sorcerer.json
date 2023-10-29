@@ -19,27 +19,27 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand\n(Optional)"
+      "Type": "offhand"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Off-Hand\n(Optional)"
+      "Type": "offhand"
     },
     {
       "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "Off-Hand\n(Optional)"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Off-Hand\n(Optional)"
+      "Type": "offhand"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Off-Hand\n(Optional)"
+      "Type": "offhand"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Off-Hand\n(Optional)"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",

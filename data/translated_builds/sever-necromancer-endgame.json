@@ -23,23 +23,23 @@
     },
     {
       "Id": "Luck",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "Luck_With_Barrier",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "DamageReduction_ShadowDoT",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "Armor",

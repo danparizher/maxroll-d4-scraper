@@ -23,23 +23,23 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "AttackSpeed_Basics",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Luck",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",

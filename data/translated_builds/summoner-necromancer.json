@@ -31,27 +31,27 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Luck",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "PetHealth_Necro",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Luck_With_Barrier",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Life",

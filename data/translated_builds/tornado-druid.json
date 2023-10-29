@@ -27,23 +27,23 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Luck",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "DamageReduction_Poisoned",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",

@@ -23,27 +23,27 @@
     },
     {
       "Id": "Life",
-      "Type": "Off-Hand\n(Shield)"
+      "Type": "offhand"
     },
     {
       "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "Off-Hand\n(Shield)"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand\n(Shield)"
+      "Type": "offhand"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Off-Hand\n(Shield)"
+      "Type": "offhand"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Off-Hand\n(Shield)"
+      "Type": "offhand"
     },
     {
       "Id": "Luck",
-      "Type": "Off-Hand\n(Shield)"
+      "Type": "offhand"
     },
     {
       "Id": "Life",

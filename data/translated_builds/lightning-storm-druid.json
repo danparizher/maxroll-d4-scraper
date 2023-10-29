@@ -31,27 +31,27 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "DamageReduction_Poisoned",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Luck",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Damage_While_Shapeshifted",

@@ -23,23 +23,23 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Off-Hand"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",

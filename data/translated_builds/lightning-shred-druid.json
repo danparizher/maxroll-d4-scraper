@@ -51,31 +51,31 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "DamageReduction_Poisoned",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "Resource_Cost_Reduction_Druid",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "FortifyBonus",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",

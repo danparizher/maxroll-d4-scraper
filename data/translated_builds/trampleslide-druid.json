@@ -31,31 +31,31 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "DamageReduction_Poisoned",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "AttackSpeed_Basics",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "Luck",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "Barrier_Strength_Percent",
-      "Type": "Off-hand\n(Totem)"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",

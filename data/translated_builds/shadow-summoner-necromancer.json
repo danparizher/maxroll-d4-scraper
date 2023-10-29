@@ -23,19 +23,19 @@
     },
     {
       "Id": "Luck",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "Luck_With_Barrier",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "PetHealth_Necro",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Off-Hand\n(Focus)"
+      "Type": "offhand"
     },
     {
       "Id": "Armor",

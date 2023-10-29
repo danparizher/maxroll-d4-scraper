@@ -71,23 +71,23 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Totem\n(Off-Hand)"
+      "Type": "offhand"
     },
     {
       "Id": "CritChance",
-      "Type": "Totem\n(Off-Hand)"
+      "Type": "offhand"
     },
     {
       "Id": "Luck",
-      "Type": "Totem\n(Off-Hand)"
+      "Type": "offhand"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Totem\n(Off-Hand)"
+      "Type": "offhand"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "Totem\n(Off-Hand)"
+      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",
