@@ -106,10 +106,6 @@
       "Type": "helm"
     },
     {
-      "Id": "Resistance_All",
-      "Type": "helm"
-    },
-    {
       "Id": "CD_Reduction",
       "Type": "helm"
     },
@@ -126,7 +122,23 @@
       "Type": "helm"
     },
     {
-      "Id": "Resistance_All",
+      "Id": "Resistance_Single_Fire",
+      "Type": "chest"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "chest"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "chest"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "chest"
+    },
+    {
+      "Id": "Resistance_Single_Shadow",
       "Type": "chest"
     },
     {
@@ -174,7 +186,23 @@
       "Type": "gloves"
     },
     {
-      "Id": "Resistance_All",
+      "Id": "Resistance_Single_Fire",
+      "Type": "pants"
+    },
+    {
+      "Id": "Resistance_Single_Frost",
+      "Type": "pants"
+    },
+    {
+      "Id": "Resistance_Single_Lightning",
+      "Type": "pants"
+    },
+    {
+      "Id": "Resistance_Single_Poison",
+      "Type": "pants"
+    },
+    {
+      "Id": "Resistance_Single_Shadow",
       "Type": "pants"
     },
     {

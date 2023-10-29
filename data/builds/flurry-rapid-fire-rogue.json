@@ -22,12 +22,12 @@
   [
     "helm",
     "One of: Might\nCheat's",
-    "1.  Any Resistance\n2.  Any Resistance (with Penitent Greaves)\n3. Cooldown Reduction\n4. % Total Armor\n5. Maximum Life\n6. Ranks to Shadow Imbuement\nSocket Royal Ruby"
+    "1.  Any Resistance\n2.  Any Resistance \n3. Cooldown Reduction\n4. % Total Armor\n5. Maximum Life\n6. Ranks to Shadow Imbuement\nSocket Royal Ruby"
   ],
   [
     "chest",
     "One of: Mangler's\nShared Misery",
-    "1.  Any Resistance (with Penitent Greaves)\n2. % Total Armor\n3. Damage Reduction\n4. Close Damage Reduction\n5. Distant Damage Reduction\n5. Maximum Life\nSockets Royal Ruby"
+    "1.  Any Resistance \n2. % Total Armor\n3. Damage Reduction\n4. Close Damage Reduction\n5. Distant Damage Reduction\n5. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "gloves",
@@ -37,7 +37,7 @@
   [
     "pants",
     "One of: Might\nCheat's",
-    "Implicit: Potion Grants Barrier\n1.  Any Resistance (with Penitent Greaves)\n2. % Total Armor\n3. Damage Reduction\n4. Close Damage Reduction\n5. Distant Damage Reduction\n5. Maximum Life\nSockets Royal Ruby"
+    "Implicit: Potion Grants Barrier\n1.  Any Resistance \n2. % Total Armor\n3. Damage Reduction\n4. Close Damage Reduction\n5. Distant Damage Reduction\n5. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "boots",

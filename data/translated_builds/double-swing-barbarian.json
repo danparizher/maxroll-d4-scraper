@@ -286,6 +286,10 @@
       "Type": "ring"
     },
     {
+      "Id": "Resource_MaxFury",
+      "Type": "ring"
+    },
+    {
       "Id": "CritChance",
       "Type": "ring"
     },

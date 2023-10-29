@@ -40,14 +40,15 @@ class Cleaner:
                     data = json.load(f)
                 # Skip the first row (header)
                 new_data = [data[0]]  # Keep the header in the new data
-                new_data += [
-                    row
-                    for row in data[1:]
-                    if len(row) > 1
-                    and all(unique not in row[0] for unique in self.uniques)
-                    and "unique" not in row[0].lower()
-                    and not re.search(r"best[-\s]in[-\s]slot", row[0].lower())
-                ]
+                for row in data[1:]:
+                    if (
+                        len(row) > 1
+                        and "unique" not in row[0].lower()
+                        and not re.search(r"best[-\s]in[-\s]slot", row[0].lower())
+                    ):
+                        for unique in self.uniques:
+                            row[2] = row[2].replace(f"(with {unique})", "")
+                        new_data.append(row)
                 with file.open("w") as f:
                     json.dump(new_data, f, indent=2)
         logging.info("All files cleaned.")
