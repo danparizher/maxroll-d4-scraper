@@ -137,43 +137,43 @@ class Translator:
                 if not re_match:
                     continue
 
-                stat = re_match[1]
+                affix = re_match[1]
 
                 # skip stats that create errors
                 if any(
-                    self.clean_plaintext(stat) == self.clean_plaintext(skip_stat)
+                    self.clean_plaintext(affix) == self.clean_plaintext(skip_stat)
                     for skip_stat in SKIP_STATS
                 ):
                     continue
 
                 # map general resistance stats to all 5 resistances
-                if self.clean_plaintext(stat) in {
+                if self.clean_plaintext(affix) in {
                     self.clean_plaintext("any resistance").strip().lower(),
                     self.clean_plaintext("resists").strip().lower(),
                     self.clean_plaintext("single resistance").strip().lower(),
                 }:
-                    stat = "fire / cold / lightning / poison / shadow resistance"
+                    affix = "fire / cold / lightning / poison / shadow resistance"
 
                 is_resistance = (
-                    stat.endswith("resistance")
+                    affix.endswith("resistance")
                     or sum(
-                        r in stat
+                        r in affix
                         for r in ("fire", "cold", "lightning", "poison", "shadow")
                     )
                     >= 3
                 )
                 # split multi-stats
-                multi_stats = stat.split("/" if "/" in stat else ",")
+                multi_stats = affix.split("/" if "/" in affix else ",")
                 for multi_stat in multi_stats:
                     if is_resistance and not multi_stat.endswith("resistance"):
                         multi_stat += " resistance"
 
                     stats.setdefault(multi_stat, None)
 
-            for stat in stats:
+            for affix in stats:
                 output["ItemAffixes"].append(
                     {
-                        "Id": self.map_plaintext_to_id(stat, self.affix_map),
+                        "Id": self.map_plaintext_to_id(affix, self.affix_map),
                         "Type": gear_type,
                     },
                 )
