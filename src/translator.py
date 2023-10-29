@@ -43,8 +43,18 @@ class Translator:
         with (Path("data") / "uniques.json").open("r") as f:
             self.uniques = json.load(f)
 
-    def clean_plaintext(self, plaintext: str) -> str:
-        """Clean a plaintext stat."""
+    def clean_aspect(self, plaintext: str) -> str:
+        """Clean a plaintext aspect."""
+        # Compile regular expressions
+        # pattern1 = split on spaces and process each word individually, and remove everything before ":". Example:
+        # "one of: control gravitational conceited storm swell" -> "control gravitational conceited storm swell"
+        pattern1 = re.compile(r"(?:.*?:\s*)?(.+)")
+
+        cleaned = pattern1.sub(" ", plaintext.strip().lower())
+        return cleaned.strip().lower()
+
+    def clean_affix(self, plaintext: str) -> str:
+        """Clean a plaintext affix."""
         # Compile regular expressions
         pattern1 = re.compile(r"[^a-z\s]")  # remove non-alphabetic characters
         pattern2 = re.compile(r"\(.*?\)")  # remove parentheses and their contents
@@ -70,36 +80,66 @@ class Translator:
 
         return cleaned.strip().lower()
 
-    def map_plaintext_to_id(
-        self: Translator,
-        plaintext: str,
-        map_to_use: dict[str, str],
-    ) -> str:
-        """Map a plaintext stat or aspect to an ID."""
+    def map_aspect_to_id(self: Translator, plaintext: str) -> str:
+        """Map a plaintext stat to a stat ID."""
         # check for exact matches
-        for item, src_plaintext in map_to_use.items():
-            if self.clean_plaintext(src_plaintext) == self.clean_plaintext(plaintext):
-                return item
+        for aspect_id, src_plaintext in self.aspect_map.items():
+            if self.clean_aspect(src_plaintext) == self.clean_aspect(plaintext):
+                return aspect_id
 
         # check for fuzzy matches
         best_match_id = None
         best_match_ratio = None
-        for item, src_plaintext in map_to_use.items():
+        for aspect_id, src_plaintext in self.aspect_map.items():
             ratio = fuzz.token_sort_ratio(
-                self.clean_plaintext(src_plaintext),
-                self.clean_plaintext(plaintext),
+                self.clean_aspect(src_plaintext),
+                self.clean_aspect(plaintext),
             )
 
             if not best_match_ratio or ratio > best_match_ratio:
                 best_match_ratio = ratio
-                best_match_id = item
+                best_match_id = aspect_id
 
         if best_match_ratio and best_match_ratio > 60:
             assert best_match_id is not None
 
             if best_match_ratio < 80:
                 print(
-                    f"Warning: used low fidelity fuzzy match: {best_match_ratio}% {plaintext!r} -> {map_to_use[best_match_id]!r}",
+                    f"Warning: used low fidelity fuzzy match: {best_match_ratio}% {plaintext!r} -> {self.aspect_map[best_match_id]!r}",
+                )
+
+            return best_match_id
+
+        # no matches - cry
+        msg = f"Failed to find a match for {plaintext} - fuzzy matched {best_match_id} with ratio {best_match_ratio}%"
+        raise Exception(msg)  # noqa
+
+    def map_affix_to_id(self: Translator, plaintext: str) -> str:
+        """Map a plaintext stat to a stat ID."""
+        # check for exact matches
+        for affix_id, src_plaintext in self.affix_map.items():
+            if self.clean_affix(src_plaintext) == self.clean_affix(plaintext):
+                return affix_id
+
+        # check for fuzzy matches
+        best_match_id = None
+        best_match_ratio = None
+        for affix_id, src_plaintext in self.affix_map.items():
+            ratio = fuzz.token_sort_ratio(
+                self.clean_affix(src_plaintext),
+                self.clean_affix(plaintext),
+            )
+
+            if not best_match_ratio or ratio > best_match_ratio:
+                best_match_ratio = ratio
+                best_match_id = affix_id
+
+        if best_match_ratio and best_match_ratio > 60:
+            assert best_match_id is not None
+
+            if best_match_ratio < 80:
+                print(
+                    f"Warning: used low fidelity fuzzy match: {best_match_ratio}% {plaintext!r} -> {self.affix_map[best_match_id]!r}",
                 )
 
             return best_match_id
@@ -125,9 +165,20 @@ class Translator:
 
         print(f"FILE: {build_name}.json")
         for gear_type, aspects, stat_numbered_list in rows:
-            stats = {}
+            affixes = {}
 
             # parse aspects
+            # for aspect in aspects.splitlines():
+            #     cleaned_aspect = self.clean_aspect(aspect)
+            #     aspect_id = self.map_aspect_to_id(cleaned_aspect)
+            #     output["ItemAspects"].append(
+            #         {
+            #             "Id": aspect_id,
+            #             "Type": gear_type,
+            #         },
+            #     )
+
+            # parse affixes
             for stat_numbered in stat_numbered_list.splitlines():
                 re_match = re.search(
                     r"^[\d/\.\s]*\d[\d/\.\s]*[\.:]\s*(.*?)\s*(?:\(as\s*needed\))?(?:\(if\s*necessary\))?\s*$",
@@ -140,16 +191,16 @@ class Translator:
 
                 # skip stats that create errors
                 if any(
-                    self.clean_plaintext(affix) == self.clean_plaintext(skip_stat)
+                    self.clean_affix(affix) == self.clean_affix(skip_stat)
                     for skip_stat in SKIP_STATS
                 ):
                     continue
 
                 # map general resistance stats to all 5 resistances
-                if self.clean_plaintext(affix) in {
-                    self.clean_plaintext("any resistance").strip().lower(),
-                    self.clean_plaintext("resists").strip().lower(),
-                    self.clean_plaintext("single resistance").strip().lower(),
+                if self.clean_affix(affix) in {
+                    self.clean_affix("any resistance").strip().lower(),
+                    self.clean_affix("resists").strip().lower(),
+                    self.clean_affix("single resistance").strip().lower(),
                 }:
                     affix = "fire / cold / lightning / poison / shadow resistance"
 
@@ -167,23 +218,15 @@ class Translator:
                     if is_resistance and not multi_stat.endswith("resistance"):
                         multi_stat += " resistance"
 
-                    stats.setdefault(multi_stat, None)
+                    affixes.setdefault(multi_stat, None)
 
-            for affix in stats:
+            for affix in affixes:
                 output["ItemAffixes"].append(
                     {
-                        "Id": self.map_plaintext_to_id(affix, self.affix_map),
+                        "Id": self.map_affix_to_id(affix),
                         "Type": gear_type,
                     },
                 )
-
-            # for aspect in aspects.splitlines():
-            #     output["ItemAspects"].append(
-            #         {
-            #             "Id": self.map_plaintext_to_id(aspect, self.aspect_map),
-            #             "Type": gear_type,
-            #         },
-            #     )
 
         return output
 
