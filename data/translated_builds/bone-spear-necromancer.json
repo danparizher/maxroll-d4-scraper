@@ -3,175 +3,175 @@
   "ItemAffixes": [
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage_With_Bone",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_Spenders",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritChance",
-      "Type": "Offhand"
+      "Type": "offhand"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Offhand"
+      "Type": "offhand"
     },
     {
       "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "Offhand"
+      "Type": "offhand"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Offhand"
+      "Type": "offhand"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "SkillRankBonus_Necro_Core_1",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritChance",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritDamage_With_Bone",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Life",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Frost",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Poison",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Armor",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Necro_Summoning_T1_N2_Evulsion",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Resource_MaxEssence",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Resource_MaxEssence",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

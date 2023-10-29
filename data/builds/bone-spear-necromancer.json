@@ -5,52 +5,52 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "Offensive Aspect of Serration on a One-Handed Sword",
     "*Weapon Damage\n1. Vulnerable Damage\n2. Critical Strike Damage\n3. Critical Strike Damage with Bone Skills\n4. Core Skill Damage"
   ],
   [
-    "Offhand",
+    "offhand",
     "Edgemaster\u2019s Aspect",
     "*Weapon Damage\n1. Critical Strike Chance\n2. Lucky Hit: Chance to Resource Primary Resource\n3. Essence Cost Reduction\n4. Damage Reduction while Fortified"
   ],
   [
-    "Helm",
+    "helm",
     "Deathless Visage",
     ""
   ],
   [
-    "Chest",
+    "chest",
     "Aspect of Disobedience",
     "1. Damage Reduction\n2. % Total Armor\n3. Maximum Life\n4. Damage Reduction from Distant Enemies"
   ],
   [
-    "Gloves",
+    "gloves",
     "Splintering Offensive Aspect",
     "1. +Ranks to Bone Spear\n2. Critical Strike Chance\n3. Critical Strike Chance with Bone Skills\n4. Lucky Hit: Up to 5% Chance to Restore Primary Resource\n5. Attack Speed"
   ],
   [
-    "Pants",
+    "pants",
     "Defensive Aspect of Shielding Storm",
     "Implicit: Potion Restores Essence\n1. Damage Reduction\n2. Maximum Life\n3. Damage Reduction while Fortified\n4. Total Armor\n5. Intelligence\n6. All Stats"
   ],
   [
-    "Boots",
+    "boots",
     "(BiS) Wind Striker Mobility Aspect",
     "Implicit: Movement Speed after Evade\n1. Movement Speed\n2. Single Resistance\n3. Single Resistance\n4. Single Resistance\n5. Essence Cost Reduction\n6. Intelligence\nBoots is one of the best slots to maximize your Resistances! If you're already max, you can swap into other stats."
   ],
   [
-    "Amulet",
+    "amulet",
     "Offensive Aspect of Grasping Veins",
     "1. Movement Speed\n2. Essence Cost Reduction\n3. Total Armor\n4. +Ranks to Evulsion\n*5. Damage Reduction (Hardcore)"
   ],
   [
-    "Ring",
+    "ring",
     "Sacrificial Aspect",
     "1. Critical Strike Chance\n2. Vulnerable Damage\n3. Critical Strike Damage\n4. Maximum Essence\n*5. Maximum Life (Hardcore)"
   ],
   [
-    "Ring",
+    "ring",
     "Resource Aspect of Exposed Flesh",
     "1. Critical Strike Chance\n2. Vulnerable Damage\n3. Critical Strike Damage\n4. Maximum Essence\n*5. Maximum Life (Hardcore)"
   ]

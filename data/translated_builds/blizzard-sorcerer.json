@@ -3,23 +3,23 @@
   "ItemAffixes": [
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Chilled",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CD_Reduction",
@@ -47,195 +47,195 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resource_MaxMana",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Life",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CC_Duration",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "CritChance",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "SkillRankBonus_Sorc_Core_2",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritChance_To_LowLife",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Life",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Evade_Charges",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Evade_Attack_Reset",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "SkillRankBonus_Sorc_Special_FrostNova",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "SkillRankBonus_Sorc_Special_Teleport",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Sorc_Fire_T2_N3_DevouringFlames",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Sorc_01_Hoarfrost",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Sorc_Cold_T2_N2_Permafrost",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "SkillRankBonus_Generic_Category_Defensive",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_Type_Bonus_Cold",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_Type_Bonus_Cold",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

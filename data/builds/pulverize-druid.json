@@ -5,12 +5,12 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "Shockwave",
     "1. High Damage per Second\n2. Willpower\n3. All Stats\n3. Damage to Crowd Controlled Enemies\n5. Core Skill Damage\n6. Damage to Close Enemies\n7. Vulnerable Damage\n8. Damage to Slowed Enemies\n9. Critical Strike Damage\n10. Critical Strike Damage with Earth Skills"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Retaliation\nAccelerating",
     "1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Core Skill Damage\n5. Damage to Close Enemies\n6. Vulnerable Damage\n7. Damage to Slowed Enemies\n8. Critical Strike Damage\n9. Critical Strike Damage with Earth Skills"
   ],
@@ -20,47 +20,47 @@
     "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Damage Reduction while Fortified\n5. Willpower"
   ],
   [
-    "Helm",
+    "helm",
     "Mending Stone",
     "1. Cooldown Reduction\n2. Maximum Life\n3. Single Resistance\n4. Single Resistance\n5. % Total Armor\n6. Basic Skill Attack Speed\n7. Willpower\n8. All Stats"
   ],
   [
-    "Chest",
+    "chest",
     "Quicksand (Speedfarm) or\nMight (Early Endgame)",
     "1. Damage Reduction while Fortified\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. % Total Armor\n6. Maximum Life\n7. Willpower"
   ],
   [
-    "Gloves",
+    "gloves",
     "One of: Ursine Horror\nRampaging Werebeast",
     "1. Ranks to Pulverize\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit Chance\n5. Willpower"
   ],
   [
-    "Pants",
+    "pants",
     "Disobedience(Endgame) or\nMight (Early Endgame)",
     "Implicit: Potion Grants Barrier\n1. Damage Reduction while Fortified\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. % Total Armor while in Werebear Form\n5. % Total Armor\n6. Maximum Life"
   ],
   [
-    "Boots",
+    "boots",
     "Quicksand or\nGhostwalker Aspect",
     "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Movement Speed after killing an Elite\n3. Spirit Cost Reduction\n4. Willpower\n5. Resists (as needed)"
   ],
   [
-    "Boots",
+    "boots",
     "Quicksand",
     "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Spirit Cost Reduction\n3. Dodge Chance\n4. Willpower\n5. Resists (as needed)\n6. Dodge Chance Against Distant Enemies"
   ],
   [
-    "Amulet",
+    "amulet",
     "Retaliation (2-Handed) or\nShockwave (1-Handed)",
     "1. Cooldown Reduction\n2. Spirit Cost Reduction\n3. Movement Speed\n4. Ranks to Crushing Earth\n5. Ranks to Nature's Reach\n6. Damage Reduction while Fortified\n7. Damage Reduction from Close Enemies\n8. Damage Reduction from Distant Enemies"
   ],
   [
-    "Ring",
+    "ring",
     "One of: Ursine Horror\nRampaging Werebeast",
     "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills\n9. Damage to Crowd Controlled Enemies\n*"
   ],
   [
-    "Ring",
+    "ring",
     "Umbral",
     "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills\n9. Damage to Crowd Controlled Enemies\n*"
   ]

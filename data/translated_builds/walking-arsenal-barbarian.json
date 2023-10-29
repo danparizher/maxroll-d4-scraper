@@ -3,319 +3,319 @@
   "ItemAffixes": [
     {
       "Id": "Berserk_Damage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "SkillRankBonus_Barb_Special_DeathBlow",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Frost",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Lightning",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Poison",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Life",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction_Bleeding",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "SkillRankBonus_Barb_Core_4_Slot01",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritChance",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Luck",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction_Bleeding",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Life",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Frost",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Poison",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Berserk_Duration",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "FortifyBonus",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "PassiveRankBonus_Barb_Berserker_T2_N4_HeavyHanded",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "SkillRankBonus_Barb_Category_WeaponMastery",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Barb_03_Counteroffensive",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "FortifyBonus",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "FortifyBonus",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

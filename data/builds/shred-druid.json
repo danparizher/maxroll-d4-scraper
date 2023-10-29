@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "Aftershock",
     "Implicit: Damage To Healthy Enemies\n1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Damage to Close Enemies\n5. Damage To Poisoned Enemies\n6. Vulnerable Damage\n7. Damage over Time\n8. Critical Strike Damage\n9. Critical Strike Damage With Werewolf Skills\nSockets Royal Emerald"
   ],
@@ -15,42 +15,42 @@
     "1. Critical Strike Chance\n2. Cooldown Reduction\n3. Damage Reduction From Poisoned Enemies\n4. Lucky Hit Chance\n5. Spirit Cost Reduction\n6. Resource Generation\n7. Damage Reduction While Fortified\nSockets Royal Emerald"
   ],
   [
-    "Helm",
+    "helm",
     "Might",
     "1. +Ranks To Poison Creeper\n2. Single Resistance\n3. Cooldown Reduction\n4. Maximum Life\n5. Total Armor\n6. Willpower\nSocket Royal Ruby"
   ],
   [
-    "Chest",
+    "chest",
     "Vigorous Aspect or\nDisobedience",
     "1. Damage Reduction From Poisoned\n2. Damage Reduction While Fortified\n3. Damage Reduction From Close\n4. Damage Reduction From Distant\n5. Damage Reduction\n6. Max Life\nSockets Royal Ruby"
   ],
   [
-    "Gloves",
+    "gloves",
     "Subterranean or Trampled Earth or Blurred Beast or\nAccelerating",
     "1. Critical Strike Chance\n2. Lucky Hit\n3. Attack Speed\n4. Ranks of Shred\n5. Willpower\n6. Dexterity\n7. Intelligence"
   ],
   [
-    "Pants",
+    "pants",
     "Vigorous Aspect or\nDisobedience",
     "1. Damage Reduction From Poisoned\n2. Damage Reduction While Fortified\n3. Damage Reduction From Close\n4. Damage Reduction From Distant\n5. Damage Reduction\n6.  Maximum Life\n7. Total Armor\nSockets Royal Ruby"
   ],
   [
-    "Boots",
+    "boots",
     "Craven",
     "Implicit: Max Evade Charges\n1. Movement Speed\n2. 2/3: Two of: Fire, Cold, Shadow, Poison\n4. Total Armor while in Werewolf Form\n5. Dodge Chance\n6. Willpower\n7. Dodge Chance Against Distant Enemies\n8. Fortify Generation"
   ],
   [
-    "Amulet",
+    "amulet",
     "Stormclaw's",
     "1. Ranks to Call of the Wild\n2. Ranks of All Companion Skills\n3. Cooldown Reduction\n4. Damage Reduction From Poisoned Enemies\n5. Ranks to Toxic Claws\n6. Ranks to Envenom\n7. Damage Reduction While Fortified\nSocket Single Resistance"
   ],
   [
-    "Ring",
+    "ring",
     "Subterranean or Trampled Earth or Blurred Beast or\nAccelerating",
     "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Damage to Poisoned Enemies\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\nSocket Single Resistance"
   ],
   [
-    "Ring",
+    "ring",
     "Subterranean or Trampled Earth or Blurred Beast or\nAccelerating",
     "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Damage to Poisoned Enemies\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\nSocket Single Resistance"
   ]

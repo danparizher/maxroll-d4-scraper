@@ -3,23 +3,23 @@
   "ItemAffixes": [
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_SorcMastery",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CD_Reduction",
@@ -47,195 +47,195 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Life",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Luck_With_Barrier",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CC_Duration",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction_Burning",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Luck",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Luck",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "SkillRankBonus_Sorc_Special_Firewall",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction_Burning",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Life",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "SkillRankBonus_Sorc_Special_Teleport",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "SkillRankBonus_Sorc_Category_Mastery",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Sorc_Fire_T1_N2_InnerFlames",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "SkillRankBonus_Generic_Category_Defensive",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "DamageReduction_Burning",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Luck",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Luck",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

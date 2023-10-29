@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "Aspect of Grasping Veins",
     "1. Overpower Damage\n2. Core Skill Damage\n3. Intelligence\n4. All Stats\n5. Damage to Close Enemies"
   ],
@@ -15,42 +15,42 @@
     "1. Maximum Life\n2. Essence Cost Reduction\n3. Cooldown Reduction\n4. Damage Reduction from Close\n5. Lucky Hit: Up to a 5% Chance to Restore xx% Primary Resource\n6. Lucky Hit Chance"
   ],
   [
-    "Helm",
+    "helm",
     "Aspect of Disobedience",
     "1. Maximum Life\n2. Total Armor\n3. Cooldown Reduction\n4. Healing Received\n5. All Stats"
   ],
   [
-    "Chest",
+    "chest",
     "Aspect of Might",
     "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Close Enemies\n4. Damage Reduction\n5. Damage Reduction from Distant Enemies"
   ],
   [
-    "Gloves",
+    "gloves",
     "Blood-bathed Aspect",
     "1. +xx Ranks to Blood Surge\n2. Overpower Damage\n3. Attack Speed\n4. Lucky Hit: Up to a 5% Chance to Restore xx% Primary Resource\n5. Critical Strike Chance\n6. Lucky Hit Chance"
   ],
   [
-    "Pants",
+    "pants",
     "Aspect of Shielding Storm OR\nTemerity",
     "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. % Total Armor\n3. Damage Reduction (Any Relevant Options)\n4. Blood Orb Healing"
   ],
   [
-    "Boots",
+    "boots",
     "Ghostwalker Mobility Aspect",
     "Implicit: Max Evade Charges\n1. Movement Speed\n2. Essence Cost Reduction\n3. +xx Ranks to Corpse Tendrils\n4. Blood Orb Healing"
   ],
   [
-    "Amulet",
+    "amulet",
     "Aspect of Rathma\u2019s Chosen",
     "1. Essence Cost Reduction\n2. +xx Ranks to Tides of Blood Passive\n3. +xx Ranks to Coalesced Blood Passive\n4. Movement Speed\n5. % Total Armor\n6. Cooldown Reduction"
   ],
   [
-    "Ring",
+    "ring",
     "Aspect of Potent Blood",
     "1. Maximum Life\n2. Overpower Damage\n3. Blood Orb Healing\n4. Critical Strike Chance\n5. Lucky Hit Chance"
   ],
   [
-    "Ring",
+    "ring",
     "Aspect of the Umbral",
     "1. Maximum Life\n2. Overpower Damage\n3. Blood Orb Healing\n4. Critical Strike Chance\n5. Lucky Hit Chance"
   ]

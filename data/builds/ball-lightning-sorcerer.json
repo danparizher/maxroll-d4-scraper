@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "one of: Gravitational Storm Swell Conceited\nControl",
     "Weapon Type: Dagger\n1. High Damage Per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close Enemies\n5. Mastery Skill Damage\n6. Critical Strike Damage"
   ],
@@ -15,42 +15,42 @@
     "1. Cooldown Reduction\n2. High Damage Per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource"
   ],
   [
-    "Helm",
+    "helm",
     "Disobedience",
     "1. Cooldown Reduction\n2. % Total Armor\n3. Maximum Life\n4. Maximum Mana\n5. Intelligence"
   ],
   [
-    "Chest",
+    "chest",
     "Unwavering",
     "1. % Total Armor\n2. Damage Reduction against Close Enemies\n3. Damage Reduction against Distant Enemies\n4.1 Damage Reduction\n4.2 Maximum Life\n6. Damage Reduction against Burning Enemies"
   ],
   [
-    "Gloves",
+    "gloves",
     "one of: Gravitational Storm Swell Conceited\nControl",
     "1. Attack Speed\n2. Critical Strike Chance\n3. Intelligence\n4. Critical Strike Chance against Injured Enemies\n5. Lucky Hit: Chance to Regain Resource"
   ],
   [
-    "Pants",
+    "pants",
     "Snowveiled",
     "1. Ranks to Ball Lightning\n2. % Total Armor\n3. Damage Reduction against Close Enemies\n4. Damage Reduction against Distant Enemies\n5. Damage Reduction\n6. Maximum Life"
   ],
   [
-    "Boots",
+    "boots",
     "Ghostwalker",
     "1. Mana Cost Reduction\n2. Implicit: Attacks Reduce Evade's Cooldown\n3. Implicit: +Max Evade Charges\n4. Movement Speed\n5. Ranks to Teleport\n6. Ranks to Frost Nova\n7. Intelligence"
   ],
   [
-    "Amulet",
+    "amulet",
     "Disobedience or\nControl",
     "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Ranks to Mastery Skills\n4. Movement Speed\n5. Ranks to Conjuration Mastery\n6. Ranks Elemental Dominance\n7. Ranks to Glass Cannon\n6. Ranks to Defensive Skills"
   ],
   [
-    "Ring",
+    "ring",
     "one of: Gravitational Storm Swell Conceited\nControl",
     "1. Resource Generation\n2. Critical Strike Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Maximum Mana"
   ],
   [
-    "Ring",
+    "ring",
     "Prodigy\u2019s\nRecharging",
     "1. Resource Generation\n2. Critical Strike Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Maximum Mana"
   ]

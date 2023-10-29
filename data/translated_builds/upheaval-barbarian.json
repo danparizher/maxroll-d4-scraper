@@ -3,223 +3,223 @@
   "ItemAffixes": [
     {
       "Id": "CoreStat_Strength",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "OverpowerDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "OverpowerDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "OverpowerDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "OverpowerDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_All",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Life",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "SkillRankBonus_Barb_Core_4_Slot01",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritChance",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionInjured",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_All",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "DamageReductionInjured",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "PassiveRankBonus_Barb_Warlord_T2_N2_BruteForce",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Barb_10_Wallop",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CC_Duration",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CoreStat_Strength",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Resource_Cost_Reduction_Barbarian",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Armor",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "OverpowerDamage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Berserk_Damage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "OverpowerDamage",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

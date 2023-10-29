@@ -5,62 +5,62 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Accelerating Edgemaster\u2019s Earthstriker's\nAdd an extra defensive Aspect on the Amulet until Overkill",
     "1. High Damage per Second\n2. Damage while Berserking\n3. Damage to Close Enemies\n4. All Stats\n5. Strength\n6. Vulnerable Damage\n7. Critical Strike Damage\nSockets Royal Skull"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Accelerating Edgemaster\u2019s\nBerserk Ripping",
     "1. Damage while Berserking\n2. Damage to Close Enemies\n3. All Stats\n4. Strength\n5. Vulnerable Damage\n6. Critical Strike Damage\nSocket Royal Skull"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Accelerating Edgemaster\u2019s\nBerserk Ripping",
     "1. Damage while Berserking\n2. Damage to Close Enemies\n3. All Stats\n4. Strength\n5. Vulnerable Damage\n6. Critical Strike Damage\nSocket Royal Skull"
   ],
   [
-    "Weapon",
+    "weapon",
     "Encroaching Wrath",
     "1. High Damage per Second\n2. Damage while Berserking\n3. Damage to Close Enemies\n4. All Stats\n5. Strength\n6. Vulnerable Damage\n7. Critical Strike Damage\nSockets Royal Skull"
   ],
   [
-    "Helm",
+    "helm",
     "One of: Iron Warrior Steadfast Berserker's\nMight",
     "1. + Ranks of Death Blow\n2. Any Resistance\n3. Cooldown Reduction\n4. % Total Armor\n5. Maximum Life\nSocket Royal Ruby"
   ],
   [
-    "Chest",
+    "chest",
     "One of: Iron Warrior Steadfast Berserker's\nMight",
     "1. % Total Armor\n2. Damage Reduction\n2. Damage Reduction from Close Enemies\n3. Damage Reduction\n4. Damage Reduction while Fortified\n6. Damage Reduction from Distant Enemies\n5. Damage Reduction from Enemies That Are Bleeding\n6. % Total Armor\n7. Maximum Life\nSockets Royal Ruby"
   ],
   [
-    "Gloves",
+    "gloves",
     "Weapon Master's",
     "1. + Ranks of Upheaval\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit Chance\n5. Strength\n6. All Stats"
   ],
   [
-    "Pants",
+    "pants",
     "One of: Iron Warrior Steadfast Berserker's\nMight",
     "1. % Total Armor\n2. Damage Reduction\n2. Damage Reduction from Close Enemies\n3. Damage Reduction\n4. Damage Reduction while Fortified\n6. Damage Reduction from Distant Enemies\n5. Damage Reduction from Enemies That Are Bleeding\n6. % Total Armor\n7. Maximum Life\nSockets Royal Ruby"
   ],
   [
-    "Boots",
+    "boots",
     "Ghostwalker",
     "Implicit: Maximum Evade Charges\n1. Movement Speed\n2. Any Resistance\n3. Any Resistance\n4. Any Resistance\n5. Movement Speed on Elite Kill\n6. Berserking Duration\n7. Fortify Generation"
   ],
   [
-    "Amulet",
+    "amulet",
     "Earthstriker's",
     "1. + Ranks of the Heavy Handed Passive\n*\n2. Movement Speed\n3. Cooldown Reduction\n4. + Ranks of All Weapon Mastery Skills\n5. + Ranks of the Counteroffensive Passive\n*\n6. Damage Reduction\nSocket any Gem to cap Resistances or Royal Skull if capped\n*\nCan't appear on the same item together"
   ],
   [
-    "Ring",
+    "ring",
     "Berserk Fury",
     "1. Damage while Berserking\n2. Fortify Generation\n3. Critical Strike Chance\n4. Maximum Life\n5. Damage to Close Enemies\n6. Vulnerable Damage\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
-    "Ring",
+    "ring",
     "One of: Accelerating Edgemaster\u2019s\nBerserk Ripping",
     "1. Damage while Berserking\n2. Fortify Generation\n3. Critical Strike Chance\n4. Maximum Life\n5. Damage to Close Enemies\n6. Vulnerable Damage\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ]

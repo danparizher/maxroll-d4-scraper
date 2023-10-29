@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "Offensive Aspect of Ultimate Shadow",
     "1. High Damage per Second\n2. Damage to Close Enemies\n3. Intelligence\n4. All Stats\n5. Damage to Affected by Shadow Damage Over Time Enemies\n6. Damage over Time"
   ],
@@ -15,42 +15,42 @@
     "1. High Damage per Second\n2. Lucky Hit Chance\n3. Lucky Hit Chance while You Have a Barrier\n4. Cooldown Reduction\n5. Critical Strike Chance\n6. Intelligence\n7. All Stats"
   ],
   [
-    "Helm",
+    "helm",
     "Utility Aspect of Explosive Mist",
     "1. Total Armor\n2. Maximum Life\n3. Lucky Hit Chance while You Have a Barrier\n4. Cooldown Reduction\n5. Intelligence\n6. All Stats"
   ],
   [
-    "Chest",
+    "chest",
     "Aspect of Disobedience",
     "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Affected by Shadow Damage Over Time Enemies\n4. Damage Reduction against Close Enemies\n6. Damage Reduction"
   ],
   [
-    "Gloves",
+    "gloves",
     "Aspect of Shared Misery OR Howl from Below\n(BIS)",
     "1. Lucky Hit Chance\n2. Critical Strike Chance\n3. Shadow Damage over Time\n5. Intelligence\n6. Attack Speed"
   ],
   [
-    "Pants",
+    "pants",
     "Defensive Aspect of Shielding Storm",
     "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. +xx Ranks to Corpse Explosion\n3. Damage Reduction from Affected by Shadow Damage Over Time Enemies\n4. Damage Reduction from Close Enemies\n5. +xx Ranks to Blood Mist\n6. Intelligence"
   ],
   [
-    "Boots",
+    "boots",
     "Ghostwalker Mobility Aspect OR Greaves of the Empty Tomb\n(Extra Lucky Hit Option)",
     "Implicit: + to Max Evade Charges\n1. Movement Speed\n2. +xx Ranks to Corpse Tendrils\n3. Intelligence\n4. All Stats"
   ],
   [
-    "Amulet",
+    "amulet",
     "Blighted Offensive Aspect",
     "1. Movement Speed\n2. Cooldown Reduction\n3. +xx Ranks to Gloom Passive\n4. +xx Ranks to Corpse Skills\n5. Damage Reduction from Affected by Shadow Damage Over Time Enemie\n6. Shadow Damage Over Time"
   ],
   [
-    "Ring",
+    "ring",
     "Aspect of Grasping Veins",
     "1. Lucky Hit Chance\n2. Critical Strike Chance\n3. Damage to Close Enmies\n4. Maximum Life\n5. Shadow Damage"
   ],
   [
-    "Ring",
+    "ring",
     "Offensive Aspect of Decay",
     "1. Lucky Hit Chance\n2. Critical Strike Chance\n3. Damage to Close Enmies\n4. Maximum Life\n5. Shadow Damage"
   ]

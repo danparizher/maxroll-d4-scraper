@@ -3,187 +3,187 @@
   "ItemAffixes": [
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage_With_Bone",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Resource_MaxEssence",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Life",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "CritChance",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritDamage_With_Bone",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Lucky_Hit_Resource",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Life",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "SkillRankBonus_Necro_Special_BloodMist",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "SkillRankBonus_Necro_Special_BoneSpirit",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "SkillRankBonus_Necro_Special_CorpseTendrils",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CoreStat_Intelligence",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_All",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "SkillRankBonus_Necro_Category_Macabre",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Necro_Summoning_T1_N2_Evulsion",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Resource_MaxEssence",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Luck",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Resource_MaxEssence",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Luck",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

@@ -5,7 +5,7 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Storm Swell Aspect Conceited Aspect Accelerating Aspect Elementalist's Aspect Aspect of Retribution Aspect of Control\nAspect of the Unbroken Tether",
     "Weapon Type: Dagger (Implicit: Damage to Close Enemies)\n1. Intelligence\n2. Critical Strike Damage\n3. Vulnerable Damage\n4. Lightning Critical Strike Damage\n5. Core Skill Damage\n6. Damage to Burning Enemies\n7. Damage to Crowd Controlled Enemies\n8. Damage to Close Enemies\n9. All Stats"
   ],
@@ -15,42 +15,42 @@
     "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Resource Generation\n4. Damage Reduction from Enemies That Are Burning\n5. Mana Cost Reduction\n6. Intelligence"
   ],
   [
-    "Helm",
+    "helm",
     "One of: Aspect of Disobedience Frostblitz Aspect\nMage-Lord's Aspect",
     "1. Cooldown Reduction\n2. Intelligence\n3. Maximum Life\n4. Maximum Mana\n5. % Total Armor\n6. All Stats\n7. Crowd Control Duration"
   ],
   [
-    "Chest",
+    "chest",
     "Raiment of the Infinite",
     "1. After using Teleport, Close enemies are Pulled to you and Stunned for 2-3 Seconds, but Teleport's Cooldown is increased by 20%\n2. Damage to Close Enemies\n3. Damage to Stunned Enemies\n4. Rank of Glass Cannon\n5. Intelligence"
   ],
   [
-    "Gloves",
+    "gloves",
     "One of: Accelerating Aspect Conceited Aspect Storm Swell Aspect Aspect of Retribution Elementalist's Aspect Aspect of Control\nAspect of the Unbroken Tether",
     "1. Ranks of Chain Lightning\n2. Critical Strike Chance\n3. Attack Speed\n4. Lightning Critical Strike Damage\n5. All Stats\n6. Intelligence"
   ],
   [
-    "Pants",
+    "pants",
     "One of: Frostblitz Aspect Aspect of Disobedience\nMage-Lord's Aspect",
     "Implicit: Potion Grants Barrier\n1. % Total Armor\n2. Damage Reduction from Close Enemies\n3. Maximum Life\n4. Damage Reduction from Enemies That Are Burning\n5. Damage Reduction\n6. Dodge Chance"
   ],
   [
-    "Boots",
+    "boots",
     "One of: Aspect of Binding Embers Aspect of the Bounding Conduit Ghostwalker Aspect Aspect of Audacity\nEsu's Heirloom",
     "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Ranks of Frost Nova\n3. Ranks of Teleport\n4. Mana Cost Reduction\n5. Dodge Chance\n6. All Stats\n7. Intelligence"
   ],
   [
-    "Amulet",
+    "amulet",
     "One of: Aspect of the Unbroken Tether\nElementalist's Aspect",
     "1. Cooldown Reduction\n2. Ranks of All Defensive Skills\n3. Ranks of Devouring Blaze\n*\n4. Ranks of Glass Cannon\n*\n5. Ranks of Hoarfrost\n*\n6. Ranks of Elemental Dominance\n*\n7. Mana Cost Reduction\n8. Movement Speed\n9. Total Armor\n10. Damage Reduction\n11. Damage Reduction from Distant Enemies\n12. Shock Skill Damage\n* These stats cannot spawn\ntogether on the same Amulet"
   ],
   [
-    "Ring",
+    "ring",
     "Recharging Aspect",
     "1. Critical Strike Damage\n2. Lightning Critical Strike Damage\n3. Critical Strike Chance\n4. Maximum Life\n5. Vulnerable Damage\n6. Damage to Close Enemies\n7. Damage to Crowd Controlled Enemies\n8. Damage to Stunned Enemies\n9. Lightning Damage\n10. Maximum Mana\n11. Resource Generation"
   ],
   [
-    "Ring",
+    "ring",
     "One of: Elementalist's Aspect Conceited Aspect Storm Swell Aspect Aspect of Retribution Accelerating Aspect Aspect of Control\nAspect of the Unbroken Tether",
     "1. Vulnerable Damage\n2. Resource Generation\n3. Critical Strike Damage\n4. Critical Strike Chance\n5. Lightning Critical Strike Damage\n6. Maximum Life\n7. Maximum Mana\n8. Damage to Close Enemies\n9. Damage to Crowd Controlled Enemies\n10. Damage to Stunned Enemies\n11. Lightning Damage"
   ]

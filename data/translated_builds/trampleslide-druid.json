@@ -3,31 +3,31 @@
   "ItemAffixes": [
     {
       "Id": "Damage_to_CCd",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_Spenders",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Poisoned",
-      "Type": "Weapon"
+      "Type": "weapon"
     },
     {
       "Id": "CD_Reduction",
@@ -59,227 +59,227 @@
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "AttackSpeed_Basics",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Life",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CC_Duration",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Barrier_Strength_Percent",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction_Poisoned",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "SkillRankBonus_Druid_Core_1",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritChance",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritDamage_With_Earth",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction_Poisoned",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Life",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Frost",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Dodge",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "FortifyBonus",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Dodge_Ranged",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "DamageReductionInjured",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "PassiveRankBonus_Druid_15_Envenom",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "FortifyDamageReduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "DamageReduction_Poisoned",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Armor",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage_With_Earth",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_Type_Bonus_Physical",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage_With_Earth",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_Type_Bonus_Physical",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

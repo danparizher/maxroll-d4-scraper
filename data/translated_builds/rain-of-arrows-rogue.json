@@ -3,27 +3,27 @@
   "ItemAffixes": [
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "Damage_Category_Ultimate",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "Damage_Category_Spenders",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "Damage_to_CCd",
@@ -75,199 +75,199 @@
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Frost",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Lightning",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Poison",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Life",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_All",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "SkillRankBonus_Rogue_Core_1",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritChance",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Luck",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Life",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Frost",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Poison",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Dodge",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Damage_Category_Ultimate",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "SkillRankBonus_Rogue_Category_Imbuements",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritDamage",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

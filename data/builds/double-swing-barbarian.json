@@ -5,57 +5,57 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Accelerating\nLimitless Rage",
     "1. Damage while Berserking\n2. Damage to Close Enemies\n3. Damage with Core Skills\n4. Strength / All Stats\n5. Critical Strike Damage"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Retribution\nEarthquake",
     "1. High Damage per Second\n2. Damage while Berserking\n3. Damage to Close Enemies\n4. Damage with Core Skills\n5. Strength / All Stats\n6. Critical Strike Damage"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Edgemaster\u2019s\nSmiting",
     "1. High Damage per Second\n2. Damage while Berserking\n3. Damage to Close Enemies\n4. Damage with Core Skills\n5. Strength / All Stats\n6. Damage to Bleeding Enemies\n7. Critical Strike Damage"
   ],
   [
-    "Weapon",
+    "weapon",
     "One of: Accelerating\nLimitless Rage",
     "1. Damage while Berserking\n2. Damage to Close Enemies\n3. Damage with Core Skills\n4. Strength / All Stats\n5. Damage to Bleeding Enemies\n6. Critical Strike Damage"
   ],
   [
-    "Helm",
+    "helm",
     "One of: Might\nNumbing Wrath",
     "1. Cooldown Reduction\n2. Maximum Fury\n3. Damage while Berserking\n4. % Total Armor\n5. Maximum Life\n6. Strength / All Stats\n7. Resistance (as needed)\n8. Crowd Control Duration"
   ],
   [
-    "Chest",
+    "chest",
     "Audacity",
     "1. Damage Reduction from Close Enemies\n2. Damage Reduction while Fortified\n3. % Total Armor\n4. Maximum Life\n5. Damage Reduction\n6. Resistance (as needed)"
   ],
   [
-    "Gloves",
+    "gloves",
     "One of: Berserk Ripping\nExpectant",
     "1. + Ranks of Double Swing\n2. Critical Strike Chance\n3. Attack Speed\n4. Strength / All Stats\n5. Dexterity / Willpower (as needed)\n6. Lucky Hit: Up to a 5% Chance to Restore Primary Resource\n7. Critical Strike Chance Against Injured Enemies"
   ],
   [
-    "Pants",
+    "pants",
     "One of: Might\nNumbing Wrath",
     "1. Damage Reduction from Close Enemies\n2. Damage Reduction while Fortified\n3. % Total Armor\n4. Maximum Life\n5. Damage Reduction\n6. Resistance (as needed)"
   ],
   [
-    "Boots",
+    "boots",
     "Ghostwalker",
     "1. Movement Speed\n2. Cold / Lightning / Poison Resistance\n3. Cold / Lightning / Poison Resistance\n4. Cold / Lightning / Poison Resistance\n5. Resistance (as needed)\n6. Fury Cost Reduction\n7. Damage Reduction while Injured\n8. Strength / All Stats\n9. Movement Speed for 4 Seconds After Killing an Elite"
   ],
   [
-    "Amulet",
+    "amulet",
     "Disobedience",
     "1. Cooldown Reduction\n2. Fury Cost Reduction\n3. + Ranks of the Wallop Passive\n4. Movement Speed\n5. + Ranks of the Counteroffensive  Passive"
   ],
   [
-    "Ring",
+    "ring",
     "Bold Chieftain's\nEchoing Fury",
     "1. Damage while Berserking\n2. Maximum Fury (with Ramaladni's Magnum Opus)\n3. Critical Strike Chance\n4. Resource Generation\n5. Maximum Life\n6. Damage to Close Enemies\n7. Physical Damage"
   ]

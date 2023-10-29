@@ -3,23 +3,23 @@
   "ItemAffixes": [
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "Damage_Category_Spenders",
-      "Type": "Ranged"
+      "Type": "ranged"
     },
     {
       "Id": "Damage_to_CCd",
@@ -63,211 +63,211 @@
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Frost",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Lightning",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Poison",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "SkillRankBonus_Rogue_Special_ShadowImbue",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Life",
-      "Type": "Helm"
+      "Type": "helm"
     },
     {
       "Id": "Armor",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "Life",
-      "Type": "Chest"
+      "Type": "chest"
     },
     {
       "Id": "SkillRankBonus_Rogue_Core_4",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "AttackSpeed",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Lucky_Hit_Slow",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "CritChance",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Luck",
-      "Type": "Gloves"
+      "Type": "gloves"
     },
     {
       "Id": "Armor",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "DamageReductionDistant",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Life",
-      "Type": "Pants"
+      "Type": "pants"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Fire",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Frost",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Lightning",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Poison",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resource_Cost_Reduction_Rogue",
-      "Type": "Boots"
+      "Type": "boots"
     },
     {
       "Id": "Resource_Cost_Reduction_Rogue",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "CD_Reduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Rogue_Cunning_T3_N1_Exploit",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "PassiveRankBonus_Rogue_Cunning_T4_N2_Malice",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "DamageReduction",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "DamageReductionClose",
-      "Type": "Amulet"
+      "Type": "amulet"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Luck",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "ResourceGain",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "CritChance",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Life",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Ring"
+      "Type": "ring"
     },
     {
       "Id": "Luck",
-      "Type": "Ring"
+      "Type": "ring"
     }
   ],
   "ItemAspects": []

@@ -20,16 +20,16 @@ class Cleaner:
         with Path("data/uniques.json").open() as f:
             self.uniques = json.load(f)
         self.equipment_types = [
-            "Helm",
-            "Chest",
-            "Gloves",
-            "Pants",
-            "Boots",
-            "Weapon",
-            "Ranged",
-            "Offhand",
-            "Amulet",
-            "Ring",
+            "helm",
+            "chest",
+            "gloves",
+            "pants",
+            "boots",
+            "weapon",
+            "ranged",
+            "offhand",
+            "amulet",
+            "ring",
         ]
 
     def remove_unique_items(self: Cleaner) -> None:

@@ -5,12 +5,12 @@
     "STAT PRIORITY"
   ],
   [
-    "Weapon",
+    "weapon",
     "Edgemaster\u2019s",
     "Implicit: Damage To Healthy\n1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Damage to Close Enemies\n5. Core Skill Damage\n6. Damage to Poisoned\n7. Vulnerable Damage\n8. Damage to Crowd Controlled\n9. Damage to Slowed\nSocket Royal Emerald"
   ],
   [
-    "Weapon",
+    "weapon",
     "Waxing Gibbous",
     "1. High Damage per Second\n2. Critical Strike Damage\n3. Damage to Close Enemies\n4. Damage to Injured Enemies\n5. Life On Kill\nSocket Royal Emerald"
   ],
@@ -20,42 +20,42 @@
     "1. High Damage per Second\n2. Cooldown Reduction\n3. Critical Strike Chance\n4. Damage Reduction While Fortified\n5. Damage Reduction from Poisoned\n6. Spirit Cost Reduction\n7. Willpower\n8. Fortify Generation\nSocket Royal Emerald"
   ],
   [
-    "Helm",
+    "helm",
     "Dark Howl",
     "1. Cooldown Reduction\n2. % Total Armor\n3. Maximum Life\n4. Willpower\n5. Basic Attack Speed\nSocket Royal Ruby"
   ],
   [
-    "Chest",
+    "chest",
     "Vigorous or\nDisobedience",
     "1. Damage Reduction While Fortified\n2.Damage Reduction From Poisoned\n3. Damage Reduction From Close\n4.Damage Reduction From Distant\n5. Damage Reduction\n6. Willpower\n7. Maximum Life\nSockets Royal Ruby"
   ],
   [
-    "Gloves",
+    "gloves",
     "Accelerating Aspect or Dire Wolf's or Rampaging Werebeast or\nAspect of Retaliation",
     "1. Ranks of Shred\n2. Critical Strike Chance\n3. Attack Speed\n4. Willpower\n5. Storm Skill Cooldown Reduction\n6. Critical Damage with Werewolf Skills\n7. Dexterity"
   ],
   [
-    "Pants",
+    "pants",
     "Vigorous or\nDisobedience",
     "1. Damage Reduction While Fortified\n2. Damage Reduction From Poisoned\n3. Damage Reduction From Close\n4. Damage Reduction From Distant\n5. Damage Reduction\n6. Maximum Life\n7. Damage Reduction While Injured\nSockets Royal Ruby"
   ],
   [
-    "Boots",
+    "boots",
     "Stormshifter's or\nGhostwalker",
     "Implicit: Max Evade Charges\n1. Movement Speed\n2/3. Two of: Fire, Cold, Shadow, Poison Resistance\n4. Total Armor while in Werewolf Form\n5. Fortify Generation\n6. Willpower\n7. Dodge Chance"
   ],
   [
-    "Amulet",
+    "amulet",
     "Stormclaw's Aspect",
     "1. Cooldown Reduction\n2. Ranks of the Envenom Passive\n3. Spirit Cost Reduction\n4. Damage Reduction while Fortified\n5.  Damage Reduction From Poisoned\n6. Damage Reduction From Close\n7. Total Armor In Werewolf Form\n8. Damage Reduction\n9. Damage Reduction from Distant\nSocket Single Resistance"
   ],
   [
-    "Ring",
+    "ring",
     "Accelerating Aspect or Dire Wolf's or Rampaging Werebeast or\nAspect of Retaliation",
     "1. Critical Strike Chance\n2. Maximum Life\n3. Resource Generation\n4. Damage to Close Enemies\n5. Damage to Poisoned Enemies\n6. Critical Strike Damage With Werewolf Skills\n7. Critical Strike Damage\n8. Vulnerable Damage\nSocket Single Resistance"
   ],
   [
-    "Ring",
+    "ring",
     "Accelerating Aspect or Dire Wolf's or Rampaging Werebeast or\nAspect of Retaliation",
     "1. Critical Strike Chance\n2. Maximum Life\n3. Resource Generation\n4. Damage to Close Enemies\n5. Damage to Poisoned Enemies\n6. Critical Strike Damage With Werewolf Skills\n7. Critical Strike Damage\n8. Vulnerable Damage\nSocket Single Resistance"
   ]
