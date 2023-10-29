@@ -32,6 +32,6 @@ jobs:
         # overwrite all the json files in the repo if they have changed
         with:
           add: "**/*.json"
-          message: "Daily update: ${{ steps.date.outputs.date }}"
+          message: "Daily Update"
           author_name: "github-actions[bot]"
           author_email: "github-actions[bot]@users.noreply.github.com"
