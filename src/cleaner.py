@@ -16,8 +16,8 @@ logging.basicConfig(
 
 class Cleaner:
     def __init__(self: Cleaner) -> None:
-        self.builds_dir = Path("data\\builds")
-        with Path("data\\uniques.json").open() as f:
+        self.builds_dir = Path("data/builds")
+        with Path("data/uniques.json").open() as f:
             self.uniques = json.load(f)
         self.equipment_types = [
             "Helm",

@@ -73,7 +73,7 @@ class Uniques:
     def create_uniques(self: Uniques) -> None:
         """Create JSON file for the list of unique items."""
         data = self.get_uniques()
-        with Path("data\\uniques.json").open("w") as f:
+        with Path("data/uniques.json").open("w") as f:
             data.sort()
             json.dump(data, f, indent=2)
 
@@ -84,7 +84,7 @@ class AspectMap:
         self.url = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Aspects.enUS.json"
         self.aspect_map = self.create_map()
 
-        with Path("data\\aspect_map.json").open("w") as f:
+        with Path("data/aspect_map.json").open("w") as f:
             json.dump(self.aspect_map, f, indent=2)
 
     def create_map(self: AspectMap) -> dict[str, str]:
@@ -106,7 +106,7 @@ class AffixMap:
         self.url = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Affixes.enUS.json"
         self.affix_map = self.create_map()
 
-        with Path("data\\affix_map.json").open("w") as f:
+        with Path("data/affix_map.json").open("w") as f:
             json.dump(self.affix_map, f, indent=2)
 
     def create_map(self: AffixMap) -> dict[str, str]:
@@ -264,13 +264,13 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
 def compile_jsons() -> None:
     """Create JSON files for each build path and a master JSON file that contains information about all the builds."""
     # Delete all files in the builds directory
-    for file in Path("data\\builds").glob("*"):
+    for file in Path("data/builds").glob("*"):
         file.unlink()
 
     build_paths = get_all_build_paths()
     build_json = []
 
-    Path("data\\builds").mkdir(exist_ok=True)
+    Path("data/builds").mkdir(exist_ok=True)
 
     with ThreadPoolExecutor() as executor:
         future_to_path = {
@@ -286,10 +286,10 @@ def compile_jsons() -> None:
                 priorities = data
                 title = path.split("/")[-1].replace("-guide", "").replace("-build", "")
                 build_json.append({title: path})
-                with (Path("data\\builds") / f"{title}.json").open("w") as f:
+                with (Path("data/builds") / f"{title}.json").open("w") as f:
                     json.dump(priorities, f, indent=2)
 
-    with Path("data\\builds.json").open("w") as f:
+    with Path("data/builds.json").open("w") as f:
         build_json = sorted(build_json, key=lambda x: next(iter(x.keys())))
         json.dump(build_json, f, indent=2)
 
