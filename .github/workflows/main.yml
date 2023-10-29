@@ -3,6 +3,7 @@ name: Daily Data Update
 on:
   schedule:
     - cron: "0 0 * * *" # every day at midnight
+  workflow_dispatch:
 
 jobs:
   scrape_and_commit:
