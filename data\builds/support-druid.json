@@ -1,0 +1,62 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Weapon",
+    "One of: Rapid Nighthowler's Smiting Aspect\nRetribution",
+    "Weapon Type: Any 1-H\n1. Willpower\n2. All Stats\n3. Lucky Hit: Chance to Execute Injured Non-Elites\n4. Any"
+  ],
+  [
+    "Off-Hand",
+    "One of: Rapid Nighthowler's\nSmiting Aspect",
+    "1. Cooldown Reduction\n2. Crowd Control Duration\n3. Damage Reduction While Fortified\n4. Lucky Hit Chance\n5. Damage Reduction from Enemies That Are Poisoned\n6. All Stats\n7. Basic Skill Attack Speed\n8. Barrier Generation"
+  ],
+  [
+    "Helm",
+    "One of: Might Mending Stone\nCyclonic Force",
+    "1. Cooldown Reduction\n2. Crowd Control Duration\n3. Maximum Life\n4. % Total Armor\n5. Willpower\n6. All Stats\n7. Basic Skill Attack Speed\n8. Barrier Generation"
+  ],
+  [
+    "Helm",
+    "Tempest Roar",
+    "1. Damage while Shapeshifted\n2. Critical Strike Damage\n3. Maximum Spirit\n4. Poison Resistance"
+  ],
+  [
+    "Chest",
+    "One of: Might Mending Stone\nCyclonic Force",
+    "1. +Ranks to Debilitating Roar\n2. Damage Reduction from Close Enemies\n3. Damage Reduction from Distant Enemies\n4. Damage Reduction While Fortified\n5. Damage Reduction from Enemies That Are Poisoned\n6. % Total Armor\n7. Damage Reduction\n8. Maximum Life\n9. +Ranks to Cyclone Armor"
+  ],
+  [
+    "Gloves",
+    "One of: Audacity\nExploiter's",
+    "1. Attack Speed\n2. Lucky Hit Chance\n3. Willpower\n4. All Stats\n5. Critical Strike Chance\n6. Strength"
+  ],
+  [
+    "Pants",
+    "One of: Might Mending Stone\nCyclonic Force",
+    "Implicit: Potion Grants Barrier\n1.Damage Reduction from Close Enemies\n2. Damage Reduction from Distant Enemies\n3. Damage Reduction While Fortified\n4. % Total Armor\n5. Damage Reduction from Enemies That Are Poisoned\n6. Damage Reduction While Injured\n7. Damage Reduction\n8. Maximum Life\n9. Dodge Chance"
+  ],
+  [
+    "Boots",
+    "One of: Audacity Exploiter's or\nGhostwalker (Speedfarming)",
+    "Implicit: Max Evade Charges\n1. Movement Speed\n2. Willpower\n3. All Stats\n4. % Dodge Chance\n5. % Dodge Chance Against Distant Enemies\n6. Damage Reduction While Injured\n7. Total Armor while in Werewolf Form"
+  ],
+  [
+    "Amulet",
+    "Symbiotic",
+    "1. +Ranks to All Defensive Skills\n2. Cooldown Reduction\n3.Damage Reduction from Close Enemies\n4. Damage Reduction While Fortified\n5. Damage Reduction from Enemies That Are Poisoned\n6. Damage Reduction While Injured\n7. Crowd Control Duration\n8. % Total Armor"
+  ],
+  [
+    "Ring",
+    "One of: Rapid Nighthowler's\nSmiting Aspect",
+    "1. Maximum Life\n2. Barrier Generation\n3. Lucky Hit Chance\n4. Critical Strike Chance\n5. Fortify Generation"
+  ],
+  [
+    "Ring",
+    "One of: Rapid Nighthowler's\nSmiting Aspect",
+    "1. Maximum Life\n2. Barrier Generation\n3. Lucky Hit Chance\n4. Critical Strike Chance\n5. Fortify Generation"
+  ]
+]
