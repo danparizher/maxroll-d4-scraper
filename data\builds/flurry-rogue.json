@@ -1,0 +1,67 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "Ranged",
+    "Aspect of Encircling Blades",
+    "Weapon Type: Crossbow Damage doesn't matter\n1. Damage to Crowd Controlled Enemies\n2. Ultimate Skill Damage\n3. Close Damage\n4. Dexterity\n5. All Stats\n6. Core Skill Damage\nSocket\nRoyal Diamond"
+  ],
+  [
+    "Melee 1",
+    "Aspect of Pestilent Points Rapid Aspect Aspect of the Expectant\nAspect of Bursting Venoms",
+    "Weapon Type: Sword\n1. Damage to Crowd Controlled Enemies\n2. Ultimate Skill Damage\n3. Close Damage\n4. Dexterity\n5. All Stats\n6. Core Skill Damage\nSocket\nRoyal Diamond"
+  ],
+  [
+    "Melee 2\n(Regular)",
+    "Aspect of Pestilent PointsRapid Aspect Aspect of the Expectant\nAspect of Bursting Venoms",
+    "Weapon Type: Sword\n1. Damage to Crowd Controlled Enemies\n2. Ultimate Skill Damage\n3. Close Damage\n4. Dexterity\n5. All Stats\n6. Core Skill Damage\nSocket\nRoyal Diamond"
+  ],
+  [
+    "Helm",
+    "Aspect of Might Aspect of Disobedience\nCheat's Aspect",
+    "1. Cooldown Reduction\n2. Poison Imbuement\n3. Poison Resistance\n4. Armor\n5. Dexterity\nSocket\nRoyal Ruby"
+  ],
+  [
+    "Helm",
+    "Godslayer Crown",
+    "1.  PH\n2.  PH\n3.  PH\n4.  PH\nSockets\nRoyal Ruby"
+  ],
+  [
+    "Chest",
+    "Aspect of Might Aspect of Disobedience\nCheat's Aspect",
+    "1. Damage Reduction\n2. Fire Resistance\n3. Lightning Resistance\n4. Cold Resistance\n5. Distant Damage Reduction\nSockets\nRoyal Ruby"
+  ],
+  [
+    "Gloves",
+    "Aspect of Pestilent PointsRapid Aspect Aspect of the Expectant\nAspect of Bursting Venoms",
+    "1. Ranks to Flurry\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Attack Speed\n5. Dexterity"
+  ],
+  [
+    "Pants",
+    "Aspect of Might Aspect of Disobedience\nCheat's Aspect",
+    "Implicit: Potion Grants Barrier\n1. Damage Reduction\n2. Armor\n3. Maximum Life\n4. Imbuement Skill Cooldown Reduction\n5. Close Damage Reduction\nSockets\nRoyal Ruby"
+  ],
+  [
+    "Boots",
+    "Mangler's Aspect",
+    "Implicit: Movement Speed on Evade\n1. Movement Speed\n2. Damage Reduction While Injured\n3. Dodge Chance\n4. Movement Speed After Elite Kill\n5. Energy Cost Reduction\n6.  Dexterity"
+  ],
+  [
+    "Amulet",
+    "Umbrous Aspect",
+    "1.  Ranks to Weapon Mastery\n2. Cooldown Reduction\n3. Movement Speed\n4. Ranks to Imbuement Skills\n5. Damage Reduction\n6. Ranks to Exploit\n7. Ranks to Malice\nSocket Royal Amethyst"
+  ],
+  [
+    "Ring",
+    "Rapid Aspect Aspect of the Expectant Aspect of Pestilent Points\nAspect of Bursting Venoms",
+    "1. Damage to Crowd Controlled Enemies\n2. Critical Strike Chance\n3. Maximum Life\n4. Close Damage\n5. Lucky Hit Chance\n6. Critical Strike Damage\nSocket\nRoyal Amethyst"
+  ],
+  [
+    "Ring",
+    "Rapid Aspect Aspect of the Expectant Aspect of Pestilent Points\nAspect of Bursting Venoms",
+    "1. Damage to Crowd Controlled Enemies\n2. Critical Strike Chance\n3. Maximum Life\n4. Close Damage\n5. Lucky Hit Chance\n6. Critical Strike Damage\nSocket\nRoyal Skull"
+  ]
+]
