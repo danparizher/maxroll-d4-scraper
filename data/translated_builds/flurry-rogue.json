@@ -27,51 +27,51 @@
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Melee 1"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_Ultimate",
-      "Type": "Melee 1"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Melee 1"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "Melee 1"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Melee 1"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_Spenders",
-      "Type": "Melee 1"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Melee 2\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_Ultimate",
-      "Type": "Melee 2\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Melee 2\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "Melee 2\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Melee 2\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_Spenders",
-      "Type": "Melee 2\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "CD_Reduction",

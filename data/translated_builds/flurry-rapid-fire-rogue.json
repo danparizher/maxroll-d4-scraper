@@ -31,59 +31,59 @@
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Melee 1\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Melee 1\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Melee 1\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "Melee 1\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_Spenders",
-      "Type": "Melee 1\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Melee 1\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Melee 1\n(Regular)"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_CCd",
-      "Type": "Melee 2"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Near",
-      "Type": "Melee 2"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "Melee 2"
+      "Type": "weapon"
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "Melee 2"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_Category_Spenders",
-      "Type": "Melee 2"
+      "Type": "weapon"
     },
     {
       "Id": "Damage_to_Vulnerable",
-      "Type": "Melee 2"
+      "Type": "weapon"
     },
     {
       "Id": "CritDamage",
-      "Type": "Melee 2"
+      "Type": "weapon"
     },
     {
       "Id": "Resistance_Single_Fire",

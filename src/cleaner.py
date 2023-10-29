@@ -62,10 +62,13 @@ class Cleaner:
                 for row in data:
                     if row:
                         equipment_type = row[0]
-                        for valid_equipment in self.equipment_types:
-                            if valid_equipment.lower() in equipment_type.lower():
-                                row[0] = valid_equipment
-                                break
+                        if "melee" in equipment_type.lower():
+                            row[0] = "weapon"
+                        else:
+                            for valid_equipment in self.equipment_types:
+                                if valid_equipment.lower() in equipment_type.lower():
+                                    row[0] = valid_equipment
+                                    break
                 with file.open("w") as f:
                     json.dump(data, f, indent=2)
         logging.info("Equipment names standardized.")
