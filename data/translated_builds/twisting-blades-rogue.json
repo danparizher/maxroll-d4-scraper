@@ -244,30 +244,6 @@
     {
       "Id": "Luck",
       "Type": "ring"
-    },
-    {
-      "Id": "ResourceGain",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "ring"
     }
   ],
   "ItemAspects": []

@@ -58,7 +58,11 @@
       "Type": "helm"
     },
     {
-      "Id": "HealingPercent",
+      "Id": "AttackSpeed_Basics",
+      "Type": "helm"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
       "Type": "helm"
     },
     {
@@ -98,11 +102,11 @@
       "Type": "gloves"
     },
     {
-      "Id": "Lucky_Hit_Resource",
+      "Id": "CritChance",
       "Type": "gloves"
     },
     {
-      "Id": "CritChance",
+      "Id": "Lucky_Hit_Resource",
       "Type": "gloves"
     },
     {
@@ -118,11 +122,11 @@
       "Type": "pants"
     },
     {
-      "Id": "FortifyDamageReduction",
+      "Id": "DamageReductionClose",
       "Type": "pants"
     },
     {
-      "Id": "BloodOrb_Healing",
+      "Id": "DamageReduction",
       "Type": "pants"
     },
     {
@@ -138,7 +142,11 @@
       "Type": "boots"
     },
     {
-      "Id": "BloodOrb_Healing",
+      "Id": "CoreStat_Intelligence",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStats_All",
       "Type": "boots"
     },
     {
@@ -150,11 +158,11 @@
       "Type": "amulet"
     },
     {
-      "Id": "PassiveRankBonus_Necro_Caster_T2_N2_CoalescedBlood",
+      "Id": "Movement_Speed",
       "Type": "amulet"
     },
     {
-      "Id": "Movement_Speed",
+      "Id": "DamageReduction",
       "Type": "amulet"
     },
     {
@@ -174,11 +182,11 @@
       "Type": "ring"
     },
     {
-      "Id": "BloodOrb_Healing",
+      "Id": "CritChance",
       "Type": "ring"
     },
     {
-      "Id": "CritChance",
+      "Id": "Damage_to_Near",
       "Type": "ring"
     },
     {
@@ -194,11 +202,11 @@
       "Type": "ring"
     },
     {
-      "Id": "BloodOrb_Healing",
+      "Id": "CritChance",
       "Type": "ring"
     },
     {
-      "Id": "CritChance",
+      "Id": "Damage_to_Near",
       "Type": "ring"
     },
     {
