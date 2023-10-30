@@ -306,5 +306,102 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_druid_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_121",
+      "Type": "Totem"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "Totem"
+    },
+    {
+      "Id": "Legendary_Druid_119",
+      "Type": "Totem"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "Totem"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_100",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_121",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Legendary_Druid_119",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_100",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_112",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_druid_059",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_121",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Druid_119",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_121",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Druid_119",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "ring"
+    }
+  ]
 }

@@ -122,26 +122,6 @@
       "Type": "gloves"
     },
     {
-      "Id": "Life",
-      "Type": "pants"
-    },
-    {
-      "Id": "Armor",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "pants"
-    },
-    {
       "Id": "Movement_Speed",
       "Type": "boots"
     },
@@ -234,5 +214,46 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_necro_123",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_necro_029",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_necro_123",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_necro_066",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_necro_111",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_necro_113",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_necro_116",
+      "Type": "ring"
+    }
+  ]
 }

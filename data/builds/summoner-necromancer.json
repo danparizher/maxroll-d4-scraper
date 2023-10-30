@@ -6,52 +6,83 @@
   ],
   [
     "weapon",
-    "One of: Aspect of Reanimation Aspect of Grasping Veins Osseous Gale Aspect\nBlood Getter's Aspect",
+    [
+      "Aspect of Reanimation",
+      "Aspect of Grasping Veins",
+      "Osseous Gale Aspect",
+      "Blood Getter's Aspect"
+    ],
     "Implicit: Lucky Hit Chance\n1. Critical Strike Damage\n2. Vulnerable Damage\n3. Damage to Close Enemies\n4. Damage to Stunned Enemies\n5. Damage to Crowd Controlled Enemies\n6. Damage to Slowed Enemies\n7. All Stats"
   ],
   [
     "offhand",
-    "One of: Osseous Gale Aspect Aspect of Reanimation Aspect of Grasping Veins\nBlood Getter's Aspect",
+    [
+      "Osseous Gale Aspect",
+      "Aspect of Reanimation",
+      "Aspect of Grasping Veins",
+      "Blood Getter's Aspect"
+    ],
     "1. Cooldown Reduction\n2. Lucky Hit Chance\n3. Critical Strike Chance\n4. Maximum Minion Life\n5. Lucky Hit Chance while You Have a Barrier\n6. All Stats"
   ],
   [
     "helm",
-    "One of: Aspect of Disobedience Aspect of Hardened Bones\nAspect of Shielding Storm",
+    [
+      "Aspect of Disobedience",
+      "Aspect of Hardened Bones",
+      "Aspect of Shielding Storm"
+    ],
     "1. Maximum Life\n2. Cooldown Reduction\n3. Lucky Hit Chance while You Have a Barrier\n4. % Total Armor\n5. All Stats\n6. Intelligence"
   ],
   [
     "chest",
-    "One of: Aspect of Hardened Bones Aspect of Disobedience\nAspect of Shielding Storm",
+    [
+      "Aspect of Hardened Bones",
+      "Aspect of Disobedience",
+      "Aspect of Shielding Storm"
+    ],
     "1. % Total Armor\n2. Damage Reduction from Close Enemies\n3. Damage Reduction\n4. Maximum Minion Life\n5. Damage Reduction from Distant Enemies\n6. Damage Reduction while Fortified\n7. Summoning Skill Damage\n8. Physical Damage\n9. All Stats"
   ],
   [
     "gloves",
-    "One of: Aspect of Reanimation Aspect of Grasping Veins Osseous Gale Aspect\nBlood Getter's Aspect",
+    [
+      "Aspect of Reanimation",
+      "Aspect of Grasping Veins",
+      "Osseous Gale Aspect",
+      "Blood Getter's Aspect"
+    ],
     "1. Lucky Hit Chance\n2. Critical Strike Chance\n3. Attack Speed\n4. All Stats"
   ],
   [
     "pants",
-    "One of: Aspect of Shielding Storm Aspect of Hardened Bones\nAspect of Disobedience",
+    [
+      "Aspect of Shielding Storm",
+      "Aspect of Hardened Bones",
+      "Aspect of Disobedience"
+    ],
     "Implicit: Potion Grants Barrier\n1. % Total Armor\n2. Damage Reduction from Close Enemies\n3. Maximum Life\n4. Damage Reduction while Fortified\n5. Maximum Minion Life\n6. Damage Reduction\n7. Damage Reduction from Distant Enemies\n8. Dodge Chance"
   ],
   [
     "boots",
-    "Viscous Aspect",
+    [
+      "Viscous Aspect"
+    ],
     "Implicit: Max Evade Charges\n1. Movement Speed\n2. Ranks of Corpse Tendrils\n3. Dodge Chance\n4. Movement Speed After Killing an Elite\n5. All Stats\n6. Damage Reduction while\nInjured"
   ],
   [
     "amulet",
-    "Aspect of Frenzied Dead",
+    [
+      "Aspect of Frenzied Dead"
+    ],
     "1. Ranks of Hellbent Commander\n2. Movement Speed\n3. Cooldown Reduction\n4. Minion Attack Speed\n5. Lucky Hit Chance while You Have a Barrier\n6. Total Armor\n7. Damage Reduction\n8. Damage Reduction from Distant Enemies\n9. Damage Reduction while Fortified\n10. Summoning Skill Damage"
   ],
   [
     "ring",
-    "Ring of Mendeln",
-    "1. Lucky Hit: Chance to empower all of your Minions, causing the next attack from each to explode for Physical Damage\n2. Lucky Hit Chance\n3. Minion Attack Speed\n4. Maximum Minion Life\n5. Thorns"
-  ],
-  [
-    "ring",
-    "One of: Aspect of Reanimation Aspect of Grasping Veins Osseous Gale Aspect\nBlood Getter's Aspect",
+    [
+      "Aspect of Reanimation",
+      "Aspect of Grasping Veins",
+      "Osseous Gale Aspect",
+      "Blood Getter's Aspect"
+    ],
     "1. Critical Strike Chance\n2. Critical Strike Damage\n3. Vulnerable Damage\n4. Lucky Hit Chance\n5. Maximum Life\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\n8. Damage to Close Enemies\n9. Physical Damage"
   ]
 ]

@@ -188,27 +188,44 @@
     {
       "Id": "PetHealth_Necro",
       "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "PetHealth_Necro",
-      "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "Legendary_Necro_121",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_necro_066",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_necro_023",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_100",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_necro_054",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_necro_067",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_necro_104",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_necro_107",
+      "Type": "ring"
+    }
+  ]
 }

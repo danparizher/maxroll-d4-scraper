@@ -43,14 +43,17 @@ class Translator:
         with (Path("data") / "uniques.json").open("r") as f:
             self.uniques = json.load(f)
 
-    def clean_aspect(self, plaintext: str) -> str:
+    @staticmethod
+    def clean_aspect(plaintext: str) -> str:
         """Clean a plaintext aspect."""
-        # Compile regular expressions
-        # pattern1 = split on spaces and process each word individually, and remove everything before ":". Example:
-        # "one of: control gravitational conceited storm swell" -> "control gravitational conceited storm swell"
-        pattern1 = re.compile(r"(?:.*?:\s*)?(.+)")
+        pattern1 = re.compile(r"^.*:")
+        pattern2 = re.compile(
+            r"\b(aspect)\b",
+        )  # remove "aspect"
 
-        cleaned = pattern1.sub(" ", plaintext.strip().lower())
+        cleaned = pattern1.sub("", plaintext.strip().lower())
+        cleaned = pattern2.sub("", cleaned)
+
         return cleaned.strip().lower()
 
     def clean_affix(self, plaintext: str) -> str:
@@ -168,15 +171,15 @@ class Translator:
             affixes = {}
 
             # parse aspects
-            # for aspect in aspects.splitlines():
-            #     cleaned_aspect = self.clean_aspect(aspect)
-            #     aspect_id = self.map_aspect_to_id(cleaned_aspect)
-            #     output["ItemAspects"].append(
-            #         {
-            #             "Id": aspect_id,
-            #             "Type": gear_type,
-            #         },
-            #     )
+            for aspect in aspects:
+                cleaned_aspect = self.clean_aspect(aspect)
+                aspect_id = self.map_aspect_to_id(cleaned_aspect)
+                output["ItemAspects"].append(
+                    {
+                        "Id": aspect_id,
+                        "Type": gear_type,
+                    },
+                )
 
             # parse affixes
             for stat_numbered in stat_numbered_list.splitlines():

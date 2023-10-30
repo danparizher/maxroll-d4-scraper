@@ -74,30 +74,6 @@
       "Type": "weapon"
     },
     {
-      "Id": "Berserk_Damage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStat_Strength",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "weapon"
-    },
-    {
       "Id": "SkillRankBonus_Barb_Special_DeathBlow",
       "Type": "helm"
     },
@@ -318,5 +294,98 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_001",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_001",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_020",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_008",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_barb_055",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_barb_008",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_barb_055",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_barb_004",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_barb_008",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_barb_055",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_barb_104",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_barb_022",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_barb_001",
+      "Type": "ring"
+    }
+  ]
 }

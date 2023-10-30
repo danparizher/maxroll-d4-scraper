@@ -186,5 +186,42 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_necro_066",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_necro_054",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_necro_101",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_necro_100",
+      "Type": "ring"
+    }
+  ]
 }

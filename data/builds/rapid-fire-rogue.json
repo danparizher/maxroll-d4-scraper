@@ -6,57 +6,105 @@
   ],
   [
     "ranged",
-    "Repeating",
+    [
+      "Repeating"
+    ],
     "Weapon Type: Bow\n1.  High Damage per Second\n2. Vulnerable Damage\n3. Dexterity\n4. All stats\n5. Damage to Distant Enemies\n6. Core Skill Damage\n7. Damage to Crowd Controlled Enemies\nSocket Royal Skull\nSocket\nRoyal Skull"
   ],
   [
     "weapon",
-    " Accelerating Aspect Edgemaster\u2019s Rapid Aspect Aspect of the Expectant\nAspect of Corruption",
+    [
+      "Accelerating Aspect",
+      "Edgemaster\u2019s",
+      "Rapid Aspect",
+      "Aspect of the Expectant",
+      "Aspect of Corruption"
+    ],
     "Weapon Type: Sword Damage doesn't matter\n1. Vulnerable Damage\n2. Dexterity\n3. All stats\n4. Damage to Distant Enemies\n5. Core Skill Damage\n6. Damage to Crowd Controlled Enemies\nSocket\nRoyal Skull"
   ],
   [
     "weapon",
-    "Accelerating Aspect Edgemaster\u2019s Rapid Aspect Aspect of the Expectant\nAspect of Corruption",
+    [
+      "Accelerating Aspect",
+      "Edgemaster\u2019s",
+      "Rapid Aspect",
+      "Aspect of the Expectant",
+      "Aspect of Corruption"
+    ],
     "Weapon Type: Sword Damage doesn't matter\n1.  Vulnerable Damage\n2. Dexterity\n3. All stats\n4. Damage to Distant Enemies\n5. Core Skill Damage\n6. Damage to Crowd Controlled Enemies\nSocket\nRoyal Skull"
   ],
   [
     "helm",
-    "Aspect of Might Aspect of Disobedience\nEnshrouding Aspect",
+    [
+      "Aspect of Might",
+      "Aspect of Disobedience",
+      "Enshrouding Aspect"
+    ],
     "1. Cooldown Reduction\n2. Cold Imbuement\n3. Poison Resistance\n4. Armor\n5. Life on Kill\n6. Dexterity\nSocket\nRoyal Ruby"
   ],
   [
     "chest",
-    "Aspect of Might Aspect of Disobedience\nEnshrouding Aspect",
+    [
+      "Aspect of Might",
+      "Aspect of Disobedience",
+      "Enshrouding Aspect"
+    ],
     "1. Damage Reduction\n2. Damage Reduction from Close\n3. Damage Reduction from Poisoned\n4. Damage Reduction from Distant\n5. Total Armor\n6. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "gloves",
-    "Edgemaster\u2019s Rapid Aspect Aspect of the Expectant Aspect of Corruption\nAccelerating Aspect",
+    [
+      "Edgemaster\u2019s",
+      "Rapid Aspect",
+      "Aspect of the Expectant",
+      "Aspect of Corruption",
+      "Accelerating Aspect"
+    ],
     "1. Ranks to Rapid Fire\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit Chance\n5. Dexterity"
   ],
   [
     "pants",
-    "Aspect of Might Aspect of Disobedience\nEnshrouding Aspect",
+    [
+      "Aspect of Might",
+      "Aspect of Disobedience",
+      "Enshrouding Aspect"
+    ],
     "Implicit: Potion Grants Barrier\n1. Damage Reduction\n2. Damage Reduction from Close\n3. Total Armor\n4. Damage Reduction from Poisoned\n5. Damage Reduction from Distant\n6. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "boots",
-    "Mangler's Aspect",
+    [
+      "Mangler's Aspect"
+    ],
     "Implicit:  Reduce Cooldown Evade\n1. Movement Speed\n2. Fire Resistance\n3. Lightning Resistance\n4. Cold Resistance\n5. Dexterity\n6. Dodge Chance vs Distant enemies"
   ],
   [
     "amulet",
-    "Umbrous Aspect",
+    [
+      "Umbrous Aspect"
+    ],
     "1. Ranks to Weapon Mastery\n2. Cooldown Reduction\n3. Movement Speed\n4. Ranks to Imbuement Skills\n5. Damage Reduction\n6. Ranks to Exploit\n7. Ranks to Malice\nSocket Royal Amethyst"
   ],
   [
     "ring",
-    "Edgemaster\u2019s Rapid Aspect Aspect of the Expectant Aspect of Corruption\nAccelerating Aspect",
+    [
+      "Edgemaster\u2019s",
+      "Rapid Aspect",
+      "Aspect of the Expectant",
+      "Aspect of Corruption",
+      "Accelerating Aspect"
+    ],
     "1. Vulnerable Damage\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Damage to Distant Enemies\n5. Maximum Life\n6. Critical Strike Damage\nSocket\nRoyal Amethyst"
   ],
   [
     "ring",
-    "Edgemaster\u2019s Rapid Aspect Aspect of the Expectant Aspect of Corruption\nAccelerating Aspect",
+    [
+      "Edgemaster\u2019s",
+      "Rapid Aspect",
+      "Aspect of the Expectant",
+      "Aspect of Corruption",
+      "Accelerating Aspect"
+    ],
     "1. Vulnerable Damage\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Damage to Distant Enemies\n5. Maximum Life\n6. Critical Strike Damage\nSocket\nRoyal Amethyst"
   ]
 ]

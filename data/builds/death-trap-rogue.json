@@ -6,57 +6,89 @@
   ],
   [
     "ranged",
-    "Bladedancer",
+    [
+      "Bladedancer"
+    ],
     "Weapon Type: Crossbow Damage doesn't matter\n1. Ultimate Skill Damage\n2. Damage to Close Enemies\n3. All Stats\n4. Dexterity\n5. Core Skill Damage\n6. Critical Strike Damage\nSockets Royal Diamond"
   ],
   [
     "weapon",
-    "One of: Retribution Accelerating\nEdgemaster's",
+    [
+      "Retribution",
+      "Accelerating",
+      "Edgemaster's"
+    ],
     "Weapon Type: Dagger\n1. High Damage per Second\n2. Ultimate Skill Damage\n3. Damage to Close Enemies\n4. All Stats\n5. Dexterity\n6. Core Skill Damage\n7. Critical Strike Damage\nSocket Royal Diamond"
   ],
   [
     "weapon",
-    "One of: Retribution Accelerating\nEdgemaster's",
+    [
+      "Retribution",
+      "Accelerating",
+      "Edgemaster's"
+    ],
     "Weapon Type: Dagger\n1. High Damage per Second\n2. Ultimate Skill Damage\n3. Damage to Close Enemies\n4. All Stats\n5. Dexterity\n6. Core Skill Damage\n7. Critical Strike Damage\nSocket Royal Diamond"
   ],
   [
     "helm",
-    "One of: Might\nShared Misery",
+    [
+      "Might",
+      "Shared Misery"
+    ],
     "1. Any Resistance\n2. Cooldown Reduction\n3. Total Armor\n4. Maximum Life\n5. Life on Kill\nSocket Royal Ruby"
   ],
   [
     "chest",
-    "One of: Might\nShared Misery",
+    [
+      "Might",
+      "Shared Misery"
+    ],
     "1. Damage Reduction\n2. Total Armor\n3. Damage Reduction from Close\n4. Damage Reduction from Poisoned\n5. Damage Reduction from Distant\n6. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "gloves",
-    "One of: Retribution Accelerating\nEdgemaster's",
+    [
+      "Retribution",
+      "Accelerating",
+      "Edgemaster's"
+    ],
     "1. Ranks to Twisting Blades\n2. Attack Speed\n3. Lucky Hit: Chance to Slow\n4. Critical Strike Chance\n5. Lucky Hit Chance\n6. Reduced Arm Time of Traps"
   ],
   [
     "pants",
-    "One of:\nCheat's",
+    [
+      "Cheat's"
+    ],
     "Implicit: Potion Grants Barrier\n1. Damage Reduction\n2. Total Armor\n3. Damage Reduction from Close\n4. Damage Reduction from Poisoned\n5. Damage Reduction from Distant\n6. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "boots",
-    "Ravager",
+    [
+      "Ravager"
+    ],
     "Implicit: Max Evade Charges\n1. Movement Speed\n2. Any Resistance\n3. Any Resistance\n4. Any Resistance\n5. Energy Cost Reduction\n6. Movement Speed on Elite Kill"
   ],
   [
     "amulet",
-    "Ghostwalker",
+    [
+      "Ghostwalker"
+    ],
     "1. Ranks to Weapon Mastery\n*\n2. Cooldown Reduction\n3. Movement Speed\n4. Ranks to Exploit\n*\n5. Ranks to Malice\n*\n6. Energy Cost Reduction\n7. Damage Reduction\n8. Damage Reduction from Close Enemies\n9. Damage Reduction from Poisoned Enemies\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
     "ring",
-    "One of: Ravenous\nThe Umbral",
+    [
+      "Ravenous",
+      "The Umbral"
+    ],
     "1. Resource Generation\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Maximum Life\n5. Damage to Close Enemies\n6. Critical Strike Damage\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
     "ring",
-    "One of: Ravenous\nThe Umbral",
+    [
+      "Ravenous",
+      "The Umbral"
+    ],
     "1. Resource Generation\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Maximum Life\n5. Damage to Close Enemies\n6. Critical Strike Damage\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ]
 ]

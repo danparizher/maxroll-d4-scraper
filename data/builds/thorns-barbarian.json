@@ -6,62 +6,58 @@
   ],
   [
     "weapon",
-    "Needleflare",
+    [
+      "Needleflare"
+    ],
     "1. Damage while Berserking \n2. Damage to Close Enemies\n3. Strength\n4. Basic Skill Damage\n5. All Stats\n6. Damage to Bleeding Enemies\n7. Vulnerable Damage"
   ],
   [
     "weapon",
-    "Rapid",
-    "1. Damage while Berserking \n2. Damage to Close Enemies\n3. Strength\n4. Basic Skill Damage\n5. All Stats\n6. Damage to Bleeding Enemies\n7. Vulnerable Damage"
-  ],
-  [
-    "weapon",
-    "One of: Death Wish (if using Ancients' Oath) Inner Calm\nEdgemaster\u2019s",
-    "1. Damage while Berserking \n2. Damage to Close Enemies\n3. Strength\n4. Basic Skill Damage\n5. All Stats\n6. Damage to Bleeding Enemies\n7. Vulnerable Damage"
-  ],
-  [
-    "weapon",
-    "Death Wish (if not using Ancients' Oath)",
+    [
+      "Rapid"
+    ],
     "1. Damage while Berserking \n2. Damage to Close Enemies\n3. Strength\n4. Basic Skill Damage\n5. All Stats\n6. Damage to Bleeding Enemies\n7. Vulnerable Damage"
   ],
   [
     "helm",
-    "Numbing Wrath",
+    [
+      "Numbing Wrath"
+    ],
     "1. Cooldown Reduction\n2. Damage while Berserking \n3. % Armor\n4. Life / Maximum Fury\n5. Strength / All Stats\n6. Resistance (as needed)"
   ],
   [
     "chest",
-    "One of:\nMight",
+    [
+      "Might"
+    ],
     "1. Damage Reduction from Close Enemies\n2. Damage Reduction while Fortified\n3. % Total Armor\n4. Maximum Life\n5. Damage Reduction\n6. Resistance (as needed)\n7. Thorns"
   ],
   [
-    "gloves",
-    "One of: Death Wish (if using Ancients' Oath) Inner Calm\nEdgemaster\u2019s",
-    "1. Critical Strike Chance\n2. Strength\n3. All Stats\n4. Dexterity / Willpower\n5. Damage to Injured Enemies\n6. Attack Speed"
-  ],
-  [
     "pants",
-    "Disobedience",
+    [
+      "Disobedience"
+    ],
     "1. Damage Reduction from Close Enemies\n2. Damage Reduction while Fortified\n3. % Total Armor\n4. Maximum Life\n5. Damage Reduction\n6. Resistance (as needed)"
   ],
   [
     "boots",
-    "Ghostwalker",
+    [
+      "Ghostwalker"
+    ],
     "1. Movement Speed\n2. Cold / Lightning / Poison Resistance\n3. Cold / Lightning / Poison Resistance\n4. Cold / Lightning / Poison Resistance\n5. Resistance (as needed)\n6. Fury Cost Reduction\n7. Damage Reduction while Injured\n8. Strength / All Stats\n9. Movement Speed for 4 Seconds After Killing an Elite"
   ],
   [
     "amulet",
-    "Might",
+    [
+      "Might"
+    ],
     "1. Cooldown Reduction\n2. Damage Reduction from Close Enemies\n3. + Ranks of the Counteroffensive  Passive\n4. Damage Reduction while Fortified\n5. Thorns\n6. Movement Speed"
   ],
   [
     "ring",
-    "Bold Chieftain's",
-    "1. Damage While Berserking\n2. Maximum Life\n3. Maximum Fury\n4. Damage to Close Enemies\n5. Vulnerable Damage\n6. Physical Damage\n7. Damage to Bleeding Enemies"
-  ],
-  [
-    "ring",
-    "One of: Death Wish (if using Ancients' Oath) Inner Calm\nEdgemaster\u2019s",
+    [
+      "Bold Chieftain's"
+    ],
     "1. Damage While Berserking\n2. Maximum Life\n3. Maximum Fury\n4. Damage to Close Enemies\n5. Vulnerable Damage\n6. Physical Damage\n7. Damage to Bleeding Enemies"
   ]
 ]

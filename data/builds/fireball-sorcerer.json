@@ -6,52 +6,69 @@
   ],
   [
     "weapon",
-    "Storm Swell or\nConceited",
+    [
+      "Storm Swell",
+      "Conceited"
+    ],
     "Weapon Type: Wand\n1. High Weapon Damage\n2. Intelligence\n3. All Stats\n4. Core Skill Damage\n5. Damage to Close Enemies"
   ],
   [
     "offhand",
-    "Storm Swell or\nConceited",
+    [
+      "Storm Swell",
+      "Conceited"
+    ],
     "1. Cooldown Reduction\n2. High Weapon Damage\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource\n7. Intelligence"
   ],
   [
     "helm",
-    "Fortune",
+    [
+      "Fortune"
+    ],
     "1. Cooldown Reduction\n2. Lucky Hit Chance while Barrier\n3. % Total Armor\n4. Maximum Mana\n5. Intelligence\n6. Crowd Control Duration\n7. Maximum Life"
   ],
   [
     "chest",
-    "Disobedience",
+    [
+      "Disobedience"
+    ],
     "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction against Burning Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Intelligence"
   ],
   [
     "gloves",
-    "Elementalist's",
+    [
+      "Elementalist's"
+    ],
     "1. Ranks to Fireball\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit: Chance to Regain Resource\n5. Lucky Hit Chance\n6. Intelligence"
   ],
   [
     "pants",
-    "Snowveiled",
+    [
+      "Snowveiled"
+    ],
     "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction against Burning Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Intelligence"
   ],
   [
-    "boots",
-    "Bounding Conduit or\nEsu's Heirloom",
-    "1. Mana Cost Reduction\n2. Implicit: +Max Evade Charges\n3. Implicit: Attacks Reduce Evade's Cooldown\n4. Movement Speed\n5. Ranks to Teleport\n6. Ranks to Frost Nova\n7. Intelligence"
-  ],
-  [
     "amulet",
-    "Three Curses",
+    [
+      "Three Curses"
+    ],
     "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Movement Speed\n4. Ranks to Devouring Blaze\n5. Ranks to Glass Cannon\n6. Ranks to Defensive Skills"
   ],
   [
     "ring",
-    "Incendiary or\nElementalist's",
+    [
+      "Incendiary",
+      "Elementalist's"
+    ],
     "1. Resource Generation\n2. Critical Strike Chance\n3. Fire Damage\n4. Maximum Life\n5. Damage to Close Enemies"
   ],
   [
     "ring",
-    "Prodigy\u2019s or\nControl",
+    [
+      "Prodigy\u2019s",
+      "Control"
+    ],
     "1. Resource Generation\n2. Critical Strike Chance\n3. Fire Damage\n4. Maximum Life\n5. Damage to Close Enemies"
   ]
 ]

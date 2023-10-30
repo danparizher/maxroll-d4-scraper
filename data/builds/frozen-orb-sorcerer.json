@@ -6,52 +6,100 @@
   ],
   [
     "weapon",
-    "One of: Edgemaster\u2019s Aspect Aspect of Frozen Orbit Storm Swell Aspect Conceited Aspect Aspect of Frozen Memories\nElementalist's Aspect",
+    [
+      "Edgemaster\u2019s Aspect",
+      "Aspect of Frozen Orbit",
+      "Storm Swell Aspect",
+      "Conceited Aspect",
+      "Aspect of Frozen Memories",
+      "Elementalist's Aspect"
+    ],
     "Weapon Type: Wand (Implicit: Lucky Hit Chance)\n1. All Stats\n2. Critical Strike Damage\n3. Vulnerable Damage\n4. Core Skill Damage\n5. Intelligence\n6. Damage to Burning Enemies\n7. Damage to Crowd Controlled Enemies\n8. Damage to Distant Enemies"
   ],
   [
     "offhand",
-    "One of: Aspect of Frozen Memories Edgemaster\u2019s Aspect Conceited Aspect Aspect of Frozen Orbit Storm Swell Aspect\nElementalist's Aspect",
+    [
+      "Aspect of Frozen Memories",
+      "Edgemaster\u2019s Aspect",
+      "Conceited Aspect",
+      "Aspect of Frozen Orbit",
+      "Storm Swell Aspect",
+      "Elementalist's Aspect"
+    ],
     "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Damage Reduction from Enemies That Are Burning\n4. Resource Generation\n5. Lucky Hit Chance\n6. Mana Cost Reduction\n7. Intelligence"
   ],
   [
     "helm",
-    "One of: Aspect of Disobedience Everliving Aspect Snowveiled Aspect Frostblitz Aspect\nAspect of the Protector",
+    [
+      "Aspect of Disobedience",
+      "Everliving Aspect",
+      "Snowveiled Aspect",
+      "Frostblitz Aspect",
+      "Aspect of the Protector"
+    ],
     "1. Cooldown Reduction\n2. Intelligence\n3. Maximum Life\n4. Lucky Hit Chance while you have a Barrier\n5. Maximum Mana\n6. All Stats\n7. % Total Armor\n8. Crowd Control Duration"
   ],
   [
     "chest",
-    "One of: Snowveiled Aspect Aspect of Disobedience Everliving Aspect Frostblitz Aspect Aspect of Fortune\nAspect of the Protector",
+    [
+      "Snowveiled Aspect",
+      "Aspect of Disobedience",
+      "Everliving Aspect",
+      "Frostblitz Aspect",
+      "Aspect of Fortune",
+      "Aspect of the Protector"
+    ],
     "1. % Total Armor\n2. Damage Reduction\n3. Maximum Life\n4. Cold Damage\n5. Damage Reduction from Enemies that are Burning\n6. Damage Reduction from Distant Enemies\n7. Frost Skill Damage"
   ],
   [
     "gloves",
-    "One of: Conceited Aspect Aspect of Frozen Memories Edgemaster\u2019s Aspect Storm Swell Aspect\nElementalist's Aspect",
+    [
+      "Conceited Aspect",
+      "Aspect of Frozen Memories",
+      "Edgemaster\u2019s Aspect",
+      "Storm Swell Aspect",
+      "Elementalist's Aspect"
+    ],
     "1. Ranks of Frozen Orb\n2. Ranks of Ice Shards\n3. Critical Strike Chance\n4. Attack Speed\n5. Lucky Hit Chance\n6. All Stats\n7. Intelligence"
   ],
   [
     "pants",
-    "One of: Everliving Aspect Aspect of Disobedience Snowveiled Aspect Frostblitz Aspect\nAspect of the Protector",
+    [
+      "Everliving Aspect",
+      "Aspect of Disobedience",
+      "Snowveiled Aspect",
+      "Frostblitz Aspect",
+      "Aspect of the Protector"
+    ],
     "Implicit: Potion Grants Barrier\n1. % Total Armor\n2. Damage Reduction from Distant Enemies\n3. Maximum Life\n4. Damage Reduction from Enemies That Are Burning\n5. Damage Reduction\n6. Damage Reduction from Close Enemies\n7. Dodge Chance\n8. Intelligence"
   ],
   [
-    "boots",
-    "One of: Esu's Heirloom Aspect of Fortune\nGhostwalker Aspect",
-    "Implicit: Evade Grants +xx% Movement Speed for 1 Second\n1. Movement Speed\n2. Movement Speed After Killing an Elite\n3. Critical Strike Chance\n4. Mana Cost Reduction\n5. Ranks of Teleport\n6. Ranks of Frost Nova\n7. Dodge Chance\n8. All Stats\n9. Intelligence"
-  ],
-  [
     "amulet",
-    "One of: Aspect of Frozen Orbit Elementalist's Aspect\nAspect of Disobedience",
+    [
+      "Aspect of Frozen Orbit",
+      "Elementalist's Aspect",
+      "Aspect of Disobedience"
+    ],
     "1. Cooldown Reduction\n2. Ranks of the Icy Touch Passive\n*\n3. Ranks of the Hoarfrost Passive\n*\n4. Ranks of the Permafrost Passive\n*\n5. Ranks of the Glass Cannon Passive\n*\n6. Mana Cost Reduction\n7. Movement Speed\n8. Ranks of All Defensive Skills\n9. Ranks of Elemental Dominance\n*\n10. Total Armor\n11. Frost Skill Damage\n12. Damage Reduction\n13. Damage Reduction from Distant Enemies\n* These stats cannot appear\non the same item together"
   ],
   [
     "ring",
-    "One of: Aspect of Frozen Memories Edgemaster\u2019s Aspect Aspect of Frozen Orbit Conceited Aspect Storm Swell Aspect Elementalist's Aspect\nAspect of the Umbral",
+    [
+      "Aspect of Frozen Memories",
+      "Edgemaster\u2019s Aspect",
+      "Aspect of Frozen Orbit",
+      "Conceited Aspect",
+      "Storm Swell Aspect",
+      "Elementalist's Aspect",
+      "Aspect of the Umbral"
+    ],
     "1. Critical Strike Damage\n2. Vulnerable Damage\n3. Critical Strike Chance\n4. Maximum Life\n5. Resource Generation\n6. Lucky Hit Chance\n7. Maximum Mana\n8. Damage to Crowd Controlled\nEnemies"
   ],
   [
     "ring",
-    "Prodigy\u2019s Aspect",
+    [
+      "Prodigy\u2019s Aspect"
+    ],
     "1. Critical Strike Damage\n2. Vulnerable Damage\n3. Critical Strike Chance\n4. Resource Generation\n5. Maximum Life\n6. Lucky Hit Chance\n7. Maximum Mana\n8. Damage to Crowd Controlled\nEnemies"
   ]
 ]

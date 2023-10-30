@@ -14,7 +14,6 @@ import logging
 import re
 from concurrent.futures import ThreadPoolExecutor
 from contextlib import suppress
-from itertools import chain
 from pathlib import Path
 from typing import Any
 
@@ -223,7 +222,13 @@ def get_text_lines(tag: Tag) -> str:
     return "\n".join(lines)
 
 
-def get_stat_priorities(paths: list[str]) -> list[list[str]]:
+def parse_aspects(aspects: Tag) -> list[str]:
+    """Return a list of aspects from the given HTML tag."""
+    # <span class="d4-affix" data-d4-id="1215769"><span class="d4-gametip"><div class="d4t-sprite-icon"><div class="d4t-icon d4t-aspect-icon" style="background-position-x: -2em;"></div></div>‍<span class="d4-color-legendary">Control</span></span></span>
+    return [aspect.text for aspect in aspects.find_all("span", class_="d4-affix")]
+
+
+def get_table_data(paths: list[str]) -> list[list[str]]:
     """Return a list of stat priorities for the given build paths."""
     build_jsons = []
     for path in paths:
@@ -245,20 +250,29 @@ def get_stat_priorities(paths: list[str]) -> list[list[str]]:
                     c in tag.get("class", []) for c in required_class_names
                 ),
             )
-        if table is not None:
-            tbody = table.find("tbody")
-            if tbody is not None:
+
+        if table is not None and (tbody := table.find("tbody")):
+            for row in tbody.find_all("tr"):
+                cols = row.find_all("td")
+                if len(cols) != 3:
+                    continue
+
+                slot, aspects, affixes = cols
+
+                # unique items in the aspects column
+                if aspects.find_all("span", class_="d4-item"):
+                    continue
+
                 build_jsons.append(
                     [
-                        [
-                            get_text_lines(stat)
-                            for stat in stat_priority.find_all("td")
-                            if len(stat_priority.find_all("td")) == 3
-                        ]
-                        for stat_priority in tbody.find_all("tr")
+                        get_text_lines(slot),
+                        parse_aspects(aspects)
+                        if build_jsons
+                        else get_text_lines(aspects),
+                        get_text_lines(affixes),
                     ],
                 )
-    return list(chain.from_iterable(build_jsons))
+    return build_jsons
 
 
 def compile_jsons() -> None:
@@ -274,7 +288,7 @@ def compile_jsons() -> None:
 
     with ThreadPoolExecutor() as executor:
         future_to_path = {
-            executor.submit(get_stat_priorities, [path]): path for path in build_paths
+            executor.submit(get_table_data, [path]): path for path in build_paths
         }
         for future in concurrent.futures.as_completed(future_to_path):
             path = future_to_path[future]

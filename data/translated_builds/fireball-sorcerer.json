@@ -150,34 +150,6 @@
       "Type": "pants"
     },
     {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "boots"
-    },
-    {
-      "Id": "Evade_Charges",
-      "Type": "boots"
-    },
-    {
-      "Id": "Evade_Attack_Reset",
-      "Type": "boots"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_Teleport",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
-      "Type": "boots"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "boots"
-    },
-    {
       "Id": "CD_Reduction",
       "Type": "amulet"
     },
@@ -242,5 +214,58 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_112",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_108",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_008",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_sorc_103",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_125",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "ring"
+    }
+  ]
 }

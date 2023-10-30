@@ -90,22 +90,6 @@
       "Type": "helm"
     },
     {
-      "Id": "Damage_to_Near",
-      "Type": "chest"
-    },
-    {
-      "Id": "Damage_to_Stunned",
-      "Type": "chest"
-    },
-    {
-      "Id": "PassiveRankBonus_Sorc_Elemental_T2_N1_GlassCannon",
-      "Type": "chest"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "chest"
-    },
-    {
       "Id": "SkillRankBonus_Sorc_Core_3",
       "Type": "gloves"
     },
@@ -152,34 +136,6 @@
     {
       "Id": "Dodge",
       "Type": "pants"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_Teleport",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "boots"
-    },
-    {
-      "Id": "Dodge",
-      "Type": "boots"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "boots"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "boots"
     },
     {
       "Id": "CD_Reduction",
@@ -318,5 +274,154 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_038",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_122",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "offhand"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_038",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_122",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_sorc_017",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_sorc_120",
+      "Type": "helm"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_038",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_122",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_017",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_120",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_122",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_sorc_118",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_038",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_122",
+      "Type": "ring"
+    }
+  ]
 }

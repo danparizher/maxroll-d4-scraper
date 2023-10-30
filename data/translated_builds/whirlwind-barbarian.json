@@ -330,5 +330,82 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Barb_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_001",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_001",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Barb_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_005",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_barb_017",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_barb_011",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_barb_001",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_barb_005",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_barb_017",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_barb_057",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_barb_007",
+      "Type": "ring"
+    }
+  ]
 }

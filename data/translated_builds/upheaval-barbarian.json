@@ -50,22 +50,6 @@
       "Type": "weapon"
     },
     {
-      "Id": "CoreStat_Strength",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Berserk_Damage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "OverpowerDamage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "weapon"
-    },
-    {
       "Id": "Armor",
       "Type": "helm"
     },
@@ -122,22 +106,6 @@
       "Type": "gloves"
     },
     {
-      "Id": "Armor",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionInjured",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "pants"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "pants"
-    },
-    {
       "Id": "Movement_Speed",
       "Type": "boots"
     },
@@ -148,38 +116,6 @@
     {
       "Id": "DamageReductionInjured",
       "Type": "boots"
-    },
-    {
-      "Id": "PassiveRankBonus_Barb_Warlord_T2_N2_BruteForce",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Barb_10_Wallop",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "CC_Duration",
-      "Type": "amulet"
-    },
-    {
-      "Id": "CoreStat_Strength",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Barbarian",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Armor",
-      "Type": "amulet"
     },
     {
       "Id": "Berserk_Damage",
@@ -222,5 +158,74 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "Legendary_Barb_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_014",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_014",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_017",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_014",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_109",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_barb_057",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_barb_007",
+      "Type": "ring"
+    }
+  ]
 }

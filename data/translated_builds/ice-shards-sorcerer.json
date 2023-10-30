@@ -218,5 +218,114 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_sorc_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Sorc_133",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_110",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "offhand"
+    },
+    {
+      "Id": "Legendary_Sorc_133",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_112",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_sorc_108",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_sorc_110",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Legendary_Sorc_133",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_123",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_102",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_sorc_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Sorc_133",
+      "Type": "ring"
+    }
+  ]
 }

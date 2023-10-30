@@ -114,22 +114,6 @@
       "Type": "chest"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "chest"
-    },
-    {
-      "Id": "Damage",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "chest"
-    },
-    {
-      "Id": "Life",
-      "Type": "chest"
-    },
-    {
       "Id": "SkillRankBonus_Druid_Core_3",
       "Type": "gloves"
     },
@@ -318,5 +302,134 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_druid_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_077",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_110",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "offhand"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_077",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_026",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_100",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_110",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_077",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_112",
+      "Type": "boots"
+    },
+    {
+      "Id": "Legendary_Druid_116",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_077",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_077",
+      "Type": "ring"
+    }
+  ]
 }

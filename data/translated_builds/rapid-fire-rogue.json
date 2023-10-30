@@ -266,5 +266,154 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "Legendary_Rogue_124",
+      "Type": "ranged"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_rogue_113",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_rogue_113",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_rogue_004",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_rogue_004",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_rogue_113",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_rogue_004",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_rogue_114",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_rogue_116",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_rogue_113",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_rogue_113",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "ring"
+    }
+  ]
 }

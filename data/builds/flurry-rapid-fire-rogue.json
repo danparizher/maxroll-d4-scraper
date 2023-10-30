@@ -6,57 +6,89 @@
   ],
   [
     "ranged",
-    "Edgemaster\u2019s",
+    [
+      "Edgemaster\u2019s"
+    ],
     "Weapon Type: Crossbow\n1. High Damage per Second\n2. Damage to Crowd Controlled Enemies\n3. Damage to Close Enemies\n4. All Stats\n5. Dexterity\n6. Core Skill Damage\n7. Vulnerable Damage\n8. Critical Strike Damage\nSockets Royal Skull"
   ],
   [
     "weapon",
-    "Accelerating",
+    [
+      "Accelerating"
+    ],
     "Weapon Type: Dagger\n1. High Damage per Second\n2. Damage to Crowd Controlled Enemies\n3. Damage to Close Enemies\n4. All Stats\n5. Dexterity\n6. Core Skill Damage\n7. Vulnerable Damage\n8. Critical Strike Damage\nSocket Royal Skull"
   ],
   [
     "weapon",
-    "One of: Encircling Blades Rapid Aspect\nExpectant",
+    [
+      "Encircling Blades",
+      "Rapid Aspect",
+      "Expectant"
+    ],
     "Weapon Type: Dagger\n1. High Damage per Second\n2. Damage to Crowd Controlled Enemies\n3. Damage to Close Enemies\n4. All Stats\n5. Dexterity\n6. Core Skill Damage\n7. Vulnerable Damage\n8. Critical Strike Damage\nSocket Royal Skull"
   ],
   [
     "helm",
-    "One of: Might\nCheat's",
+    [
+      "Might",
+      "Cheat's"
+    ],
     "1.  Any Resistance\n2.  Any Resistance \n3. Cooldown Reduction\n4. % Total Armor\n5. Maximum Life\n6. Ranks to Shadow Imbuement\nSocket Royal Ruby"
   ],
   [
     "chest",
-    "One of: Mangler's\nShared Misery",
+    [
+      "Mangler's",
+      "Shared Misery"
+    ],
     "1.  Any Resistance \n2. % Total Armor\n3. Damage Reduction\n4. Close Damage Reduction\n5. Distant Damage Reduction\n5. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "gloves",
-    "One of: Mangler's\nShared Misery",
+    [
+      "Mangler's",
+      "Shared Misery"
+    ],
     "1. Ranks to Flurry\n2. Ranks to Rapid Fire\n3. Critical Strike Chance\n4. Attack Speed\n5. All Stats\n6. Dexterity"
   ],
   [
     "pants",
-    "One of: Might\nCheat's",
+    [
+      "Might",
+      "Cheat's"
+    ],
     "Implicit: Potion Grants Barrier\n1.  Any Resistance \n2. % Total Armor\n3. Damage Reduction\n4. Close Damage Reduction\n5. Distant Damage Reduction\n5. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "boots",
-    "Ravager's",
+    [
+      "Ravager's"
+    ],
     "Implicit: Movement Speed on Evade\n1. Movement Speed\n2. Any Resistance\n3. Any Resistance\n4. Any Resistance\n5. Movement Speed on Elite Kill\n6. Dodge Chance"
   ],
   [
     "amulet",
-    "Ghostwalker",
+    [
+      "Ghostwalker"
+    ],
     "1. Movement Speed\n2. Cooldown Reduction\n3. Ranks to Weapon Mastery\n*\n4. Ranks to Malice\n*\n5. Ranks to Exploit\n*\n6. Damage Reduction\n7. % Total Armor\n8. Close Damage Reduction\n9. Distant Damage Reduction\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
     "ring",
-    "One of: Encircling Blades Rapid Aspect\nExpectant",
+    [
+      "Encircling Blades",
+      "Rapid Aspect",
+      "Expectant"
+    ],
     "1. Damage to Crowd Controlled Enemies\n2. Damage to Close Enemies\n3. Critical Strike Chance\n4. Maximum Life\n5. Resource Generation\n6. Vulnerable Damage\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
     "ring",
-    "One of: Encircling Blades Rapid Aspect\nExpectant",
+    [
+      "Encircling Blades",
+      "Rapid Aspect",
+      "Expectant"
+    ],
     "1. Damage to Crowd Controlled Enemies\n2. Damage to Close Enemies\n3. Critical Strike Chance\n4. Maximum Life\n5. Resource Generation\n6. Vulnerable Damage\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ]
 ]

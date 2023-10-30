@@ -182,38 +182,6 @@
       "Type": "pants"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "boots"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_Teleport",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
-      "Type": "boots"
-    },
-    {
-      "Id": "Dodge",
-      "Type": "boots"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "boots"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "boots"
-    },
-    {
       "Id": "CD_Reduction",
       "Type": "amulet"
     },
@@ -330,5 +298,182 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_035",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Sorc_133",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Sorc_133",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_035",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_sorc_131",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_sorc_108",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_sorc_017",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_011",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_sorc_108",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_sorc_131",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_sorc_017",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_sorc_112",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_011",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Legendary_Sorc_133",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_131",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_108",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_017",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_011",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_035",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Legendary_Sorc_133",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_035",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_127",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_125",
+      "Type": "ring"
+    }
+  ]
 }

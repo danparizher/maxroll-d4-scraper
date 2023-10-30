@@ -6,47 +6,74 @@
   ],
   [
     "weapon",
-    "one of: Control Gravitational Conceited Storm Swell\nRapid",
+    [
+      "Control",
+      "Gravitational",
+      "Conceited",
+      "Storm Swell",
+      "Rapid"
+    ],
     "Weapon Type: Wand\n1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close Enemies\n5. Critical Strike Damage\n6. Lightning Critical Strike Damage"
   ],
   [
     "offhand",
-    "one of: Control Gravitational Conceited Storm Swell\nRapid",
+    [
+      "Control",
+      "Gravitational",
+      "Conceited",
+      "Storm Swell",
+      "Rapid"
+    ],
     "1. Cooldown Reduction\n2. High Damage per Second\n3. Critical Strike Chance\n4. Basic Skill Attack Speed\n5. Intelligence\n6. Lucky Hit Chance"
   ],
   [
     "helm",
-    "Snowveiled",
+    [
+      "Snowveiled"
+    ],
     "1. Cooldown Reduction\n2. Basic Skill Attack Speed\n3. % Total Armor\n4. Maximum Life\n5. Lucky Hit Chance while Barrier\n6. Intelligence"
   ],
   [
     "chest",
-    "Might",
+    [
+      "Might"
+    ],
     "1. % Total Armor\n2. Damage Reduction against Close Enemies\n3. Damage Reduction\n4. Damage Reduction against Distant Enemies\n5. Maximum Life\n6. Intelligence"
   ],
   [
     "gloves",
-    "one of: Control Gravitational Conceited Storm Swell\nRapid",
+    [
+      "Control",
+      "Gravitational",
+      "Conceited",
+      "Storm Swell",
+      "Rapid"
+    ],
     "1. Attack Speed\n2. Critical Strike Chance\n3. Lightning Critical Strike Damage\n4. Lucky Hit Chance\n5. Lucky Hit: Chance to Heal\n6. Intelligence"
   ],
   [
     "pants",
-    "Disobedience",
+    [
+      "Disobedience"
+    ],
     "1. Ranks to Ball Lightning\n2. % Total Armor\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. Damage Reduction against Distant Enemies\n6. Maximum Life\n7. Intelligence"
   ],
   [
     "boots",
-    "Bounding Conduit",
+    [
+      "Bounding Conduit"
+    ],
     "Implicit: + Max Evade Charges\n1. Movement Speed\n2. Ranks to Frost Nova\n3. Ranks to Teleport\n4. Intelligence\n5. Ranks to Flame Shield"
   ],
   [
-    "amulet",
-    "Rapid or Disobedience or\nEsadora's Overflowing Cameo",
-    "1. Cooldown Reduction\n2. Movement Speed\n3. Ranks to Defensive Skills\n4. Ranks to Conjuration Mastery\n5. Ranks to Hoarfrost\n6. Damage Reduction against Close Enemies"
-  ],
-  [
     "ring",
-    "one of: Control Gravitational Conceited Storm Swell\nRapid",
+    [
+      "Control",
+      "Gravitational",
+      "Conceited",
+      "Storm Swell",
+      "Rapid"
+    ],
     "1. Critical Strike Chance\n2. Damage to Close Enemies\n3. Maximum Life\n4. Critical Strike Damage\n5. Lightning Critical Strike Damage\n6. Lucky Hit Chance"
   ]
 ]

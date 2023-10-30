@@ -282,5 +282,150 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_druid_121",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_029",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_121",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_029",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_026",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_026",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_121",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_029",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_026",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_druid_113",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_druid_121",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_029",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_121",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_063",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_049",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_029",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "ring"
+    }
+  ]
 }

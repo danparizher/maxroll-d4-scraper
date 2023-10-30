@@ -162,30 +162,6 @@
       "Type": "boots"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "amulet"
-    },
-    {
-      "Id": "SkillRankBonus_Generic_Category_Defensive",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Sorc_02_ConjurationMastery",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Sorc_01_Hoarfrost",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "amulet"
-    },
-    {
       "Id": "CritChance",
       "Type": "ring"
     },
@@ -210,5 +186,102 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_119",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_119",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_108",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_119",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_123",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_119",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "ring"
+    }
+  ]
 }

@@ -54,22 +54,6 @@
       "Type": "offhand"
     },
     {
-      "Id": "Damage_While_Shapeshifted",
-      "Type": "helm"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resource_MaxSpirit",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "helm"
-    },
-    {
       "Id": "CD_Reduction",
       "Type": "helm"
     },
@@ -322,5 +306,106 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_druid_071",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_028",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Druid_115",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_028",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "offhand"
+    },
+    {
+      "Id": "Legendary_Druid_115",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_026",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_druid_100",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_028",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Legendary_Druid_115",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_100",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_109",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "Legendary_Druid_116",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_028",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_104",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Druid_115",
+      "Type": "ring"
+    }
+  ]
 }

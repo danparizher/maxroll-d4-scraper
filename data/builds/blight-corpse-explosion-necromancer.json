@@ -6,47 +6,60 @@
   ],
   [
     "weapon",
-    "Blighted Aspect",
+    [
+      "Blighted Aspect"
+    ],
     "Implicit: Critical Strike Damage\n1. Critical Strike Damage\n2. Damage to Affected by Shadow Damage Over Time Enemies\n3. Vulnerable Damage\n4. All Stats\n5. Damage to Crowd Controlled Enemies\n6. Damage to Slowed Enemies\n7. Damage to Close Enemies\n8. Intelligence"
   ],
   [
     "helm",
-    "One of: Aspect of Disobedience Aspect of Might Aspect of Shielding Storm\nAspect of the Embalmer",
+    [
+      "Aspect of Disobedience",
+      "Aspect of Might",
+      "Aspect of Shielding Storm",
+      "Aspect of the Embalmer"
+    ],
     "1. Intelligence\n2. Maximum Life\n3. Cooldown Reduction\n4. Lucky Hit Chance while You Have a Barrier\n5. % Total Armor\n6. All Stats\n7. Crowd Control Duration"
   ],
   [
     "chest",
-    "One of: Aspect of Shielding Storm Aspect of Disobedience Aspect of Might\nAspect of the Embalmer",
+    [
+      "Aspect of Shielding Storm",
+      "Aspect of Disobedience",
+      "Aspect of Might",
+      "Aspect of the Embalmer"
+    ],
     "1. % Total Armor\n2. Damage Reduction from Close Enemies\n3. Damage Reduction\n4. Maximum Life\n5. Damage Reduction from Enemies Affected by Shadow Damage Over Time\n6. Damage Reduction from Distant Enemies\n7. Shadow Damage\n8. Darkness Skill Damage\n9. All Stats\n10. Intelligence"
   ],
   [
-    "gloves",
-    "One of: Aspect of Ultimate Shadow Blood-soaked Aspect Sacrificial Aspect\nHowl from Below",
-    "1. Critical Strike Chance\n2. Attack Speed\n3. Ranks of Blight\n4. Lucky Hit Chance\n5. Shadow Damage Over Time\n6. All Stats\n7. Intelligence\n8. Corpse Explosion Damage"
-  ],
-  [
     "pants",
-    "One of: Aspect of Might Aspect of Disobedience Aspect of Shielding Storm\nAspect of the Embalmer",
+    [
+      "Aspect of Might",
+      "Aspect of Disobedience",
+      "Aspect of Shielding Storm",
+      "Aspect of the Embalmer"
+    ],
     "Implicit: Potion Grants Barrier\n1. Ranks of Corpse Explosion\n2. % Total Armor\n3. Damage Reduction from Close Enemies\n4. Damage Reduction from Enemies Affected by Shadow Damage Over Time\n5. Damage Reduction\n6. Maximum Life\n7. Damage Reduction from Distant\nEnemies"
   ],
   [
     "boots",
-    "Aspect of the Void",
+    [
+      "Aspect of the Void"
+    ],
     "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Ranks of Corpse Tendrils\n3. Dodge Chance\n4. All Stats\n5. Essence Cost Reduction\n6. Intelligence"
   ],
   [
     "amulet",
-    "Aspect of Decay",
+    [
+      "Aspect of Decay"
+    ],
     "1. Ranks of All Corpse Skills\n2. Cooldown Reduction\n3. Movement Speed\n4. Total Armor\n5. Ranks of Terror Passive\n*\n6. Ranks of Gloom Passive\n*\n7. Ranks of Fueled by Death\n*\n8. Lucky Hit Chance while You Have a Barrier\n9. Damage Reduction\n10. Damage Reduction from Distant Enemies\n11. Darkness Skill Damage\n* These stats cannot spawn\ntogether on the same Amulet"
   ],
   [
     "ring",
-    "Aspect of Grasping Veins",
+    [
+      "Aspect of Grasping Veins"
+    ],
     "1. Critical Strike Chance\n2. Critical Strike Damage\n3. Vulnerable Damage\n4. Lucky Hit Chance\n5. Maximum Life\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\n8. Damage to Close Enemies\n9. Shadow Damage"
-  ],
-  [
-    "ring",
-    "One of: X'Fal's Corroded Signet Blood-soaked Aspect Aspect of Ultimate Shadow Aspect of the Umbral\nSacrificial Aspect",
-    "1. Shadow Damage Over Time Effect\n2. Critical Strike Chance\n3. Maximum Life\n4. Critical Strike Damage\n5. Vulnerable Damage\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\n8. Damage to Close Enemies\n9. Lucky Hit Chance\n10. Shadow Damage"
   ]
 ]

@@ -230,5 +230,102 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_sorc_119",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_sorc_119",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_sorc_126",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_sorc_119",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_sorc_108",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_sorc_119",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_115",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_027",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_129",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_125",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_sorc_118",
+      "Type": "ring"
+    }
+  ]
 }

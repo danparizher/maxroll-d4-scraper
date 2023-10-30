@@ -6,57 +6,91 @@
   ],
   [
     "ranged",
-    "Repeating\nor Corruption",
+    [
+      "Repeating",
+      "Corruption"
+    ],
     "Weapon Type: Bow\n1. High Damage per Second\n2. Damage to Crowd Controlled Enemies\n3. Ultimate Skill Damage\n4. All Stats\n5. Dexterity\n6. Vulnerable Damage\n7. Core Skill Damage\nSockets Royal Diamond"
   ],
   [
     "weapon",
-    "One of: Edgemaster\u2019s Conceited Accelerating Corruption or\nRepeating",
+    [
+      "Edgemaster\u2019s",
+      "Conceited ",
+      "Accelerating",
+      "Corruption",
+      "Repeating"
+    ],
     "Weapon Type: Sword Damage doesn't matter\n1. Damage to Crowd Controlled Enemies\n2. Ultimate Skill Damage\n3. All Stats\n4. Dexterity\n5. Vulnerable Damage\n6. Core Skill Damage\nSocket Royal Diamond"
   ],
   [
     "weapon",
-    "One of: Edgemaster\u2019s Conceited Accelerating Corruption or\nRepeating",
+    [
+      "Edgemaster\u2019s",
+      "Conceited ",
+      "Accelerating",
+      "Corruption",
+      "Repeating"
+    ],
     "Weapon Type: Sword Damage doesn't matter\n1. Damage to Crowd Controlled Enemies\n2. Ultimate Skill Damage\n3. All Stats\n4. Dexterity\n5. Vulnerable Damage\n6. Core Skill Damage\nSocket Royal Diamond"
   ],
   [
     "helm",
-    "One of: Disobedience\nEscape Artist's",
+    [
+      "Disobedience",
+      "Escape Artist's"
+    ],
     "1. Any Resistance\n2. Cooldown Reduction\n3. Total Armor %\n4. Ranks to Poison Imbuement\n5. Maximum Life\n6. Total Armor\nSocket Royal Ruby"
   ],
   [
     "chest",
-    "One of: Disobedience\nEscape Artist's",
+    [
+      "Disobedience",
+      "Escape Artist's"
+    ],
     "1. Any Resistance \n2. Any Resistance \n3. Any Resistance \n4. Damage Reduction\n5. Damage Reduction from Close\n6. Total Armor %\n7. Damage Reduction from Distant\n8. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "gloves",
-    "Aspect of Noxious Ice",
+    [
+      "Aspect of Noxious Ice"
+    ],
     "1. Ranks to Rapid Fire\n2. Attack Speed\n3. Critical Strike Chance\n4. Lucky Hit Chance\n5. All Stats"
   ],
   [
     "pants",
-    "Aspect of the Protector",
+    [
+      "Aspect of the Protector"
+    ],
     "Implicit: Potion Grants Barrier\n1. Damage Reduction\n2. Damage Reduction from Close\n3. Total Armor\n4. Damage Reduction from Distant\n5. Maximum Life\nSockets Royal Ruby"
   ],
   [
     "boots",
-    "Ravager's",
+    [
+      "Ravager's"
+    ],
     "Implicit: Max Evade Charges\n1. Movement Speed\n2. Any Resistance\n3. Any Resistance\n4. Any Resistance\n5. Movement Speed on Elite Kill\n6. Dodge Chance"
   ],
   [
-    "amulet",
-    "Word of Hakan",
-    "1. Rain of Arrows Cooldown Reduction\n2. Ultimate Skill Damage\n3. Movement Speed\n4. Ranks of All Imbuement Skills\nSocket any Gem to cap Resistances or Royal Skull if capped"
-  ],
-  [
     "ring",
-    "One of: Edgemaster\u2019s Conceited Accelerating Corruption or\nRepeating",
+    [
+      "Edgemaster\u2019s",
+      "Conceited ",
+      "Accelerating",
+      "Corruption",
+      "Repeating"
+    ],
     "1. Damage to Crowd Controlled Enemies\n2. Resource Generation\n3. Critical Strike Chance\n4. Maximum Life\n5. Vulnerable Damage\n6. Critical Strike Damage\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ],
   [
     "ring",
-    "One of: Edgemaster\u2019s Conceited Accelerating Corruption or\nRepeating",
+    [
+      "Edgemaster\u2019s",
+      "Conceited ",
+      "Accelerating",
+      "Corruption",
+      "Repeating"
+    ],
     "1. Damage to Crowd Controlled Enemies\n2. Resource Generation\n3. Critical Strike Chance\n4. Maximum Life\n5. Vulnerable Damage\n6. Critical Strike Damage\nSocket any Gem to cap Resistances or Royal Skull if capped"
   ]
 ]

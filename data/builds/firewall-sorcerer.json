@@ -6,52 +6,80 @@
   ],
   [
     "weapon",
-    "one of: Edgemaster\u2019s Conceited\nStorm Swell",
+    [
+      "Edgemaster\u2019s",
+      "Conceited",
+      "Storm Swell"
+    ],
     "Weapon Type: Wand\n1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Critical Strike Damage\n5. Mastery Skill Damage\n6. Damage to Close Enemies"
   ],
   [
     "offhand",
-    "one of: Edgemaster\u2019s Conceited\nStorm Swell",
+    [
+      "Edgemaster\u2019s",
+      "Conceited",
+      "Storm Swell"
+    ],
     "1. Cooldown Reduction\n2. High Damage per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Intelligence\n6. Damage Reduction against Burning Enemies\n7. Lucky Hit Chance"
   ],
   [
     "helm",
-    "Shared Misery",
+    [
+      "Shared Misery"
+    ],
     "1. Cooldown Reduction\n2. % Total Armor\n3. Maximum Life\n4. Lucky Hit Chance while Barrier\n5. Intelligence\n6. Crowd Control Duration"
   ],
   [
     "chest",
-    "Snowveiled",
+    [
+      "Snowveiled"
+    ],
     "1. % Total Armor\n2. Damage Reduction against Burning Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction against Distant Enemies\n5. Damage Reduction\n6. Maximum Life"
   ],
   [
     "gloves",
-    "one of: Edgemaster\u2019s Conceited\nStorm Swell",
+    [
+      "Edgemaster\u2019s",
+      "Conceited",
+      "Storm Swell"
+    ],
     "1. Attack Speed\n2. Intelligence\n3. Lucky Hit Chance\n4. Lucky Hit: Chance to Restore Resource\n5. All Stats\n6. Lucky Hit: Chance to Heal"
   ],
   [
     "pants",
-    "Disobedience",
+    [
+      "Disobedience"
+    ],
     "1. Ranks to Firewall\n2. % Total Armor\n3. Damage Reduction against Burning Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction against Distant Enemies\n6. Damage Reduction\n7. Maximum Life"
   ],
   [
     "boots",
-    "Bounding Conduit or\nGhostwalker",
+    [
+      "Bounding Conduit",
+      "Ghostwalker"
+    ],
     "Implicit: Max Evade Charges\n1. Mana Cost Reduction\n2. Movement Speed\n4. Ranks to Teleport\n5. Intelligence"
   ],
   [
     "amulet",
-    "Control",
+    [
+      "Control"
+    ],
     "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Ranks to Mastery Skills\n4. Movement Speed\n5. Ranks to Inner Flames\n6. Ranks to Defensive Skills\n7. Damage Reduction from Burning Enemies"
   ],
   [
     "ring",
-    "Prodigy\u2019s or\nRetribution",
+    [
+      "Prodigy\u2019s",
+      "Retribution"
+    ],
     "1. Vulnerable Damage\n2. Resource Generation\n3. Critical Strike Damage\n4. Maximum Life\n5. Lucky Hit Chance\n6. Damage to Close Enemies"
   ],
   [
     "ring",
-    "Engulfing Flames",
+    [
+      "Engulfing Flames"
+    ],
     "1. Vulnerable Damage\n2. Resource Generation\n3. Critical Strike Damage\n4. Maximum Life\n5. Lucky Hit Chance\n6. Damage to Close Enemies"
   ]
 ]

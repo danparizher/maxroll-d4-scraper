@@ -6,52 +6,86 @@
   ],
   [
     "weapon",
-    "one of: Gravitational Storm Swell Conceited\nControl",
+    [
+      "Gravitational",
+      "Storm Swell",
+      "Conceited",
+      "Control"
+    ],
     "Weapon Type: Dagger\n1. High Damage Per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close Enemies\n5. Mastery Skill Damage\n6. Critical Strike Damage"
   ],
   [
     "offhand",
-    "one of: Gravitational Storm Swell Conceited\nControl",
+    [
+      "Gravitational",
+      "Storm Swell",
+      "Conceited",
+      "Control"
+    ],
     "1. Cooldown Reduction\n2. High Damage Per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource"
   ],
   [
     "helm",
-    "Disobedience",
+    [
+      "Disobedience"
+    ],
     "1. Cooldown Reduction\n2. % Total Armor\n3. Maximum Life\n4. Maximum Mana\n5. Intelligence"
   ],
   [
     "chest",
-    "Unwavering",
+    [
+      "Unwavering"
+    ],
     "1. % Total Armor\n2. Damage Reduction against Close Enemies\n3. Damage Reduction against Distant Enemies\n4.1 Damage Reduction\n4.2 Maximum Life\n6. Damage Reduction against Burning Enemies"
   ],
   [
     "gloves",
-    "one of: Gravitational Storm Swell Conceited\nControl",
+    [
+      "Gravitational",
+      "Storm Swell",
+      "Conceited",
+      "Control"
+    ],
     "1. Attack Speed\n2. Critical Strike Chance\n3. Intelligence\n4. Critical Strike Chance against Injured Enemies\n5. Lucky Hit: Chance to Regain Resource"
   ],
   [
     "pants",
-    "Snowveiled",
+    [
+      "Snowveiled"
+    ],
     "1. Ranks to Ball Lightning\n2. % Total Armor\n3. Damage Reduction against Close Enemies\n4. Damage Reduction against Distant Enemies\n5. Damage Reduction\n6. Maximum Life"
   ],
   [
     "boots",
-    "Ghostwalker",
+    [
+      "Ghostwalker"
+    ],
     "1. Mana Cost Reduction\n2. Implicit: Attacks Reduce Evade's Cooldown\n3. Implicit: +Max Evade Charges\n4. Movement Speed\n5. Ranks to Teleport\n6. Ranks to Frost Nova\n7. Intelligence"
   ],
   [
     "amulet",
-    "Disobedience or\nControl",
+    [
+      "Disobedience",
+      "Control"
+    ],
     "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Ranks to Mastery Skills\n4. Movement Speed\n5. Ranks to Conjuration Mastery\n6. Ranks Elemental Dominance\n7. Ranks to Glass Cannon\n6. Ranks to Defensive Skills"
   ],
   [
     "ring",
-    "one of: Gravitational Storm Swell Conceited\nControl",
+    [
+      "Gravitational",
+      "Storm Swell",
+      "Conceited",
+      "Control"
+    ],
     "1. Resource Generation\n2. Critical Strike Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Maximum Mana"
   ],
   [
     "ring",
-    "Prodigy\u2019s\nRecharging",
+    [
+      "Prodigy\u2019s",
+      "Recharging"
+    ],
     "1. Resource Generation\n2. Critical Strike Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Maximum Mana"
   ]
 ]

@@ -254,5 +254,134 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_rogue_011",
+      "Type": "ranged"
+    },
+    {
+      "Id": "legendary_rogue_126",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_rogue_029",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_rogue_126",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_rogue_029",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_rogue_111",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_rogue_111",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_rogue_126",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_rogue_029",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_rogue_111",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_rogue_114",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_rogue_116",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_rogue_126",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_rogue_029",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_067",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_rogue_126",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_rogue_029",
+      "Type": "ring"
+    }
+  ]
 }

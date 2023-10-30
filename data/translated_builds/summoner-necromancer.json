@@ -222,22 +222,6 @@
       "Type": "amulet"
     },
     {
-      "Id": "Luck",
-      "Type": "ring"
-    },
-    {
-      "Id": "PetAttackSpeed_Necro",
-      "Type": "ring"
-    },
-    {
-      "Id": "PetHealth_Necro",
-      "Type": "ring"
-    },
-    {
-      "Id": "Thorns",
-      "Type": "ring"
-    },
-    {
       "Id": "CritChance",
       "Type": "ring"
     },
@@ -274,5 +258,114 @@
       "Type": "ring"
     }
   ],
-  "ItemAspects": []
+  "ItemAspects": [
+    {
+      "Id": "legendary_necro_118",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_necro_066",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_necro_102",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_necro_067",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_necro_102",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_necro_118",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_necro_066",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_necro_067",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_necro_115",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_necro_054",
+      "Type": "helm"
+    },
+    {
+      "Id": "legendary_necro_115",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_necro_054",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_necro_118",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_necro_066",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_necro_102",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_necro_067",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_necro_054",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_necro_115",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_druid_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_necro_002",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_necro_118",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_necro_066",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_necro_102",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_necro_067",
+      "Type": "ring"
+    }
+  ]
 }
