@@ -244,30 +244,6 @@
     {
       "Id": "CritDamage",
       "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
-      "Type": "ring"
-    },
-    {
-      "Id": "ResourceGain",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "ring"
     }
   ],
   "ItemAspects": [
@@ -346,26 +322,6 @@
     {
       "Id": "legendary_rogue_118",
       "Type": "boots"
-    },
-    {
-      "Id": "legendary_generic_063",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_generic_027",
-      "Type": "ring"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_rogue_113",
-      "Type": "ring"
-    },
-    {
-      "Id": "Legendary_Rogue_124",
-      "Type": "ring"
     },
     {
       "Id": "legendary_generic_063",

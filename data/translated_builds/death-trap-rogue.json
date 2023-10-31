@@ -268,30 +268,6 @@
     {
       "Id": "CritDamage",
       "Type": "ring"
-    },
-    {
-      "Id": "ResourceGain",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "ring"
     }
   ],
   "ItemAspects": [
@@ -362,14 +338,6 @@
     {
       "Id": "legendary_generic_100",
       "Type": "amulet"
-    },
-    {
-      "Id": "legendary_rogue_106",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_generic_021",
-      "Type": "ring"
     },
     {
       "Id": "legendary_rogue_106",

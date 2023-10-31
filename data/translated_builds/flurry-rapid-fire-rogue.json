@@ -312,30 +312,6 @@
     {
       "Id": "Damage_to_Vulnerable",
       "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "ResourceGain",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "ring"
     }
   ],
   "ItemAspects": [
@@ -398,18 +374,6 @@
     {
       "Id": "legendary_generic_100",
       "Type": "amulet"
-    },
-    {
-      "Id": "legendary_rogue_011",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_generic_043",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_generic_067",
-      "Type": "ring"
     },
     {
       "Id": "legendary_rogue_011",
