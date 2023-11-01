@@ -1,0 +1,71 @@
+[
+  [
+    "SLOT",
+    "ASPECT",
+    "STAT PRIORITY"
+  ],
+  [
+    "weapon",
+    [
+      "Aspect of Metamorphic Stone",
+      "Retaliation",
+      "Aspect of Natural Balance"
+    ],
+    "Weapon Type: Axe\n1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Damage to Crowd Controlled Enemies\n5. Core Skill Damage\n6. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills\n9. Damage to Close Enemies"
+  ],
+  [
+    "offhand",
+    [
+      "Aspect of Metamorphic Stone",
+      "Retaliation",
+      "Aspect of Natural Balance"
+    ],
+    "1. High Damage per Second\n2. Critical Strike Chance\n3. Damage Reduction from Poisoned Enemies\n4. Damage Reduction while Fortified\n5. Spirit Cost Reduction\n6. Cooldown Reduction\n*\n7. Resource Generation\n8. Willpower"
+  ],
+  [
+    "chest",
+    [
+      "Might",
+      "Disobedience"
+    ],
+    "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction from Poisoned Enemies\n5. Damage Reduction while Fortified\n6. Maximum Life\n7. Willpower"
+  ],
+  [
+    "gloves",
+    [
+      "Symbiotic Aspect"
+    ],
+    "1. Critical Strike Chance\n2. Storm Skill Cooldown Reduction\n3. Attack Speed\n4. Willpower\n5. All Stats\n6. Critical Strike Damage with Earth Skills"
+  ],
+  [
+    "pants",
+    [
+      "Might",
+      "Disobedience"
+    ],
+    "Implicit: Potion Grants Barrier\n1. Ranks of Boulder\n2. % Total Armor\n3. Damage Reduction from Poisoned Enemies\n4. Damage Reduction while Fortified\n5. Damage Reduction from Distant Enemies\n6. Damage Reduction from Close Enemies\n7. Maximum Life"
+  ],
+  [
+    "boots",
+    [
+      "Ghostwalker"
+    ],
+    "Implicit: +3 Maximum Evade Charges\n1. Movement Speed\n2. Spirit Cost Reduction\n3. Willpower\n4. All Stats\n5. Damage Reduction while Injured\n6. Dodge"
+  ],
+  [
+    "ring",
+    [
+      "Aspect of Metamorphic Stone",
+      "Retaliation",
+      "Aspect of Natural Balance"
+    ],
+    "1. Critical Strike Chance\n2. Damage to Crowd Controlled Enemies\n3. Physical Damage\n4. Resource Generation\n6. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills"
+  ],
+  [
+    "ring",
+    [
+      "Aspect of the Umbral"
+    ],
+    "1. Critical Strike Chance\n2. Damage to Crowd Controlled Enemies\n3. Physical Damage\n4. Resource Generation\n6. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills"
+  ]
+]

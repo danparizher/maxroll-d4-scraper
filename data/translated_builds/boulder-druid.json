@@ -1,0 +1,291 @@
+{
+  "Name": "boulder-druid",
+  "ItemAffixes": [
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritDamage_With_Earth",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "offhand"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "offhand"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "offhand"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Druid",
+      "Type": "offhand"
+    },
+    {
+      "Id": "CD_Reduction",
+      "Type": "offhand"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "offhand"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "offhand"
+    },
+    {
+      "Id": "Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "chest"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "chest"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "chest"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "chest"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Resource_Reduction_Storm",
+      "Type": "gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CritDamage_With_Earth",
+      "Type": "gloves"
+    },
+    {
+      "Id": "SkillRankBonus_Druid_Special_Boulder",
+      "Type": "pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "DamageReduction_Poisoned",
+      "Type": "pants"
+    },
+    {
+      "Id": "FortifyDamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "DamageReductionDistant",
+      "Type": "pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Druid",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "boots"
+    },
+    {
+      "Id": "DamageReductionInjured",
+      "Type": "boots"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "boots"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritDamage_With_Earth",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritDamage_With_Earth",
+      "Type": "ring"
+    }
+  ],
+  "ItemAspects": [
+    {
+      "Id": "Legendary_Druid_118",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_druid_029",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Legendary_Druid_118",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_druid_029",
+      "Type": "offhand"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "chest"
+    },
+    {
+      "Id": "legendary_druid_113",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "Legendary_Druid_118",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_071",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_029",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "ring"
+    }
+  ]
+}

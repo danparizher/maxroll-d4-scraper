@@ -103,7 +103,7 @@ class Translator:
                 best_match_ratio = ratio
                 best_match_id = aspect_id
 
-        if best_match_ratio and best_match_ratio > 60:
+        if best_match_ratio and best_match_ratio > 55:
             assert best_match_id is not None
 
             if best_match_ratio < 80:
@@ -137,7 +137,7 @@ class Translator:
                 best_match_ratio = ratio
                 best_match_id = affix_id
 
-        if best_match_ratio and best_match_ratio > 60:
+        if best_match_ratio and best_match_ratio > 55:
             assert best_match_id is not None
 
             if best_match_ratio < 80:
