@@ -9,23 +9,7 @@
     [
       "Shockwave"
     ],
-    "1. High Damage per Second\n2. Willpower\n3. All Stats\n3. Damage to Crowd Controlled Enemies\n5. Core Skill Damage\n6. Damage to Close Enemies\n7. Vulnerable Damage\n8. Damage to Slowed Enemies\n9. Critical Strike Damage\n10. Critical Strike Damage with Earth Skills"
-  ],
-  [
-    "weapon",
-    [
-      "Retaliation",
-      "Accelerating"
-    ],
-    "1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Core Skill Damage\n5. Damage to Close Enemies\n6. Vulnerable Damage\n7. Damage to Slowed Enemies\n8. Critical Strike Damage\n9. Critical Strike Damage with Earth Skills"
-  ],
-  [
-    "offhand",
-    [
-      "Retaliation",
-      "Accelerating"
-    ],
-    "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Damage Reduction while Fortified\n5. Willpower"
+    "1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Damage to Crowd Controlled Enemies\n5. Core Skill Damage\n6. Damage to Close Enemies\n7. Vulnerable Damage\n8. Critical Strike Damage\n9. Critical Strike Damage with Earth Skills"
   ],
   [
     "helm",
@@ -37,18 +21,16 @@
   [
     "chest",
     [
-      "Quicksand",
-      "Might"
+      "Quicksand"
     ],
     "1. Damage Reduction while Fortified\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. % Total Armor\n6. Maximum Life\n7. Willpower"
   ],
   [
     "gloves",
     [
-      "Ursine Horror",
-      "Rampaging Werebeast"
+      "Ursine Horror"
     ],
-    "1. Ranks to Pulverize\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit Chance\n5. Willpower"
+    "1. Ranks to Pulverize\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit Chance\n*\n5. Willpower\n6. All Stats\n7. Critical Strike Damage with Earth Skills"
   ],
   [
     "pants",
@@ -56,44 +38,37 @@
       "Disobedience",
       "Might"
     ],
-    "Implicit: Potion Grants Barrier\n1. Damage Reduction while Fortified\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. % Total Armor while in Werebear Form\n5. % Total Armor\n6. Maximum Life"
+    "Implicit: Potion Grants Barrier\n1. Damage Reduction while Fortified\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. Maximum Life\n6. % Total Armor while in Werebear Form\n7. % Total Armor"
   ],
   [
     "boots",
     [
       "Quicksand",
-      "Ghostwalker Aspect"
+      "Ghostwalker"
     ],
-    "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Movement Speed after killing an Elite\n3. Spirit Cost Reduction\n4. Willpower\n5. Resists (as needed)"
-  ],
-  [
-    "boots",
-    [
-      "Quicksand"
-    ],
-    "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Spirit Cost Reduction\n3. Dodge Chance\n4. Willpower\n5. Resists (as needed)\n6. Dodge Chance Against Distant Enemies"
+    "Implicit: Maximum Charges\n1. Movement Speed\n2. Spirit Cost Reduction\n3. Movement Speed after killing an Elite\n4. Willpower\n5. All Stats\n6. Resists (as needed)"
   ],
   [
     "amulet",
     [
       "Retaliation",
-      "Shockwave"
+      "Shockwave Aspect"
     ],
     "1. Cooldown Reduction\n2. Spirit Cost Reduction\n3. Movement Speed\n4. Ranks to Crushing Earth\n5. Ranks to Nature's Reach\n6. Damage Reduction while Fortified\n7. Damage Reduction from Close Enemies\n8. Damage Reduction from Distant Enemies"
   ],
   [
     "ring",
     [
-      "Ursine Horror",
-      "Rampaging Werebeast"
+      "Rampaging Werebeast",
+      "Aspect of Retaliation"
     ],
-    "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills\n9. Damage to Crowd Controlled Enemies\n*"
+    "1. Critical Strike Chance\n2. Lucky Hit Chance\n*\n3. Maximum Life\n4. Physical Damage\n5. Resource Generation\n6. Critical Strike Damage\n7. Critical Strike Damage with Earth Skills\n8. Damage to Crowd Controlled Enemies\n**"
   ],
   [
     "ring",
     [
       "Umbral"
     ],
-    "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills\n9. Damage to Crowd Controlled Enemies\n*"
+    "1. Critical Strike Chance\n2. Lucky Hit Chance\n*\n3. Maximum Life\n4. Physical Damage\n5. Resource Generation\n6. Critical Strike Damage\n7. Critical Strike Damage with Earth Skills\n8. Damage to Crowd Controlled Enemies\n**"
   ]
 ]

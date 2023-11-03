@@ -10,15 +10,15 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "weapon"
-    },
-    {
       "Id": "CoreStat_Strength",
       "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
       "Type": "weapon"
     },
     {
@@ -34,15 +34,15 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "weapon"
-    },
-    {
       "Id": "CoreStat_Strength",
       "Type": "weapon"
     },
     {
       "Id": "CoreStats_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
       "Type": "weapon"
     },
     {
@@ -58,10 +58,6 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "weapon"
-    },
-    {
       "Id": "CoreStat_Strength",
       "Type": "weapon"
     },
@@ -70,7 +66,7 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Bleeding",
+      "Id": "Damage_Category_Spenders",
       "Type": "weapon"
     },
     {
@@ -86,10 +82,6 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_Category_Spenders",
-      "Type": "weapon"
-    },
-    {
       "Id": "CoreStat_Strength",
       "Type": "weapon"
     },
@@ -98,7 +90,7 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Bleeding",
+      "Id": "Damage_Category_Spenders",
       "Type": "weapon"
     },
     {
@@ -270,7 +262,7 @@
       "Type": "amulet"
     },
     {
-      "Id": "PassiveRankBonus_Barb_10_Wallop",
+      "Id": "PassiveRankBonus_Barb_03_Counteroffensive",
       "Type": "amulet"
     },
     {
@@ -278,7 +270,7 @@
       "Type": "amulet"
     },
     {
-      "Id": "PassiveRankBonus_Barb_03_Counteroffensive",
+      "Id": "PassiveRankBonus_Barb_10_Wallop",
       "Type": "amulet"
     },
     {
@@ -312,7 +304,7 @@
   ],
   "ItemAspects": [
     {
-      "Id": "Legendary_Generic_110",
+      "Id": "legendary_generic_063",
       "Type": "weapon"
     },
     {
@@ -320,7 +312,7 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_generic_038",
+      "Id": "Legendary_Barb_109",
       "Type": "weapon"
     },
     {
@@ -328,15 +320,15 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_generic_063",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_generic_109",
-      "Type": "weapon"
-    },
-    {
       "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_027",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
       "Type": "weapon"
     },
     {
@@ -344,31 +336,23 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_generic_009",
-      "Type": "helm"
-    },
-    {
       "Id": "legendary_barb_017",
       "Type": "helm"
     },
     {
-      "Id": "legendary_generic_113",
+      "Id": "legendary_generic_009",
       "Type": "chest"
     },
     {
-      "Id": "legendary_barb_001",
+      "Id": "Legendary_Generic_110",
       "Type": "gloves"
     },
     {
-      "Id": "legendary_generic_067",
+      "Id": "legendary_barb_027",
       "Type": "gloves"
     },
     {
-      "Id": "legendary_generic_009",
-      "Type": "pants"
-    },
-    {
-      "Id": "legendary_barb_017",
+      "Id": "legendary_barb_055",
       "Type": "pants"
     },
     {
@@ -384,7 +368,7 @@
       "Type": "ring"
     },
     {
-      "Id": "legendary_barb_007",
+      "Id": "legendary_barb_022",
       "Type": "ring"
     }
   ]

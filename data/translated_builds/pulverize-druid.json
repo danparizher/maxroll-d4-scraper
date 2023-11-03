@@ -26,68 +26,12 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Slowed",
-      "Type": "weapon"
-    },
-    {
       "Id": "CritDamage",
       "Type": "weapon"
     },
     {
       "Id": "CritDamage_With_Earth",
       "Type": "weapon"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_Category_Spenders",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Slowed",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage_With_Earth",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Luck",
-      "Type": "offhand"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "offhand"
     },
     {
       "Id": "CD_Reduction",
@@ -182,6 +126,14 @@
       "Type": "gloves"
     },
     {
+      "Id": "CoreStats_All",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CritDamage_With_Earth",
+      "Type": "gloves"
+    },
+    {
       "Id": "FortifyDamageReduction",
       "Type": "pants"
     },
@@ -194,6 +146,14 @@
       "Type": "pants"
     },
     {
+      "Id": "DamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
       "Id": "Werebear_Armor",
       "Type": "pants"
     },
@@ -202,10 +162,6 @@
       "Type": "pants"
     },
     {
-      "Id": "Life",
-      "Type": "pants"
-    },
-    {
       "Id": "Movement_Speed",
       "Type": "boots"
     },
@@ -215,6 +171,10 @@
     },
     {
       "Id": "CoreStat_Willpower",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStats_All",
       "Type": "boots"
     },
     {
@@ -235,46 +195,6 @@
     },
     {
       "Id": "Resistance_Single_Shadow",
-      "Type": "boots"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Druid",
-      "Type": "boots"
-    },
-    {
-      "Id": "Dodge",
-      "Type": "boots"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resistance_Single_Fire",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resistance_Single_Shadow",
-      "Type": "boots"
-    },
-    {
-      "Id": "Dodge_Ranged",
       "Type": "boots"
     },
     {
@@ -322,11 +242,11 @@
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "Damage_Type_Bonus_Physical",
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Vulnerable",
+      "Id": "ResourceGain",
       "Type": "ring"
     },
     {
@@ -354,11 +274,11 @@
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "Damage_Type_Bonus_Physical",
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Vulnerable",
+      "Id": "ResourceGain",
       "Type": "ring"
     },
     {
@@ -380,22 +300,6 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_druid_071",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_druid_071",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "offhand"
-    },
-    {
       "Id": "legendary_druid_026",
       "Type": "helm"
     },
@@ -404,15 +308,7 @@
       "Type": "chest"
     },
     {
-      "Id": "legendary_generic_009",
-      "Type": "chest"
-    },
-    {
       "Id": "legendary_druid_066",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_druid_104",
       "Type": "gloves"
     },
     {
@@ -432,10 +328,6 @@
       "Type": "boots"
     },
     {
-      "Id": "legendary_druid_018",
-      "Type": "boots"
-    },
-    {
       "Id": "legendary_druid_071",
       "Type": "amulet"
     },
@@ -444,11 +336,11 @@
       "Type": "amulet"
     },
     {
-      "Id": "legendary_druid_066",
+      "Id": "legendary_druid_104",
       "Type": "ring"
     },
     {
-      "Id": "legendary_druid_104",
+      "Id": "legendary_druid_071",
       "Type": "ring"
     },
     {
