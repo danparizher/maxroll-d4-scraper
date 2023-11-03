@@ -160,26 +160,27 @@ class Translator:
         rows = iter(data)
         _header = next(rows)
 
-        output = {
+        output: dict[str, str | list[dict[str, str]]] = {
             "Name": build_name,
             "ItemAffixes": [],
-            "ItemAspects": [],  # TODO: Add aspects to translated builds
+            "ItemAspects": [],
         }
 
         print(f"FILE: {build_name}.json")
         for gear_type, aspects, stat_numbered_list in rows:
-            affixes = {}
+            affixes: dict[str, None] = {}
 
             # parse aspects
             for aspect in aspects:
                 cleaned_aspect = self.clean_aspect(aspect)
                 aspect_id = self.map_aspect_to_id(cleaned_aspect)
-                output["ItemAspects"].append(
-                    {
-                        "Id": aspect_id,
-                        "Type": gear_type,
-                    },
-                )
+                if isinstance(output["ItemAspects"], list):
+                    output["ItemAspects"].append(
+                        {
+                            "Id": aspect_id,
+                            "Type": gear_type,
+                        },
+                    )
 
             # parse affixes
             for stat_numbered in stat_numbered_list.splitlines():
@@ -224,12 +225,13 @@ class Translator:
                     affixes.setdefault(multi_stat, None)
 
             for affix in affixes:
-                output["ItemAffixes"].append(
-                    {
-                        "Id": self.map_affix_to_id(affix),
-                        "Type": gear_type,
-                    },
-                )
+                if isinstance(output["ItemAffixes"], list):
+                    output["ItemAffixes"].append(
+                        {
+                            "Id": self.map_affix_to_id(affix),
+                            "Type": gear_type,
+                        },
+                    )
 
         return output
 

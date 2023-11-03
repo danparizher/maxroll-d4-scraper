@@ -33,12 +33,12 @@ logging.basicConfig(
 
 class Uniques:
     def __init__(self: Uniques) -> None:
-        self.core_toc = []
-        self.item_files = []
-        self.uniques = []
+        self.core_toc: dict[str, dict[str, str]] = {}
+        self.item_files: list[str] = []
+        self.uniques: list[str] = []
 
     @staticmethod
-    def fetch_data(url: str) -> dict[str, Any]:
+    def fetch_data(url: str) -> dict[str, dict[str, str]]:
         """Return the JSON data from the given URL."""
         response = requests.get(url, timeout=10)
         return response.json()
@@ -54,18 +54,18 @@ class Uniques:
 
     def get_uniques(self) -> list[str]:
         """Return a list of unique item names."""
-        self.item_files = self.fetch_item_files()
-        if self.item_files is not None:
+        item_files = self.fetch_item_files()
+        if item_files is not None:
             with ThreadPoolExecutor() as executor:
                 futures = [
                     executor.submit(
                         self.fetch_data,
                         f"https://raw.githubusercontent.com/blizzhackers/d4data/master/json/enUS_Text/meta/StringList/Item_{value}.stl.json",
                     )
-                    for value in self.item_files
+                    for value in item_files
                 ]
                 for future in concurrent.futures.as_completed(futures):
-                    data = future.result()
+                    data: dict[str, Any] = future.result()
                     self.uniques.append(data["arStrings"][0]["szText"])
         return self.uniques
 
@@ -171,7 +171,11 @@ def get_build_paths_for_class(path: str) -> list[str]:
         By.XPATH,
         "/html/body/div[5]/section/div[1]/div/main/div/div[4]/div/div/div/a",
     )
-    build_paths += [link.get_attribute("href") for link in builds]
+    build_paths += [
+        str(link.get_attribute("href"))
+        for link in builds
+        if isinstance(link.get_attribute("href"), str)
+    ]
     driver.quit()
     for build_path in build_paths:
         logging.info("Retrieved build path: %s", build_path)
@@ -224,13 +228,12 @@ def get_text_lines(tag: Tag) -> str:
 
 def parse_aspects(aspects: Tag) -> list[str]:
     """Return a list of aspects from the given HTML tag."""
-    # <span class="d4-affix" data-d4-id="1215769"><span class="d4-gametip"><div class="d4t-sprite-icon"><div class="d4t-icon d4t-aspect-icon" style="background-position-x: -2em;"></div></div>‍<span class="d4-color-legendary">Control</span></span></span>
     return [aspect.text for aspect in aspects.find_all("span", class_="d4-affix")]
 
 
-def get_table_data(paths: list[str]) -> list[list[str]]:
+def get_table_data(paths: list[str]) -> list[list[str | list[str]]]:
     """Return a list of stat priorities for the given build paths."""
-    build_jsons = []
+    build_jsons: list[list[str | list[str]]] = []
     for path in paths:
         soup = get_soup(path)
         logging.info("Retrieving stat priorities from %s", path)
@@ -267,7 +270,7 @@ def get_table_data(paths: list[str]) -> list[list[str]]:
                     [
                         get_text_lines(slot),
                         parse_aspects(aspects)
-                        if build_jsons
+                        if aspects.find_all("span", class_="d4-affix")
                         else get_text_lines(aspects),
                         get_text_lines(affixes),
                     ],
