@@ -26,9 +26,6 @@ SKIP_STATS = [
     "Movement Speed for 4 Seconds After Killing an Elite",  # unclear??? (no associated ID in stat map)
     "movement speed after killing an elite",  # same ^ (no associated ID in stat map)
     "movement speed on elite kill",  # same ^ (no associated ID in stat map)
-    "After using Teleport, Close enemies are Pulled to you and Stunned for 2-3 Seconds, but Teleport's Cooldown is increased by 20%",  # unique
-    "PH",  # same ^
-    "Lucky Hit: Chance to empower all of your Minions, causing the next attack from each to explode for Physical Damage",  # unique
 ]
 
 

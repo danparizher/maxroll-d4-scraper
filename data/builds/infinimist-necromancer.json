@@ -33,11 +33,25 @@
     "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Affected by Shadow Damage Over Time Enemies\n4. Damage Reduction against Close Enemies\n6. Damage Reduction"
   ],
   [
+    "gloves",
+    [
+      "Aspect of Shared Misery"
+    ],
+    "1. Lucky Hit Chance\n2. Critical Strike Chance\n3. Shadow Damage over Time\n5. Intelligence\n6. Attack Speed"
+  ],
+  [
     "pants",
     [
       "Defensive Aspect of Shielding Storm"
     ],
     "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. +xx Ranks to Corpse Explosion\n3. Damage Reduction from Affected by Shadow Damage Over Time Enemies\n4. Damage Reduction from Close Enemies\n5. +xx Ranks to Blood Mist\n6. Intelligence"
+  ],
+  [
+    "boots",
+    [
+      "Ghostwalker Mobility Aspect"
+    ],
+    "Implicit: + to Max Evade Charges\n1. Movement Speed\n2. +xx Ranks to Corpse Tendrils\n3. Intelligence\n4. All Stats"
   ],
   [
     "amulet",

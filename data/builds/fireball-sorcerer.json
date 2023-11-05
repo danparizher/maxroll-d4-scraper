@@ -49,6 +49,13 @@
     "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction against Burning Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Intelligence"
   ],
   [
+    "boots",
+    [
+      "Bounding Conduit"
+    ],
+    "1. Mana Cost Reduction\n2. Implicit: +Max Evade Charges\n3. Implicit: Attacks Reduce Evade's Cooldown\n4. Movement Speed\n5. Ranks to Teleport\n6. Ranks to Frost Nova\n7. Intelligence"
+  ],
+  [
     "amulet",
     [
       "Three Curses"

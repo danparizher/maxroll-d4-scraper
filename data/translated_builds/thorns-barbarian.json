@@ -58,6 +58,62 @@
       "Type": "weapon"
     },
     {
+      "Id": "Berserk_Damage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Category_Basics",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Bleeding",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Category_Basics",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Bleeding",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "weapon"
+    },
+    {
       "Id": "CD_Reduction",
       "Type": "helm"
     },
@@ -116,6 +172,34 @@
     {
       "Id": "Thorns",
       "Type": "chest"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Damage_to_LowLife",
+      "Type": "gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "gloves"
     },
     {
       "Id": "DamageReductionClose",
@@ -228,6 +312,34 @@
     {
       "Id": "Damage_to_Bleeding",
       "Type": "ring"
+    },
+    {
+      "Id": "Berserk_Damage",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "Resource_MaxFury",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Bleeding",
+      "Type": "ring"
     }
   ],
   "ItemAspects": [
@@ -240,12 +352,40 @@
       "Type": "weapon"
     },
     {
+      "Id": "legendary_barb_023",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_014",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_023",
+      "Type": "weapon"
+    },
+    {
       "Id": "legendary_barb_017",
       "Type": "helm"
     },
     {
       "Id": "legendary_generic_009",
       "Type": "chest"
+    },
+    {
+      "Id": "legendary_barb_023",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_014",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "gloves"
     },
     {
       "Id": "legendary_generic_036",
@@ -261,6 +401,18 @@
     },
     {
       "Id": "legendary_barb_057",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_barb_023",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_014",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_063",
       "Type": "ring"
     }
   ]

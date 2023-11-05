@@ -114,6 +114,22 @@
       "Type": "gloves"
     },
     {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "pants"
+    },
+    {
+      "Id": "DamageReduction",
+      "Type": "pants"
+    },
+    {
       "Id": "Movement_Speed",
       "Type": "boots"
     },
@@ -218,6 +234,10 @@
     {
       "Id": "legendary_necro_108",
       "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_009",
+      "Type": "pants"
     },
     {
       "Id": "legendary_generic_100",

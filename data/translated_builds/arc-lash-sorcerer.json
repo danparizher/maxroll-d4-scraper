@@ -162,6 +162,30 @@
       "Type": "boots"
     },
     {
+      "Id": "CD_Reduction",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Generic_Category_Defensive",
+      "Type": "amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Sorc_02_ConjurationMastery",
+      "Type": "amulet"
+    },
+    {
+      "Id": "PassiveRankBonus_Sorc_01_Hoarfrost",
+      "Type": "amulet"
+    },
+    {
+      "Id": "DamageReductionClose",
+      "Type": "amulet"
+    },
+    {
       "Id": "CritChance",
       "Type": "ring"
     },
@@ -262,6 +286,14 @@
     {
       "Id": "legendary_sorc_123",
       "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_043",
+      "Type": "amulet"
+    },
+    {
+      "Id": "legendary_generic_036",
+      "Type": "amulet"
     },
     {
       "Id": "legendary_sorc_129",

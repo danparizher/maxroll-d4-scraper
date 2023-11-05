@@ -138,6 +138,34 @@
       "Type": "pants"
     },
     {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
+      "Type": "boots"
+    },
+    {
+      "Id": "SkillRankBonus_Sorc_Special_Teleport",
+      "Type": "boots"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Sorcerer",
+      "Type": "boots"
+    },
+    {
+      "Id": "Dodge",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "boots"
+    },
+    {
       "Id": "CD_Reduction",
       "Type": "amulet"
     },
@@ -382,6 +410,22 @@
     {
       "Id": "legendary_sorc_120",
       "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_004",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_sorc_123",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
+    },
+    {
+      "Id": "legendary_generic_113",
+      "Type": "boots"
     },
     {
       "Id": "legendary_sorc_122",

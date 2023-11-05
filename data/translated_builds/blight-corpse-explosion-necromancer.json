@@ -102,6 +102,38 @@
       "Type": "chest"
     },
     {
+      "Id": "CritChance",
+      "Type": "gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "gloves"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Core_2",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Damage_Category_Spenders",
+      "Type": "gloves"
+    },
+    {
       "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
       "Type": "pants"
     },
@@ -232,6 +264,46 @@
     {
       "Id": "Damage_Type_Bonus_Shadow",
       "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_CCd",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Slowed",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Shadow",
+      "Type": "ring"
     }
   ],
   "ItemAspects": [
@@ -272,6 +344,18 @@
       "Type": "chest"
     },
     {
+      "Id": "Legendary_Necro_121",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_necro_032",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_necro_116",
+      "Type": "gloves"
+    },
+    {
       "Id": "legendary_generic_009",
       "Type": "pants"
     },
@@ -297,6 +381,22 @@
     },
     {
       "Id": "legendary_necro_066",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_necro_032",
+      "Type": "ring"
+    },
+    {
+      "Id": "Legendary_Necro_121",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_generic_021",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_necro_116",
       "Type": "ring"
     }
   ]

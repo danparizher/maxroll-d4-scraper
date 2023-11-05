@@ -48,7 +48,7 @@ rapidfuzz==3.5.2
     # via thefuzz
 requests==2.31.0
     # via -r requirements.in
-selenium==4.15.1
+selenium==4.15.2
     # via -r requirements.in
 sniffio==1.3.0
     # via trio
@@ -58,7 +58,7 @@ soupsieve==2.5
     # via beautifulsoup4
 thefuzz==0.20.0
     # via -r requirements.in
-trio==0.22.2
+trio==0.23.1
     # via
     #   selenium
     #   trio-websocket

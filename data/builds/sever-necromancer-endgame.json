@@ -33,11 +33,25 @@
     "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n4. Damage Reduction against Close Enemies\n5. Damage Reduction (Any Applicable Options)"
   ],
   [
+    "gloves",
+    [
+      "Aspect of Decay"
+    ],
+    "1. +xx Ranks to Sever\n2. Lucky Hit Chance\n3. Critical Strike Chance\n4. Attack Speed\n5. Lucky Hit: Chance to Restore Primary Resource\n6. Intelligence"
+  ],
+  [
     "pants",
     [
       "Defensive Aspect of Shielding Storm"
     ],
     "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. Damage Reduction from Close Enemies\n3. Total Armor\n4. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n5. +xx Ranks to Corpse Explosion\n6. Damage Reduction (Any Applicable Options)"
+  ],
+  [
+    "boots",
+    [
+      "Wind Striker Aspect"
+    ],
+    "Implicit: Max Evade Charges\n1. Movement Speed\n2. Essence Cost Reduction\n3. +xx Ranks to Corpse Tendrils\n4. Intelligence\n5. (Elementel) Resistance"
   ],
   [
     "amulet",

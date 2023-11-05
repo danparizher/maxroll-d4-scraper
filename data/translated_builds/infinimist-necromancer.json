@@ -90,6 +90,26 @@
       "Type": "chest"
     },
     {
+      "Id": "Luck",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "gloves"
+    },
+    {
       "Id": "Life",
       "Type": "pants"
     },
@@ -112,6 +132,22 @@
     {
       "Id": "CoreStat_Intelligence",
       "Type": "pants"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_CorpseTendrils",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "boots"
     },
     {
       "Id": "Movement_Speed",
@@ -196,8 +232,16 @@
       "Type": "chest"
     },
     {
+      "Id": "legendary_generic_102",
+      "Type": "gloves"
+    },
+    {
       "Id": "legendary_necro_054",
       "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_100",
+      "Type": "boots"
     },
     {
       "Id": "legendary_necro_104",

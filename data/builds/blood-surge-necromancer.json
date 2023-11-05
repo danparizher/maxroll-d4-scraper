@@ -40,6 +40,13 @@
     "1. +xx Ranks to Blood Surge\n2. Overpower Damage\n3. Attack Speed\n4. Critical Strike Chance\n5. Lucky Hit: Up to a 5% Chance to Restore xx% Primary Resource\n6. Lucky Hit Chance"
   ],
   [
+    "pants",
+    [
+      "Aspect of Might"
+    ],
+    "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Close Enemies\n4. Damage Reduction"
+  ],
+  [
     "boots",
     [
       "Ghostwalker Mobility Aspect"

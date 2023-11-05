@@ -188,6 +188,26 @@
     {
       "Id": "PetHealth_Necro",
       "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "ring"
+    },
+    {
+      "Id": "Luck",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "PetHealth_Necro",
+      "Type": "ring"
     }
   ],
   "ItemAspects": [
@@ -222,6 +242,10 @@
     {
       "Id": "legendary_necro_104",
       "Type": "amulet"
+    },
+    {
+      "Id": "legendary_necro_002",
+      "Type": "ring"
     },
     {
       "Id": "legendary_necro_107",

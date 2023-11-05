@@ -91,7 +91,7 @@ class AspectMap:
         response = requests.get(self.url, timeout=10)
         if response.status_code != 200:
             msg = f"Failed to get data from {self.url}. Status code: {response.status_code}"
-            raise requests.exceptions.HTTPError(msg)
+            logging.error(msg)
 
         data = json.loads(response.content)
         return {
@@ -113,7 +113,7 @@ class AffixMap:
         response = requests.get(self.url, timeout=10)
         if response.status_code != 200:
             msg = f"Failed to get data from {self.url}. Status code: {response.status_code}"
-            raise requests.exceptions.HTTPError(msg)
+            logging.error(msg)
 
         data = json.loads(response.content)
         return {
@@ -203,6 +203,7 @@ def get_all_build_paths() -> list[str]:
 
 
 def get_text_lines(tag: Tag) -> str:
+    """Return the text from the given HTML tag."""
     for span in tag.find_all("span"):
         span.unwrap()
 
@@ -262,8 +263,14 @@ def get_table_data(paths: list[str]) -> list[list[str | list[str]]]:
 
                 slot, aspects, affixes = cols
 
+                # <span class="d4-item" data-d4-id="344413"><span class="d4-gametip"><div class="d4t-sprite-icon"><div class="d4t-icon d4t-items-icon" style="background-position: -7em -11em;"></div></div>‍<span class="d4-color-unique">Hellhammer</span></span></span>
+                # <span class="d4-affix" data-d4-id="578875"><span class="d4-gametip"><div class="d4t-sprite-icon"><div class="d4t-icon d4t-aspect-icon" style="background-position-x: -2em;"></div></div>‍<span class="d4-color-legendary">Edgemaster’s Aspect</span></span></span>
                 # unique items in the aspects column
-                if aspects.find_all("span", class_="d4-item"):
+
+                if aspects.find_all("span", class_="d4-item") and not aspects.find_all(
+                    "span",
+                    class_="d4-affix",
+                ):
                     continue
 
                 build_jsons.append(

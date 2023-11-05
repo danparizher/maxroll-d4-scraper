@@ -7,6 +7,13 @@
   [
     "weapon",
     [
+      "Edgemaster\u2019s Aspect"
+    ],
+    "1. Damage Per Second\n2. Strength\n3. Damage while Berserking\n4. Overpower Damage\n5. All Stats"
+  ],
+  [
+    "weapon",
+    [
       "Aspect of Limitless Rage"
     ],
     "1. Strength\n2. Damage while Berserking\n3. Overpower Damage\n4. All Stats"
@@ -55,11 +62,26 @@
     "1. Ranks of Upheaval\n2. Attack Speed\n3. Critical Strike Chance\n4. Strength"
   ],
   [
+    "pants",
+    [
+      "Aspect of Disobedience"
+    ],
+    "Implicit: Potion Grants Barrier\n1. % Total Armor\n2. Damage Reduction while Injured\n3. Damage Reduction from Close Enemies\n4. Damage Reduction while Fortified"
+  ],
+  [
     "boots",
     [
       "Ghostwalker Aspect"
     ],
     "Implicit: +Evade Charges\n1. Movement Speed\n2. Elemental Resistance**\n3. Elemental Resistance**\n4. Damage Reduction while Injured"
+  ],
+  [
+    "amulet",
+    [
+      "Edgemaster\u2019s Aspect",
+      "Accelerating Aspect"
+    ],
+    "1. Ranks of Brute Force\n2. Ranks of Wallop\n3. Movement Speed\n4. Cooldown Reduction\n5: Crowd Control Duration\n6. +% Strength\n7. Fury Cost Reduction\n8. % Total Armor"
   ],
   [
     "ring",

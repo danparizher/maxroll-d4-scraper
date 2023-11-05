@@ -62,6 +62,16 @@
     "Implicit: Potion Grants Barrier\n1. % Total Armor\n2. Damage Reduction from Close Enemies\n3. Maximum Life\n4. Damage Reduction from Enemies That Are Burning\n5. Damage Reduction\n6. Dodge Chance"
   ],
   [
+    "boots",
+    [
+      "Aspect of Binding Embers",
+      "Aspect of the Bounding Conduit",
+      "Ghostwalker Aspect",
+      "Aspect of Audacity"
+    ],
+    "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Ranks of Frost Nova\n3. Ranks of Teleport\n4. Mana Cost Reduction\n5. Dodge Chance\n6. All Stats\n7. Intelligence"
+  ],
+  [
     "amulet",
     [
       "Aspect of the Unbroken Tether",

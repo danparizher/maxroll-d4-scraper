@@ -150,6 +150,34 @@
       "Type": "pants"
     },
     {
+      "Id": "Resource_Cost_Reduction_Sorcerer",
+      "Type": "boots"
+    },
+    {
+      "Id": "Evade_Charges",
+      "Type": "boots"
+    },
+    {
+      "Id": "Evade_Attack_Reset",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "SkillRankBonus_Sorc_Special_Teleport",
+      "Type": "boots"
+    },
+    {
+      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "boots"
+    },
+    {
       "Id": "CD_Reduction",
       "Type": "amulet"
     },
@@ -246,6 +274,10 @@
     {
       "Id": "legendary_sorc_108",
       "Type": "pants"
+    },
+    {
+      "Id": "legendary_sorc_123",
+      "Type": "boots"
     },
     {
       "Id": "legendary_sorc_008",

@@ -74,6 +74,30 @@
       "Type": "weapon"
     },
     {
+      "Id": "Berserk_Damage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStats_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_to_Vulnerable",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "weapon"
+    },
+    {
       "Id": "SkillRankBonus_Barb_Special_DeathBlow",
       "Type": "helm"
     },
@@ -295,6 +319,18 @@
     }
   ],
   "ItemAspects": [
+    {
+      "Id": "Legendary_Generic_110",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_generic_063",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_barb_104",
+      "Type": "weapon"
+    },
     {
       "Id": "Legendary_Generic_110",
       "Type": "weapon"

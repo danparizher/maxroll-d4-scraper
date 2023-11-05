@@ -18,6 +18,14 @@
       "Type": "weapon"
     },
     {
+      "Id": "OverpowerDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "OverpowerDamage_With_Bear",
+      "Type": "weapon"
+    },
+    {
       "Id": "Damage_to_Near",
       "Type": "weapon"
     },
@@ -26,39 +34,7 @@
       "Type": "weapon"
     },
     {
-      "Id": "CritDamage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage_With_Earth",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "helm"
-    },
-    {
       "Id": "Life",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Fire",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Shadow",
       "Type": "helm"
     },
     {
@@ -66,7 +42,7 @@
       "Type": "helm"
     },
     {
-      "Id": "AttackSpeed_Basics",
+      "Id": "CD_Reduction",
       "Type": "helm"
     },
     {
@@ -75,6 +51,10 @@
     },
     {
       "Id": "CoreStats_All",
+      "Type": "helm"
+    },
+    {
+      "Id": "AttackSpeed_Basics",
       "Type": "helm"
     },
     {
@@ -242,11 +222,11 @@
       "Type": "ring"
     },
     {
-      "Id": "Damage_Type_Bonus_Physical",
+      "Id": "ResourceGain",
       "Type": "ring"
     },
     {
-      "Id": "ResourceGain",
+      "Id": "Damage_Type_Bonus_Physical",
       "Type": "ring"
     },
     {
@@ -274,11 +254,11 @@
       "Type": "ring"
     },
     {
-      "Id": "Damage_Type_Bonus_Physical",
+      "Id": "ResourceGain",
       "Type": "ring"
     },
     {
-      "Id": "ResourceGain",
+      "Id": "Damage_Type_Bonus_Physical",
       "Type": "ring"
     },
     {
@@ -300,7 +280,7 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_druid_026",
+      "Id": "legendary_generic_036",
       "Type": "helm"
     },
     {
@@ -318,10 +298,6 @@
     {
       "Id": "legendary_generic_009",
       "Type": "pants"
-    },
-    {
-      "Id": "legendary_druid_018",
-      "Type": "boots"
     },
     {
       "Id": "legendary_generic_100",
@@ -345,6 +321,10 @@
     },
     {
       "Id": "legendary_generic_021",
+      "Type": "ring"
+    },
+    {
+      "Id": "legendary_druid_029",
       "Type": "ring"
     }
   ]

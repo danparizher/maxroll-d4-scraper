@@ -74,6 +74,14 @@
     "Implicit: Potion Grants Barrier\n1. % Total Armor\n2. Damage Reduction from Distant Enemies\n3. Maximum Life\n4. Damage Reduction from Enemies That Are Burning\n5. Damage Reduction\n6. Damage Reduction from Close Enemies\n7. Dodge Chance\n8. Intelligence"
   ],
   [
+    "boots",
+    [
+      "Aspect of Fortune",
+      "Ghostwalker Aspect"
+    ],
+    "Implicit: Evade Grants +xx% Movement Speed for 1 Second\n1. Movement Speed\n2. Movement Speed After Killing an Elite\n3. Critical Strike Chance\n4. Mana Cost Reduction\n5. Ranks of Teleport\n6. Ranks of Frost Nova\n7. Dodge Chance\n8. All Stats\n9. Intelligence"
+  ],
+  [
     "amulet",
     [
       "Aspect of Frozen Orbit",

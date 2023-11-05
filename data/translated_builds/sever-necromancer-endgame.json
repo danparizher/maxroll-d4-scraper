@@ -82,6 +82,30 @@
       "Type": "chest"
     },
     {
+      "Id": "SkillRankBonus_Necro_Core_3",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Luck",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "gloves"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "gloves"
+    },
+    {
       "Id": "Life",
       "Type": "pants"
     },
@@ -104,6 +128,26 @@
     {
       "Id": "DamageReductionClose",
       "Type": "pants"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "Resource_Cost_Reduction_Necromancer",
+      "Type": "boots"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_CorpseTendrils",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "boots"
+    },
+    {
+      "Id": "Resistance_All",
+      "Type": "boots"
     },
     {
       "Id": "Movement_Speed",
@@ -188,8 +232,16 @@
       "Type": "chest"
     },
     {
+      "Id": "legendary_necro_107",
+      "Type": "gloves"
+    },
+    {
       "Id": "legendary_necro_054",
       "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_016",
+      "Type": "boots"
     },
     {
       "Id": "legendary_necro_104",

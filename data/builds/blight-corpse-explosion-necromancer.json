@@ -32,6 +32,15 @@
     "1. % Total Armor\n2. Damage Reduction from Close Enemies\n3. Damage Reduction\n4. Maximum Life\n5. Damage Reduction from Enemies Affected by Shadow Damage Over Time\n6. Damage Reduction from Distant Enemies\n7. Shadow Damage\n8. Darkness Skill Damage\n9. All Stats\n10. Intelligence"
   ],
   [
+    "gloves",
+    [
+      "Aspect of Ultimate Shadow",
+      "Blood-soaked Aspect",
+      "Sacrificial Aspect"
+    ],
+    "1. Critical Strike Chance\n2. Attack Speed\n3. Ranks of Blight\n4. Lucky Hit Chance\n5. Shadow Damage Over Time\n6. All Stats\n7. Intelligence\n8. Corpse Explosion Damage"
+  ],
+  [
     "pants",
     [
       "Aspect of Might",
@@ -61,5 +70,15 @@
       "Aspect of Grasping Veins"
     ],
     "1. Critical Strike Chance\n2. Critical Strike Damage\n3. Vulnerable Damage\n4. Lucky Hit Chance\n5. Maximum Life\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\n8. Damage to Close Enemies\n9. Shadow Damage"
+  ],
+  [
+    "ring",
+    [
+      "Blood-soaked Aspect",
+      "Aspect of Ultimate Shadow",
+      "Aspect of the Umbral",
+      "Sacrificial Aspect"
+    ],
+    "1. Shadow Damage Over Time Effect\n2. Critical Strike Chance\n3. Maximum Life\n4. Critical Strike Damage\n5. Vulnerable Damage\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\n8. Damage to Close Enemies\n9. Lucky Hit Chance\n10. Shadow Damage"
   ]
 ]

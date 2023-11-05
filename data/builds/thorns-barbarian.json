@@ -19,6 +19,22 @@
     "1. Damage while Berserking \n2. Damage to Close Enemies\n3. Strength\n4. Basic Skill Damage\n5. All Stats\n6. Damage to Bleeding Enemies\n7. Vulnerable Damage"
   ],
   [
+    "weapon",
+    [
+      "Death Wish",
+      "Inner Calm",
+      "Edgemaster\u2019s"
+    ],
+    "1. Damage while Berserking \n2. Damage to Close Enemies\n3. Strength\n4. Basic Skill Damage\n5. All Stats\n6. Damage to Bleeding Enemies\n7. Vulnerable Damage"
+  ],
+  [
+    "weapon",
+    [
+      "Death Wish"
+    ],
+    "1. Damage while Berserking \n2. Damage to Close Enemies\n3. Strength\n4. Basic Skill Damage\n5. All Stats\n6. Damage to Bleeding Enemies\n7. Vulnerable Damage"
+  ],
+  [
     "helm",
     [
       "Numbing Wrath"
@@ -31,6 +47,15 @@
       "Might"
     ],
     "1. Damage Reduction from Close Enemies\n2. Damage Reduction while Fortified\n3. % Total Armor\n4. Maximum Life\n5. Damage Reduction\n6. Resistance (as needed)\n7. Thorns"
+  ],
+  [
+    "gloves",
+    [
+      "Death Wish",
+      "Inner Calm",
+      "Edgemaster\u2019s"
+    ],
+    "1. Critical Strike Chance\n2. Strength\n3. All Stats\n4. Dexterity / Willpower\n5. Damage to Injured Enemies\n6. Attack Speed"
   ],
   [
     "pants",
@@ -57,6 +82,15 @@
     "ring",
     [
       "Bold Chieftain's"
+    ],
+    "1. Damage While Berserking\n2. Maximum Life\n3. Maximum Fury\n4. Damage to Close Enemies\n5. Vulnerable Damage\n6. Physical Damage\n7. Damage to Bleeding Enemies"
+  ],
+  [
+    "ring",
+    [
+      "Death Wish",
+      "Inner Calm",
+      "Edgemaster\u2019s"
     ],
     "1. Damage While Berserking\n2. Maximum Life\n3. Maximum Fury\n4. Damage to Close Enemies\n5. Vulnerable Damage\n6. Physical Damage\n7. Damage to Bleeding Enemies"
   ]

@@ -9,14 +9,14 @@
     [
       "Shockwave"
     ],
-    "1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Damage to Crowd Controlled Enemies\n5. Core Skill Damage\n6. Damage to Close Enemies\n7. Vulnerable Damage\n8. Critical Strike Damage\n9. Critical Strike Damage with Earth Skills"
+    "1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Damage to Crowd Controlled Enemies\n5. Core Skill Damage\n6. Overpower Damage\n7. Overpower with Werebear Skills\n8. Damage to Close Enemies\n9. Vulnerable Damage"
   ],
   [
     "helm",
     [
-      "Mending Stone"
+      "Disobedience"
     ],
-    "1. Cooldown Reduction\n2. Maximum Life\n3. Single Resistance\n4. Single Resistance\n5. % Total Armor\n6. Basic Skill Attack Speed\n7. Willpower\n8. All Stats"
+    "1. Maximum Life\n2. % Total Armor\n3. Cooldown Reduction\n4. Willpower\n5. All Stats\n6. Basic Skill Attack Speed"
   ],
   [
     "chest",
@@ -43,7 +43,6 @@
   [
     "boots",
     [
-      "Quicksand",
       "Ghostwalker"
     ],
     "Implicit: Maximum Charges\n1. Movement Speed\n2. Spirit Cost Reduction\n3. Movement Speed after killing an Elite\n4. Willpower\n5. All Stats\n6. Resists (as needed)"
@@ -62,13 +61,14 @@
       "Rampaging Werebeast",
       "Aspect of Retaliation"
     ],
-    "1. Critical Strike Chance\n2. Lucky Hit Chance\n*\n3. Maximum Life\n4. Physical Damage\n5. Resource Generation\n6. Critical Strike Damage\n7. Critical Strike Damage with Earth Skills\n8. Damage to Crowd Controlled Enemies\n**"
+    "1. Critical Strike Chance\n2. Lucky Hit Chance\n*\n3. Maximum Life\n4. Resource Generation\n5. Physical Damage\n6. Critical Strike Damage\n7. Critical Strike Damage with Earth Skills\n8. Damage to Crowd Controlled Enemies\n**"
   ],
   [
     "ring",
     [
-      "Umbral"
+      "Umbral",
+      "Natural Balance"
     ],
-    "1. Critical Strike Chance\n2. Lucky Hit Chance\n*\n3. Maximum Life\n4. Physical Damage\n5. Resource Generation\n6. Critical Strike Damage\n7. Critical Strike Damage with Earth Skills\n8. Damage to Crowd Controlled Enemies\n**"
+    "1. Critical Strike Chance\n2. Lucky Hit Chance\n*\n3. Maximum Life\n4. Resource Generation\n5. Physical Damage\n6. Critical Strike Damage\n7. Critical Strike Damage with Earth Skills\n8. Damage to Crowd Controlled Enemies\n**"
   ]
 ]
