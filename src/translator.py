@@ -23,9 +23,6 @@ SKIP_STATS = [
     "high weapon damage",  # general item property
     "High Damage per Second",  # general item property
     "Any",  # placeholder - should be cleaned
-    "Movement Speed for 4 Seconds After Killing an Elite",  # unclear??? (no associated ID in stat map)
-    "movement speed after killing an elite",  # same ^ (no associated ID in stat map)
-    "movement speed on elite kill",  # same ^ (no associated ID in stat map)
 ]
 
 

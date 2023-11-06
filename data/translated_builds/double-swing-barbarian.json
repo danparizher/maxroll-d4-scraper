@@ -254,6 +254,10 @@
       "Type": "boots"
     },
     {
+      "Id": "Elite_Kill_Movement_Speed",
+      "Type": "boots"
+    },
+    {
       "Id": "CD_Reduction",
       "Type": "amulet"
     },

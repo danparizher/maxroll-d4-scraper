@@ -210,6 +210,10 @@
       "Type": "boots"
     },
     {
+      "Id": "Elite_Kill_Movement_Speed",
+      "Type": "boots"
+    },
+    {
       "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
       "Type": "amulet"
     },

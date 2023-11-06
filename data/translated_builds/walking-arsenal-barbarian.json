@@ -238,6 +238,10 @@
       "Type": "boots"
     },
     {
+      "Id": "Elite_Kill_Movement_Speed",
+      "Type": "boots"
+    },
+    {
       "Id": "Berserk_Duration",
       "Type": "boots"
     },
