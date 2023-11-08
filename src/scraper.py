@@ -20,6 +20,7 @@ from typing import Any
 import requests
 from bs4 import BeautifulSoup, Tag
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
@@ -144,7 +145,7 @@ def generate_class_paths() -> list[str]:
 
 def init_driver() -> webdriver.Chrome:
     """Return a Chrome webdriver with the required options."""
-    options = webdriver.ChromeOptions()
+    options = Options()
     options.add_argument("headless")
     options.add_argument("--log-level=3")
     options.add_argument("--blink-settings=imagesEnabled=false")
