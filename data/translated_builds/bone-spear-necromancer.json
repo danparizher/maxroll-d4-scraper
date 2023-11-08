@@ -156,22 +156,6 @@
     {
       "Id": "Resource_MaxEssence",
       "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "ring"
-    },
-    {
-      "Id": "Resource_MaxEssence",
-      "Type": "ring"
     }
   ],
   "ItemAspects": [
@@ -202,10 +186,6 @@
     {
       "Id": "legendary_necro_066",
       "Type": "amulet"
-    },
-    {
-      "Id": "legendary_necro_116",
-      "Type": "ring"
     },
     {
       "Id": "legendary_necro_103",

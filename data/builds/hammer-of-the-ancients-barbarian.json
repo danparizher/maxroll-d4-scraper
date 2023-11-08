@@ -10,7 +10,15 @@
       "Edgemaster\u2019s",
       "Limitless Rage"
     ],
-    "1. High Damage per Second\n2. Damage while Berserking\n3. Overpower Damage / Damage to Close Enemies\n4. Damage with Core Skills\n5. Strength\n6. All Stats\n7. Critical Strike Damage"
+    "1. High Damage per Second\n2. Damage while Berserking\n3. Overpower Damage\n4. Strength\n5. All Stats\n6. Damage to Close Enemies\n7. Damage with Core Skills"
+  ],
+  [
+    "weapon",
+    [
+      "Ancestral Force",
+      "Earthstriker's"
+    ],
+    "1. Damage while Berserking\n2. Overpower Damage\n3. Strength\n4. All Stats\n5. Damage to Close Enemies\n6. Damage with Core Skills"
   ],
   [
     "weapon",
@@ -18,15 +26,7 @@
       "Ancestral Force",
       "Expectant"
     ],
-    "1. Damage while Berserking\n2. Overpower Damage / Damage to Close Enemies\n3. Damage with Core Skills\n4. Strength / All Stats\n5. Critical Strike Damage"
-  ],
-  [
-    "weapon",
-    [
-      "Ancestral Force",
-      "Expectant"
-    ],
-    "1. Damage while Berserking\n2. Overpower Damage / Damage to Close Enemies\n3. Damage with Core Skills\n4. Strength / All Stats\n5. Critical Strike Damage"
+    "1. Damage while Berserking\n2. Overpower Damage\n3. Strength\n4. All Stats\n5. Damage to Close Enemies\n6. Damage with Core Skills"
   ],
   [
     "weapon",
@@ -34,7 +34,7 @@
       "Edgemaster\u2019s",
       "Limitless Rage"
     ],
-    "1. Damage while Berserking\n2. Overpower Damage / Damage to Close Enemies\n3. Damage with Core Skills\n4. Strength\n5. All Stats\n6. Critical Strike Damage"
+    "1. Damage while Berserking\n2. Overpower Damage\n3. Strength\n4. All Stats\n5. Damage to Close Enemies\n6. Damage with Core Skills"
   ],
   [
     "helm",
@@ -42,7 +42,7 @@
       "Numbing Wrath",
       "Exploiter's Aspect"
     ],
-    "1. Cooldown Reduction\n2. Maximum Fury\n3. % Total Armor\n4. Maximum Life\n5. Damage while Berserking\n6. Strength / All Stats\n7. Resistance (as needed)\n8. Crowd Control Duration"
+    "1. Cooldown Reduction\n2. Maximum Fury\n3. Damage while Berserking\n4. Maximum Life\n5. % Total Armor\n6. Strength / All Stats\n7. Resistance (as needed)\n8. Crowd Control Duration"
   ],
   [
     "chest",
@@ -56,7 +56,7 @@
     [
       "Relentless Berserker's"
     ],
-    "1. + Ranks of Hammer of the Ancients\n2. Critical Strike Chance\n3. Attack Speed\n4. Overpower Damage\n5. Lucky Hit Chance\n6. Strength / All Stats"
+    "1. + Ranks of Hammer of the Ancients\n2. Critical Strike Chance\n3. Attack Speed\n4. Strength / All Stats\n5. Overpower Damage\n6. Lucky Hit Chance"
   ],
   [
     "pants",
