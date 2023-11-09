@@ -9,8 +9,7 @@
     [
       "Gravitational",
       "Storm Swell",
-      "Conceited",
-      "Control"
+      "Conceited"
     ],
     "Weapon Type: Dagger\n1. High Damage Per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close Enemies\n5. Mastery Skill Damage\n6. Critical Strike Damage"
   ],
@@ -19,8 +18,7 @@
     [
       "Gravitational",
       "Storm Swell",
-      "Conceited",
-      "Control"
+      "Conceited"
     ],
     "1. Cooldown Reduction\n2. High Damage Per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource"
   ],
@@ -43,8 +41,7 @@
     [
       "Gravitational",
       "Storm Swell",
-      "Conceited",
-      "Control"
+      "Conceited"
     ],
     "1. Attack Speed\n2. Critical Strike Chance\n3. Intelligence\n4. Critical Strike Chance against Injured Enemies\n5. Lucky Hit: Chance to Regain Resource"
   ],
@@ -66,16 +63,14 @@
     "amulet",
     [
       "Disobedience",
-      "Control"
+      "Gravitational"
     ],
     "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Ranks to Mastery Skills\n4. Movement Speed\n5. Ranks to Conjuration Mastery\n6. Ranks Elemental Dominance\n7. Ranks to Glass Cannon\n6. Ranks to Defensive Skills"
   ],
   [
     "ring",
     [
-      "Gravitational",
-      "Storm Swell",
-      "Conceited",
+      "Prodigy\u2019s",
       "Control"
     ],
     "1. Resource Generation\n2. Critical Strike Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Maximum Mana"
@@ -83,7 +78,6 @@
   [
     "ring",
     [
-      "Prodigy\u2019s",
       "Recharging"
     ],
     "1. Resource Generation\n2. Critical Strike Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Maximum Mana"

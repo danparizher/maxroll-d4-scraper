@@ -244,10 +244,6 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_sorc_129",
-      "Type": "weapon"
-    },
-    {
       "Id": "legendary_sorc_119",
       "Type": "offhand"
     },
@@ -257,10 +253,6 @@
     },
     {
       "Id": "legendary_generic_027",
-      "Type": "offhand"
-    },
-    {
-      "Id": "legendary_sorc_129",
       "Type": "offhand"
     },
     {
@@ -284,10 +276,6 @@
       "Type": "gloves"
     },
     {
-      "Id": "legendary_sorc_129",
-      "Type": "gloves"
-    },
-    {
       "Id": "legendary_sorc_108",
       "Type": "pants"
     },
@@ -300,27 +288,15 @@
       "Type": "amulet"
     },
     {
-      "Id": "legendary_sorc_129",
+      "Id": "legendary_sorc_119",
       "Type": "amulet"
     },
     {
-      "Id": "legendary_sorc_119",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_sorc_115",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_generic_027",
+      "Id": "legendary_sorc_125",
       "Type": "ring"
     },
     {
       "Id": "legendary_sorc_129",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_sorc_125",
       "Type": "ring"
     },
     {
