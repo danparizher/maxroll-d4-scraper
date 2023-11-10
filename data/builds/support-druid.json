@@ -26,7 +26,7 @@
   [
     "helm",
     [
-      "Might",
+      "Disobedience",
       "Mending Stone",
       "Cyclonic Force"
     ],
@@ -35,24 +35,25 @@
   [
     "chest",
     [
-      "Might",
+      "Disobedience",
       "Mending Stone",
       "Cyclonic Force"
     ],
-    "1. +Ranks to Debilitating Roar\n2. Damage Reduction from Close Enemies\n3. Damage Reduction from Distant Enemies\n4. Damage Reduction While Fortified\n5. Damage Reduction from Enemies That Are Poisoned\n6. % Total Armor\n7. Damage Reduction\n8. Maximum Life\n9. +Ranks to Cyclone Armor"
+    "1. +Ranks to Debilitating Roar\n2. Damage Reduction from Close Enemies\n3. Damage Reduction from Distant Enemies\n4. Damage Reduction While Fortified\n5. Damage Reduction from Enemies That Are Poisoned\n6. % Total Armor\n7. Damage Reduction\n8. Maximum Life\n9. +Ranks to Cyclone Armor\n10. Barrier Generation"
   ],
   [
     "gloves",
     [
-      "Audacity",
-      "Exploiter's"
+      "Rapid",
+      "Nighthowler's",
+      "Smiting Aspect"
     ],
-    "1. Attack Speed\n2. Lucky Hit Chance\n3. Willpower\n4. All Stats\n5. Critical Strike Chance\n6. Strength"
+    "1. Attack Speed\n2. Lucky Hit Chance\n3. Willpower\n4. All Stats\n5. Strength"
   ],
   [
     "pants",
     [
-      "Might",
+      "Disobedience",
       "Mending Stone",
       "Cyclonic Force"
     ],
@@ -61,7 +62,6 @@
   [
     "boots",
     [
-      "Audacity",
       "Exploiter's",
       "Ghostwalker"
     ],
@@ -81,7 +81,7 @@
       "Nighthowler's",
       "Smiting Aspect"
     ],
-    "1. Maximum Life\n2. Barrier Generation\n3. Lucky Hit Chance\n4. Critical Strike Chance\n5. Fortify Generation"
+    "1. Maximum Life\n2. Barrier Generation\n3. Lucky Hit Chance\n4. Fortify Generation"
   ],
   [
     "ring",
@@ -90,6 +90,6 @@
       "Nighthowler's",
       "Smiting Aspect"
     ],
-    "1. Maximum Life\n2. Barrier Generation\n3. Lucky Hit Chance\n4. Critical Strike Chance\n5. Fortify Generation"
+    "1. Maximum Life\n2. Barrier Generation\n3. Lucky Hit Chance\n4. Fortify Generation"
   ]
 ]

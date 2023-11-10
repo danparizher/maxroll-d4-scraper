@@ -114,6 +114,10 @@
       "Type": "chest"
     },
     {
+      "Id": "Barrier_Strength_Percent",
+      "Type": "chest"
+    },
+    {
       "Id": "AttackSpeed",
       "Type": "gloves"
     },
@@ -127,10 +131,6 @@
     },
     {
       "Id": "CoreStats_All",
-      "Type": "gloves"
-    },
-    {
-      "Id": "CritChance",
       "Type": "gloves"
     },
     {
@@ -246,10 +246,6 @@
       "Type": "ring"
     },
     {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
       "Id": "FortifyBonus",
       "Type": "ring"
     },
@@ -263,10 +259,6 @@
     },
     {
       "Id": "Luck",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
       "Type": "ring"
     },
     {
@@ -304,7 +296,7 @@
       "Type": "offhand"
     },
     {
-      "Id": "legendary_generic_009",
+      "Id": "legendary_generic_036",
       "Type": "helm"
     },
     {
@@ -316,7 +308,7 @@
       "Type": "helm"
     },
     {
-      "Id": "legendary_generic_009",
+      "Id": "legendary_generic_036",
       "Type": "chest"
     },
     {
@@ -328,15 +320,19 @@
       "Type": "chest"
     },
     {
-      "Id": "legendary_generic_113",
+      "Id": "legendary_generic_043",
       "Type": "gloves"
     },
     {
-      "Id": "Legendary_Generic_111",
+      "Id": "legendary_druid_077",
       "Type": "gloves"
     },
     {
-      "Id": "legendary_generic_009",
+      "Id": "legendary_generic_109",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_generic_036",
       "Type": "pants"
     },
     {
@@ -346,10 +342,6 @@
     {
       "Id": "legendary_druid_062",
       "Type": "pants"
-    },
-    {
-      "Id": "legendary_generic_113",
-      "Type": "boots"
     },
     {
       "Id": "Legendary_Generic_111",
