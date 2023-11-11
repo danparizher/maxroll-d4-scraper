@@ -14,7 +14,6 @@
   [
     "weapon",
     [
-      "Aspect of Branching Volleys",
       "Rapid Aspect",
       "Aspect of the Expectant",
       "Aspect of Corruption",
@@ -25,7 +24,6 @@
   [
     "weapon",
     [
-      "Aspect of Branching Volleys",
       "Rapid Aspect",
       "Aspect of the Expectant",
       "Aspect of Corruption",
@@ -38,7 +36,7 @@
     [
       "Aspect of Might",
       "Aspect of Disobedience",
-      "Enshrouding Aspect"
+      "Umbrous Aspect"
     ],
     "1. Cooldown Reduction\n2. Maximum Life\n3. Poison Resistance\n4. Armor\n5. Life on Kill\n6. Dexterity\nSocket\nRoyal Ruby"
   ],
@@ -47,20 +45,9 @@
     [
       "Aspect of Might",
       "Aspect of Disobedience",
-      "Enshrouding Aspect"
+      "Umbrous Aspect"
     ],
-    "1. Damage Reduction\n2. Armor\n3. Maximum Life\n4. Close Damage Reduction\n5. Distant Damage Reduction\nSockets\nRoyal Ruby"
-  ],
-  [
-    "gloves",
-    [
-      "Aspect of Branching Volleys",
-      "Rapid Aspect",
-      "Aspect of the Expectant",
-      "Aspect of Corruption",
-      "Accelerating Aspect"
-    ],
-    "1. Ranks to Barrage\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Attack Speed\n5. Dexterity"
+    "1. Damage Reduction\n2. Armor\n3. Maximum Life\n4. Shadow Resistance\n5. Close Damage Reduction\nSockets\nRoyal Ruby"
   ],
   [
     "pants",
@@ -81,27 +68,25 @@
   [
     "amulet",
     [
-      "Umbrous Aspect"
+      "Aspect of Elements"
     ],
-    "1. Ranks to Exploit\n2. Cooldown Reduction\n3. Movement Speed\n4. Ranks to Imbuement Skills\n5. Damage Reduction\n6. Ranks to Weapon Mastery\n7. Ranks to Malice\nSocket Royal Amethyst"
+    "1. Ranks to Exploit\n2. Cooldown Reduction\n3. Movement Speed\n4. Armor\n5. Damage Reduction\n6. Ranks to Weapon Mastery\n7. Ranks to Malice\nSocket\nRoyal Skull"
   ],
   [
     "ring",
     [
       "Rapid Aspect",
       "Aspect of the Expectant",
-      "Aspect of Branching Volleys",
       "Aspect of Corruption",
       "Accelerating Aspect"
     ],
-    "1. Damage vs Crowd Controlled\n2. Critical Strike Chance\n3. Maximum Life\n4. Lucky Hit Chance\n5. Damage to Distant Enemies\n6. Damage to Close Enemies\n7. Damage with Imbued Skills\nSocket\nRoyal Amethyst"
+    "1. Damage vs Crowd Controlled\n2. Critical Strike Chance\n3. Maximum Life\n4. Lucky Hit Chance\n5. Damage to Distant Enemies\n6. Damage to Close Enemies\n7. Damage with Imbued Skills\nSocket\nRoyal Skull"
   ],
   [
     "ring",
     [
       "Rapid Aspect",
       "Aspect of the Expectant",
-      "Aspect of Branching Volleys",
       "Aspect of Corruption",
       "Accelerating Aspect"
     ],

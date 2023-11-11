@@ -18,7 +18,7 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Trapped",
+      "Id": "Damage_Type_DoT_Bonus_Shadow",
       "Type": "weapon"
     },
     {
@@ -35,6 +35,10 @@
     },
     {
       "Id": "CD_Reduction",
+      "Type": "offhand"
+    },
+    {
+      "Id": "CritChance",
       "Type": "offhand"
     },
     {
@@ -91,6 +95,10 @@
     },
     {
       "Id": "Luck",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Lucky_Hit_Slow",
       "Type": "gloves"
     },
     {

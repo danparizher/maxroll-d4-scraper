@@ -98,6 +98,14 @@
       "Type": "gloves"
     },
     {
+      "Id": "AttackSpeed",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Lucky_Hit_Slow",
+      "Type": "gloves"
+    },
+    {
       "Id": "Damage_Type_DoT_Bonus_Shadow",
       "Type": "gloves"
     },
@@ -106,15 +114,11 @@
       "Type": "gloves"
     },
     {
-      "Id": "AttackSpeed",
-      "Type": "gloves"
-    },
-    {
       "Id": "Life",
       "Type": "pants"
     },
     {
-      "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
+      "Id": "Armor",
       "Type": "pants"
     },
     {
@@ -123,6 +127,10 @@
     },
     {
       "Id": "DamageReductionClose",
+      "Type": "pants"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Special_CorpseExplosion",
       "Type": "pants"
     },
     {
@@ -146,6 +154,10 @@
       "Type": "boots"
     },
     {
+      "Id": "Resistance_All",
+      "Type": "boots"
+    },
+    {
       "Id": "CoreStats_All",
       "Type": "boots"
     },
@@ -162,11 +174,15 @@
       "Type": "amulet"
     },
     {
-      "Id": "SkillRankBonus_Necro_Category_Corpse",
+      "Id": "Armor",
       "Type": "amulet"
     },
     {
       "Id": "DamageReduction_ShadowDoT",
+      "Type": "amulet"
+    },
+    {
+      "Id": "SkillRankBonus_Necro_Category_Corpse",
       "Type": "amulet"
     },
     {
@@ -228,7 +244,7 @@
       "Type": "helm"
     },
     {
-      "Id": "legendary_generic_036",
+      "Id": "legendary_necro_054",
       "Type": "chest"
     },
     {
@@ -236,7 +252,7 @@
       "Type": "gloves"
     },
     {
-      "Id": "legendary_necro_054",
+      "Id": "legendary_generic_036",
       "Type": "pants"
     },
     {

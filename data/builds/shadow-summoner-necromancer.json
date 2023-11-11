@@ -9,14 +9,14 @@
     [
       "Aspect of Ultimate Shadow"
     ],
-    "1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close\n5. Damage to Slowed\n6. Damage to Affected by\nShadow Damage Over Time"
+    "Maximum Item Power (925)\n1. Intelligence\n2. All Stats\n3. Damage to Close\n4. Damage to Slowed\n5. Damage to Shadow Damage\nOver Time-Affected Enemies"
   ],
   [
     "offhand",
     [
       "Aspect of Grasping Veins"
     ],
-    "1. High Damage per Second\n2. Lucky Hit Chance\n3. Lucky Hit Chance while You Have a Barrier\n4. Maxium Minion Life\n5. Cooldown Reduction"
+    "Maximum Item Power (925)\n1. Lucky Hit Chance\n2. Lucky Hit Chance while You Have a Barrier\n3. Maxium Minion Life\n4. Cooldown Reduction\n5. Critical Strike Chance"
   ],
   [
     "helm",
@@ -30,21 +30,21 @@
     [
       "Aspect of Disobedience"
     ],
-    "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n4. Damage Reduction from Close Enemies\n5. Maximum Minion Life\n6. Thorns (IF necessary)"
+    "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Shadow Damage Over Time-Affected Enemies\n4. Damage Reduction from Close Enemies\n5. Maximum Minion Life\n6. Thorns (IF necessary)"
   ],
   [
     "gloves",
     [
       "Viscous Aspect"
     ],
-    "1. Critical Strike Chance\n2. Attack Speed\n3. Lucky Hit Chance\n4. Shadow Damage over Time\n5. Intelligence"
+    "1. Critical Strike Chance\n2. Attack Speed\n3. Lucky Hit Chance\n4. Lucky Hit: Chance to Apply Slow\n5. Shadow Damage over Time\n6. Intelligence"
   ],
   [
     "pants",
     [
       "Aspect of Shielding Storm"
     ],
-    "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n4. Damage Reduction against Close Enemies\n5. +xx Ranks to Corpse Explosion"
+    "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Shadow Damage Over Time-Affected Enemies\n4. Damage Reduction against Close Enemies\n5. +xx Ranks to Corpse Explosion"
   ],
   [
     "boots",
@@ -58,7 +58,7 @@
     [
       "Blighted Aspect"
     ],
-    "1. Movement Speed\n2. +xx Ranks to Gloom Passive\n3. Damage Reduction from Close Enemies\n4. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n5. Minion Attack Speed\n6. Cooldown Reduction\n7. Total Armor"
+    "1. Movement Speed\n2. +xx Ranks to Gloom Passive\n3. Damage Reduction from Close Enemies\n4. Damage Reduction from Shadow Damage Over Time-Affected Enemies\n5. Minion Attack Speed\n6. Cooldown Reduction\n7. Total Armor"
   ],
   [
     "ring",
