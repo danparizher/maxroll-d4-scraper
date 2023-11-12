@@ -21,14 +21,14 @@
   [
     "helm",
     [
-      "Defensive Aspect of Disobedience"
+      "Aspect of Explosive Mist"
     ],
     "1. Total Armor\n2. Maximum Life\n3. Cooldown Reduction\n4. Lucky Hit Chance while You Have a Barrier.\n5. Intelligence"
   ],
   [
     "chest",
     [
-      "Aspect of Explosive Mist"
+      "Defensive Aspect of Shielding Storm"
     ],
     "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n4. Damage Reduction against Close Enemies\n5. Damage Reduction (Any Applicable Options)"
   ],
@@ -42,7 +42,7 @@
   [
     "pants",
     [
-      "Defensive Aspect of Shielding Storm"
+      "Defensive Aspect of Disobedience"
     ],
     "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. Damage Reduction from Close Enemies\n3. Total Armor\n4. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n5. +xx Ranks to Corpse Explosion\n6. Damage Reduction (Any Applicable Options)"
   ],
