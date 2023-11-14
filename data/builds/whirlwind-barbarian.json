@@ -10,14 +10,14 @@
       "Edgemaster\u2019s",
       "Limitless Rage"
     ],
-    "1. Damage while Berserking\n2. Damage to Close Enemies\n3. Damage with Core Skills\n4. Strength / All Stats\n5. Damage to Bleeding Enemies\n6. Critical Strike Damage"
+    "1. Damage while Berserking\n2. Strength\n3. All Stats\n4. Damage to Close Enemies\n5. Damage with Core Skills\n6. Critical Strike Damage\n7. Damage to Bleeding Enemies"
   ],
   [
     "weapon",
     [
       "Dire Whirlwind"
     ],
-    "1. High Damage per Second\n2. Damage while Berserking\n3. Damage to Close Enemies\n4. Damage with Core Skills\n5. Strength / All Stats\n6. Damage to Bleeding Enemies\n7. Critical Strike Damage"
+    "1. High Damage per Second\n2. Damage while Berserking\n3. Strength\n4. All Stats\n5. Damage to Close Enemies\n6. Damage with Core Skills\n7. Critical Strike Damage\n8. Damage to Bleeding Enemies"
   ],
   [
     "weapon",
@@ -25,7 +25,7 @@
       "Berserk Ripping",
       "Expectant"
     ],
-    "1. High Damage per Second\n2. Damage while Berserking\n3. Damage to Close Enemies\n4. Damage with Core Skills\n5. Strength / All Stats\n6. Damage to Bleeding Enemies\n7. Critical Strike Damage"
+    "1. High Damage per Second 2 Damage while Berserking\n3. Strength\n4. All Stats\n5. Damage to Close Enemies\n6. Damage with Core Skills\n7. Critical Strike Damage\n8. Damage to Bleeding Enemies"
   ],
   [
     "weapon",
@@ -33,7 +33,7 @@
       "Edgemaster\u2019s",
       "Limitless Rage"
     ],
-    "1. Damage while Berserking\n2. Damage to Close Enemies\n3. Damage with Core Skills\n4. Strength / All Stats\n5. Damage to Bleeding Enemies\n6. Critical Strike Damage"
+    "1. Damage while Berserking\n2. Strength\n3. All Stats\n4. Damage to Close Enemies\n5. Damage with Core Skills\n6. Critical Strike Damage\n7. Damage to Bleeding Enemies"
   ],
   [
     "helm",
@@ -78,7 +78,7 @@
     [
       "Disobedience"
     ],
-    "1. Cooldown Reduction\n2. Fury Cost Reduction\n3. + Ranks of the Wallop Passive\n4. Movement Speed\n5. + Ranks of the Counteroffensive  Passive"
+    "1. Cooldown Reduction\n2. Fury Cost Reduction\n3. + Ranks of the Counteroffensive  Passive\n4. Movement Speed\n5. + Ranks of the Wallop Passive"
   ],
   [
     "ring",
