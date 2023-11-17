@@ -6,6 +6,10 @@
       "Type": "weapon"
     },
     {
+      "Id": "CoreStats_All",
+      "Type": "weapon"
+    },
+    {
       "Id": "Damage_to_Near",
       "Type": "weapon"
     },
@@ -14,11 +18,11 @@
       "Type": "weapon"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "CritDamage_With_Bone",
       "Type": "weapon"
     },
     {
-      "Id": "CritDamage_With_Bone",
+      "Id": "Damage_to_Vulnerable",
       "Type": "weapon"
     },
     {
@@ -38,7 +42,15 @@
       "Type": "helm"
     },
     {
+      "Id": "CoreStat_Intelligence",
+      "Type": "helm"
+    },
+    {
       "Id": "CoreStats_All",
+      "Type": "helm"
+    },
+    {
+      "Id": "Resistance_All",
       "Type": "helm"
     },
     {
@@ -70,15 +82,15 @@
       "Type": "gloves"
     },
     {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "gloves"
+    },
+    {
       "Id": "CoreStat_Intelligence",
       "Type": "gloves"
     },
     {
       "Id": "CoreStats_All",
-      "Type": "gloves"
-    },
-    {
-      "Id": "Lucky_Hit_Resource",
       "Type": "gloves"
     },
     {
@@ -146,24 +158,8 @@
       "Type": "amulet"
     },
     {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Resource_MaxEssence",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "ring"
+      "Id": "Armor",
+      "Type": "amulet"
     },
     {
       "Id": "CritChance",
@@ -182,7 +178,27 @@
       "Type": "ring"
     },
     {
-      "Id": "Luck",
+      "Id": "CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "Resource_MaxEssence",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_to_Near",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritDamage",
       "Type": "ring"
     }
   ],
@@ -192,11 +208,11 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_generic_009",
+      "Id": "legendary_generic_036",
       "Type": "helm"
     },
     {
-      "Id": "legendary_generic_036",
+      "Id": "legendary_necro_054",
       "Type": "chest"
     },
     {
@@ -204,8 +220,12 @@
       "Type": "gloves"
     },
     {
-      "Id": "legendary_necro_054",
+      "Id": "legendary_generic_009",
       "Type": "pants"
+    },
+    {
+      "Id": "legendary_generic_016",
+      "Type": "boots"
     },
     {
       "Id": "legendary_generic_100",

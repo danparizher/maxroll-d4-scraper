@@ -9,62 +9,63 @@
     [
       "Offensive Aspect of Grasping Veins"
     ],
-    "1. High Damage per Second\n2. Intelligence\n3. Damage to Close\n4. Critical Strike Damage\n5. All Stats\n6. Critical Strike Damage with Bone"
+    "Maximum Item Power (925)\n1. Intelligence\n2. All Stats\n3. Damage to Close\n4. Critical Strike Damage\n5. Critical Strike Damage with Bone\n6. Vulnerable Damage"
   ],
   [
     "helm",
     [
-      "Aspect of Might"
+      "Defensive Aspect of Disobedience"
     ],
-    "1. Maximum Essence\n2. Maximum Life\n3. Cooldown Reduction\n4. Total Armor\n5. All Stats"
+    "1. Maximum Essence\n2. Maximum Life\n3. Cooldown Reduction\n4. % Total Armor\n5. Intelligence\n6. All Stats\n7. xx Resistance (Needed To Cap Res)"
   ],
   [
     "chest",
     [
-      "Defensive Aspect of Disobedience"
+      "Defensive Aspect of Shielding Storm"
     ],
-    "1. Damage Reduction against Close Enemies\n2. Damage Reduction\n3. Maximum Life\n4. Total Armor"
+    "1. Damage Reduction against Close Enemies\n2. Damage Reduction\n3. Maximum Life\n4. % Total Armor"
   ],
   [
     "gloves",
     [
       "Edgemaster\u2019s Aspect"
     ],
-    "1. Critical Strike Chance\n2. Critical Strike Damage with Bone Skills\n3. Attack Speed\n4. Intelligence\n5. All Stats\n6. Lucky Hit Restore Primary Resource"
+    "1. Critical Strike Chance\n2. Critical Strike Damage with Bone Skills\n3. Attack Speed\n4. Lucky Hit Restore Primary Resource\n5. Intelligence\n6. All Stats"
   ],
   [
     "pants",
     [
-      "Defensive Aspect of Shielding Storm"
+      "Aspect of Might"
     ],
-    "Implicit: Potion Restores Grants Barrier\n1. Maximum Life\n2. Damage Reduction from Close Enemies\n3. Damage Reduction\n4. Total Armor\n5. +xx Ranks to Blood Mist"
+    "Implicit: Potion Restores Grants Barrier\n1. Maximum Life\n2. Damage Reduction from Close Enemies\n3. Damage Reduction\n4. % Total Armor\n5. +xx Ranks to Blood Mist"
   ],
   [
     "boots",
     [
+      "Wind Striker Aspect",
       "Ghostwalker Aspect"
     ],
-    "Implicit: Bonus Evade Charges\n1. Movement Speed\n2. +xx Ranks to Bone Spirit\n3. +xx Ranks to Corpse Tendrils\n4. Intelligence\n5. All Stats\n6. (Elemental) Resistance"
+    "Implicit: Bonus Evade Charges\n1. Movement Speed\n2. +xx Ranks to Bone Spirit\n3. +xx Ranks to Corpse Tendrils\n4. Intelligence\n5. All Stats\n6. xx Resistance (Needed To Cap Res)"
   ],
   [
     "amulet",
     [
       "Offensive Aspect of Serration"
     ],
-    "1. Movement Speed\n2. Cooldown Reduction\n3. +xx Ranks to Macabre Skills\n4. +xx Ranks to Evulsion\n5. Damage Reduction from Close Enemies"
+    "1. Movement Speed\n2. Cooldown Reduction\n3. +xx Ranks to Macabre Skills\n4. +xx Ranks to Evulsion\n5. Damage Reduction from Close Enemies\n6. % Total Armor"
   ],
   [
     "ring",
     [
       "Resource Aspect of the Umbral"
     ],
-    "1. Critical Strike Chance\n2. Maximum Essence\n3. Maximum Life\n4. Damage to Close Enemies\n5. Lucky Hit Chance"
+    "1. Critical Strike Chance\n2. Maximum Essence\n3. Maximum Life\n4. Damage to Close Enemies\n5. Critical Strike Damage"
   ],
   [
     "ring",
     [
       "Aspect of Torment"
     ],
-    "1. Critical Strike Chance\n2. Maximum Essence\n3. Maximum Life\n4. Damage to Close Enemies\n5. Lucky Hit Chance"
+    "1. Critical Strike Chance\n2. Maximum Essence\n3. Maximum Life\n4. Damage to Close Enemies\n5. Critical Strike Damage"
   ]
 ]
