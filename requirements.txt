@@ -12,7 +12,7 @@ beautifulsoup4==4.12.2
     # via -r requirements.in
 build==1.0.3
     # via pip-tools
-certifi==2023.7.22
+certifi==2023.11.17
     # via
     #   requests
     #   selenium
@@ -64,7 +64,7 @@ trio==0.23.1
     #   trio-websocket
 trio-websocket==0.11.1
     # via selenium
-urllib3[socks]==2.0.7
+urllib3[socks]==2.1.0
     # via
     #   requests
     #   selenium
