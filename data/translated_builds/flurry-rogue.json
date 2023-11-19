@@ -6,7 +6,7 @@
       "Type": "ranged"
     },
     {
-      "Id": "Damage_Category_Ultimate",
+      "Id": "CoreStats_All",
       "Type": "ranged"
     },
     {
@@ -15,10 +15,6 @@
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "ranged"
-    },
-    {
-      "Id": "CoreStats_All",
       "Type": "ranged"
     },
     {
@@ -30,7 +26,7 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_Category_Ultimate",
+      "Id": "CoreStats_All",
       "Type": "weapon"
     },
     {
@@ -39,10 +35,6 @@
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStats_All",
       "Type": "weapon"
     },
     {
@@ -54,7 +46,7 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_Category_Ultimate",
+      "Id": "CoreStats_All",
       "Type": "weapon"
     },
     {
@@ -63,10 +55,6 @@
     },
     {
       "Id": "CoreStat_Dexterity",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStats_All",
       "Type": "weapon"
     },
     {
@@ -78,7 +66,7 @@
       "Type": "helm"
     },
     {
-      "Id": "SkillRankBonus_Rogue_Special2_PoisonImbue",
+      "Id": "AttackSpeed_Basics",
       "Type": "helm"
     },
     {
@@ -98,15 +86,15 @@
       "Type": "chest"
     },
     {
-      "Id": "Resistance_Single_Fire",
+      "Id": "Armor",
       "Type": "chest"
     },
     {
-      "Id": "Resistance_Single_Lightning",
+      "Id": "Resistance_Single_Shadow",
       "Type": "chest"
     },
     {
-      "Id": "Resistance_Single_Frost",
+      "Id": "Life",
       "Type": "chest"
     },
     {
@@ -158,15 +146,15 @@
       "Type": "boots"
     },
     {
-      "Id": "DamageReductionInjured",
+      "Id": "Resistance_Single_Frost",
       "Type": "boots"
     },
     {
-      "Id": "Dodge",
+      "Id": "Resistance_Single_Fire",
       "Type": "boots"
     },
     {
-      "Id": "Elite_Kill_Movement_Speed",
+      "Id": "Resistance_Single_Lightning",
       "Type": "boots"
     },
     {
@@ -178,7 +166,7 @@
       "Type": "boots"
     },
     {
-      "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
+      "Id": "DamageReduction",
       "Type": "amulet"
     },
     {
@@ -190,11 +178,7 @@
       "Type": "amulet"
     },
     {
-      "Id": "SkillRankBonus_Rogue_Category_Imbuements",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReduction",
+      "Id": "Armor",
       "Type": "amulet"
     },
     {
@@ -256,15 +240,11 @@
   ],
   "ItemAspects": [
     {
-      "Id": "legendary_rogue_011",
+      "Id": "legendary_generic_063",
       "Type": "ranged"
     },
     {
-      "Id": "legendary_rogue_126",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_generic_043",
+      "Id": "legendary_generic_114",
       "Type": "weapon"
     },
     {
@@ -272,15 +252,15 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_rogue_029",
+      "Id": "legendary_rogue_011",
       "Type": "weapon"
     },
     {
-      "Id": "legendary_rogue_126",
+      "Id": "legendary_rogue_113",
       "Type": "weapon"
     },
     {
-      "Id": "legendary_generic_043",
+      "Id": "legendary_generic_114",
       "Type": "weapon"
     },
     {
@@ -288,7 +268,11 @@
       "Type": "weapon"
     },
     {
-      "Id": "legendary_rogue_029",
+      "Id": "legendary_rogue_011",
+      "Type": "weapon"
+    },
+    {
+      "Id": "legendary_rogue_113",
       "Type": "weapon"
     },
     {
@@ -316,11 +300,7 @@
       "Type": "chest"
     },
     {
-      "Id": "legendary_rogue_126",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_generic_043",
+      "Id": "legendary_generic_114",
       "Type": "gloves"
     },
     {
@@ -328,7 +308,11 @@
       "Type": "gloves"
     },
     {
-      "Id": "legendary_rogue_029",
+      "Id": "legendary_rogue_011",
+      "Type": "gloves"
+    },
+    {
+      "Id": "legendary_rogue_113",
       "Type": "gloves"
     },
     {
@@ -352,7 +336,7 @@
       "Type": "amulet"
     },
     {
-      "Id": "legendary_generic_043",
+      "Id": "legendary_generic_114",
       "Type": "ring"
     },
     {
@@ -360,15 +344,15 @@
       "Type": "ring"
     },
     {
-      "Id": "legendary_rogue_126",
+      "Id": "legendary_rogue_011",
       "Type": "ring"
     },
     {
-      "Id": "legendary_rogue_029",
+      "Id": "legendary_rogue_113",
       "Type": "ring"
     },
     {
-      "Id": "legendary_generic_043",
+      "Id": "legendary_generic_114",
       "Type": "ring"
     },
     {
@@ -376,11 +360,11 @@
       "Type": "ring"
     },
     {
-      "Id": "legendary_rogue_126",
+      "Id": "legendary_rogue_011",
       "Type": "ring"
     },
     {
-      "Id": "legendary_rogue_029",
+      "Id": "legendary_rogue_113",
       "Type": "ring"
     }
   ]
