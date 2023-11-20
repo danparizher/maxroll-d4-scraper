@@ -38,8 +38,7 @@ class Cleaner:
             if file.is_file():
                 with file.open() as f:
                     data = json.load(f)
-                # Skip the first row (header)
-                new_data = [data[0]]  # Keep the header in the new data
+                new_data = [data[0]] if data else []  # Keep the header
                 for row in data[1:]:
                     if (
                         len(row) > 1

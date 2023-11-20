@@ -151,6 +151,13 @@ class Translator:
         data: list[list[str]],
     ) -> dict[str, Any]:
         """Translate a build from the scraped format to the D4Companion format."""
+        if not data:
+            logging.error("No data found for build: %s", build_name)
+            return {}
+
+        rows = iter(data)
+        _header = next(rows)
+        # rest of the function here
         rows = iter(data)
         _header = next(rows)
 

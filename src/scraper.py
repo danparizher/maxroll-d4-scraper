@@ -249,13 +249,15 @@ def get_table_data(paths: list[str]) -> list[list[str | list[str]]]:
         # Find the table that contains the most matching class names. We do this because there may multiple tables on the page.
         table = None
         if soup is not None:
-            table = max(
-                soup.find_all("table"),
-                key=lambda tag: sum(
-                    c in tag.get("class", []) for c in required_class_names
-                ),
-            )
-
+            if tables := soup.find_all("table"):
+                table = max(
+                    tables,
+                    key=lambda tag: sum(
+                        c in tag.get("class", []) for c in required_class_names
+                    ),
+                )
+            else:
+                table = None
         if table is not None and (tbody := table.find("tbody")):
             for row in tbody.find_all("tr"):
                 cols = row.find_all("td")
