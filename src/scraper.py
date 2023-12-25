@@ -164,13 +164,13 @@ def get_build_paths_for_class(path: str) -> list[str]:
         EC.presence_of_element_located(
             (
                 By.XPATH,
-                "/html/body/div[5]/section/div[1]/div/main/div/div[4]/div/div/div[1]/a",
+                "/html/body/div[6]/section/div/main/div/div[4]/div/div/div[1]/a",
             ),
         ),
     )
     builds = driver.find_elements(
         By.XPATH,
-        "/html/body/div[5]/section/div[1]/div/main/div/div[4]/div/div/div/a",
+        "/html/body/div[6]/section/div/main/div/div[4]/div/div/div/a",
     )
     build_paths += [
         str(link.get_attribute("href"))
