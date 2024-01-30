@@ -11,6 +11,7 @@ from __future__ import annotations
 import concurrent.futures
 import json
 import logging
+import operator
 import re
 from concurrent.futures import ThreadPoolExecutor
 from contextlib import suppress
@@ -97,7 +98,7 @@ class AspectMap:
         data = json.loads(response.content)
         return {
             item["IdName"]: item["Name"]
-            for item in sorted(data, key=lambda item: item["IdName"])
+            for item in sorted(data, key=operator.itemgetter("IdName"))
         }
 
 
@@ -119,7 +120,7 @@ class AffixMap:
         data = json.loads(response.content)
         return {
             item["IdName"]: item["Description"]
-            for item in sorted(data, key=lambda item: item["IdName"])
+            for item in sorted(data, key=operator.itemgetter("IdName"))
         }
 
 
@@ -317,7 +318,7 @@ def compile_jsons() -> None:
                     json.dump(priorities, f, indent=2)
 
     with Path("data/builds.json").open("w") as f:
-        build_json = sorted(build_json, key=lambda x: next(iter(x.keys())))
+        build_json.sort(key=lambda x: next(iter(x.keys())))
         json.dump(build_json, f, indent=2)
 
 
