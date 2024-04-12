@@ -16,19 +16,13 @@ certifi==2023.11.17
     # via
     #   requests
     #   selenium
-cffi==1.16.0
-    # via trio
 charset-normalizer==3.3.2
     # via requests
 click==8.1.7
     # via pip-tools
-colorama==0.4.6
-    # via
-    #   build
-    #   click
 h11==0.14.0
     # via wsproto
-idna==3.4
+idna==3.7
     # via
     #   requests
     #   trio
@@ -38,8 +32,6 @@ packaging==23.2
     # via build
 pip-tools==7.3.0
     # via -r requirements.in
-pycparser==2.21
-    # via cffi
 pyproject-hooks==1.0.0
     # via build
 pysocks==1.7.1
