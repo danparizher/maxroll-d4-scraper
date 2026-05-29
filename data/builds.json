@@ -1,6 +1,12 @@
 [
   {
-    "arc-lash-sorcerer": "https://maxroll.gg/d4/build-guides/arc-lash-sorcerer-guide"
+    "apocalypse-warlock": "https://maxroll.gg/d4/build-guides/apocalypse-warlock-guide"
+  },
+  {
+    "army-of-the-dead-necromancer": "https://maxroll.gg/d4/build-guides/army-of-the-dead-necromancer-guide"
+  },
+  {
+    "arrow-storms-rogue": "https://maxroll.gg/d4/build-guides/arrow-storms-rogue-guide"
   },
   {
     "ball-lightning-sorcerer": "https://maxroll.gg/d4/build-guides/ball-lightning-sorcerer-guide"
@@ -9,7 +15,13 @@
     "barrage-rogue": "https://maxroll.gg/d4/build-guides/barrage-rogue-guide"
   },
   {
-    "blight-corpse-explosion-necromancer": "https://maxroll.gg/d4/build-guides/blight-corpse-explosion-necromancer-guide"
+    "blazing-scream-warlock": "https://maxroll.gg/d4/build-guides/blazing-scream-warlock-guide"
+  },
+  {
+    "blessed-hammer-paladin": "https://maxroll.gg/d4/build-guides/blessed-hammer-paladin-guide"
+  },
+  {
+    "blight-necromancer": "https://maxroll.gg/d4/build-guides/blight-necromancer-guide"
   },
   {
     "blizzard-sorcerer": "https://maxroll.gg/d4/build-guides/blizzard-sorcerer-guide"
@@ -21,7 +33,7 @@
     "blood-surge-necromancer": "https://maxroll.gg/d4/build-guides/blood-surge-necromancer-guide"
   },
   {
-    "bone-spear-necromancer": "https://maxroll.gg/d4/build-guides/bone-spear-necromancer-guide"
+    "blood-wave-necromancer": "https://maxroll.gg/d4/build-guides/blood-wave-necromancer-guide"
   },
   {
     "bone-spirit-necromancer": "https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide"
@@ -30,46 +42,109 @@
     "boulder-druid": "https://maxroll.gg/d4/build-guides/boulder-druid-guide"
   },
   {
+    "cataclysm-druid": "https://maxroll.gg/d4/build-guides/cataclysm-druid-build-guide"
+  },
+  {
     "chain-lightning-sorcerer": "https://maxroll.gg/d4/build-guides/chain-lightning-sorcerer-guide"
+  },
+  {
+    "charge-barbarian": "https://maxroll.gg/d4/build-guides/charge-barbarian-guide"
+  },
+  {
+    "charged-bolts-sorcerer": "https://maxroll.gg/d4/build-guides/charged-bolts-sorcerer-guide"
+  },
+  {
+    "clash-paladin": "https://maxroll.gg/d4/build-guides/clash-paladin-guide"
+  },
+  {
+    "companion-druid": "https://maxroll.gg/d4/build-guides/companion-druid-guide"
+  },
+  {
+    "crushing-hand-spiritborn": "https://maxroll.gg/d4/build-guides/crushing-hand-spiritborn-guide"
+  },
+  {
+    "dance-of-knives-rogue": "https://maxroll.gg/d4/build-guides/dance-of-knives-rogue-guide"
+  },
+  {
+    "dash-rogue": "https://maxroll.gg/d4/build-guides/dash-rogue-guide"
   },
   {
     "death-trap-rogue": "https://maxroll.gg/d4/build-guides/death-trap-rogue-guide"
   },
   {
-    "double-swing-barbarian": "https://maxroll.gg/d4/build-guides/double-swing-barbarian-guide"
+    "divine-lance-paladin": "https://maxroll.gg/d4/build-guides/divine-lance-paladin-guide"
   },
   {
-    "fireball-sorcerer": "https://maxroll.gg/d4/build-guides/fireball-sorcerer-guide"
+    "dread-claws-warlock": "https://maxroll.gg/d4/build-guides/dread-claws-warlock-guide"
+  },
+  {
+    "evade-counterswarm-spiritborn": "https://maxroll.gg/d4/build-guides/evade-counterswarm-spiritborn-guide"
+  },
+  {
+    "evade-spiritborn": "https://maxroll.gg/d4/build-guides/evade-spiritborn-build-guide"
+  },
+  {
+    "eviscerate-warlock": "https://maxroll.gg/d4/build-guides/eviscerate-warlock-guide"
   },
   {
     "firewall-sorcerer": "https://maxroll.gg/d4/build-guides/firewall-sorcerer-guide"
   },
   {
-    "flurry-rapid-fire-rogue": "https://maxroll.gg/d4/build-guides/flurry-rapid-fire-rogue-guide"
+    "flurry-rogue": "https://maxroll.gg/d4/build-guides/flurry-rogue-guide"
   },
   {
-    "flurry-rogue": "https://maxroll.gg/d4/build-guides/flurry-rogue-guide"
+    "frenzy-barbarian": "https://maxroll.gg/d4/build-guides/frenzy-barbarian-guide"
   },
   {
     "frozen-orb-sorcerer": "https://maxroll.gg/d4/build-guides/frozen-orb-sorcerer-guide"
   },
   {
+    "golem-necromancer": "https://maxroll.gg/d4/build-guides/golem-necromancer-guide"
+  },
+  {
+    "grenade-rogue": "https://maxroll.gg/d4/build-guides/grenade-rogue-guide"
+  },
+  {
     "hammer-of-the-ancients-barbarian": "https://maxroll.gg/d4/build-guides/hammer-of-the-ancients-barbarian-guide"
+  },
+  {
+    "heartseeker-rogue-specialized": "https://maxroll.gg/d4/build-guides/heartseeker-rogue-specialized-guide"
+  },
+  {
+    "hell-fracture-warlock": "https://maxroll.gg/d4/build-guides/hell-fracture-warlock-guide"
+  },
+  {
+    "hydra-sorcerer": "https://maxroll.gg/d4/build-guides/hydra-sorcerer-guide"
   },
   {
     "ice-shards-sorcerer": "https://maxroll.gg/d4/build-guides/ice-shards-sorcerer-guide"
   },
   {
-    "infinimist-necromancer": "https://maxroll.gg/d4/build-guides/infinimist-necromancer-guide"
-  },
-  {
-    "lightning-shred-druid": "https://maxroll.gg/d4/build-guides/lightning-shred-druid-guide"
+    "judgement-paladin": "https://maxroll.gg/d4/build-guides/judgement-paladin-guide"
   },
   {
     "lightning-storm-druid": "https://maxroll.gg/d4/build-guides/lightning-storm-druid-guide"
   },
   {
+    "lunatic-warlock": "https://maxroll.gg/d4/build-guides/lunatic-warlock-guide"
+  },
+  {
+    "lunging-strike-barbarian": "https://maxroll.gg/d4/build-guides/lunging-strike-barbarian-guide"
+  },
+  {
     "meteor-sorcerer": "https://maxroll.gg/d4/build-guides/meteor-sorcerer-guide"
+  },
+  {
+    "mighty-maelstrom-barbarian": "https://maxroll.gg/d4/build-guides/mighty-maelstrom-barbarian-guide"
+  },
+  {
+    "minion-barbarian": "https://maxroll.gg/d4/build-guides/minion-barbarian-guide"
+  },
+  {
+    "minion-necromancer": "https://maxroll.gg/d4/build-guides/minion-necromancer-guide"
+  },
+  {
+    "minion-warlock": "https://maxroll.gg/d4/build-guides/minion-warlock-guide"
   },
   {
     "penetrating-shot-rogue": "https://maxroll.gg/d4/build-guides/penetrating-shot-rogue-guide"
@@ -78,34 +153,28 @@
     "pulverize-druid": "https://maxroll.gg/d4/build-guides/pulverize-druid-guide"
   },
   {
-    "rain-of-arrows-rogue": "https://maxroll.gg/d4/build-guides/rain-of-arrows-rogue-build-guide"
+    "quill-volley-spiritborn": "https://maxroll.gg/d4/build-guides/quill-volley-spiritborn-guide"
+  },
+  {
+    "rake-spiritborn": "https://maxroll.gg/d4/build-guides/rake-spiritborn-guide"
   },
   {
     "rapid-fire-rogue": "https://maxroll.gg/d4/build-guides/rapid-fire-rogue-guide"
   },
   {
+    "rend-barbarian": "https://maxroll.gg/d4/build-guides/rend-barbarian-guide"
+  },
+  {
     "sever-necromancer-endgame": "https://maxroll.gg/d4/build-guides/sever-necromancer-endgame-guide"
   },
   {
-    "shadow-summoner-necromancer": "https://maxroll.gg/d4/build-guides/shadow-summoner-necromancer-guide"
+    "shield-of-retribution-paladin": "https://maxroll.gg/d4/build-guides/shield-of-retribution-paladin-guide"
   },
   {
     "shred-druid": "https://maxroll.gg/d4/build-guides/shred-druid-guide"
   },
   {
-    "stormclaw-druid": "https://maxroll.gg/d4/build-guides/stormclaw-druid-guide"
-  },
-  {
-    "summoner-necromancer": "https://maxroll.gg/d4/build-guides/summoner-necromancer-guide"
-  },
-  {
-    "support-druid": "https://maxroll.gg/d4/build-guides/support-druid-guide"
-  },
-  {
-    "thorns-barbarian": "https://maxroll.gg/d4/build-guides/thorns-barbarian-guide"
-  },
-  {
-    "tornado-druid": "https://maxroll.gg/d4/build-guides/tornado-druid-guide"
+    "support-paladin": "https://maxroll.gg/d4/build-guides/support-paladin-guide"
   },
   {
     "trampleslide-druid": "https://maxroll.gg/d4/build-guides/trampleslide-druid-guide"
@@ -114,12 +183,15 @@
     "twisting-blades-rogue": "https://maxroll.gg/d4/build-guides/twisting-blades-rogue-guide"
   },
   {
-    "upheaval-barbarian": "https://maxroll.gg/d4/build-guides/upheaval-barbarian-guide"
-  },
-  {
-    "walking-arsenal-barbarian": "https://maxroll.gg/d4/build-guides/walking-arsenal-barbarian-guide"
+    "tyrants-grasp-warlock": "https://maxroll.gg/d4/build-guides/tyrants-grasp-warlock-guide"
   },
   {
     "whirlwind-barbarian": "https://maxroll.gg/d4/build-guides/whirlwind-barbarian-guide"
+  },
+  {
+    "wing-strikes-paladin": "https://maxroll.gg/d4/build-guides/wing-strikes-paladin-guide"
+  },
+  {
+    "zeal-paladin": "https://maxroll.gg/d4/build-guides/zeal-paladin-guide"
   }
 ]

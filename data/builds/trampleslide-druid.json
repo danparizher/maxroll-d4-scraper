@@ -1,103 +1,47 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Subterranean ",
-      "Aftershock",
-      "Trampled Earth",
-      "Natural Balance",
-      "Retaliation"
-    ],
-    "1. High Damage per Second\n2. Damage To Crowd Controlled\n3. Willpower\n4. All Stats\n5. Core Skill Damage\n6. Damage to Close Enemies\n7. Critical Strike Damage\n8. Damage to Poisoned Enemies"
-  ],
-  [
-    "offhand",
-    [
-      "Subterranean ",
-      "Aftershock",
-      "Trampled Earth",
-      "Natural Balance",
-      "Retaliation"
-    ],
-    "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Damage Reduction While Fortified\n4. Damage Reduction From Poisoned\n5. Basic Attack Speed\n6. Lucky Hit Chance\n7. Barrier Generation"
-  ],
-  [
     "helm",
-    [
-      "Disobedience",
-      "Might",
-      "Mending Stone"
-    ],
-    "1. Cooldown Reduction\n2. Basic Attack Speed\n3. Life\n4. Armor\n5. Crowd Control Duration\n6. Barrier Generation\n7. Willpower"
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:2611719"
   ],
   [
     "chest",
-    [
-      "Disobedience",
-      "Might",
-      "Mending Stone"
-    ],
-    "1. Damage Reduction while Fortified\n2. Damage Reduction against Close Enemies\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction from Poisoned Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Armor"
+    [],
+    "1. nid:1834105\n2. nid:1829574\n3. nid:1829592\n4. nid:1924659\n5. nid:1834296\n6. nid:2615143\n7. nid:2611719"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829586\n2. nid:2620587\n3. nid:2602161\n4. nid:2605602\n5. nid:1829588\n6. nid:2625642\n7. nid:2611712"
   ],
   [
     "gloves",
-    [
-      "Subterranean ",
-      "Aftershock",
-      "Trampled Earth",
-      "Natural Balance",
-      "Retaliation"
-    ],
-    "1. Ranks to Landslide\n2. Critical Strike Chance\n3. Attack Speed\n4. Willpower\n5. Critical Strike Damage with Earth Skills"
+    [],
+    "1. nid:1829560\n2. nid:2602170\n3. nid:2602164\n4. nid:1829582\n5. nid:2602161\n6. nid:2605602\n7. nid:1959112"
   ],
   [
     "pants",
-    [
-      "Disobedience",
-      "Might",
-      "Mending Stone"
-    ],
-    "1. Damage Reduction while Fortified\n2. Damage Reduction from Close Enemies\n3. Damage Reduction from Distant Enemies\n4. Damage Reduction Poisoned Enemies\n5. Damage Reduction From\n5. Life"
+    [],
+    "1. nid:1829574\n2. nid:1829592\n3. nid:1834296\n4. nid:1924659\n5. nid:2615143\n6. nid:1559366\n7. nid:2611719"
   ],
   [
     "boots",
-    [
-      "Ghostwalker"
-    ],
-    "Implicit: Movement Speed after Evade\n1. Movement Speed\n2. 1 of of: Fire, Cold, Lightning, Shadow Resistance\n3. Movement Speed After Killing an Elite\n4. Dodge Chance\n5. Willpower\n6. Fortify Generation\n7. Dodge Chance Against Distant Enemies\n8. Damage Reduction While Injured"
+    [],
+    "1. nid:1829574\n2. nid:1829592\n3. nid:1829598\n4. nid:1924659\n5. nid:1834296\n6. nid:1829554\n7. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829560\n2. nid:1834112\n3. nid:1829586\n4. nid:1829574\n5. nid:1829588\n6. nid:1829592\n7. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:578943\n2. nid:2067864\n3. nid:2067858\n4. nid:2067860\n5. nid:2067862\n6. nid:2611706"
   ],
   [
     "amulet",
-    [
-      "Symbiotic"
-    ],
-    "1. Ranks to Envenom\n2. Movement Speed\n3. Cooldown Reduction\n4. Damage Reduction while Fortified\n5. Damage Reduction From Poisoned Enemies\n6. Damage Reduction from Close Enemies\n7. Armor\nSocket Single Resistance"
-  ],
-  [
-    "ring",
-    [
-      "Subterranean ",
-      "Aftershock",
-      "Trampled Earth",
-      "Natural Balance",
-      "Retaliation"
-    ],
-    "1. Critical Strike Chance\n2. Damage to Crowd Controlled Enemies\n3. Life\n4. Damage To Close Enemies\n5. Critical Strike Damage\n6.Critical Strike Damage with Earth Skills\n7. Physical Damage\nSocket Single Resistance"
-  ],
-  [
-    "ring",
-    [
-      "Subterranean ",
-      "Aftershock",
-      "Trampled Earth",
-      "Natural Balance",
-      "Retaliation"
-    ],
-    "1. Critical Strike Chance\n2. Damage to Crowd Controlled Enemies\n3. Life\n4. Damage To Close Enemies\n5. Critical Strike Damage\n6.Critical Strike Damage with Earth Skills\n7. Physical Damage\nSocket Single Resistance"
+    [],
+    "1. nid:1829560\n2. nid:2602170\n3. nid:2602164\n4. nid:1829582\n5. nid:2602161\n6. nid:2605602\n7. nid:2611719"
   ]
 ]

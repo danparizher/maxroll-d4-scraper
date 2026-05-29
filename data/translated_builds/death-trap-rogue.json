@@ -2,103 +2,7 @@
   "Name": "death-trap-rogue",
   "ItemAffixes": [
     {
-      "Id": "Damage_Category_Ultimate",
-      "Type": "ranged"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ranged"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "ranged"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
-      "Type": "ranged"
-    },
-    {
-      "Id": "Damage_Category_Spenders",
-      "Type": "ranged"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "ranged"
-    },
-    {
-      "Id": "Damage_Category_Ultimate",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_Category_Spenders",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_Category_Ultimate",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_Category_Spenders",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Resistance_Single_Fire",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Shadow",
-      "Type": "helm"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "helm"
-    },
-    {
-      "Id": "Armor",
+      "Id": "CooldownReductionCDR",
       "Type": "helm"
     },
     {
@@ -106,27 +10,23 @@
       "Type": "helm"
     },
     {
-      "Id": "Life_On_Kill",
+      "Id": "Resource_Max_AllClasses_UNIQUE",
       "Type": "helm"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "S04_Armor",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
       "Type": "chest"
     },
     {
-      "Id": "Armor",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReductionDistant",
+      "Id": "CoreStat_Dexterity",
       "Type": "chest"
     },
     {
@@ -134,15 +34,75 @@
       "Type": "chest"
     },
     {
-      "Id": "SkillRankBonus_Rogue_Core_4",
-      "Type": "gloves"
+      "Id": "Barrier_Strength_Percent",
+      "Type": "chest"
     },
     {
-      "Id": "AttackSpeed",
-      "Type": "gloves"
+      "Id": "S04_Armor",
+      "Type": "chest"
     },
     {
-      "Id": "Lucky_Hit_Slow",
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Shadow",
+      "Type": "weapon"
+    },
+    {
+      "Id": "X2_Fast_Weapon_Damage_1HAxe",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Shadow",
+      "Type": "weapon"
+    },
+    {
+      "Id": "X2_Fast_Weapon_Damage_1HAxe",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Shadow",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CooldownReductionCDR",
       "Type": "gloves"
     },
     {
@@ -150,31 +110,19 @@
       "Type": "gloves"
     },
     {
-      "Id": "Luck",
+      "Id": "S04_Damage_to_Vulnerable",
       "Type": "gloves"
     },
     {
-      "Id": "Trap_Arm_Time",
+      "Id": "S04_CritDamage",
       "Type": "gloves"
     },
     {
-      "Id": "DamageReduction",
-      "Type": "pants"
+      "Id": "Tempered_ClassMechanic_Rogue_TrapArmTime_Tier1",
+      "Type": "gloves"
     },
     {
-      "Id": "Armor",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionDistant",
+      "Id": "CoreStat_Dexterity",
       "Type": "pants"
     },
     {
@@ -182,75 +130,39 @@
       "Type": "pants"
     },
     {
+      "Id": "S04_Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "Barrier_Strength_Percent",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "boots"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
       "Id": "Movement_Speed",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Fire",
+      "Id": "S04_Armor",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Frost",
+      "Id": "Talisman_Charm_Affix_UNIQUE_CDR_Tag_Generic_Mobility",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resistance_Single_Shadow",
-      "Type": "boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Rogue",
-      "Type": "boots"
-    },
-    {
-      "Id": "Elite_Kill_Movement_Speed",
-      "Type": "boots"
-    },
-    {
-      "Id": "PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-      "Type": "amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Rogue_Cunning_T3_N1_Exploit",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Rogue_Cunning_T4_N2_Malice",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Rogue",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "amulet"
-    },
-    {
-      "Id": "ResourceGain",
+      "Id": "CooldownReductionCDR",
       "Type": "ring"
     },
     {
@@ -258,98 +170,57 @@
       "Type": "ring"
     },
     {
-      "Id": "Luck",
+      "Id": "S04_Damage_to_Vulnerable",
       "Type": "ring"
     },
     {
-      "Id": "Life",
+      "Id": "S04_CritDamage",
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "CooldownReductionCDR",
       "Type": "ring"
     },
     {
-      "Id": "CritDamage",
+      "Id": "CooldownReductionCDR",
       "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "amulet"
     }
   ],
-  "ItemAspects": [
-    {
-      "Id": "legendary_rogue_021",
-      "Type": "ranged"
-    },
-    {
-      "Id": "legendary_generic_038",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_generic_063",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_generic_038",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_generic_063",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_generic_009",
-      "Type": "helm"
-    },
-    {
-      "Id": "legendary_generic_102",
-      "Type": "helm"
-    },
-    {
-      "Id": "legendary_generic_009",
-      "Type": "chest"
-    },
-    {
-      "Id": "legendary_generic_102",
-      "Type": "chest"
-    },
-    {
-      "Id": "legendary_generic_038",
-      "Type": "gloves"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_generic_063",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_rogue_111",
-      "Type": "pants"
-    },
-    {
-      "Id": "legendary_rogue_118",
-      "Type": "boots"
-    },
-    {
-      "Id": "legendary_generic_100",
-      "Type": "amulet"
-    },
-    {
-      "Id": "legendary_rogue_106",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_generic_021",
-      "Type": "ring"
-    }
-  ]
+  "ItemAspects": []
 }

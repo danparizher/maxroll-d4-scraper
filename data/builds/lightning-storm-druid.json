@@ -1,92 +1,47 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Retaliation",
-      "Overcharged",
-      "Rampaging Werebeast",
-      "Lightning Dancer's"
-    ],
-    "Weapon Type: Axe\n1. High Damage per Second\n2. Damage To Distant Enemies\n3. Damage To Close Enemies\n4. Willpower\n5. All Stats\n6. Core Skill Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Werewolf Skills"
-  ],
-  [
-    "offhand",
-    [
-      "Retaliation",
-      "Overcharged",
-      "Rampaging Werebeast",
-      "Lightning Dancer's"
-    ],
-    "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Damage Reduction From Poisoned\n4. Damage Reduction While Fortified\n5. Lucky Hit Chance\n6. Willpower"
-  ],
-  [
     "helm",
-    [
-      "Mending Stone"
-    ],
-    "1. Cooldown Reduction\n2. Maximum Life\n3. Willpower\n4. Single Resistance\n5. Total Armor\n6. Basic Attack Speed"
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:1862295"
   ],
   [
     "chest",
-    [
-      "Vigorous",
-      "Disobedience"
-    ],
-    "1. Damage Reduction From Poisoned\n2. Damage Reduction While Fortified\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction\n6. % Total Armor\n7. Maximum Life\n8. Willpower"
+    [],
+    "1. nid:1829592\n2. nid:1829574\n3. nid:1834296\n4. nid:2615143\n5. nid:1884273\n6. nid:1884277\n7. nid:1862295"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829586\n2. nid:2620599\n3. nid:2605602\n4. nid:2602161\n5. nid:1829588\n6. nid:2625642\n7. nid:2611712"
   ],
   [
     "gloves",
-    [
-      "Retaliation",
-      "Overcharged",
-      "Rampaging Werebeast",
-      "Lightning Dancer's"
-    ],
-    "1. Ranks to Lightning Storm\n2. Critical Strike Chance\n3. Lucky Hit Chance\n4. Willpower\n5. Critical Strike Damage with Werewolf Skills\n6. Lightning Critical Strike Damage"
+    [],
+    "1. nid:2602170\n2. nid:2602164\n3. nid:2602180\n4. nid:2605602\n5. nid:1715765\n6. nid:1959112"
   ],
   [
     "pants",
-    [
-      "Disobedience",
-      "Vigorous"
-    ],
-    "Implicit: Potion Grants Barrier\n1. Damage Reduction From Poisoned\n2. Damage Reduction While Fortified\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction\n6. % Total Armor\n7. Maximum Life\n8. Willpower"
+    [],
+    "1. nid:1829592\n2. nid:1829574\n3. nid:2615143\n4. nid:1834296\n5. nid:1559366\n6. nid:1862295"
   ],
   [
     "boots",
-    [
-      "Stormshifter's",
-      "Ghostwalker"
-    ],
-    "Implicit: Attacks Reduce Evade's CD\n1. Movement Speed\n2/3. Two of: Fire, Cold, Shadow, Poison Resistance\n4. Total Armor while in Werewolf Form\n5. Fortify Generation\n6. Dodge Chance From Distant Enemeis\n7. Dodge Chance\n6. Willpower"
+    [],
+    "1. nid:1829592\n2. nid:1829574\n3. nid:1834296\n4. nid:1829554\n5. nid:2540910\n6. nid:1829598\n7. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1834112\n2. nid:1829586\n3. nid:2558717\n4. nid:1829592\n5. nid:1829574\n6. nid:1829584\n7. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:578943\n2. nid:2067858\n3. nid:2067862\n4. nid:2067864\n5. nid:2067860\n6. nid:2611706"
   ],
   [
     "amulet",
-    [
-      "Dire Wolf's"
-    ],
-    "1. Cooldown Reduction\n2. Movement Speed\n3. Ranks to Envenom\n4. Damage Reduction From Poisoned\n5. Damage Reduction While Fortified\n6. Damage Reduction from Close Enemies\n7. Damage Reduction from Distant Enemies\nSocket Single Resistance"
-  ],
-  [
-    "ring",
-    [
-      "Umbral"
-    ],
-    "1. Damage to Distant Enemies\n2. Damage to Close Enemies\n3. Critical Strike Chance\n4. Lucky Hit Chance\n5. Maximum Life\n6. Critical Strike Damage With Werewolf Skills\n7. Lightning Critical Strike Damage\nSocket Single Resistance"
-  ],
-  [
-    "ring",
-    [
-      "Retaliation",
-      "Overcharged",
-      "Rampaging Werebeast",
-      "Lightning Dancer's"
-    ],
-    "1. Damage to Distant Enemies\n2. Damage to Close Enemies\n3. Critical Strike Chance\n4. Lucky Hit Chance\n5. Maximum Life\n6. Critical Strike Damage With Werewolf Skills\n7. Lightning Critical Strike Damage\nSocket Single Resistance"
+    [],
+    "1. nid:2602170\n2. nid:2602164\n3. nid:2602180\n4. nid:2605602\n5. nid:2602166\n6. nid:1829582\n7. nid:2611706"
   ]
 ]

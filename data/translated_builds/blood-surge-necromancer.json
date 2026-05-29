@@ -2,11 +2,47 @@
   "Name": "blood-surge-necromancer",
   "ItemAffixes": [
     {
-      "Id": "OverpowerDamage",
-      "Type": "weapon"
+      "Id": "CritChance",
+      "Type": "helm"
     },
     {
-      "Id": "Damage_Category_Spenders",
+      "Id": "INHERENT_Luck",
+      "Type": "helm"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "helm"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "chest"
+    },
+    {
+      "Id": "CritChance",
       "Type": "weapon"
     },
     {
@@ -14,88 +50,36 @@
       "Type": "weapon"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "S04_Armor",
       "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Life",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "offhand"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Lucky_Hit_Resource",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Luck",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Life",
-      "Type": "helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "helm"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "helm"
-    },
-    {
-      "Id": "AttackSpeed_Basics",
-      "Type": "helm"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "helm"
-    },
-    {
-      "Id": "CoreStats_All",
-      "Type": "helm"
-    },
-    {
-      "Id": "Life",
-      "Type": "chest"
-    },
-    {
-      "Id": "Armor",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "chest"
     },
     {
       "Id": "DamageReduction",
-      "Type": "chest"
+      "Type": "weapon"
     },
     {
-      "Id": "DamageReductionDistant",
-      "Type": "chest"
+      "Id": "CritChance",
+      "Type": "weapon"
     },
     {
-      "Id": "SkillRankBonus_Necro_Core_5",
-      "Type": "gloves"
+      "Id": "X2_Fast_Weapon_Damage_1HAxe",
+      "Type": "weapon"
     },
     {
-      "Id": "OverpowerDamage",
-      "Type": "gloves"
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "weapon"
     },
     {
       "Id": "AttackSpeed",
@@ -106,11 +90,15 @@
       "Type": "gloves"
     },
     {
-      "Id": "Lucky_Hit_Resource",
+      "Id": "S04_CritDamage",
       "Type": "gloves"
     },
     {
-      "Id": "Luck",
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Tempered_Generic_Overpower_DamagePerStack_Tier1",
       "Type": "gloves"
     },
     {
@@ -118,15 +106,19 @@
       "Type": "pants"
     },
     {
-      "Id": "Armor",
+      "Id": "CoreStat_Intelligence",
       "Type": "pants"
     },
     {
-      "Id": "DamageReductionClose",
+      "Id": "S04_Armor",
       "Type": "pants"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "S04_Resource_Per_Second_Essence",
+      "Type": "pants"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
       "Type": "pants"
     },
     {
@@ -134,11 +126,7 @@
       "Type": "boots"
     },
     {
-      "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Necro_Special_CorpseTendrils",
+      "Id": "Life",
       "Type": "boots"
     },
     {
@@ -146,114 +134,73 @@
       "Type": "boots"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "S04_Resource_Per_Second_Essence",
       "Type": "boots"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Necromancer",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Necro_Playstyle_T1_N2_TidesofBlood",
-      "Type": "amulet"
     },
     {
       "Id": "Movement_Speed",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Armor",
-      "Type": "amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "OverpowerDamage",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "OverpowerDamage",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
-    },
-    {
-      "Id": "Luck",
-      "Type": "ring"
-    }
-  ],
-  "ItemAspects": [
-    {
-      "Id": "legendary_necro_066",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_generic_102",
-      "Type": "offhand"
-    },
-    {
-      "Id": "legendary_generic_036",
-      "Type": "helm"
-    },
-    {
-      "Id": "legendary_necro_054",
-      "Type": "chest"
-    },
-    {
-      "Id": "legendary_necro_108",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_generic_009",
-      "Type": "pants"
-    },
-    {
-      "Id": "legendary_generic_100",
       "Type": "boots"
     },
     {
-      "Id": "legendary_necro_111",
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "X2_DamageType_Physical",
+      "Type": "ring"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "ring"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
       "Type": "amulet"
     },
     {
-      "Id": "legendary_necro_113",
-      "Type": "ring"
+      "Id": "Life",
+      "Type": "amulet"
     },
     {
-      "Id": "legendary_generic_021",
-      "Type": "ring"
+      "Id": "S04_CritDamage",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "amulet"
     }
-  ]
+  ],
+  "ItemAspects": []
 }

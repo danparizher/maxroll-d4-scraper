@@ -1,9 +1,9 @@
 """Retrieves the stat priorities from the website using the following process.
 
-1. Generate a list of class paths (barbarian, druid, necromancer, rogue, sorcerer).
+1. Generate a list of class paths (barbarian, druid, necromancer, rogue, sorcerer, etc.).
 2. For each class path, retrieve the build paths for that class (whirlwind-barbarian, twisting-blades-rogue, etc.)
-3. For each build path, retrieve the stat priorities (strength, critical hit chance, etc.)
-4. Write the stat priorities to a JSON file in the builds directory.
+3. For each build path, retrieve the gear/affix data from the embedded planner profile.
+4. Write the gear data to a JSON file in the builds directory.
 """
 
 from __future__ import annotations
@@ -14,17 +14,11 @@ import logging
 import operator
 import re
 from concurrent.futures import ThreadPoolExecutor
-from contextlib import suppress
 from pathlib import Path
 from typing import Any
 
 import requests
-from bs4 import BeautifulSoup, Tag
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.wait import WebDriverWait
+from bs4 import BeautifulSoup
 
 logging.basicConfig(
     level=logging.INFO,
@@ -43,6 +37,9 @@ class Uniques:
     def fetch_data(url: str) -> dict[str, dict[str, str]]:
         """Return the JSON data from the given URL."""
         response = requests.get(url, timeout=10)
+        if response.status_code != 200:
+            msg = f"Failed to get data from {url}. Status code: {response.status_code}"
+            raise RuntimeError(msg)
         return response.json()
 
     def fetch_item_files(self: Uniques) -> list[str] | None:
@@ -67,8 +64,11 @@ class Uniques:
                     for value in item_files
                 ]
                 for future in concurrent.futures.as_completed(futures):
-                    data: dict[str, Any] = future.result()
-                    self.uniques.append(data["arStrings"][0]["szText"])
+                    try:
+                        data: dict[str, Any] = future.result()
+                        self.uniques.append(data["arStrings"][0]["szText"])
+                    except Exception as e:
+                        logging.warning("Skipping unavailable unique item data: %s", e)
         return self.uniques
 
     def create_uniques(self: Uniques) -> None:
@@ -124,61 +124,29 @@ class AffixMap:
         }
 
 
-def get_soup(url: str) -> BeautifulSoup | None:
-    """Return a BeautifulSoup object from the given URL."""
-    response = requests.get(url, timeout=10)
-    if response.status_code != 200:
-        logging.error(
-            "Failed to get data from %s. Status code: %s",
-            url,
-            response.status_code,
-        )
-        return None
-    return BeautifulSoup(response.text, "html.parser")
-
-
 def generate_class_paths() -> list[str]:
     """Return a list of class paths."""
     root = "https://maxroll.gg/d4/build-guides?filter[metas][taxonomy]=taxonomies.metas&filter[metas][value]=d4-endgame&filter[classes][taxonomy]=taxonomies.classes&filter[classes][value]=d4-"
-    classes = ["barbarian", "druid", "necromancer", "rogue", "sorcerer"]
+    classes = ["barbarian", "druid", "necromancer", "paladin", "rogue", "sorcerer", "spiritborn", "warlock"]
     return [root + c for c in classes]
 
 
-def init_driver() -> webdriver.Chrome:
-    """Return a Chrome webdriver with the required options."""
-    options = Options()
-    options.add_argument("headless")
-    options.add_argument("--log-level=3")
-    options.add_argument("--blink-settings=imagesEnabled=false")
-    options.add_experimental_option("excludeSwitches", ["enable-logging"])
-    return webdriver.Chrome(options=options)
-
-
-# This function has to use Selenium because BS4 cannot find the build paths in the HTML
 def get_build_paths_for_class(path: str) -> list[str]:
     """Return a list of build paths for the given class path."""
-    build_paths = []
     logging.info("Retrieving build paths from %s", path)
-    driver = init_driver()
-    driver.get(path)
-    WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located(
-            (
-                By.XPATH,
-                "/html/body/div[6]/section/div/main/div/div[4]/div/div/div[1]/a",
-            ),
-        ),
-    )
-    builds = driver.find_elements(
-        By.XPATH,
-        "/html/body/div[6]/section/div/main/div/div[4]/div/div/div/a",
-    )
-    build_paths += [
-        str(link.get_attribute("href"))
-        for link in builds
-        if isinstance(link.get_attribute("href"), str)
+    response = requests.get(path, timeout=20)
+    if response.status_code != 200:
+        logging.error("Failed to get data from %s. Status code: %s", path, response.status_code)
+        return []
+    soup = BeautifulSoup(response.text, "html.parser")
+    build_paths = [
+        f"https://maxroll.gg{a['href']}"
+        for a in soup.find_all("a", href=True)
+        if "/d4/build-guides/" in a["href"]
+        and a["href"] != "/d4/build-guides/"
+        and "guide" in a["href"]
     ]
-    driver.quit()
+    build_paths = list(dict.fromkeys(build_paths))  # deduplicate preserving order
     for build_path in build_paths:
         logging.info("Retrieved build path: %s", build_path)
     return build_paths
@@ -204,88 +172,146 @@ def get_all_build_paths() -> list[str]:
     return all_build_paths
 
 
-def get_text_lines(tag: Tag) -> str:
-    """Return the text from the given HTML tag."""
-    for span in tag.find_all("span"):
-        span.unwrap()
-
-    tag.smooth()
-    lines = [line.strip() for line in tag.get_text(separator="\n").splitlines()]
-
-    with suppress(ValueError):
-        i = lines.index("Stat Priority:")
-        del lines[: i + 1]
-
-    for i in range(len(lines) - 2, 0, -1):
-        line = lines[i]
-
-        if not re.match(
-            r"^[\d/\.\s]*\d[\d/\.\s]*[\.:]",
-            line,
-        ) and not line.lower().startswith(("*", "socket")):
-            lines[i - 1] += f" {line}"
-            del lines[i]
-
-    return "\n".join(lines)
+# Slot number to gear type mapping for the D4 planner profile
+SLOT_TYPE_MAP: dict[int, str] = {
+    4: "helm",
+    5: "chest",
+    8: "weapon",
+    9: "weapon",
+    10: "weapon",
+    11: "weapon",
+    12: "weapon",
+    13: "gloves",
+    14: "pants",
+    15: "boots",
+    16: "ring",
+    17: "ring",
+    18: "amulet",
+}
 
 
-def parse_aspects(aspects: Tag) -> list[str]:
-    """Return a list of aspects from the given HTML tag."""
-    return [aspect.text for aspect in aspects.find_all("span", class_="d4-affix")]
+def _item_id_to_type(item_id: str) -> str:
+    """Derive gear type from a planner item ID prefix."""
+    item_id_lower = item_id.lower()
+    if item_id_lower.startswith("helm"):
+        return "helm"
+    if item_id_lower.startswith("chest"):
+        return "chest"
+    if item_id_lower.startswith("gloves"):
+        return "gloves"
+    if item_id_lower.startswith("pants"):
+        return "pants"
+    if item_id_lower.startswith("boots"):
+        return "boots"
+    if item_id_lower.startswith("amulet"):
+        return "amulet"
+    if item_id_lower.startswith("ring"):
+        return "ring"
+    if any(item_id_lower.startswith(p) for p in ("1h", "2h", "bow", "crossbow", "staff", "focus", "shield", "totem")):
+        return "weapon"
+    if item_id_lower.startswith("offhand"):
+        return "offhand"
+    return "weapon"
+
+
+def _extract_planner_profile(url: str) -> dict[str, Any] | None:
+    """Extract the plannerProfile data from a build guide page."""
+    response = requests.get(url, timeout=20)
+    if response.status_code != 200:
+        logging.error("Failed to get data from %s. Status code: %s", url, response.status_code)
+        return None
+    soup = BeautifulSoup(response.text, "html.parser")
+    for script in soup.find_all("script"):
+        text = script.string or ""
+        if "plannerProfile" not in text:
+            continue
+        match = re.search(r"window\.__remixContext\s*=\s*(.+)", text, re.DOTALL)
+        if not match:
+            continue
+        raw = match.group(1).rstrip().rstrip(";")
+        ctx = json.loads(raw)
+        loader = ctx.get("state", {}).get("loaderData", {})
+        post = loader.get("branch-posts", {}).get("post", {})
+        blocks = post.get("gutenbergBlock", [])
+        if blocks and isinstance(blocks, list):
+            return blocks[0].get("plannerProfile")
+    return None
 
 
 def get_table_data(paths: list[str]) -> list[list[str | list[str]]]:
-    """Return a list of stat priorities for the given build paths."""
+    """Return a list of gear affixes for the given build paths.
+
+    Extracts data from the embedded planner profile JSON.
+    Each row is [gear_type, [aspect_ids], affix_nid_list_as_text].
+    """
     build_jsons: list[list[str | list[str]]] = []
     for path in paths:
-        soup = get_soup(path)
-        logging.info("Retrieving stat priorities from %s", path)
-        # Define the required class names
-        required_class_names = [
-            "wp-block-advgb-table",
-            "advgb-table-frontend",
-            "is-style-stripes",
-            "aligncenter",
-        ]
-        # Find the table that contains the most matching class names. We do this because there may multiple tables on the page.
-        table = None
-        if soup is not None:
-            if tables := soup.find_all("table"):
-                table = max(
-                    tables,
-                    key=lambda tag: sum(
-                        c in tag.get("class", []) for c in required_class_names
-                    ),
-                )
+        logging.info("Retrieving gear data from %s", path)
+        profile_data = _extract_planner_profile(path)
+        if not profile_data:
+            logging.warning("No planner profile found for %s", path)
+            continue
+
+        data = profile_data.get("data", {})
+        if isinstance(data, str):
+            data = json.loads(data)
+
+        profiles = data.get("profiles", [])
+        items_map = data.get("items", {})
+        active_profile_idx = data.get("activeProfile", 0)
+
+        # Find the best profile: prefer "Endgame" or the active one
+        target_profile = None
+        for p in profiles:
+            name = p.get("name", "").lower()
+            if "endgame" in name:
+                target_profile = p
+                break
+        if target_profile is None and profiles:
+            if isinstance(active_profile_idx, int) and active_profile_idx < len(profiles):
+                target_profile = profiles[active_profile_idx]
             else:
-                table = None
-        if table is not None and (tbody := table.find("tbody")):
-            for row in tbody.find_all("tr"):
-                cols = row.find_all("td")
-                if len(cols) != 3:
-                    continue
+                target_profile = profiles[0]
 
-                slot, aspects, affixes = cols
+        if not target_profile:
+            continue
 
-                # <span class="d4-item" data-d4-id="344413"><span class="d4-gametip"><div class="d4t-sprite-icon"><div class="d4t-icon d4t-items-icon" style="background-position: -7em -11em;"></div></div>‍<span class="d4-color-unique">Hellhammer</span></span></span>
-                # <span class="d4-affix" data-d4-id="578875"><span class="d4-gametip"><div class="d4t-sprite-icon"><div class="d4t-icon d4t-aspect-icon" style="background-position-x: -2em;"></div></div>‍<span class="d4-color-legendary">Edgemaster’s Aspect</span></span></span>
-                # unique items in the aspects column
+        profile_items = target_profile.get("items", {})
 
-                if aspects.find_all("span", class_="d4-item") and not aspects.find_all(
-                    "span",
-                    class_="d4-affix",
-                ):
-                    continue
+        for slot_str, item_idx in sorted(profile_items.items(), key=lambda x: int(x[0])):
+            slot_num = int(slot_str)
+            # Skip talisman/charm slots (20+)
+            if slot_num >= 20:
+                continue
 
-                build_jsons.append(
-                    [
-                        get_text_lines(slot),
-                        parse_aspects(aspects)
-                        if aspects.find_all("span", class_="d4-affix")
-                        else get_text_lines(aspects),
-                        get_text_lines(affixes),
-                    ],
-                )
+            item = items_map.get(str(item_idx), {})
+            if not item:
+                continue
+
+            item_id = item.get("id", "")
+            gear_type = SLOT_TYPE_MAP.get(slot_num, _item_id_to_type(item_id))
+
+            # Collect affix NIDs from explicits and tempered
+            affix_nids: list[str] = []
+            for affix in item.get("explicits", []):
+                nid = affix.get("nid")
+                if nid:
+                    affix_nids.append(str(nid))
+            for affix in item.get("tempered", []):
+                nid = affix.get("nid")
+                if nid:
+                    affix_nids.append(str(nid))
+
+            # Get aspect if present
+            aspect = item.get("aspect", {})
+            aspect_id = aspect.get("id", "") if isinstance(aspect, dict) else ""
+            aspects: list[str] = [aspect_id] if aspect_id else []
+
+            # Format affix NIDs as numbered lines (for compatibility with downstream)
+            affix_text = "\n".join(f"{i+1}. nid:{nid}" for i, nid in enumerate(affix_nids))
+
+            build_jsons.append([gear_type, aspects, affix_text])
+
     return build_jsons
 
 

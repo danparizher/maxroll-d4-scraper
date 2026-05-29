@@ -2,11 +2,63 @@
   "Name": "lightning-storm-druid",
   "ItemAffixes": [
     {
-      "Id": "Damage_to_Far",
+      "Id": "CritChance",
+      "Type": "helm"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "helm"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Druid_Special_CycloneArmor",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Druid_Special_EarthenBulwark",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_CritDamage",
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "X2_Fast_Weapon_Damage_1HAxe",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
       "Type": "weapon"
     },
     {
@@ -14,164 +66,36 @@
       "Type": "weapon"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "S04_Damage_All",
       "Type": "weapon"
     },
     {
-      "Id": "Damage_Category_Spenders",
+      "Id": "S04_LifePerHit",
       "Type": "weapon"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "X2_DamageType_Lightning",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "gloves"
     },
     {
       "Id": "CritDamage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage_With_Wolf",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "offhand"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "offhand"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Luck",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "helm"
-    },
-    {
-      "Id": "Life",
-      "Type": "helm"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Fire",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Shadow",
-      "Type": "helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "helm"
-    },
-    {
-      "Id": "AttackSpeed_Basics",
-      "Type": "helm"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "chest"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "chest"
-    },
-    {
-      "Id": "Armor",
-      "Type": "chest"
-    },
-    {
-      "Id": "Life",
-      "Type": "chest"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "chest"
-    },
-    {
-      "Id": "SkillRankBonus_Druid_Core_4",
       "Type": "gloves"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "gloves"
-    },
-    {
-      "Id": "Luck",
-      "Type": "gloves"
-    },
-    {
-      "Id": "CoreStat_Willpower",
-      "Type": "gloves"
-    },
-    {
-      "Id": "CritDamage_With_Wolf",
-      "Type": "gloves"
-    },
-    {
-      "Id": "CritDamage_With_Lightning",
-      "Type": "gloves"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "pants"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "pants"
-    },
-    {
-      "Id": "Armor",
-      "Type": "pants"
     },
     {
       "Id": "Life",
@@ -180,81 +104,65 @@
     {
       "Id": "CoreStat_Willpower",
       "Type": "pants"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "boots"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "boots"
+    },
+    {
+      "Id": "Evade_Charges_UniqueRandom",
+      "Type": "boots"
     },
     {
       "Id": "Movement_Speed",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Fire",
+      "Id": "Movement_Speed",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Frost",
-      "Type": "boots"
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
     },
     {
-      "Id": "Resistance_Single_Shadow",
-      "Type": "boots"
+      "Id": "S04_CritDamage",
+      "Type": "ring"
     },
     {
-      "Id": "Resistance_Single_Poison",
-      "Type": "boots"
+      "Id": "X2_DamageType_Lightning",
+      "Type": "ring"
     },
     {
-      "Id": "Werewolf_Armor",
-      "Type": "boots"
-    },
-    {
-      "Id": "FortifyBonus",
-      "Type": "boots"
-    },
-    {
-      "Id": "Dodge_Ranged",
-      "Type": "boots"
-    },
-    {
-      "Id": "Dodge",
-      "Type": "boots"
+      "Id": "Life",
+      "Type": "ring"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "boots"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Druid_15_Envenom",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "amulet"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "amulet"
-    },
-    {
-      "Id": "Damage_to_Far",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
       "Type": "ring"
     },
     {
@@ -262,27 +170,7 @@
       "Type": "ring"
     },
     {
-      "Id": "Luck",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritDamage_With_Wolf",
-      "Type": "ring"
-    },
-    {
-      "Id": "CritDamage_With_Lightning",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Far",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
+      "Id": "CooldownReductionCDR",
       "Type": "ring"
     },
     {
@@ -290,122 +178,49 @@
       "Type": "ring"
     },
     {
-      "Id": "Luck",
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
       "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "amulet"
+    },
+    {
+      "Id": "X2_DamageType_Lightning",
+      "Type": "amulet"
     },
     {
       "Id": "Life",
-      "Type": "ring"
+      "Type": "amulet"
     },
     {
-      "Id": "CritDamage_With_Wolf",
-      "Type": "ring"
+      "Id": "S04_Damage_All",
+      "Type": "amulet"
     },
     {
-      "Id": "CritDamage_With_Lightning",
-      "Type": "ring"
+      "Id": "CritChance",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "amulet"
     }
   ],
-  "ItemAspects": [
-    {
-      "Id": "legendary_druid_071",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_druid_028",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_druid_104",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Legendary_Druid_115",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_druid_071",
-      "Type": "offhand"
-    },
-    {
-      "Id": "legendary_druid_028",
-      "Type": "offhand"
-    },
-    {
-      "Id": "legendary_druid_104",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Legendary_Druid_115",
-      "Type": "offhand"
-    },
-    {
-      "Id": "legendary_druid_026",
-      "Type": "helm"
-    },
-    {
-      "Id": "legendary_druid_100",
-      "Type": "chest"
-    },
-    {
-      "Id": "legendary_generic_036",
-      "Type": "chest"
-    },
-    {
-      "Id": "legendary_druid_071",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_druid_028",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_druid_104",
-      "Type": "gloves"
-    },
-    {
-      "Id": "Legendary_Druid_115",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_generic_036",
-      "Type": "pants"
-    },
-    {
-      "Id": "legendary_druid_100",
-      "Type": "pants"
-    },
-    {
-      "Id": "legendary_druid_109",
-      "Type": "boots"
-    },
-    {
-      "Id": "legendary_generic_100",
-      "Type": "boots"
-    },
-    {
-      "Id": "Legendary_Druid_116",
-      "Type": "amulet"
-    },
-    {
-      "Id": "legendary_generic_021",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_druid_071",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_druid_028",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_druid_104",
-      "Type": "ring"
-    },
-    {
-      "Id": "Legendary_Druid_115",
-      "Type": "ring"
-    }
-  ]
+  "ItemAspects": []
 }

@@ -1,91 +1,47 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Aftershock"
-    ],
-    "Implicit: Damage To Healthy Enemies\n1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Damage to Close Enemies\n5. Damage To Poisoned Enemies\n6. Vulnerable Damage\n7. Damage over Time\n8. Critical Strike Damage\n9. Critical Strike Damage With Werewolf Skills\nSockets Royal Emerald"
-  ],
-  [
-    "Totem",
-    [
-      "Subterranean",
-      "Trampled Earth",
-      "Blurred Beast",
-      "Accelerating"
-    ],
-    "1. Critical Strike Chance\n2. Cooldown Reduction\n3. Damage Reduction From Poisoned Enemies\n4. Lucky Hit Chance\n5. Spirit Cost Reduction\n6. Resource Generation\n7. Damage Reduction While Fortified\nSockets Royal Emerald"
-  ],
-  [
     "helm",
-    [
-      "Might"
-    ],
-    "1. +Ranks To Poison Creeper\n2. Single Resistance\n3. Cooldown Reduction\n4. Maximum Life\n5. Total Armor\n6. Willpower\nSocket Royal Ruby"
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:2611719"
   ],
   [
     "chest",
-    [
-      "Vigorous Aspect",
-      "Disobedience"
-    ],
-    "1. Damage Reduction From Poisoned\n2. Damage Reduction While Fortified\n3. Damage Reduction From Close\n4. Damage Reduction From Distant\n5. Damage Reduction\n6. Max Life\nSockets Royal Ruby"
+    [],
+    "1. nid:1829592\n2. nid:1829574\n3. nid:2615143\n4. nid:1834296\n5. nid:1924659\n6. nid:1884273\n7. nid:1928747\n8. nid:1915409\n9. nid:2611719"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829586\n2. nid:2605602\n3. nid:2602161\n4. nid:1829588\n5. nid:2558717\n6. nid:2611712"
   ],
   [
     "gloves",
-    [
-      "Subterranean",
-      "Trampled Earth",
-      "Blurred Beast",
-      "Accelerating"
-    ],
-    "1. Critical Strike Chance\n2. Lucky Hit\n3. Attack Speed\n4. Ranks of Shred\n5. Willpower\n6. Dexterity\n7. Intelligence"
+    [],
+    "1. nid:1829582\n2. nid:2602164\n3. nid:2602170\n4. nid:2605602\n5. nid:2602180\n6. nid:2602166\n7. nid:2602161\n8. nid:1959112"
   ],
   [
     "pants",
-    [
-      "Vigorous Aspect",
-      "Disobedience"
-    ],
-    "1. Damage Reduction From Poisoned\n2. Damage Reduction While Fortified\n3. Damage Reduction From Close\n4. Damage Reduction From Distant\n5. Damage Reduction\n6.  Maximum Life\n7. Total Armor\nSockets Royal Ruby"
+    [],
+    "1. nid:1829592\n2. nid:1924659\n3. nid:1829574\n4. nid:1834296\n5. nid:2615143\n6. nid:1559366\n7. nid:2611719"
   ],
   [
     "boots",
-    [
-      "Craven"
-    ],
-    "Implicit: Max Evade Charges\n1. Movement Speed\n2. 2/3: Two of: Fire, Cold, Shadow, Poison\n4. Total Armor while in Werewolf Form\n5. Dodge Chance\n6. Willpower\n7. Dodge Chance Against Distant Enemies\n8. Fortify Generation"
+    [],
+    "1. nid:1829592\n2. nid:1829574\n3. nid:1829598\n4. nid:1834296\n5. nid:1924659\n6. nid:1829554\n7. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829584\n2. nid:1829586\n3. nid:1834112\n4. nid:1829592\n5. nid:1829588\n6. nid:2558717\n7. nid:1829574\n8. nid:1829556\n9. nid:1829560\n10. nid:1924627\n11. nid:2571890\n12. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829584\n2. nid:1829586\n3. nid:1834112\n4. nid:1829592\n5. nid:1829556\n6. nid:1829588\n7. nid:2558717\n8. nid:1829574\n9. nid:2611706"
   ],
   [
     "amulet",
-    [
-      "Stormclaw's"
-    ],
-    "1. Ranks to Call of the Wild\n2. Ranks of All Companion Skills\n3. Cooldown Reduction\n4. Damage Reduction From Poisoned Enemies\n5. Ranks to Toxic Claws\n6. Ranks to Envenom\n7. Damage Reduction While Fortified\nSocket Single Resistance"
-  ],
-  [
-    "ring",
-    [
-      "Subterranean",
-      "Trampled Earth",
-      "Blurred Beast",
-      "Accelerating"
-    ],
-    "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Damage to Poisoned Enemies\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\nSocket Single Resistance"
-  ],
-  [
-    "ring",
-    [
-      "Subterranean",
-      "Trampled Earth",
-      "Blurred Beast",
-      "Accelerating"
-    ],
-    "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Damage to Poisoned Enemies\n6. Damage to Crowd Controlled Enemies\n7. Damage to Slowed Enemies\nSocket Single Resistance"
+    [],
+    "1. nid:1829582\n2. nid:2602164\n3. nid:2602170\n4. nid:2605602\n5. nid:2602180\n6. nid:2602166\n7. nid:2602161\n8. nid:2571274\n9. nid:1829560\n10. nid:2611719"
   ]
 ]

@@ -1,102 +1,52 @@
 [
   [
-    "SLOT",
-    "ASPECT/UNIQUE",
-    "STAT PRIORITY"
+    "helm",
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:1862295"
+  ],
+  [
+    "chest",
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:578920\n6. nid:1862295"
   ],
   [
     "weapon",
-    [
-      "Storm Swell Aspect",
-      "Conceited Aspect",
-      "Accelerating Aspect",
-      "Elementalist's Aspect",
-      "Aspect of Retribution",
-      "Aspect of Control",
-      "Aspect of the Unbroken Tether"
-    ],
-    "Weapon Type: Dagger (Implicit: Damage to Close Enemies)\n1. Intelligence\n2. Critical Strike Damage\n3. Vulnerable Damage\n4. Lightning Critical Strike Damage\n5. Core Skill Damage\n6. Damage to Burning Enemies\n7. Damage to Crowd Controlled Enemies\n8. Damage to Close Enemies\n9. All Stats"
+    [],
+    "1. nid:1829582\n2. nid:1829586\n3. nid:2602157\n4. nid:2605602\n5. nid:1829588\n6. nid:2558717\n7. nid:2625638\n8. nid:1829560\n9. nid:2611712"
   ],
   [
-    "offhand",
-    [
-      "Aspect of Control",
-      "Storm Swell Aspect",
-      "Conceited Aspect",
-      "Accelerating Aspect",
-      "Aspect of Retribution",
-      "Elementalist's Aspect",
-      "Aspect of the Unbroken Tether"
-    ],
-    "1. Cooldown Reduction\n2. Critical Strike Chance\n3. Resource Generation\n4. Damage Reduction from Enemies That Are Burning\n5. Mana Cost Reduction\n6. Intelligence"
-  ],
-  [
-    "helm",
-    [
-      "Aspect of Disobedience",
-      "Frostblitz Aspect",
-      "Mage-Lord's Aspect"
-    ],
-    "1. Cooldown Reduction\n2. Intelligence\n3. Maximum Life\n4. Maximum Mana\n5. % Total Armor\n6. All Stats\n7. Crowd Control Duration"
+    "weapon",
+    [],
+    "1. nid:1829586\n2. nid:2602157\n3. nid:2605602\n4. nid:2620579\n5. nid:2558717\n6. nid:1829588\n7. nid:2625638\n8. nid:2611712"
   ],
   [
     "gloves",
-    [
-      "Accelerating Aspect",
-      "Conceited Aspect",
-      "Storm Swell Aspect",
-      "Aspect of Retribution",
-      "Elementalist's Aspect",
-      "Aspect of Control",
-      "Aspect of the Unbroken Tether"
-    ],
-    "1. Ranks of Chain Lightning\n2. Critical Strike Chance\n3. Attack Speed\n4. Lightning Critical Strike Damage\n5. All Stats\n6. Intelligence"
+    [],
+    "1. nid:1829582\n2. nid:2602164\n3. nid:2602170\n4. nid:2602180\n5. nid:2602166\n6. nid:1829566\n7. nid:1926981\n8. nid:2605602\n9. nid:1829556\n10. nid:1959112"
   ],
   [
     "pants",
-    [
-      "Frostblitz Aspect",
-      "Aspect of Disobedience",
-      "Mage-Lord's Aspect"
-    ],
-    "Implicit: Potion Grants Barrier\n1. % Total Armor\n2. Damage Reduction from Close Enemies\n3. Maximum Life\n4. Damage Reduction from Enemies That Are Burning\n5. Damage Reduction\n6. Dodge Chance"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:1934447\n6. nid:1862295"
   ],
   [
     "boots",
-    [
-      "Aspect of Binding Embers",
-      "Aspect of the Bounding Conduit",
-      "Ghostwalker Aspect",
-      "Aspect of Audacity"
-    ],
-    "Implicit: Attacks Reduce Evade's Cooldown\n1. Movement Speed\n2. Ranks of Frost Nova\n3. Ranks of Teleport\n4. Mana Cost Reduction\n5. Dodge Chance\n6. All Stats\n7. Intelligence"
+    [],
+    "1. nid:2540910\n2. nid:1829566\n3. nid:1829592\n4. nid:1829554\n5. nid:1834296\n6. nid:1829598\n7. nid:1215923\n8. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1924627\n2. nid:1829586\n3. nid:1834112\n4. nid:1829592\n5. nid:1829556\n6. nid:1829584\n7. nid:1829588\n8. nid:2558717\n9. nid:1829566\n10. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829586\n2. nid:1834112\n3. nid:1829592\n4. nid:1829556\n5. nid:1829584\n6. nid:1829588\n7. nid:2558717\n8. nid:1829566\n9. nid:1862350"
   ],
   [
     "amulet",
-    [
-      "Aspect of the Unbroken Tether",
-      "Elementalist's Aspect"
-    ],
-    "1. Cooldown Reduction\n2. Ranks of All Defensive Skills\n3. Ranks of Devouring Blaze\n*\n4. Ranks of Glass Cannon\n*\n5. Ranks of Hoarfrost\n*\n6. Ranks of Elemental Dominance\n*\n7. Mana Cost Reduction\n8. Movement Speed\n9. Total Armor\n10. Damage Reduction\n11. Damage Reduction from Distant Enemies\n12. Shock Skill Damage\n* These stats cannot spawn\ntogether on the same Amulet"
-  ],
-  [
-    "ring",
-    [
-      "Recharging Aspect"
-    ],
-    "1. Critical Strike Damage\n2. Lightning Critical Strike Damage\n3. Critical Strike Chance\n4. Maximum Life\n5. Vulnerable Damage\n6. Damage to Close Enemies\n7. Damage to Crowd Controlled Enemies\n8. Damage to Stunned Enemies\n9. Lightning Damage\n10. Maximum Mana\n11. Resource Generation"
-  ],
-  [
-    "ring",
-    [
-      "Elementalist's Aspect",
-      "Conceited Aspect",
-      "Storm Swell Aspect",
-      "Aspect of Retribution",
-      "Accelerating Aspect",
-      "Aspect of Control",
-      "Aspect of the Unbroken Tether"
-    ],
-    "1. Vulnerable Damage\n2. Resource Generation\n3. Critical Strike Damage\n4. Critical Strike Chance\n5. Lightning Critical Strike Damage\n6. Maximum Life\n7. Maximum Mana\n8. Damage to Close Enemies\n9. Damage to Crowd Controlled Enemies\n10. Damage to Stunned Enemies\n11. Lightning Damage"
+    [],
+    "1. nid:2624429\n2. nid:2602164\n3. nid:2602170\n4. nid:2605602\n5. nid:2571274\n6. nid:2602180\n7. nid:2602166\n8. nid:2602157\n9. nid:1829582\n10. nid:1829556\n11. nid:1862755\n12. nid:1862295"
   ]
 ]

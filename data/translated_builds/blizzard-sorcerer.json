@@ -2,7 +2,75 @@
   "Name": "blizzard-sorcerer",
   "ItemAffixes": [
     {
+      "Id": "CooldownReductionCDR",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
       "Id": "CoreStat_Intelligence",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Intelligence",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_LifePerHit",
+      "Type": "weapon"
+    },
+    {
+      "Id": "X2_DamageType_Lightning",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "weapon"
+    },
+    {
+      "Id": "AttackSpeed",
       "Type": "weapon"
     },
     {
@@ -10,91 +78,31 @@
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Near",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "Damage_to_Chilled",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "offhand"
-    },
-    {
-      "Id": "ResourceGain",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CC_Duration",
-      "Type": "offhand"
-    },
-    {
-      "Id": "Lucky_Hit_Resource",
-      "Type": "offhand"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "helm"
-    },
-    {
-      "Id": "Armor",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resource_MaxMana",
-      "Type": "helm"
-    },
-    {
       "Id": "Life",
-      "Type": "helm"
+      "Type": "weapon"
     },
     {
-      "Id": "CC_Duration",
-      "Type": "helm"
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
     },
     {
-      "Id": "CoreStat_Intelligence",
-      "Type": "helm"
+      "Id": "SkillRanksAll_UBERUNIQUE",
+      "Type": "weapon"
     },
     {
-      "Id": "Armor",
-      "Type": "chest"
+      "Id": "AttackSpeed",
+      "Type": "weapon"
     },
     {
-      "Id": "DamageReductionDistant",
-      "Type": "chest"
+      "Id": "S04_Damage_DoT",
+      "Type": "gloves"
     },
     {
-      "Id": "DamageReductionClose",
-      "Type": "chest"
+      "Id": "X2_DamageType_Lightning",
+      "Type": "gloves"
     },
     {
-      "Id": "DamageReduction",
-      "Type": "chest"
-    },
-    {
-      "Id": "Life",
-      "Type": "chest"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "chest"
-    },
-    {
-      "Id": "CritChance",
+      "Id": "S04_Damage_to_Vulnerable",
       "Type": "gloves"
     },
     {
@@ -102,35 +110,23 @@
       "Type": "gloves"
     },
     {
-      "Id": "SkillRankBonus_Sorc_Core_2",
-      "Type": "gloves"
-    },
-    {
-      "Id": "Lucky_Hit_Resource",
-      "Type": "gloves"
-    },
-    {
-      "Id": "CritChance_To_LowLife",
-      "Type": "gloves"
-    },
-    {
       "Id": "CoreStat_Intelligence",
       "Type": "gloves"
     },
     {
-      "Id": "Armor",
-      "Type": "pants"
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "gloves"
     },
     {
-      "Id": "DamageReductionDistant",
-      "Type": "pants"
+      "Id": "Life",
+      "Type": "gloves"
     },
     {
-      "Id": "DamageReductionClose",
-      "Type": "pants"
+      "Id": "Damage_DoT",
+      "Type": "gloves"
     },
     {
-      "Id": "DamageReduction",
+      "Id": "CoreStat_Intelligence",
       "Type": "pants"
     },
     {
@@ -138,31 +134,19 @@
       "Type": "pants"
     },
     {
-      "Id": "CoreStat_Intelligence",
+      "Id": "S04_Armor",
       "Type": "pants"
     },
     {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "boots"
+      "Id": "ElementalDamageReduction",
+      "Type": "pants"
     },
     {
-      "Id": "Evade_Charges",
-      "Type": "boots"
+      "Id": "Life",
+      "Type": "pants"
     },
     {
-      "Id": "Evade_Attack_Reset",
-      "Type": "boots"
-    },
-    {
-      "Id": "Movement_Speed",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_FrostNova",
-      "Type": "boots"
-    },
-    {
-      "Id": "SkillRankBonus_Sorc_Special_Teleport",
+      "Id": "S04_SkillRankBonus_Sorc_Special_Blizzard",
       "Type": "boots"
     },
     {
@@ -170,35 +154,63 @@
       "Type": "boots"
     },
     {
-      "Id": "CD_Reduction",
-      "Type": "amulet"
+      "Id": "Life",
+      "Type": "boots"
     },
     {
-      "Id": "Resource_Cost_Reduction_Sorcerer",
-      "Type": "amulet"
+      "Id": "ElementalDamageReduction",
+      "Type": "boots"
     },
     {
-      "Id": "Movement_Speed",
-      "Type": "amulet"
+      "Id": "S04_Armor",
+      "Type": "boots"
     },
     {
-      "Id": "PassiveRankBonus_Sorc_Fire_T2_N3_DevouringFlames",
-      "Type": "amulet"
+      "Id": "Talisman_Charm_Affix_UNIQUE_CDR_Tag_Generic_Mobility",
+      "Type": "boots"
     },
     {
-      "Id": "PassiveRankBonus_Sorc_01_Hoarfrost",
-      "Type": "amulet"
+      "Id": "S04_Damage_DoT",
+      "Type": "ring"
     },
     {
-      "Id": "PassiveRankBonus_Sorc_Cold_T2_N2_Permafrost",
-      "Type": "amulet"
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
     },
     {
-      "Id": "SkillRankBonus_Generic_Category_Defensive",
-      "Type": "amulet"
+      "Id": "AttackSpeed",
+      "Type": "ring"
     },
     {
-      "Id": "ResourceGain",
+      "Id": "CoreStat_Intelligence",
+      "Type": "ring"
+    },
+    {
+      "Id": "X2_DamageType_Lightning",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "INHERENT_Luck",
       "Type": "ring"
     },
     {
@@ -206,106 +218,29 @@
       "Type": "ring"
     },
     {
-      "Id": "Damage_Type_Bonus_Cold",
+      "Id": "CooldownReductionCDR",
       "Type": "ring"
     },
     {
-      "Id": "Life",
-      "Type": "ring"
+      "Id": "S04_Damage_DoT",
+      "Type": "amulet"
     },
     {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
+      "Id": "SkillRanksAll_UBERUNIQUE",
+      "Type": "amulet"
     },
     {
-      "Id": "ResourceGain",
-      "Type": "ring"
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
     },
     {
-      "Id": "CritChance",
-      "Type": "ring"
+      "Id": "CoreStat_Intelligence",
+      "Type": "amulet"
     },
     {
-      "Id": "Damage_Type_Bonus_Cold",
-      "Type": "ring"
-    },
-    {
-      "Id": "Life",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Near",
-      "Type": "ring"
+      "Id": "Damage_DoT",
+      "Type": "amulet"
     }
   ],
-  "ItemAspects": [
-    {
-      "Id": "legendary_sorc_116",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_sorc_110",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_generic_027",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_sorc_116",
-      "Type": "offhand"
-    },
-    {
-      "Id": "legendary_sorc_110",
-      "Type": "offhand"
-    },
-    {
-      "Id": "legendary_generic_027",
-      "Type": "offhand"
-    },
-    {
-      "Id": "legendary_generic_036",
-      "Type": "helm"
-    },
-    {
-      "Id": "legendary_sorc_006",
-      "Type": "chest"
-    },
-    {
-      "Id": "legendary_sorc_116",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_sorc_110",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_generic_027",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_sorc_108",
-      "Type": "pants"
-    },
-    {
-      "Id": "legendary_generic_100",
-      "Type": "boots"
-    },
-    {
-      "Id": "legendary_sorc_123",
-      "Type": "boots"
-    },
-    {
-      "Id": "legendary_sorc_107",
-      "Type": "amulet"
-    },
-    {
-      "Id": "legendary_sorc_115",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_sorc_125",
-      "Type": "ring"
-    }
-  ]
+  "ItemAspects": []
 }
