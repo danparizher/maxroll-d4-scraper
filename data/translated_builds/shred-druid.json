@@ -2,279 +2,211 @@
   "Name": "shred-druid",
   "ItemAffixes": [
     {
+      "Id": "CritChance",
+      "Type": "helm"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "helm"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "helm"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Resource_Per_Second_Spirit",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Druid_Special_CycloneArmor",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Defensive",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Resource_Cost_Reduction_AllClasses",
+      "Type": "chest"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
       "Id": "CoreStat_Willpower",
       "Type": "weapon"
     },
     {
-      "Id": "CoreStats_All",
+      "Id": "S04_Damage_All",
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "X2_DamageType_Lightning",
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Poisoned",
+      "Id": "CritChance",
       "Type": "weapon"
     },
     {
-      "Id": "Damage_to_Vulnerable",
-      "Type": "weapon"
+      "Id": "CritChance",
+      "Type": "gloves"
     },
     {
-      "Id": "Damage_DoT",
-      "Type": "weapon"
+      "Id": "S04_CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "gloves"
+    },
+    {
+      "Id": "X2_DamageType_Lightning",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "gloves"
     },
     {
       "Id": "CritDamage",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritDamage_With_Wolf",
-      "Type": "weapon"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "Totem"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "Totem"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "Totem"
-    },
-    {
-      "Id": "Luck",
-      "Type": "Totem"
-    },
-    {
-      "Id": "Resource_Cost_Reduction_Druid",
-      "Type": "Totem"
-    },
-    {
-      "Id": "ResourceGain",
-      "Type": "Totem"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "Totem"
-    },
-    {
-      "Id": "SkillRankBonus_Druid_Special_VineCreeper",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Fire",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Frost",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Lightning",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Poison",
-      "Type": "helm"
-    },
-    {
-      "Id": "Resistance_Single_Shadow",
-      "Type": "helm"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "helm"
+      "Type": "gloves"
     },
     {
       "Id": "Life",
-      "Type": "helm"
+      "Type": "pants"
     },
     {
-      "Id": "Armor",
-      "Type": "helm"
+      "Id": "S04_Resource_Per_Second_Spirit",
+      "Type": "pants"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "helm"
+      "Type": "pants"
     },
     {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "chest"
+      "Id": "ElementalDamageReduction",
+      "Type": "pants"
     },
     {
-      "Id": "FortifyDamageReduction",
-      "Type": "chest"
+      "Id": "S04_Armor",
+      "Type": "pants"
     },
     {
-      "Id": "DamageReductionClose",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "chest"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "chest"
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "pants"
     },
     {
       "Id": "Life",
-      "Type": "chest"
-    },
-    {
-      "Id": "CritChance",
-      "Type": "gloves"
-    },
-    {
-      "Id": "Luck",
-      "Type": "gloves"
-    },
-    {
-      "Id": "AttackSpeed",
-      "Type": "gloves"
-    },
-    {
-      "Id": "SkillRankBonus_Druid_Core_5",
-      "Type": "gloves"
+      "Type": "boots"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "gloves"
-    },
-    {
-      "Id": "CoreStat_Dexterity",
-      "Type": "gloves"
-    },
-    {
-      "Id": "CoreStat_Intelligence",
-      "Type": "gloves"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "pants"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionClose",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReductionDistant",
-      "Type": "pants"
-    },
-    {
-      "Id": "DamageReduction",
-      "Type": "pants"
-    },
-    {
-      "Id": "Life",
-      "Type": "pants"
-    },
-    {
-      "Id": "Armor",
-      "Type": "pants"
+      "Type": "boots"
     },
     {
       "Id": "Movement_Speed",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Fire",
+      "Id": "ElementalDamageReduction",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Frost",
+      "Id": "S04_Resource_Per_Second_Spirit",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Shadow",
+      "Id": "S04_Armor",
       "Type": "boots"
     },
     {
-      "Id": "Resistance_Single_Poison",
+      "Id": "Movement_Speed",
       "Type": "boots"
     },
     {
-      "Id": "Werewolf_Armor",
-      "Type": "boots"
+      "Id": "CritChance",
+      "Type": "ring"
     },
     {
-      "Id": "Dodge",
-      "Type": "boots"
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "ring"
+    },
+    {
+      "Id": "X2_DamageType_Lightning",
+      "Type": "ring"
     },
     {
       "Id": "CoreStat_Willpower",
-      "Type": "boots"
-    },
-    {
-      "Id": "Dodge_Ranged",
-      "Type": "boots"
-    },
-    {
-      "Id": "FortifyBonus",
-      "Type": "boots"
-    },
-    {
-      "Id": "PassiveRankBonus_Druid_Shapeshifting_T2_N3_CalloftheWild",
-      "Type": "amulet"
-    },
-    {
-      "Id": "SkillRankBonus_Druid_Category_Companion",
-      "Type": "amulet"
-    },
-    {
-      "Id": "CD_Reduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "DamageReduction_Poisoned",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Druid_Shapeshifting_T4_N3_ToxicClaws",
-      "Type": "amulet"
-    },
-    {
-      "Id": "PassiveRankBonus_Druid_15_Envenom",
-      "Type": "amulet"
-    },
-    {
-      "Id": "FortifyDamageReduction",
-      "Type": "amulet"
-    },
-    {
-      "Id": "CritChance",
       "Type": "ring"
     },
     {
-      "Id": "Luck",
+      "Id": "AttackSpeed",
       "Type": "ring"
     },
     {
-      "Id": "Life",
+      "Id": "CooldownReductionCDR",
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "S04_LifePerHit",
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Poisoned",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_CCd",
-      "Type": "ring"
-    },
-    {
-      "Id": "Damage_to_Slowed",
+      "Id": "CooldownReductionCDR",
       "Type": "ring"
     },
     {
@@ -282,7 +214,11 @@
       "Type": "ring"
     },
     {
-      "Id": "Luck",
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
       "Type": "ring"
     },
     {
@@ -290,118 +226,65 @@
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Near",
+      "Id": "AttackSpeed",
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Poisoned",
+      "Id": "S04_Damage_All",
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_CCd",
+      "Id": "X2_DamageType_Lightning",
       "Type": "ring"
     },
     {
-      "Id": "Damage_to_Slowed",
+      "Id": "CoreStat_Willpower",
       "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "amulet"
+    },
+    {
+      "Id": "X2_DamageType_Lightning",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CoreStat_Willpower",
+      "Type": "amulet"
+    },
+    {
+      "Id": "SkillRanksAll_UBERUNIQUE",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "amulet"
     }
   ],
-  "ItemAspects": [
-    {
-      "Id": "legendary_druid_063",
-      "Type": "weapon"
-    },
-    {
-      "Id": "legendary_druid_121",
-      "Type": "Totem"
-    },
-    {
-      "Id": "legendary_druid_049",
-      "Type": "Totem"
-    },
-    {
-      "Id": "Legendary_Druid_119",
-      "Type": "Totem"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "Totem"
-    },
-    {
-      "Id": "legendary_generic_009",
-      "Type": "helm"
-    },
-    {
-      "Id": "legendary_druid_100",
-      "Type": "chest"
-    },
-    {
-      "Id": "legendary_generic_036",
-      "Type": "chest"
-    },
-    {
-      "Id": "legendary_druid_121",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_druid_049",
-      "Type": "gloves"
-    },
-    {
-      "Id": "Legendary_Druid_119",
-      "Type": "gloves"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "gloves"
-    },
-    {
-      "Id": "legendary_druid_100",
-      "Type": "pants"
-    },
-    {
-      "Id": "legendary_generic_036",
-      "Type": "pants"
-    },
-    {
-      "Id": "legendary_generic_112",
-      "Type": "boots"
-    },
-    {
-      "Id": "legendary_druid_059",
-      "Type": "amulet"
-    },
-    {
-      "Id": "legendary_druid_121",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_druid_049",
-      "Type": "ring"
-    },
-    {
-      "Id": "Legendary_Druid_119",
-      "Type": "ring"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_druid_121",
-      "Type": "ring"
-    },
-    {
-      "Id": "legendary_druid_049",
-      "Type": "ring"
-    },
-    {
-      "Id": "Legendary_Druid_119",
-      "Type": "ring"
-    },
-    {
-      "Id": "Legendary_Generic_110",
-      "Type": "ring"
-    }
-  ]
+  "ItemAspects": []
 }

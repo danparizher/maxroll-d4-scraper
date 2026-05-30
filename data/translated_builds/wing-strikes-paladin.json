@@ -1,0 +1,234 @@
+{
+  "Name": "wing-strikes-paladin",
+  "ItemAffixes": [
+    {
+      "Id": "CritChance",
+      "Type": "helm"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "helm"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "helm"
+    },
+    {
+      "Id": "Tempered_Damage_Generic_Type_Holy_Tier1",
+      "Type": "helm"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "helm"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "Tempered_Damage_Generic_Type_Holy_Tier1",
+      "Type": "chest"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "weapon"
+    },
+    {
+      "Id": "X2_DamageType_Holy",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_LifePerHit",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "GemPower1Socket",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Tempered_Damage_Generic_Type_Holy_Tier1",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "Tempered_Damage_Generic_Type_Holy_Tier1",
+      "Type": "pants"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "pants"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "boots"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "Tempered_Damage_Generic_Type_Holy_Tier1",
+      "Type": "boots"
+    },
+    {
+      "Id": "Tempered_Duration_Paladin_Arbiter_Tier1",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "X2_DamageType_Holy",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "ring"
+    },
+    {
+      "Id": "Tempered_Damage_Generic_Type_Holy_Tier1",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "X2_DamageType_Holy",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "ring"
+    },
+    {
+      "Id": "Tempered_Damage_Generic_Type_Holy_Tier1",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Tempered_Damage_Generic_Type_Holy_Tier1",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "amulet"
+    }
+  ],
+  "ItemAspects": []
+}

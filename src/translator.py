@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 from typing import Any
 
-from thefuzz import fuzz
+import requests
 
 logging.basicConfig(
     level=logging.INFO,
@@ -16,14 +16,19 @@ logging.basicConfig(
     datefmt="%I:%M:%S",
 )
 
-# TODO: Resolve in cleaner.py or find correct stat IDs
-SKIP_STATS = [
-    "Damage to Core skills",  # general core skill property
-    "damage per second",  # general item property
-    "high weapon damage",  # general item property
-    "High Damage per Second",  # general item property
-    "Any",  # placeholder - should be cleaned
-]
+AFFIXES_URL = "https://raw.githubusercontent.com/josdemmers/Diablo4Companion/master/D4Companion/Data/Affixes.enUS.json"
+
+
+def _build_nid_to_idname_map() -> dict[str, str]:
+    """Build a mapping from numeric affix SNO IDs to their IdName."""
+    response = requests.get(AFFIXES_URL, timeout=10)
+    affixes = json.loads(response.content)
+    nid_map: dict[str, str] = {}
+    for affix in affixes:
+        id_name = affix.get("IdName", "").split(";")[0]
+        for sno in affix.get("IdSnoList", []):
+            nid_map[str(sno)] = id_name
+    return nid_map
 
 
 class Translator:
@@ -37,129 +42,17 @@ class Translator:
         with (Path("data") / "uniques.json").open("r") as f:
             self.uniques = json.load(f)
 
-    @staticmethod
-    def clean_aspect(plaintext: str) -> str:
-        """Clean a plaintext aspect."""
-        pattern1 = re.compile(r"^.*:")
-        pattern2 = re.compile(
-            r"\b(aspect)\b",
-        )  # remove "aspect"
-
-        cleaned = pattern1.sub("", plaintext.strip().lower())
-        cleaned = pattern2.sub("", cleaned)
-
-        return cleaned.strip().lower()
-
-    def clean_affix(self, plaintext: str) -> str:
-        """Clean a plaintext affix."""
-        # Compile regular expressions
-        pattern1 = re.compile(r"[^a-z\s]")  # remove non-alphabetic characters
-        pattern2 = re.compile(r"\(.*?\)")  # remove parentheses and their contents
-        pattern3 = re.compile(
-            r"damage to (.+) enemies",
-        )  # replace "damage to X enemies" with "X damage"
-        pattern4 = re.compile(r"\b(the|passive)\b")  # remove "the" and "passive"
-
-        # Preprocess uniques
-        self.uniques = [unique.strip().lower() for unique in self.uniques]
-
-        # Apply regular expressions
-        cleaned = pattern1.sub("", plaintext.strip().lower())
-        cleaned = pattern2.sub("", cleaned)
-        cleaned = pattern3.sub(r"\1 damage", cleaned)
-
-        # Remove unique items
-        cleaned = " ".join(word for word in cleaned.split() if word not in self.uniques)
-
-        # Replace specific words
-        cleaned = pattern4.sub("", cleaned)
-        cleaned = cleaned.replace("maximum life", "life")
-
-        return cleaned.strip().lower()
-
-    def map_aspect_to_id(self: Translator, plaintext: str) -> str:
-        """Map a plaintext stat to a stat ID."""
-        # check for exact matches
-        for aspect_id, src_plaintext in self.aspect_map.items():
-            if self.clean_aspect(src_plaintext) == self.clean_aspect(plaintext):
-                return aspect_id
-
-        # check for fuzzy matches
-        best_match_id = None
-        best_match_ratio = None
-        for aspect_id, src_plaintext in self.aspect_map.items():
-            ratio = fuzz.token_sort_ratio(
-                self.clean_aspect(src_plaintext),
-                self.clean_aspect(plaintext),
-            )
-
-            if not best_match_ratio or ratio > best_match_ratio:
-                best_match_ratio = ratio
-                best_match_id = aspect_id
-
-        if best_match_ratio and best_match_ratio > 55:
-            assert best_match_id is not None
-
-            if best_match_ratio < 80:
-                print(
-                    f"Warning: used low fidelity fuzzy match: {best_match_ratio}% {plaintext!r} -> {self.aspect_map[best_match_id]!r}",
-                )
-
-            return best_match_id
-
-        # no matches - cry
-        msg = f"Failed to find a match for {plaintext} - fuzzy matched {best_match_id} with ratio {best_match_ratio}%"
-        raise Exception(msg)  # noqa
-
-    def map_affix_to_id(self: Translator, plaintext: str) -> str:
-        """Map a plaintext stat to a stat ID."""
-        # check for exact matches
-        for affix_id, src_plaintext in self.affix_map.items():
-            if self.clean_affix(src_plaintext) == self.clean_affix(plaintext):
-                return affix_id
-
-        # check for fuzzy matches
-        best_match_id = None
-        best_match_ratio = None
-        for affix_id, src_plaintext in self.affix_map.items():
-            ratio = fuzz.token_sort_ratio(
-                self.clean_affix(src_plaintext),
-                self.clean_affix(plaintext),
-            )
-
-            if not best_match_ratio or ratio > best_match_ratio:
-                best_match_ratio = ratio
-                best_match_id = affix_id
-
-        if best_match_ratio and best_match_ratio > 55:
-            assert best_match_id is not None
-
-            if best_match_ratio < 80:
-                print(
-                    f"Warning: used low fidelity fuzzy match: {best_match_ratio}% {plaintext!r} -> {self.affix_map[best_match_id]!r}",
-                )
-
-            return best_match_id
-
-        # no matches - cry
-        msg = f"Failed to find a match for {plaintext} - fuzzy matched {best_match_id} with ratio {best_match_ratio}%"
-        raise Exception(msg)  # noqa
+        self.nid_map = _build_nid_to_idname_map()
 
     def translate(
         self: Translator,
         build_name: str,
-        data: list[list[str]],
+        data: list[list[Any]],
     ) -> dict[str, Any]:
         """Translate a build from the scraped format to the D4Companion format."""
         if not data:
             logging.error("No data found for build: %s", build_name)
             return {}
-
-        rows = iter(data)
-        _header = next(rows)
-        # rest of the function here
-        rows = iter(data)
-        _header = next(rows)
 
         output: dict[str, str | list[dict[str, str]]] = {
             "Name": build_name,
@@ -167,72 +60,40 @@ class Translator:
             "ItemAspects": [],
         }
 
-        print(f"FILE: {build_name}.json")
-        for gear_type, aspects, stat_numbered_list in rows:
-            affixes: dict[str, None] = {}
+        logging.info("Translating: %s", build_name)
+        for row in data:
+            if len(row) < 3:
+                continue
 
-            # parse aspects
-            for aspect in aspects:
-                cleaned_aspect = self.clean_aspect(aspect)
-                aspect_id = self.map_aspect_to_id(cleaned_aspect)
-                if isinstance(output["ItemAspects"], list):
-                    output["ItemAspects"].append(
-                        {
-                            "Id": aspect_id,
-                            "Type": gear_type,
-                        },
-                    )
+            gear_type, aspects, affix_text = row
 
-            # parse affixes
-            for stat_numbered in stat_numbered_list.splitlines():
-                re_match = re.search(
-                    r"^[\d/\.\s]*\d[\d/\.\s]*[\.:]\s*(.*?)\s*(?:\(as\s*needed\))?(?:\(if\s*necessary\))?\s*$",
-                    stat_numbered.lower(),
-                )
-                if not re_match:
-                    continue
+            # Parse aspects (already IDs from the planner)
+            if isinstance(aspects, list):
+                for aspect_id in aspects:
+                    if aspect_id and isinstance(output["ItemAspects"], list):
+                        output["ItemAspects"].append(
+                            {
+                                "Id": aspect_id,
+                                "Type": gear_type,
+                            },
+                        )
 
-                affix = re_match[1]
-
-                # skip stats that create errors
-                if any(
-                    self.clean_affix(affix) == self.clean_affix(skip_stat)
-                    for skip_stat in SKIP_STATS
-                ):
-                    continue
-
-                # map general resistance stats to all 5 resistances
-                if self.clean_affix(affix) in {
-                    self.clean_affix("any resistance").strip().lower(),
-                    self.clean_affix("resists").strip().lower(),
-                    self.clean_affix("single resistance").strip().lower(),
-                }:
-                    affix = "fire / cold / lightning / poison / shadow resistance"
-
-                is_resistance = (
-                    affix.endswith("resistance")
-                    or sum(
-                        r in affix
-                        for r in ("fire", "cold", "lightning", "poison", "shadow")
-                    )
-                    >= 3
-                )
-                # split multi-stats
-                multi_stats = affix.split("/" if "/" in affix else ",")
-                for multi_stat in multi_stats:
-                    if is_resistance and not multi_stat.endswith("resistance"):
-                        multi_stat += " resistance"
-
-                    affixes.setdefault(multi_stat, None)
-
-            for affix in affixes:
-                if isinstance(output["ItemAffixes"], list):
-                    output["ItemAffixes"].append(
-                        {
-                            "Id": self.map_affix_to_id(affix),
-                            "Type": gear_type,
-                        },
-                    )
+            # Parse affix NIDs
+            if isinstance(affix_text, str):
+                for line in affix_text.splitlines():
+                    nid_match = re.search(r"nid:(\d+)", line)
+                    if nid_match:
+                        nid = nid_match.group(1)
+                        id_name = self.nid_map.get(nid)
+                        if id_name and isinstance(output["ItemAffixes"], list):
+                            output["ItemAffixes"].append(
+                                {
+                                    "Id": id_name,
+                                    "Type": gear_type,
+                                },
+                            )
+                        elif not id_name:
+                            logging.debug("Unknown affix NID %s in %s", nid, build_name)
 
         return output
 

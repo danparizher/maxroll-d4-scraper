@@ -1,0 +1,246 @@
+{
+  "Name": "rend-barbarian",
+  "ItemAffixes": [
+    {
+      "Id": "CritChance",
+      "Type": "helm"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "helm"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "weapon"
+    },
+    {
+      "Id": "UBERUNIQUE_Lucky_Hit_Berserking_ShatteredVow",
+      "Type": "weapon"
+    },
+    {
+      "Id": "UBERUNIQUE_AttackSpeed_Berserking_ShatteredVow",
+      "Type": "weapon"
+    },
+    {
+      "Id": "UBERUNIQUE_Duration_DamageOverTime",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Barb_Core_Rend",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Damage_DoT",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "boots"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_Resource_Per_Second_Fury",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Damage_DoT",
+      "Type": "amulet"
+    }
+  ],
+  "ItemAspects": []
+}

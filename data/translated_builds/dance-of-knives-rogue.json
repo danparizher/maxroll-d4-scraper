@@ -1,0 +1,226 @@
+{
+  "Name": "dance-of-knives-rogue",
+  "ItemAffixes": [
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "helm"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "helm"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "helm"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "helm"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Tempered_Special_Rogue_Imbue_Potency_Tier1",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "X2_Fast_Weapon_Damage_1HAxe",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Tempered_Special_Rogue_Imbue_Potency_Tier1",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "X2_Fast_Weapon_Damage_1HAxe",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Tempered_Special_Rogue_Imbue_Potency_Tier1",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "gloves"
+    },
+    {
+      "Id": "X2_DamageType_Poison",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Talisman_Charm_SkillRankBonus_Rogue_Special_DanceOfKnives",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Tempered_Special_Rogue_Imbue_Potency_Tier1",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "Barrier_Strength_Percent",
+      "Type": "pants"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "pants"
+    },
+    {
+      "Id": "Barrier_Strength_Percent",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "boots"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "ring"
+    },
+    {
+      "Id": "Tempered_Special_Rogue_Imbue_Potency_Tier1",
+      "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "CritChance",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "ring"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "ring"
+    },
+    {
+      "Id": "Tempered_Special_Rogue_Imbue_Potency_Tier1",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_DoT",
+      "Type": "amulet"
+    },
+    {
+      "Id": "X2_DamageType_Poison",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Rogue_Category_Imbuements",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "amulet"
+    }
+  ],
+  "ItemAspects": []
+}

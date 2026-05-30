@@ -1,0 +1,222 @@
+{
+  "Name": "crushing-hand-spiritborn",
+  "ItemAffixes": [
+    {
+      "Id": "CritChance",
+      "Type": "helm"
+    },
+    {
+      "Id": "INHERENT_Luck",
+      "Type": "helm"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Core",
+      "Type": "helm"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
+      "Type": "helm"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "helm"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
+      "Type": "chest"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "chest"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "chest"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "X2_DamageType_Physical",
+      "Type": "weapon"
+    },
+    {
+      "Id": "GemPower1Socket",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Basic",
+      "Type": "pants"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "pants"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "pants"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "boots"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "boots"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "boots"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Physical",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "amulet"
+    }
+  ],
+  "ItemAspects": []
+}

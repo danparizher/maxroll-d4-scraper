@@ -1,0 +1,234 @@
+{
+  "Name": "support-paladin",
+  "ItemAffixes": [
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "helm"
+    },
+    {
+      "Id": "Tempered_Special_Type_Aura_Paladin_Potency_Fanaticism_Tier1",
+      "Type": "helm"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_X2_SkillRankBonus_Paladin_Category_Aura",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "chest"
+    },
+    {
+      "Id": "HealingPercent",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "Tempered_Special_Type_Aura_Paladin_Potency_Fanaticism_Tier1",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_LifePerHit",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Talisman_Charm_LuckyHit_Freeze",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_LifePerHit",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "gloves"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Tempered_Special_Type_Aura_Paladin_Potency_Fanaticism_Tier1",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "HealingPercent",
+      "Type": "pants"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "pants"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "CoreStat_Strength",
+      "Type": "pants"
+    },
+    {
+      "Id": "Tempered_Special_Type_Aura_Paladin_Potency_Fanaticism_Tier1",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
+      "Id": "HealingPercent",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "boots"
+    },
+    {
+      "Id": "Tempered_Special_Type_Aura_Paladin_Potency_Fanaticism_Tier1",
+      "Type": "boots"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_LifePerHit",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "ring"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_LifePerHit",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "ring"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "ring"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "ring"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_X2_SkillRankBonus_Paladin_Category_Aura",
+      "Type": "amulet"
+    },
+    {
+      "Id": "SkillRanksAll_UBERUNIQUE",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Life",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CooldownReductionCDR",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_LifeRegen",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_LifePerHit",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Tempered_Special_Type_Aura_Paladin_Potency_Fanaticism_Tier1",
+      "Type": "amulet"
+    }
+  ],
+  "ItemAspects": []
+}

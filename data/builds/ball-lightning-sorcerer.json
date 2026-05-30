@@ -1,85 +1,52 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Gravitational",
-      "Storm Swell",
-      "Conceited"
-    ],
-    "Weapon Type: Dagger\n1. High Damage Per Second\n2. Intelligence\n3. All Stats\n4. Damage to Close Enemies\n5. Mastery Skill Damage\n6. Critical Strike Damage"
-  ],
-  [
-    "offhand",
-    [
-      "Gravitational",
-      "Storm Swell",
-      "Conceited"
-    ],
-    "1. Cooldown Reduction\n2. High Damage Per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource"
-  ],
-  [
     "helm",
-    [
-      "Disobedience"
-    ],
-    "1. Cooldown Reduction\n2. % Total Armor\n3. Maximum Life\n4. Maximum Mana\n5. Intelligence"
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:1862295"
   ],
   [
     "chest",
-    [
-      "Unwavering"
-    ],
-    "1. % Total Armor\n2. Damage Reduction against Close Enemies\n3. Damage Reduction against Distant Enemies\n4.1 Damage Reduction\n4.2 Maximum Life\n6. Damage Reduction against Burning Enemies"
+    [],
+    "1. nid:578920\n2. nid:1829566\n3. nid:1829592\n4. nid:2615143\n5. nid:1834296\n6. nid:1862295"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:2129925\n2. nid:1829586\n3. nid:2602157\n4. nid:1829588\n5. nid:2625638\n6. nid:2620577\n7. nid:2611700"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:2603739\n2. nid:2067796\n3. nid:2113414\n4. nid:2626677\n5. nid:2626679\n6. nid:2611712"
   ],
   [
     "gloves",
-    [
-      "Gravitational",
-      "Storm Swell",
-      "Conceited"
-    ],
-    "1. Attack Speed\n2. Critical Strike Chance\n3. Intelligence\n4. Critical Strike Chance against Injured Enemies\n5. Lucky Hit: Chance to Regain Resource"
+    [],
+    "1. nid:2602164\n2. nid:2602170\n3. nid:2602180\n4. nid:2602157\n5. nid:1829556\n6. nid:2605602\n7. nid:1829582\n8. nid:1959112"
   ],
   [
     "pants",
-    [
-      "Snowveiled"
-    ],
-    "1. Ranks to Ball Lightning\n2. % Total Armor\n3. Damage Reduction against Close Enemies\n4. Damage Reduction against Distant Enemies\n5. Damage Reduction\n6. Maximum Life"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:1834117\n6. nid:1862295"
   ],
   [
     "boots",
-    [
-      "Ghostwalker"
-    ],
-    "1. Mana Cost Reduction\n2. Implicit: Attacks Reduce Evade's Cooldown\n3. Implicit: +Max Evade Charges\n4. Movement Speed\n5. Ranks to Teleport\n6. Ranks to Frost Nova\n7. Intelligence"
+    [],
+    "1. nid:1829566\n2. nid:1926996\n3. nid:1829592\n4. nid:2540910\n5. nid:1829554\n6. nid:1215923\n7. nid:1834296\n8. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829586\n2. nid:1834112\n3. nid:1829588\n4. nid:1829566\n5. nid:1829556\n6. nid:1829584\n7. nid:1829560\n8. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:2067858\n2. nid:2067864\n3. nid:2067862\n4. nid:2067860\n5. nid:578943\n6. nid:2611706"
   ],
   [
     "amulet",
-    [
-      "Disobedience",
-      "Gravitational"
-    ],
-    "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Ranks to Mastery Skills\n4. Movement Speed\n5. Ranks to Conjuration Mastery\n6. Ranks Elemental Dominance\n7. Ranks to Glass Cannon\n6. Ranks to Defensive Skills"
-  ],
-  [
-    "ring",
-    [
-      "Prodigy\u2019s",
-      "Control"
-    ],
-    "1. Resource Generation\n2. Critical Strike Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Maximum Mana"
-  ],
-  [
-    "ring",
-    [
-      "Recharging"
-    ],
-    "1. Resource Generation\n2. Critical Strike Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Maximum Mana"
+    [],
+    "1. nid:1862755\n2. nid:2602157\n3. nid:2602164\n4. nid:2571274\n5. nid:2624429\n6. nid:2611706"
   ]
 ]

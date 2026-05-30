@@ -1,0 +1,218 @@
+{
+  "Name": "rake-spiritborn",
+  "ItemAffixes": [
+    {
+      "Id": "ResourceGain",
+      "Type": "helm"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "helm"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Fire",
+      "Type": "helm"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "helm"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
+      "Type": "chest"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Fire",
+      "Type": "chest"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "chest"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "X2_DamageType_Fire",
+      "Type": "weapon"
+    },
+    {
+      "Id": "Life",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Talisman_Charm_SkillRankBonus_Spiritborn_Core_Rake",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Fire",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Fire",
+      "Type": "pants"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "pants"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Basic",
+      "Type": "pants"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "pants"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "boots"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Fire",
+      "Type": "boots"
+    },
+    {
+      "Id": "Movement_Speed",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Fire",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Fire",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Resource_Max_AllClasses_UNIQUE",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Damage_Type_Bonus_Fire",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "amulet"
+    }
+  ],
+  "ItemAspects": []
+}

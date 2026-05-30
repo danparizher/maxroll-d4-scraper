@@ -1,88 +1,52 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Piercing Cold",
-      "Storm Swell",
-      "Conceited",
-      "Control",
-      "Frozen Memories"
-    ],
-    "Weapon Type: Wand\n1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Core Skill Damage\n5. Critical Strike Damage\n6. Damage to Close Enemies"
-  ],
-  [
-    "offhand",
-    [
-      "Piercing Cold",
-      "Storm Swell",
-      "Conceited",
-      "Control",
-      "Frozen Memories"
-    ],
-    "1. Cooldown Reduction\n2. High Damage per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Critical Strike Chance\n6. Lucky Hit: Chance to Regain Resource"
-  ],
-  [
     "helm",
-    [
-      "Fortune"
-    ],
-    "1. Cooldown Reduction\n2. Maximum Mana\n3. % Total Armor\n4. Lucky Hit Chance while Barrier\n5. Maximum Life\n6. Crowd Control Duration\n7. Intelligence"
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:1862295"
   ],
   [
     "chest",
-    [
-      "Snowveiled Aspect"
-    ],
-    "1. % Total Armor\n2. Damage Reduction against Burning Enemies\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Intelligence"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:578920\n6. nid:1862295"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829582\n2. nid:1829586\n3. nid:2602157\n4. nid:2605602\n5. nid:1829588\n6. nid:2558717\n7. nid:2625638\n8. nid:1829560\n9. nid:2611712"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829586\n2. nid:2602157\n3. nid:2605602\n4. nid:2620579\n5. nid:2558717\n6. nid:1829588\n7. nid:2625638\n8. nid:2611712"
   ],
   [
     "gloves",
-    [
-      "Piercing Cold",
-      "Storm Swell",
-      "Conceited",
-      "Control",
-      "Frozen Memories"
-    ],
-    "1. Ranks to Ice Shards\n2. Critical Strike Chance\n3. Attack Speed\n4. Lucky Hit: Chance to Regain Resource\n5. Lucky Hit Chance\n6. Intelligence"
+    [],
+    "1. nid:1829582\n2. nid:2602164\n3. nid:2602170\n4. nid:2602180\n5. nid:2602166\n6. nid:1829566\n7. nid:1926981\n8. nid:2605602\n9. nid:1829556\n10. nid:1959112"
   ],
   [
     "pants",
-    [
-      "Disobedience"
-    ],
-    "1. % Total Armor\n2. Damage Reduction against Burning Enemies\n3. Damage Reduction against Distant Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Intelligence"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:1862295"
   ],
   [
     "boots",
-    [
-      "Bounding Conduit",
-      "Shared Misery"
-    ],
-    "1. Ranks to Frost Nova\n2. Mana Cost Reduction\n3. Movement Speed\n4. Implicit: +Max Evade Charges\n5. Ranks to Teleport\n6. Intelligence"
-  ],
-  [
-    "amulet",
-    [
-      "Disobedience",
-      "Elementalist's"
-    ],
-    "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Movement Speed\n4. Ranks to Devouring Blaze\n5. Ranks to Defensive Skills\n6. Damage Reduction from Burning Enemies"
+    [],
+    "1. nid:2540910\n2. nid:1829566\n3. nid:1829592\n4. nid:1829554\n5. nid:1834296\n6. nid:1829598\n7. nid:1215923\n8. nid:1862314"
   ],
   [
     "ring",
-    [
-      "Piercing Cold",
-      "Storm Swell",
-      "Conceited",
-      "Control",
-      "Frozen Memories"
-    ],
-    "1. Resource Generation\n2. Critical Strike Chance\n3. Cold Damage\n4. Maximum Life\n5. Critical Strike Damage"
+    [],
+    "1. nid:1924627\n2. nid:1829586\n3. nid:1834112\n4. nid:1829592\n5. nid:1829556\n6. nid:1829584\n7. nid:1829588\n8. nid:2558717\n9. nid:1829566\n10. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829586\n2. nid:1834112\n3. nid:1829592\n4. nid:1829556\n5. nid:1829584\n6. nid:1829588\n7. nid:2558717\n8. nid:1829566\n9. nid:1862350"
+  ],
+  [
+    "amulet",
+    [],
+    "1. nid:2624429\n2. nid:2602164\n3. nid:2602170\n4. nid:2605602\n5. nid:2571274\n6. nid:2602180\n7. nid:2602166\n8. nid:2602157\n9. nid:1829582\n10. nid:1829556\n11. nid:1862755\n12. nid:1862295"
   ]
 ]

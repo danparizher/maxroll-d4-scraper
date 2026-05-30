@@ -1,89 +1,47 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Conceited",
-      "Control",
-      "Elementalist's",
-      "Storm Swell"
-    ],
-    "Weapon Type: Dagger\n1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Mastery Skill Damage\n5. Damage to Close Enemies\n6. Critical Strike Damage"
-  ],
-  [
-    "offhand",
-    [
-      "Conceited",
-      "Control",
-      "Elementalist's",
-      "Storm Swell"
-    ],
-    "1. High Damage per Second\n2. Cooldown Reduction\n3. Mana  Cost Reduction\n4. Resource Generation\n5. Critical Strike Chance\n6. Lucky Hit: % Chance to Restore Primary Resource"
-  ],
-  [
     "helm",
-    [
-      "Unwavering"
-    ],
-    "1. Cooldown Reduction\n2. Maximum Mana\n3. % Total Armor\n4. Maximum Life\n5. % Lucky Hit Chance While You Have a Barrier"
+    [],
+    "1. nid:1713205\n2. nid:1829560\n3. nid:1829566\n4. nid:1829592\n5. nid:1829664\n6. nid:1834105\n7. nid:1829554\n8. nid:1834296\n9. nid:1862295"
   ],
   [
     "chest",
-    [
-      "Snowveiled"
-    ],
-    "1. % Total Armor\n2. Damage Reduction from Distant Enemies\n3. Damage Reduction from Close Enemies\n4. Damage Reduction\n5. Maximum Life\n6. Damage Reduction from Enemies That Are Burning"
+    [],
+    "1. nid:578920\n2. nid:1829566\n3. nid:1829592\n4. nid:2615143\n5. nid:1834296\n6. nid:1834105\n7. nid:1862295"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829586\n2. nid:1829588\n3. nid:2605602\n4. nid:2602157\n5. nid:2558711\n6. nid:2620595\n7. nid:2611712"
   ],
   [
     "gloves",
-    [
-      "Conceited",
-      "Control",
-      "Elementalist's",
-      "Storm Swell"
-    ],
-    "1. Critical Strike Chance\n2. Attack Speed\n3. Lucky Hit: % Chance to Restore Primary Resource\n4. Lucky Hit Chance\n5. Intelligence"
+    [],
+    "1. nid:2602164\n2. nid:2602170\n3. nid:2602166\n4. nid:2602157\n5. nid:1928753\n6. nid:1829556\n7. nid:1959112"
   ],
   [
     "pants",
-    [
-      "Disobedience"
-    ],
-    "1 + Ranks of Meteor\n2. % Total Armor\n3. Damage Reduction from Distant Enemies\n4. Damage Reduction from Close Enemies\n5. Damage Reduction\n6. Maximum Life\n7. Damage Reduction from Enemies That Are Burning"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:1862295"
   ],
   [
     "boots",
-    [
-      "Bounding Conduit"
-    ],
-    "Implicit: + Max Evade Charges\n1. Mana Cost Reduction\n2. Movement Speed\n3. + Ranks of Frost Nova\n4. + Ranks of Teleport\n5. Intelligence"
+    [],
+    "1. nid:1215923\n2. nid:1927014\n3. nid:1829566\n4. nid:1829592\n5. nid:1829554\n6. nid:1834296\n7. nid:1829598\n8. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829584\n2. nid:1829586\n3. nid:1834112\n4. nid:1829566\n5. nid:1829588\n6. nid:1829664\n7. nid:1829592\n8. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:2067858\n2. nid:2067862\n3. nid:2067864\n4. nid:2067860\n5. nid:578943\n6. nid:2611706"
   ],
   [
     "amulet",
-    [
-      "Aspect of Three Curses"
-    ],
-    "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. + Ranks of All Mastery Skills\n4. + Ranks of Devouring Blaze\n5. Movement Speed\n6. + Ranks of All Defensive Skills\n7. % Total Armor"
-  ],
-  [
-    "ring",
-    [
-      "Prodigy\u2019s"
-    ],
-    "1. Resource Generation\n2. Critical Strike Chance\n3. Fire Damage\n4. Maximum Life\n5. Damage to Close Enemies"
-  ],
-  [
-    "ring",
-    [
-      "Conceited",
-      "Control",
-      "Elementalist's",
-      "Storm Swell"
-    ],
-    "1. Resource Generation\n2. Critical Strike Chance\n3. Fire Damage\n4. Maximum Life\n5. Damage to Close Enemies"
+    [],
+    "1. nid:2602164\n2. nid:2602170\n3. nid:2602174\n4. nid:2571274\n5. nid:1928767\n6. nid:2602157\n7. nid:2611706"
   ]
 ]

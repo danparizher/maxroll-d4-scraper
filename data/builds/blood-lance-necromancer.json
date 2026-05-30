@@ -1,84 +1,52 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Aspect of Gore Quills"
-    ],
-    "1. Overpower Damage\n2. Core Skill Damage\n3. Intelligence\n4. All Stats\n5. Damage to Close Enemies"
-  ],
-  [
-    "offhand",
-    [
-      "Aspect of Hungry Blood"
-    ],
-    "1. Critical Strike Chance\n2. Essence Cost Reduction\n3. Cooldown Reduction\n4. Lucky Hit: Chance to Restore Primary\nResource"
-  ],
-  [
-    "weapon",
-    [
-      "Aspect of Gore Quills"
-    ],
-    "1. Overpower Damage\n2. Core Skill Damage\n3. Intelligence\n4. All Stats\n5. Damage to Close Enemies"
-  ],
-  [
     "helm",
-    [
-      "Aspect of Disobedience"
-    ],
-    "1. Maximum Life\n2. Total Armor\n3. Cooldown Reduction\n4. Basic Attack Speed\n5. +xx Ranks to Decrepify"
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:2611719"
   ],
   [
     "chest",
-    [
-      "Aspect of Might"
-    ],
-    "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Close Enemies\n4. Damage Reduction\n5. Damage Reduction from Distant Enemies"
+    [],
+    "1. nid:1713421\n2. nid:1829566\n3. nid:1829592\n4. nid:2615143\n5. nid:1834296\n6. nid:2611719"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1928803\n2. nid:1829582\n3. nid:2602157\n4. nid:2615143\n5. nid:1862295"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:2605602\n2. nid:2620565\n3. nid:1829586\n4. nid:1829588\n5. nid:2613697"
   ],
   [
     "gloves",
-    [
-      "Aspect of Grasping Veins"
-    ],
-    "1. +xx Ranks to Blood Lance\n2. Overpower Damage\n3. Attack Speed\n4. Critical Strike Chance\n5. Lucky Hit: Up to a 5% Chance to Restore xx% Primary Resource\n6. Lucky Hit Chance"
+    [],
+    "1. nid:2602164\n2. nid:2602170\n3. nid:2602182\n4. nid:1829556\n5. nid:2613697"
   ],
   [
     "pants",
-    [
-      "Aspect of Shielding Storm"
-    ],
-    "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Close Enemies\n4. Damage Reduction\n5. Damage Reduction from Distant Enemies"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:2611719"
   ],
   [
     "boots",
-    [
-      "Ghostwalker Mobility Aspect"
-    ],
-    "Implicit: Max Evade Charges\n1. Movement Speed\n2. Essence Cost Reduction\n3. +xx Ranks to Corpse Tendrils\n4. All Stats\n5. Dodge Chance"
+    [],
+    "1. nid:1829598\n2. nid:1829566\n3. nid:1829592\n4. nid:1829554\n5. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:578943\n2. nid:2067864\n3. nid:2067858\n4. nid:2067860\n5. nid:2067862\n6. nid:1862350"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1834112\n2. nid:1829586\n3. nid:1829584\n4. nid:1829592\n5. nid:1862350"
   ],
   [
     "amulet",
-    [
-      "Aspect of Rathma\u2019s Chosen"
-    ],
-    "1. Essence Cost Reduction\n2. +xx Ranks to Tides of Blood Passive\n3. Movement Speed\n4. % Total Armor\n5. Damage Reduction (Any Relevant Options)\n6. Cooldown Reduction"
-  ],
-  [
-    "ring",
-    [
-      "Aspect of Potent Blood"
-    ],
-    "1. Maximum Life\n2. Overpower Damage\n3. Critical Strike Chance\n4. Damage (Physical, Damage to Close)\n5. Lucky Hit Chance"
-  ],
-  [
-    "ring",
-    [
-      "Sacrificial Aspect"
-    ],
-    "1. Maximum Life\n2. Overpower Damage\n3. Critical Strike Chance\n4. Damage (Physical, Damage to Close)\n5. Lucky Hit Chance"
+    [],
+    "1. nid:1559733\n2. nid:2602157\n3. nid:2605602\n4. nid:2602164\n5. nid:2602170\n6. nid:2611719"
   ]
 ]

@@ -1,0 +1,190 @@
+{
+  "Name": "quill-volley-spiritborn",
+  "ItemAffixes": [
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "helm"
+    },
+    {
+      "Id": "Life",
+      "Type": "helm"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "helm"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "helm"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "helm"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "chest"
+    },
+    {
+      "Id": "Life",
+      "Type": "chest"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "chest"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "chest"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "chest"
+    },
+    {
+      "Id": "X2_Fast_Weapon_Damage_1HAxe",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "S04_Damage_All",
+      "Type": "weapon"
+    },
+    {
+      "Id": "GemPower1Socket",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "weapon"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "gloves"
+    },
+    {
+      "Id": "Life",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "gloves"
+    },
+    {
+      "Id": "CritDamage",
+      "Type": "gloves"
+    },
+    {
+      "Id": "S04_SkillRankBonus_Generic_Category_Basic",
+      "Type": "pants"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "pants"
+    },
+    {
+      "Id": "Life",
+      "Type": "pants"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "pants"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "pants"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "boots"
+    },
+    {
+      "Id": "Life",
+      "Type": "boots"
+    },
+    {
+      "Id": "S04_Armor",
+      "Type": "boots"
+    },
+    {
+      "Id": "ElementalDamageReduction",
+      "Type": "boots"
+    },
+    {
+      "Id": "INHERENT_Thorns",
+      "Type": "boots"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "ring"
+    },
+    {
+      "Id": "Life",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "Lucky_Hit_Resource",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "ring"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "ring"
+    },
+    {
+      "Id": "ResourceGain",
+      "Type": "ring"
+    },
+    {
+      "Id": "AttackSpeed",
+      "Type": "amulet"
+    },
+    {
+      "Id": "CoreStat_Dexterity",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_CritDamage",
+      "Type": "amulet"
+    },
+    {
+      "Id": "S04_Damage_to_Vulnerable",
+      "Type": "amulet"
+    },
+    {
+      "Id": "Talisman_Charm_Affix_UNIQUE_Special_Skill_Spiritborn_Resolve_MaxStacks",
+      "Type": "amulet"
+    }
+  ],
+  "ItemAspects": []
+}

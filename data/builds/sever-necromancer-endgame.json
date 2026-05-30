@@ -1,77 +1,47 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Offensive Aspect of Ultimate Shadow"
-    ],
-    "1. High Damage per Second\n2. Intelligence\n3. Damage to Close Enemies\n4. Core Skill Damage\n5. Damage to Affected by Shadow Damage Over Time Enemies\n6. All Stats"
-  ],
-  [
-    "offhand",
-    [
-      "Offensive Aspect of Grasping Veins"
-    ],
-    "1. High Damage per Second\n2. Lucky Hit Chance\n3. Lucky Hit Chance When You Have Barrier\n4. Essence Cost Reduction\n5. Lucky Hit Chance to Restore Primary Resource\n6. Damage Reduction from Enemies That Are Affected By Shadow\nDamage Over Time Enemies"
-  ],
-  [
     "helm",
-    [
-      "Aspect of Explosive Mist"
-    ],
-    "1. Total Armor\n2. Maximum Life\n3. Cooldown Reduction\n4. Lucky Hit Chance while You Have a Barrier.\n5. Intelligence"
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:2008147"
   ],
   [
     "chest",
-    [
-      "Defensive Aspect of Shielding Storm"
-    ],
-    "1. Maximum Life\n2. % Total Armor\n3. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n4. Damage Reduction against Close Enemies\n5. Damage Reduction (Any Applicable Options)"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:1924666\n6. nid:2611719"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:2620589\n2. nid:2602157\n3. nid:2605602\n4. nid:1829586\n5. nid:607957\n6. nid:2558713\n7. nid:1829588\n8. nid:2611700"
   ],
   [
     "gloves",
-    [
-      "Aspect of Decay"
-    ],
-    "1. +xx Ranks to Sever\n2. Lucky Hit Chance\n3. Critical Strike Chance\n4. Attack Speed\n5. Lucky Hit: Chance to Restore Primary Resource\n6. Intelligence"
+    [],
+    "1. nid:2587681\n2. nid:2602157\n3. nid:1829556\n4. nid:1829582\n5. nid:2602164\n6. nid:2602170\n7. nid:2602186\n8. nid:1867425\n9. nid:2613697"
   ],
   [
     "pants",
-    [
-      "Defensive Aspect of Disobedience"
-    ],
-    "Implicit: Potion Grants Barrier\n1. Maximum Life\n2. Damage Reduction from Close Enemies\n3. Total Armor\n4. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n5. +xx Ranks to Corpse Explosion\n6. Damage Reduction (Any Applicable Options)"
+    [],
+    "1. nid:1612622\n2. nid:1829566\n3. nid:1829592\n4. nid:2615143\n5. nid:1834296\n6. nid:1924666\n7. nid:2611719"
   ],
   [
     "boots",
-    [
-      "Wind Striker Aspect"
-    ],
-    "Implicit: Max Evade Charges\n1. Movement Speed\n2. Essence Cost Reduction\n3. +xx Ranks to Corpse Tendrils\n4. Intelligence\n5. (Elementel) Resistance"
+    [],
+    "1. nid:1829598\n2. nid:1829566\n3. nid:1829592\n4. nid:1829554\n5. nid:1924666\n6. nid:1834296\n7. nid:2540908\n8. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829566\n2. nid:1829556\n3. nid:1829586\n4. nid:1834112\n5. nid:1829592\n6. nid:1829584\n7. nid:1829560\n8. nid:2613697"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:578943\n2. nid:2067864\n3. nid:2067858\n4. nid:2067860\n5. nid:2067862\n6. nid:2613697"
   ],
   [
     "amulet",
-    [
-      "Blighted Offensive Aspect"
-    ],
-    "1. Movement Speed\n2. Essence Cost Reduction\n3. +xx Ranks to Gloom Passive\n4. Cooldown Reduction\n5. Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time\n6. +xx Ranks to Corpse Skills"
-  ],
-  [
-    "ring",
-    [
-      "Resource Aspect of the Umbral"
-    ],
-    "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Damage to Enemies Affected by\nShadow Damage Over Time"
-  ],
-  [
-    "ring",
-    [
-      "Aspect of Exposed Flesh"
-    ],
-    "1. Critical Strike Chance\n2. Lucky Hit Chance\n3. Maximum Life\n4. Damage to Close Enemies\n5. Damage to Enemies Affected by\nShadow Damage Over Time"
+    [],
+    "1. nid:1559733\n2. nid:2602157\n3. nid:1829556\n4. nid:2602164\n5. nid:2602170\n6. nid:1862350"
   ]
 ]

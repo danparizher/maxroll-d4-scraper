@@ -1,71 +1,47 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Aspect of Metamorphic Stone",
-      "Retaliation",
-      "Aspect of Natural Balance"
-    ],
-    "Weapon Type: Axe\n1. High Damage per Second\n2. Willpower\n3. All Stats\n4. Damage to Crowd Controlled Enemies\n5. Core Skill Damage\n6. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills\n9. Damage to Close Enemies"
-  ],
-  [
-    "offhand",
-    [
-      "Aspect of Metamorphic Stone",
-      "Retaliation",
-      "Aspect of Natural Balance"
-    ],
-    "1. High Damage per Second\n2. Critical Strike Chance\n3. Damage Reduction from Poisoned Enemies\n4. Damage Reduction while Fortified\n5. Spirit Cost Reduction\n6. Cooldown Reduction\n*\n7. Resource Generation\n8. Willpower"
+    "helm",
+    [],
+    "1. nid:2105794\n2. nid:2113453\n3. nid:2113457\n4. nid:2113455\n5. nid:2113449\n6. nid:2611719"
   ],
   [
     "chest",
-    [
-      "Might",
-      "Disobedience"
-    ],
-    "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction from Poisoned Enemies\n5. Damage Reduction while Fortified\n6. Maximum Life\n7. Willpower"
+    [],
+    "1. nid:1829592\n2. nid:1829574\n3. nid:2615143\n4. nid:1834296\n5. nid:1924659\n6. nid:1915409\n7. nid:1884273\n8. nid:1928747\n9. nid:2611719"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829586\n2. nid:2602161\n3. nid:2605602\n4. nid:2620585\n5. nid:1829588\n6. nid:2558672\n7. nid:2611712"
   ],
   [
     "gloves",
-    [
-      "Symbiotic Aspect"
-    ],
-    "1. Critical Strike Chance\n2. Storm Skill Cooldown Reduction\n3. Attack Speed\n4. Willpower\n5. All Stats\n6. Critical Strike Damage with Earth Skills"
+    [],
+    "1. nid:2602164\n2. nid:2602170\n3. nid:2602182\n4. nid:2602161\n5. nid:2605602\n6. nid:1829582\n7. nid:2602166\n8. nid:1959112"
   ],
   [
     "pants",
-    [
-      "Might",
-      "Disobedience"
-    ],
-    "Implicit: Potion Grants Barrier\n1. Ranks of Boulder\n2. % Total Armor\n3. Damage Reduction from Poisoned Enemies\n4. Damage Reduction while Fortified\n5. Damage Reduction from Distant Enemies\n6. Damage Reduction from Close Enemies\n7. Maximum Life"
+    [],
+    "1. nid:1829592\n2. nid:1829574\n3. nid:2615143\n4. nid:1834296\n5. nid:1559366\n6. nid:2611719"
   ],
   [
     "boots",
-    [
-      "Ghostwalker"
-    ],
-    "Implicit: +3 Maximum Evade Charges\n1. Movement Speed\n2. Spirit Cost Reduction\n3. Willpower\n4. All Stats\n5. Damage Reduction while Injured\n6. Dodge"
+    [],
+    "1. nid:1829592\n2. nid:1829598\n3. nid:1884271\n4. nid:1829574\n5. nid:1834296\n6. nid:1829554\n7. nid:1924659\n8. nid:1862314"
   ],
   [
     "ring",
-    [
-      "Aspect of Metamorphic Stone",
-      "Retaliation",
-      "Aspect of Natural Balance"
-    ],
-    "1. Critical Strike Chance\n2. Damage to Crowd Controlled Enemies\n3. Physical Damage\n4. Resource Generation\n6. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills"
+    [],
+    "1. nid:2067858\n2. nid:2067864\n3. nid:2067860\n4. nid:2067862\n5. nid:578943\n6. nid:1862350"
   ],
   [
     "ring",
-    [
-      "Aspect of the Umbral"
-    ],
-    "1. Critical Strike Chance\n2. Damage to Crowd Controlled Enemies\n3. Physical Damage\n4. Resource Generation\n6. Vulnerable Damage\n7. Critical Strike Damage\n8. Critical Strike Damage with Earth Skills"
+    [],
+    "1. nid:1829574\n2. nid:1829586\n3. nid:1834112\n4. nid:2558672\n5. nid:1829588\n6. nid:1829592\n7. nid:2574430\n8. nid:1923261"
+  ],
+  [
+    "amulet",
+    [],
+    "1. nid:1829582\n2. nid:2602164\n3. nid:2602170\n4. nid:2602182\n5. nid:2602166\n6. nid:2602161\n7. nid:1924261\n8. nid:2611719"
   ]
 ]

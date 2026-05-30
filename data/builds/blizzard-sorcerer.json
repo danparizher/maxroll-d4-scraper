@@ -1,84 +1,52 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Frozen Tundra",
-      "Piercing Cold",
-      "Conceited"
-    ],
-    "Weapon Type: Dagger\n1. Intelligence\n2. All Stats\n3. Damage to Close Enemies\n4. Critical Strike Damage\n5. Damage to Chilled Enemies"
-  ],
-  [
-    "offhand",
-    [
-      "Frozen Tundra",
-      "Piercing Cold",
-      "Conceited"
-    ],
-    "1. Cooldown Reduction\n2. Resource Generation\n3. Mana Cost Reduction\n4. Critical Strike Chance\n5. Crowd Control Duration\n6. Lucky Hit: Chance to Regain Resource"
-  ],
-  [
     "helm",
-    [
-      "Disobedience"
-    ],
-    "1. Cooldown Reduction\n2. % Total Armor\n3. Maximum Mana\n4. Maximum Life\n5. Crowd Control Duration\n6. Intelligence"
+    [],
+    "1. nid:609821\n2. nid:2067852\n3. nid:2113430\n4. nid:2067856\n5. nid:2067850\n6. nid:1862295"
   ],
   [
     "chest",
-    [
-      "Snowguard's"
-    ],
-    "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. Maximum Life\n6. Intelligence"
+    [],
+    "1. nid:2587857\n2. nid:1829566\n3. nid:1829592\n4. nid:2615143\n5. nid:1834296\n6. nid:1862295"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829590\n2. nid:2602157\n3. nid:1829588\n4. nid:2625638\n5. nid:2558717\n6. nid:2605602\n7. nid:1829560\n8. nid:2611700"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:2603739\n2. nid:2067796\n3. nid:2113414\n4. nid:2626677\n5. nid:2626679\n6. nid:2611700"
   ],
   [
     "gloves",
-    [
-      "Frozen Tundra",
-      "Piercing Cold",
-      "Conceited"
-    ],
-    "1. Critical Strike Chance\n2. Attack Speed\n3. Ranks to Ice Shards\n4. Lucky Hit: Chance to Regain Resource\n5. Critical Strike Chance against Injured Enemies\n6. Intelligence"
+    [],
+    "1. nid:2602168\n2. nid:2602180\n3. nid:2602170\n4. nid:1829556\n5. nid:2602157\n6. nid:1928753\n7. nid:2605602\n8. nid:2614079"
   ],
   [
     "pants",
-    [
-      "Snowveiled"
-    ],
-    "1. % Total Armor\n2. Damage Reduction against Distant Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction\n5. Maximum Life\n6. Intelligence"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:1862295"
   ],
   [
     "boots",
-    [
-      "Ghostwalker",
-      "Bounding Conduit"
-    ],
-    "1. Mana Cost Reduction\n2. Implicit: +Max Evade Charges\n3. Implicit: Attacks Reduce Evade's Cooldown\n4. Movement Speed\n5. Ranks to Frost Nova\n6. Ranks to Teleport\n7. Intelligence"
+    [],
+    "1. nid:1926998\n2. nid:1829566\n3. nid:1829592\n4. nid:1834296\n5. nid:1829554\n6. nid:1923209"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829590\n2. nid:1834112\n3. nid:1829556\n4. nid:1829566\n5. nid:2558717\n6. nid:1829592\n7. nid:1829560\n8. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:2067862\n2. nid:2067864\n3. nid:2067860\n4. nid:2067858\n5. nid:578943\n6. nid:2611706"
   ],
   [
     "amulet",
-    [
-      "Glacial"
-    ],
-    "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Movement Speed\n4. Ranks to Devouring Blaze\n5. Ranks to Hoarfrost\n6. Ranks to Permafrost\n7. Ranks to Defensive Skills"
-  ],
-  [
-    "ring",
-    [
-      "Storm Swell"
-    ],
-    "1. Resource Generation\n2. Critical Strike Chance\n3. Cold Damage\n4. Maximum Life\n5. Damage to Close Enemies"
-  ],
-  [
-    "ring",
-    [
-      "Prodigy\u2019s"
-    ],
-    "1. Resource Generation\n2. Critical Strike Chance\n3. Cold Damage\n4. Maximum Life\n5. Damage to Close Enemies"
+    [],
+    "1. nid:2602168\n2. nid:2571274\n3. nid:2602170\n4. nid:2602157\n5. nid:1862755\n6. nid:2614079"
   ]
 ]

@@ -1,85 +1,47 @@
 [
   [
-    "SLOT",
-    "ASPECT",
-    "STAT PRIORITY"
-  ],
-  [
-    "weapon",
-    [
-      "Edgemaster\u2019s",
-      "Conceited",
-      "Storm Swell"
-    ],
-    "Weapon Type: Wand\n1. High Damage per Second\n2. Intelligence\n3. All Stats\n4. Critical Strike Damage\n5. Mastery Skill Damage\n6. Damage to Close Enemies"
-  ],
-  [
-    "offhand",
-    [
-      "Edgemaster\u2019s",
-      "Conceited",
-      "Storm Swell"
-    ],
-    "1. Cooldown Reduction\n2. High Damage per Second\n3. Resource Generation\n4. Mana Cost Reduction\n5. Intelligence\n6. Damage Reduction against Burning Enemies\n7. Lucky Hit Chance"
-  ],
-  [
     "helm",
-    [
-      "Shared Misery"
-    ],
-    "1. Cooldown Reduction\n2. % Total Armor\n3. Maximum Life\n4. Lucky Hit Chance while Barrier\n5. Intelligence\n6. Crowd Control Duration"
+    [],
+    "1. nid:2584913\n2. nid:1829560\n3. nid:1829566\n4. nid:1829592\n5. nid:1829554\n6. nid:1834296\n7. nid:1862295"
   ],
   [
     "chest",
-    [
-      "Snowveiled"
-    ],
-    "1. % Total Armor\n2. Damage Reduction against Burning Enemies\n3. Damage Reduction against Close Enemies\n4. Damage Reduction against Distant Enemies\n5. Damage Reduction\n6. Maximum Life"
+    [],
+    "1. nid:578920\n2. nid:1829566\n3. nid:1829592\n4. nid:2615143\n5. nid:1834296\n6. nid:1862295"
+  ],
+  [
+    "weapon",
+    [],
+    "1. nid:1829590\n2. nid:1829588\n3. nid:2602157\n4. nid:2605602\n5. nid:2620595\n6. nid:2611700"
   ],
   [
     "gloves",
-    [
-      "Edgemaster\u2019s",
-      "Conceited",
-      "Storm Swell"
-    ],
-    "1. Attack Speed\n2. Intelligence\n3. Lucky Hit Chance\n4. Lucky Hit: Chance to Restore Resource\n5. All Stats\n6. Lucky Hit: Chance to Heal"
+    [],
+    "1. nid:2602168\n2. nid:2602170\n3. nid:2602174\n4. nid:2602157\n5. nid:1829560\n6. nid:1928753\n7. nid:1829556\n8. nid:1935001"
   ],
   [
     "pants",
-    [
-      "Disobedience"
-    ],
-    "1. Ranks to Firewall\n2. % Total Armor\n3. Damage Reduction against Burning Enemies\n4. Damage Reduction against Close Enemies\n5. Damage Reduction against Distant Enemies\n6. Damage Reduction\n7. Maximum Life"
+    [],
+    "1. nid:1829566\n2. nid:1829592\n3. nid:2615143\n4. nid:1834296\n5. nid:1862295"
   ],
   [
     "boots",
-    [
-      "Bounding Conduit",
-      "Ghostwalker"
-    ],
-    "Implicit: Max Evade Charges\n1. Mana Cost Reduction\n2. Movement Speed\n4. Ranks to Teleport\n5. Intelligence"
+    [],
+    "1. nid:1927000\n2. nid:1829566\n3. nid:1829592\n4. nid:1829554\n5. nid:1834296\n6. nid:1862314"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:1829590\n2. nid:1834112\n3. nid:1829556\n4. nid:1829560\n5. nid:1829566\n6. nid:1829588\n7. nid:2611706"
+  ],
+  [
+    "ring",
+    [],
+    "1. nid:2586420\n2. nid:1829566\n3. nid:1829590\n4. nid:1834112\n5. nid:1829588\n6. nid:1829556\n7. nid:1829560\n8. nid:2611706"
   ],
   [
     "amulet",
-    [
-      "Control"
-    ],
-    "1. Cooldown Reduction\n2. Mana Cost Reduction\n3. Ranks to Mastery Skills\n4. Movement Speed\n5. Ranks to Inner Flames\n6. Ranks to Defensive Skills\n7. Damage Reduction from Burning Enemies"
-  ],
-  [
-    "ring",
-    [
-      "Prodigy\u2019s",
-      "Retribution"
-    ],
-    "1. Vulnerable Damage\n2. Resource Generation\n3. Critical Strike Damage\n4. Maximum Life\n5. Lucky Hit Chance\n6. Damage to Close Enemies"
-  ],
-  [
-    "ring",
-    [
-      "Engulfing Flames"
-    ],
-    "1. Vulnerable Damage\n2. Resource Generation\n3. Critical Strike Damage\n4. Maximum Life\n5. Lucky Hit Chance\n6. Damage to Close Enemies"
+    [],
+    "1. nid:1862755\n2. nid:2602168\n3. nid:2602170\n4. nid:2571274\n5. nid:2602166\n6. nid:1829556\n7. nid:2602157\n8. nid:1928767\n9. nid:2611706"
   ]
 ]
